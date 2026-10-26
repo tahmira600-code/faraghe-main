@@ -1,0 +1,571 @@
+{
+ "topic_id": "city",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "💊",
+   "es": "la farmacia",
+   "ar": "الصيدلية",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏦",
+   "es": "el banco",
+   "ar": "البنك",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏤",
+   "es": "la oficina de correos",
+   "ar": "مكتب البريد",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏥",
+   "es": "el hospital",
+   "ar": "المستشفى",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏫",
+   "es": "el colegio",
+   "ar": "المدرسة",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏨",
+   "es": "el hotel",
+   "ar": "الفندق",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "el restaurante",
+   "ar": "المطعم",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "la cafetería",
+   "ar": "المقهى",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏪",
+   "es": "la tienda",
+   "ar": "المتجر",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🌳",
+   "es": "el parque",
+   "ar": "الحديقة العامة",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏛️",
+   "es": "el ayuntamiento",
+   "ar": "البلدية",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🚓",
+   "es": "la comisaría",
+   "ar": "مركز الشرطة",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏟️",
+   "es": "el estadio",
+   "ar": "الملعب",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "📚",
+   "es": "la biblioteca",
+   "ar": "المكتبة العامة",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏬",
+   "es": "el centro comercial",
+   "ar": "المركز التجاري",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🩺",
+   "es": "el centro de salud",
+   "ar": "المركز الصحي",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🏧",
+   "es": "el cajero automático",
+   "ar": "الصراف الآلي",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🧺",
+   "es": "la lavandería",
+   "ar": "محل غسل الملابس",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "💇",
+   "es": "la peluquería",
+   "ar": "محل الحلاقة",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🏭",
+   "es": "el polígono industrial",
+   "ar": "المنطقة الصناعية",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🚒",
+   "es": "el parque de bomberos",
+   "ar": "مركز الإطفاء",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "⛲",
+   "es": "la plaza",
+   "ar": "الساحة",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🌉",
+   "es": "el puente",
+   "ar": "الجسر",
+   "section": "الأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "Voy al supermercado a comprar leche.",
+   "ar": "أذهب إلى السوبرماركت لشراء الحليب.",
+   "section": "الأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "🏛️",
+   "es": "Para empadronarte, tienes que ir al ayuntamiento.",
+   "ar": "للتسجيل في سجل السكان، يجب أن تذهب إلى البلدية.",
+   "section": "الأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "💊",
+   "es": "Si la farmacia está cerrada, busca la farmacia de guardia.",
+   "ar": "إذا كانت الصيدلية مغلقة، ابحث عن صيدلية المناوبة.",
+   "section": "الأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "➡️",
+   "es": "a la derecha",
+   "ar": "إلى اليمين",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "⬅️",
+   "es": "a la izquierda",
+   "ar": "إلى اليسار",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "⬆️",
+   "es": "todo recto",
+   "ar": "إلى الأمام مباشرة",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "📍",
+   "es": "cerca",
+   "ar": "قريب",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "lejos",
+   "ar": "بعيد",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏙️",
+   "es": "la calle",
+   "ar": "الشارع",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "👇",
+   "es": "aquí",
+   "ar": "هنا",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "👉",
+   "es": "allí",
+   "ar": "هناك",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "↪️",
+   "es": "Gira a la derecha.",
+   "ar": "انعطف إلى اليمين.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "↩️",
+   "es": "Gira a la izquierda.",
+   "ar": "انعطف إلى اليسار.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "⬆️",
+   "es": "Sigue todo recto.",
+   "ar": "استمر إلى الأمام مباشرة.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚶",
+   "es": "Está a cinco minutos andando.",
+   "ar": "يبعد خمس دقائق مشيا.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏦",
+   "es": "Está al lado del banco.",
+   "ar": "إنه بجانب البنك.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "Está enfrente de la farmacia.",
+   "ar": "إنه مقابل الصيدلية.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚸",
+   "es": "Cruza la calle.",
+   "ar": "اعبر الشارع.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "🗺️",
+   "es": "Siga recto hasta la segunda calle y luego gire a la izquierda.",
+   "ar": "تابع مباشرة حتى الشارع الثاني ثم انعطف إلى اليسار.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚦",
+   "es": "Al llegar al semáforo, gire a la derecha.",
+   "ar": "عند الوصول إلى إشارة المرور، انعطف إلى اليمين.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "📍",
+   "es": "Está al final de la calle, en la esquina.",
+   "ar": "إنه في نهاية الشارع، عند الزاوية.",
+   "section": "الاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "❓",
+   "es": "¿Dónde está...?",
+   "ar": "أين يوجد...؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "¿Está lejos?",
+   "ar": "هل هو بعيد؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 1,
+   "emoji": "🗺️",
+   "es": "Estoy perdido.",
+   "ar": "أنا تائه.",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔓",
+   "es": "¿Está abierto?",
+   "ar": "هل هو مفتوح؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔒",
+   "es": "Está cerrado.",
+   "ar": "إنه مغلق.",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "¿Dónde está la farmacia?",
+   "ar": "أين الصيدلية؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏧",
+   "es": "¿Hay un cajero por aquí?",
+   "ar": "هل يوجد صراف آلي قريب من هنا؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🙋",
+   "es": "Perdone, ¿me puede ayudar?",
+   "ar": "عفوا، هل يمكنك مساعدتي؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏥",
+   "es": "¿Cómo llego al hospital?",
+   "ar": "كيف أصل إلى المستشفى؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🗺️",
+   "es": "¿Me lo puede enseñar en el mapa?",
+   "ar": "هل يمكنك أن تريني إياه على الخريطة؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏦",
+   "es": "¿A qué hora abre el banco?",
+   "ar": "في أي ساعة يفتح البنك؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚻",
+   "es": "¿Dónde están los servicios?",
+   "ar": "أين المراحيض؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏤",
+   "es": "Perdone, ¿sabe si hay una oficina de correos cerca de aquí?",
+   "ar": "عفوا، هل تعرف إن كان هناك مكتب بريد قريب من هنا؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "📍",
+   "es": "Busco esta dirección, ¿me puede decir cómo llegar?",
+   "ar": "أبحث عن هذا العنوان، هل يمكنك أن تقول لي كيف أصل إليه؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚌",
+   "es": "¿Se puede ir andando o es mejor coger el autobús?",
+   "ar": "هل يمكن الذهاب مشيا أم من الأفضل ركوب الحافلة؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏛️",
+   "es": "¿En qué planta está la oficina de empadronamiento?",
+   "ar": "في أي طابق يوجد مكتب التسجيل في سجل السكان؟",
+   "section": "جمل مفيدة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la farmacia\"?",
+   "options": [
+    "الصيدلية",
+    "المستشفى",
+    "البنك"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"la farmacia\"؟",
+   "ar_exp": "\"la farmacia\" هي الصيدلية حيث تشتري الدواء."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"a la derecha\"?",
+   "options": [
+    "إلى اليسار",
+    "إلى اليمين",
+    "إلى الأمام"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"a la derecha\"؟",
+   "ar_exp": "\"a la derecha\" تعني إلى اليمين، و\"a la izquierda\" إلى اليسار."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"todo recto\"?",
+   "options": [
+    "إلى الوراء",
+    "إلى اليسار",
+    "إلى الأمام مباشرة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"todo recto\"؟",
+   "ar_exp": "\"todo recto\" تعني تابع في الاتجاه نفسه إلى الأمام."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"قريب\" en español?",
+   "options": [
+    "cerca",
+    "lejos",
+    "allí"
+   ],
+   "answer": 0,
+   "ar_q": "كيف نقول \"قريب\" بالإسبانية؟",
+   "ar_exp": "\"cerca\" تعني قريب، و\"lejos\" تعني بعيد."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde envías una carta?",
+   "options": [
+    "en el banco",
+    "en la oficina de correos",
+    "en la farmacia"
+   ],
+   "answer": 1,
+   "ar_q": "أين ترسل رسالة؟",
+   "ar_exp": "نرسل الرسائل والطرود من \"la oficina de correos\"."
+  },
+  {
+   "level": 2,
+   "q": "Necesitas sacar dinero. ¿Qué buscas?",
+   "options": [
+    "el cajero automático",
+    "la lavandería",
+    "el parque"
+   ],
+   "answer": 0,
+   "ar_q": "تحتاج إلى سحب المال. عن ماذا تبحث؟",
+   "ar_exp": "\"el cajero automático\" هو الصراف الآلي لسحب المال."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber dónde está el hospital. ¿Qué preguntas?",
+   "options": [
+    "¿Está cerrado el hospital?",
+    "¿A qué hora abre?",
+    "¿Cómo llego al hospital?"
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تعرف مكان المستشفى. ماذا تسأل؟",
+   "ar_exp": "\"¿Cómo llego a...?\" تعني \"كيف أصل إلى...؟\"."
+  },
+  {
+   "level": 2,
+   "q": "\"Está enfrente de la farmacia.\" ¿Dónde está?",
+   "options": [
+    "خلف الصيدلية",
+    "مقابل الصيدلية",
+    "داخل الصيدلية"
+   ],
+   "answer": 1,
+   "ar_q": "\"Está enfrente de la farmacia.\" أين يوجد؟",
+   "ar_exp": "\"enfrente de\" تعني مقابل."
+  },
+  {
+   "level": 2,
+   "q": "\"Está al lado del banco.\" ¿Qué significa?",
+   "options": [
+    "إنه بجانب البنك",
+    "إنه بعيد عن البنك",
+    "إنه داخل البنك"
+   ],
+   "answer": 0,
+   "ar_q": "\"Está al lado del banco.\" ما معناها؟",
+   "ar_exp": "\"al lado de\" تعني بجانب."
+  },
+  {
+   "level": 2,
+   "q": "No sabes dónde estás. ¿Qué dices?",
+   "options": [
+    "Está cerrado.",
+    "Estoy perdido.",
+    "Gira a la derecha."
+   ],
+   "answer": 1,
+   "ar_q": "لا تعرف أين أنت. ماذا تقول؟",
+   "ar_exp": "\"Estoy perdido\" تعني \"أنا تائه\"."
+  },
+  {
+   "level": 3,
+   "q": "Es domingo y la farmacia está cerrada. ¿Qué buscas?",
+   "options": [
+    "el centro comercial",
+    "el ayuntamiento",
+    "la farmacia de guardia"
+   ],
+   "answer": 2,
+   "ar_q": "اليوم أحد والصيدلية مغلقة. عن ماذا تبحث؟",
+   "ar_exp": "\"la farmacia de guardia\" هي الصيدلية المناوبة المفتوحة عندما تكون الصيدليات الأخرى مغلقة."
+  },
+  {
+   "level": 3,
+   "q": "\"Siga recto hasta la segunda calle y luego gire a la izquierda.\" ¿Qué tienes que hacer?",
+   "options": [
+    "أن تنعطف يمينا فورا",
+    "أن تمشي مباشرة حتى الشارع الثاني ثم تنعطف يسارا",
+    "أن تعود إلى الوراء"
+   ],
+   "answer": 1,
+   "ar_q": "\"Siga recto hasta la segunda calle y luego gire a la izquierda.\" ماذا يجب أن تفعل؟",
+   "ar_exp": "\"siga recto\" تابع مباشرة، \"la segunda calle\" الشارع الثاني، \"gire a la izquierda\" انعطف يسارا."
+  }
+ ]
+}

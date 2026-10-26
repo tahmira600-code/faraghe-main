@@ -1,0 +1,1487 @@
+{
+ "topic_id": "agri",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🌾",
+   "es": "el campo",
+   "ar": "الحقل",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🏡",
+   "es": "la finca",
+   "ar": "المزرعة",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "regar",
+   "ar": "يسقي",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "〰️",
+   "es": "el surco",
+   "ar": "الخط المحروث",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🌿",
+   "es": "la mala hierba",
+   "ar": "العشب الضار",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🌽",
+   "es": "el cultivo",
+   "ar": "الزراعة / المحصول",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🌰",
+   "es": "sembrar",
+   "ar": "يزرع البذور",
+   "section": "في الحقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🌧️",
+   "es": "Hoy llueve, no se trabaja.",
+   "ar": "اليوم تمطر، لا يوجد عمل.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🌿",
+   "es": "Quita las malas hierbas de la fila.",
+   "ar": "أزل الأعشاب الضارة من الصف.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚰",
+   "es": "Abre la llave del riego.",
+   "ar": "افتح صنبور السقي.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🌱",
+   "es": "Pon una planta cada treinta centímetros.",
+   "ar": "ضع نبتة كل ثلاثين سنتيمترًا.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 2,
+   "emoji": "💦",
+   "es": "El riego por goteo está roto aquí.",
+   "ar": "أنبوب السقي بالتنقيط مكسور هنا.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 3,
+   "emoji": "📆",
+   "es": "La campaña empieza la semana que viene.",
+   "ar": "الموسم يبدأ الأسبوع القادم.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 3,
+   "emoji": "📐",
+   "es": "Esta finca tiene cuarenta hectáreas de cultivo.",
+   "ar": "هذه المزرعة فيها أربعون هكتارًا مزروعة.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 3,
+   "emoji": "🚜",
+   "es": "Cuando pase el tractor, seguimos con la siguiente parcela.",
+   "ar": "عندما يمر الجرار، نتابع العمل في القطعة التالية.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 3,
+   "emoji": "🌤️",
+   "es": "Si mañana hace buen tiempo, empezamos a sembrar.",
+   "ar": "إذا كان الجو جيدًا غدًا، نبدأ الزرع.",
+   "section": "في الحقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🍅",
+   "es": "el tomate",
+   "ar": "الطماطم",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 1,
+   "emoji": "🫑",
+   "es": "el pimiento",
+   "ar": "الفلفل",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 1,
+   "emoji": "🥒",
+   "es": "el pepino",
+   "ar": "الخيار",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 1,
+   "emoji": "🍆",
+   "es": "la berenjena",
+   "ar": "الباذنجان",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 1,
+   "emoji": "🍉",
+   "es": "la sandía",
+   "ar": "البطيخ الأحمر",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 1,
+   "emoji": "🛖",
+   "es": "la nave",
+   "ar": "العنبر (جزء من البيت البلاستيكي)",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 2,
+   "emoji": "🍓",
+   "es": "Hoy recogemos fresas en la nave 3.",
+   "ar": "اليوم نجني الفراولة في العنبر رقم 3.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 2,
+   "emoji": "🌡️",
+   "es": "Dentro del invernadero hace mucho calor.",
+   "ar": "داخل البيت البلاستيكي الحرارة مرتفعة جدًا.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 2,
+   "emoji": "⛺",
+   "es": "el macrotúnel",
+   "ar": "النفق البلاستيكي الكبير",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 2,
+   "emoji": "🪢",
+   "es": "Ata las plantas a la cuerda.",
+   "ar": "اربط النباتات بالحبل.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "Cierra la puerta del invernadero.",
+   "ar": "أغلق باب البيت البلاستيكي.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 2,
+   "emoji": "🍃",
+   "es": "Quita las hojas de abajo.",
+   "ar": "أزل الأوراق السفلية.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 3,
+   "emoji": "🐝",
+   "es": "No toques las cajas de abejorros, son para polinizar.",
+   "ar": "لا تلمس صناديق النحل الطنّان، فهي لتلقيح الأزهار.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 3,
+   "emoji": "🧪",
+   "es": "Hoy han tratado esta nave; no se puede entrar hasta mañana.",
+   "ar": "اليوم رُشّ هذا العنبر بالمبيدات؛ لا يُسمح بالدخول حتى الغد.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 3,
+   "emoji": "🌬️",
+   "es": "Abre las ventanas del invernadero para que se ventile.",
+   "ar": "افتح نوافذ البيت البلاستيكي لكي يتهوّى.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 3,
+   "emoji": "🍅",
+   "es": "Hay que entutorar las tomateras esta semana.",
+   "ar": "يجب تثبيت نباتات الطماطم بالدعامات هذا الأسبوع.",
+   "section": "في البيوت البلاستيكية"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "la caja",
+   "ar": "الصندوق",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪵",
+   "es": "el palé",
+   "ar": "المنصة الخشبية (البالة)",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "la báscula",
+   "ar": "الميزان",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "los kilos",
+   "ar": "الكيلوغرامات",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 1,
+   "emoji": "🫐",
+   "es": "los arándanos",
+   "ar": "التوت الأزرق",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 1,
+   "emoji": "🍓",
+   "es": "los frutos rojos",
+   "ar": "الفواكه الحمراء (الفراولة والتوت)",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚛",
+   "es": "Echa las cajas al remolque.",
+   "ar": "ضع الصناديق في المقطورة.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏋️",
+   "es": "Lleva las cajas a la báscula.",
+   "ar": "خذ الصناديق إلى الميزان.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "No llenes la caja hasta arriba.",
+   "ar": "لا تملأ الصندوق حتى الأعلى.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 2,
+   "emoji": "🗑️",
+   "es": "Separa las fresas podridas.",
+   "ar": "افصل الفراولة الفاسدة.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Pon la etiqueta en cada caja.",
+   "ar": "ضع الملصق على كل صندوق.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧮",
+   "es": "¿Cuántos kilos llevas hoy?",
+   "ar": "كم كيلوغرامًا جمعت اليوم؟",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Apunta tu número en la hoja antes de pesar.",
+   "ar": "سجّل رقمك في الورقة قبل الوزن.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧼",
+   "es": "En el almacén hay que llevar gorro y lavarse las manos.",
+   "ar": "في المستودع يجب لبس غطاء الرأس وغسل اليدين.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 3,
+   "emoji": "📚",
+   "es": "Apila las cajas en el palé sin que sobresalgan.",
+   "ar": "رصّ الصناديق على المنصة دون أن تبرز عن حافتها.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 3,
+   "emoji": "🍑",
+   "es": "La fruta con golpes no sirve para exportar.",
+   "ar": "الفاكهة المضروبة لا تصلح للتصدير.",
+   "section": "الجني والتعبئة"
+  },
+  {
+   "level": 1,
+   "emoji": "🫒",
+   "es": "la aceituna",
+   "ar": "حبة الزيتون",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "🌳",
+   "es": "el olivo",
+   "ar": "شجرة الزيتون",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "🍑",
+   "es": "el melocotón",
+   "ar": "الخوخ",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "🍎",
+   "es": "la manzana",
+   "ar": "التفاحة",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "🍇",
+   "es": "la uva",
+   "ar": "العنب",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "🪜",
+   "es": "la escalera",
+   "ar": "السلّم",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "✂️",
+   "es": "podar",
+   "ar": "يقلّم الأشجار",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 2,
+   "emoji": "🍷",
+   "es": "la vendimia",
+   "ar": "قطف العنب",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 2,
+   "emoji": "🌿",
+   "es": "injertar",
+   "ar": "يطعّم الشجرة",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 2,
+   "emoji": "🫒",
+   "es": "Extiende las mantas debajo del olivo.",
+   "ar": "افرش الشباك تحت شجرة الزيتون.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 2,
+   "emoji": "🪵",
+   "es": "Varea el olivo con cuidado.",
+   "ar": "اضرب أغصان الزيتون بالعصا بحذر.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 2,
+   "emoji": "🙌",
+   "es": "Sujeta bien la escalera.",
+   "ar": "أمسك السلّم جيدًا.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 3,
+   "emoji": "☀️",
+   "es": "En Lleida, la campaña de la fruta es en verano.",
+   "ar": "في لاردة، موسم الفواكه يكون في الصيف.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 3,
+   "emoji": "🏭",
+   "es": "La aceituna se lleva a la almazara el mismo día.",
+   "ar": "يُنقل الزيتون إلى المعصرة في اليوم نفسه.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 3,
+   "emoji": "🍇",
+   "es": "En la vendimia se corta el racimo entero con tijera.",
+   "ar": "في قطف العنب يُقطع العنقود كاملًا بالمقص.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 3,
+   "emoji": "🌳",
+   "es": "Poda solo las ramas secas, como te he enseñado.",
+   "ar": "قلّم الأغصان اليابسة فقط، كما علّمتك.",
+   "section": "الأشجار والزيتون"
+  },
+  {
+   "level": 1,
+   "emoji": "🐄",
+   "es": "la vaca",
+   "ar": "البقرة",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐑",
+   "es": "la oveja",
+   "ar": "النعجة",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐐",
+   "es": "la cabra",
+   "ar": "الماعز",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐖",
+   "es": "el cerdo",
+   "ar": "الخنزير",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐔",
+   "es": "la gallina",
+   "ar": "الدجاجة",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🥚",
+   "es": "los huevos",
+   "ar": "البيض",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🥛",
+   "es": "la leche",
+   "ar": "الحليب",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🌾",
+   "es": "el pienso",
+   "ar": "العلف",
+   "section": "الماشية"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Limpia la cuadra.",
+   "ar": "نظّف الإسطبل.",
+   "section": "الماشية"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "Pon agua a los animales.",
+   "ar": "ضع الماء للحيوانات.",
+   "section": "الماشية"
+  },
+  {
+   "level": 2,
+   "emoji": "🐮",
+   "es": "Hay que ordeñar a las seis.",
+   "ar": "يجب الحلب في الساعة السادسة.",
+   "section": "الماشية"
+  },
+  {
+   "level": 2,
+   "emoji": "🐏",
+   "es": "Saca las ovejas al campo.",
+   "ar": "أخرج الأغنام إلى المرعى.",
+   "section": "الماشية"
+  },
+  {
+   "level": 2,
+   "emoji": "🧑",
+   "es": "el pastor",
+   "ar": "الراعي",
+   "section": "الماشية"
+  },
+  {
+   "level": 3,
+   "emoji": "💉",
+   "es": "El veterinario viene mañana a vacunar al ganado.",
+   "ar": "الطبيب البيطري يأتي غدًا لتلقيح الماشية.",
+   "section": "الماشية"
+  },
+  {
+   "level": 3,
+   "emoji": "🤒",
+   "es": "Si un animal está enfermo, avísame enseguida.",
+   "ar": "إذا مرض حيوان، أخبرني فورًا.",
+   "section": "الماشية"
+  },
+  {
+   "level": 3,
+   "emoji": "🧼",
+   "es": "Lávate las manos después de tocar a los animales.",
+   "ar": "اغسل يديك بعد لمس الحيوانات.",
+   "section": "الماشية"
+  },
+  {
+   "level": 1,
+   "emoji": "🪣",
+   "es": "el cubo",
+   "ar": "الدلو",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔪",
+   "es": "el cuchillo",
+   "ar": "السكين",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "⛏️",
+   "es": "el pico",
+   "ar": "المعول",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "💦",
+   "es": "la manguera",
+   "ar": "خرطوم الماء",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧺",
+   "es": "la cesta",
+   "ar": "السلة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚛",
+   "es": "el remolque",
+   "ar": "المقطورة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔦",
+   "es": "la linterna",
+   "ar": "المصباح اليدوي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔧",
+   "es": "las herramientas",
+   "ar": "الأدوات",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎒",
+   "es": "la mochila de sulfatar",
+   "ar": "رشّاشة الظهر لرش المبيدات",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "✂️",
+   "es": "Afila las tijeras de podar.",
+   "ar": "اشحذ مقص التقليم.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧰",
+   "es": "Guarda las herramientas en el almacén.",
+   "ar": "احفظ الأدوات في المخزن.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚜",
+   "es": "¿Sabes conducir el tractor?",
+   "ar": "هل تعرف قيادة الجرار؟",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "Trae la carretilla aquí.",
+   "ar": "أحضر عربة اليد إلى هنا.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "⛽",
+   "es": "El tractor necesita gasóleo; avisa al encargado.",
+   "ar": "الجرار يحتاج إلى المازوت؛ أخبر المسؤول.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🛠️",
+   "es": "Esta máquina está rota; no la uses hasta que la arreglen.",
+   "ar": "هذه الآلة معطلة؛ لا تستعملها حتى يصلحوها.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚧",
+   "es": "Para llevar la carretilla elevadora hace falta formación.",
+   "ar": "لقيادة الرافعة الشوكية يلزم تكوين خاص.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "😷",
+   "es": "la mascarilla",
+   "ar": "الكمامة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥽",
+   "es": "las gafas de protección",
+   "ar": "نظارات الوقاية",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "👢",
+   "es": "las botas",
+   "ar": "الحذاء الطويل",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧢",
+   "es": "la gorra",
+   "ar": "القبعة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "la crema solar",
+   "ar": "واقي الشمس",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🆘",
+   "es": "¡Socorro!",
+   "ar": "النجدة!",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚑",
+   "es": "la ambulancia",
+   "ar": "سيارة الإسعاف",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Ponte los guantes.",
+   "ar": "البس القفازات.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🥵",
+   "es": "el golpe de calor",
+   "ar": "ضربة الحرارة",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "😷",
+   "es": "Ponte la mascarilla para sulfatar.",
+   "ar": "البس الكمامة عند رش المبيدات.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "⛱️",
+   "es": "Descansa a la sombra.",
+   "ar": "استرح في الظل.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐍",
+   "es": "Cuidado, hay una serpiente.",
+   "ar": "انتبه، هناك أفعى.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "☠️",
+   "es": "Los fitosanitarios son peligrosos; no comas ni fumes mientras los usas.",
+   "ar": "المبيدات الزراعية خطيرة؛ لا تأكل ولا تدخّن أثناء استعمالها.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "😵",
+   "es": "Si te mareas o te duele la cabeza por el calor, para y avisa.",
+   "ar": "إذا شعرت بالدوار أو بصداع بسبب الحرارة، توقّف وأخبر المسؤول.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "📞",
+   "es": "En caso de emergencia, llama al 112.",
+   "ar": "في حالة الطوارئ، اتصل بالرقم 112.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "La empresa tiene que darte el equipo de protección gratis.",
+   "ar": "يجب على الشركة أن تعطيك معدات الوقاية مجانًا.",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el jornal",
+   "ar": "الأجرة اليومية",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "la peonada",
+   "ar": "يوم عمل (يومية العامل)",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "🌾",
+   "es": "la campaña",
+   "ar": "الموسم الفلاحي",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "👷",
+   "es": "el temporero",
+   "ar": "العامل الموسمي",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "el contrato",
+   "ar": "العقد",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "🏦",
+   "es": "la cuenta bancaria",
+   "ar": "الحساب البنكي",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "⏰",
+   "es": "las horas extra",
+   "ar": "الساعات الإضافية",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 2,
+   "emoji": "✈️",
+   "es": "el contrato en origen",
+   "ar": "عقد العمل الموقَّع في بلد الأصل",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 2,
+   "emoji": "💵",
+   "es": "¿Cuánto es el jornal?",
+   "ar": "كم الأجرة اليومية؟",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "Aquí se paga a destajo.",
+   "ar": "هنا يُدفع الأجر حسب الإنتاج.",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "¿Trabajamos el domingo?",
+   "ar": "هل نعمل يوم الأحد؟",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 2,
+   "emoji": "⌛",
+   "es": "¿Cuándo me pagan las horas extra?",
+   "ar": "متى يدفعون لي الساعات الإضافية؟",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 3,
+   "emoji": "🏥",
+   "es": "¿Me has dado de alta en la Seguridad Social?",
+   "ar": "هل سجّلتني في الضمان الاجتماعي؟",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 3,
+   "emoji": "💰",
+   "es": "Al terminar la campaña te pagamos el finiquito.",
+   "ar": "عند انتهاء الموسم ندفع لك مستحقات نهاية العقد.",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 3,
+   "emoji": "📑",
+   "es": "El sueldo depende del convenio del campo de cada provincia.",
+   "ar": "الأجر يتحدد حسب الاتفاقية الجماعية للفلاحة في كل إقليم.",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "Con el contrato en origen tienes que volver a tu país al terminar la campaña.",
+   "ar": "مع عقد العمل في بلد الأصل، يجب أن تعود إلى بلدك عند انتهاء الموسم.",
+   "section": "الأجرة والعقد"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "el encargado",
+   "ar": "المسؤول (رئيس العمال)",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "⏩",
+   "es": "¡Venga, rápido!",
+   "ar": "هيا، بسرعة!",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "✋",
+   "es": "¡Para!",
+   "ar": "توقّف!",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "👉",
+   "es": "¡Ven aquí!",
+   "ar": "تعال إلى هنا!",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "👍",
+   "es": "Muy bien.",
+   "ar": "جيد جدًا.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "el descanso",
+   "ar": "الاستراحة",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "🔁",
+   "es": "Otra vez.",
+   "ar": "مرة أخرى.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "⏱️",
+   "es": "Tenéis quince minutos de descanso.",
+   "ar": "لديكم خمس عشرة دقيقة استراحة.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "👥",
+   "es": "Vosotros tres, conmigo.",
+   "ar": "أنتم الثلاثة، تعالوا معي.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "❌",
+   "es": "Así no, hazlo como yo.",
+   "ar": "ليس هكذا، افعل مثلي.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "🔄",
+   "es": "Cambia de fila.",
+   "ar": "انتقل إلى صف آخر.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "🕑",
+   "es": "Hoy salimos a las dos.",
+   "ar": "اليوم ننتهي في الساعة الثانية.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "❓",
+   "es": "Si no entiendes algo, pregúntame antes de hacerlo.",
+   "ar": "إذا لم تفهم شيئًا، اسألني قبل أن تفعله.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "📱",
+   "es": "Mañana no hay trabajo; os aviso por el móvil.",
+   "ar": "غدًا لا يوجد عمل؛ سأخبركم عبر الهاتف.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "Las cajas mal llenadas no se cuentan.",
+   "ar": "الصناديق المملوءة بشكل سيئ لا تُحتسب.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "🌅",
+   "es": "Esta semana entramos una hora antes por el calor.",
+   "ar": "هذا الأسبوع نبدأ العمل قبل ساعة بسبب الحرارة.",
+   "section": "كلام المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "🚐",
+   "es": "la furgoneta",
+   "ar": "الشاحنة الصغيرة",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🚌",
+   "es": "el autobús",
+   "ar": "الحافلة",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "el alojamiento",
+   "ar": "السكن",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "la cama",
+   "ar": "السرير",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "la ducha",
+   "ar": "الدُّش",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 1,
+   "emoji": "🔑",
+   "es": "la llave",
+   "ar": "المفتاح",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "¿A qué hora salimos?",
+   "ar": "في أي ساعة ننطلق؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 2,
+   "emoji": "📍",
+   "es": "¿Dónde nos recoge la furgoneta?",
+   "ar": "من أين تأخذنا الشاحنة الصغيرة؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🏘️",
+   "es": "¿El alojamiento está incluido?",
+   "ar": "هل السكن مشمول؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🍳",
+   "es": "la cocina compartida",
+   "ar": "المطبخ المشترك",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "¿Dónde puedo lavar la ropa?",
+   "ar": "أين يمكنني غسل الملابس؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "¿Alguien me lleva al pueblo esta tarde?",
+   "ar": "هل يوصلني أحد إلى القرية هذا المساء؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 3,
+   "emoji": "💡",
+   "es": "En la casa no hay luz desde ayer; ¿puede llamar a alguien?",
+   "ar": "لا توجد كهرباء في البيت منذ أمس؛ هل يمكنك الاتصال بأحد؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 3,
+   "emoji": "🕡",
+   "es": "La furgoneta sale a las seis y media de la plaza del pueblo.",
+   "ar": "تنطلق الشاحنة الصغيرة في السادسة والنصف من ساحة القرية.",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "¿Me van a descontar el alojamiento de la nómina?",
+   "ar": "هل سيخصمون ثمن السكن من الراتب؟",
+   "section": "السكن والنقل"
+  },
+  {
+   "level": 3,
+   "emoji": "🏡",
+   "es": "Con contrato en origen, la empresa tiene que darte un alojamiento digno.",
+   "ar": "مع عقد العمل في بلد الأصل، يجب على الشركة أن توفر لك سكنًا لائقًا.",
+   "section": "السكن والنقل"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué es «la báscula»?",
+   "options": [
+    "Sirve para pesar.",
+    "Sirve para cortar.",
+    "Sirve para regar."
+   ],
+   "answer": 0,
+   "ar_q": "ما هي «la báscula»؟",
+   "ar_exp": "«la báscula» هي الميزان، تُستعمل لوزن الصناديق والفاكهة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es «el jornal»?",
+   "options": [
+    "El tractor.",
+    "El dinero de un día de trabajo.",
+    "La caja de fresas."
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «el jornal»؟",
+   "ar_exp": "«el jornal» هو الأجرة التي تأخذها عن يوم عمل واحد."
+  },
+  {
+   "level": 1,
+   "q": "Hace mucho sol. ¿Qué te pones en la cabeza?",
+   "options": [
+    "Las botas.",
+    "Los guantes.",
+    "La gorra."
+   ],
+   "answer": 2,
+   "ar_q": "الشمس قوية جدًا. ماذا تلبس على رأسك؟",
+   "ar_exp": "«la gorra» هي القبعة، تحمي الرأس من الشمس."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es «la aceituna»?",
+   "options": [
+    "El fruto del olivo.",
+    "El fruto de la vid.",
+    "Una herramienta."
+   ],
+   "answer": 0,
+   "ar_q": "ما هي «la aceituna»؟",
+   "ar_exp": "«la aceituna» هي حبة الزيتون، ثمرة شجرة الزيتون."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «regar»?",
+   "options": [
+    "Cortar las ramas.",
+    "Dar agua a las plantas.",
+    "Recoger la fruta."
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تعني «regar»؟",
+   "ar_exp": "«regar» تعني سقي النباتات بالماء."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde pones las cajas llenas para cargarlas?",
+   "options": [
+    "En la cama.",
+    "En la ducha.",
+    "En el palé."
+   ],
+   "answer": 2,
+   "ar_q": "أين تضع الصناديق المملوءة لتحميلها؟",
+   "ar_exp": "«el palé» هو المنصة الخشبية التي تُرصّ عليها الصناديق."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es «un temporero»?",
+   "options": [
+    "Un trabajador de la campaña.",
+    "Un médico.",
+    "Un tipo de fruta."
+   ],
+   "answer": 0,
+   "ar_q": "من هو «un temporero»؟",
+   "ar_exp": "«el temporero» هو العامل الموسمي الذي يعمل خلال موسم الجني."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué animal da leche?",
+   "options": [
+    "La gallina.",
+    "La vaca.",
+    "La abeja."
+   ],
+   "answer": 1,
+   "ar_q": "أي حيوان يعطي الحليب؟",
+   "ar_exp": "«la vaca» هي البقرة، وهي تعطي الحليب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué te pones en la cara para no respirar productos químicos?",
+   "options": [
+    "Las gafas de sol.",
+    "La gorra.",
+    "La mascarilla."
+   ],
+   "answer": 2,
+   "ar_q": "ماذا تضع على وجهك حتى لا تتنفس المواد الكيميائية؟",
+   "ar_exp": "«la mascarilla» هي الكمامة، تحميك من استنشاق المواد الكيميائية."
+  },
+  {
+   "level": 1,
+   "q": "El encargado grita: «¡Para!». ¿Qué haces?",
+   "options": [
+    "Sigo trabajando.",
+    "Me paro.",
+    "Corro más rápido."
+   ],
+   "answer": 1,
+   "ar_q": "المسؤول يصرخ: «¡Para!». ماذا تفعل؟",
+   "ar_exp": "«¡Para!» تعني توقّف، فيجب أن تتوقف فورًا."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es «la campaña» en el campo?",
+   "options": [
+    "La temporada de trabajo de una cosecha.",
+    "Una fiesta del pueblo.",
+    "Un tipo de tractor."
+   ],
+   "answer": 0,
+   "ar_q": "ما هي «la campaña» في الفلاحة؟",
+   "ar_exp": "«la campaña» هي الموسم الفلاحي، أي فترة العمل في جني محصول ما."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué vehículo lleva a los trabajadores a la finca?",
+   "options": [
+    "La báscula.",
+    "La carretilla.",
+    "La furgoneta."
+   ],
+   "answer": 2,
+   "ar_q": "أي مركبة تنقل العمال إلى المزرعة؟",
+   "ar_exp": "«la furgoneta» هي الشاحنة الصغيرة التي تنقل العمال."
+  },
+  {
+   "level": 2,
+   "q": "El encargado dice: «Echa las cajas al remolque». ¿Qué haces?",
+   "options": [
+    "Pongo las cajas en el remolque.",
+    "Tiro las cajas a la basura.",
+    "Cuento las cajas."
+   ],
+   "answer": 0,
+   "ar_q": "المسؤول يقول: «Echa las cajas al remolque». ماذا تفعل؟",
+   "ar_exp": "المعنى: ضع الصناديق في المقطورة."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber a qué hora termina el trabajo. ¿Qué preguntas?",
+   "options": [
+    "¿Cuánto pagan?",
+    "¿A qué hora salimos?",
+    "¿Dónde está el baño?"
+   ],
+   "answer": 1,
+   "ar_q": "تريد أن تعرف متى ينتهي العمل. ماذا تسأل؟",
+   "ar_exp": "«¿A qué hora salimos?» تعني: في أي ساعة نخرج؟"
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «la vendimia»?",
+   "options": [
+    "La recogida de la aceituna.",
+    "La recogida de la uva.",
+    "La poda de los árboles."
+   ],
+   "answer": 1,
+   "ar_q": "ما هي «la vendimia»؟",
+   "ar_exp": "«la vendimia» هي موسم قطف العنب."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «pagar a destajo»?",
+   "options": [
+    "Pagar según lo que produces.",
+    "Pagar solo los domingos.",
+    "No pagar nada."
+   ],
+   "answer": 0,
+   "ar_q": "ماذا يعني «pagar a destajo»؟",
+   "ar_exp": "الدفع «a destajo» يعني أن الأجر يُحسب حسب كمية ما تنتجه (مثلًا بالكيلو أو بالصندوق)."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «el golpe de calor»?",
+   "options": [
+    "Un golpe con una herramienta.",
+    "Un problema de salud por mucho calor.",
+    "Una avería del tractor."
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «el golpe de calor»؟",
+   "ar_exp": "«el golpe de calor» هو ضربة الحرارة، حالة صحية خطيرة بسبب الحرارة الشديدة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «podar»?",
+   "options": [
+    "Dar de comer a los animales.",
+    "Lavar las cajas.",
+    "Cortar ramas de los árboles."
+   ],
+   "answer": 2,
+   "ar_q": "ماذا تعني «podar»؟",
+   "ar_exp": "«podar» تعني تقليم الأشجار، أي قطع بعض أغصانها."
+  },
+  {
+   "level": 2,
+   "q": "El encargado dice: «Hoy recogemos fresas en la nave 3». ¿Dónde trabajas hoy?",
+   "options": [
+    "En el almacén.",
+    "En la nave 3.",
+    "En el olivar."
+   ],
+   "answer": 1,
+   "ar_q": "المسؤول يقول: «Hoy recogemos fresas en la nave 3». أين تعمل اليوم؟",
+   "ar_exp": "ستعمل في جني الفراولة في العنبر رقم 3."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «injertar»?",
+   "options": [
+    "Unir una parte de una planta a otra para que crezcan juntas.",
+    "Regar las plantas.",
+    "Pesar la fruta."
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «injertar»؟",
+   "ar_exp": "«injertar» تعني تطعيم الشجرة، أي وصل جزء من نبتة بأخرى لتنموا معًا."
+  },
+  {
+   "level": 2,
+   "q": "Te has cortado con el cuchillo. ¿Qué dices?",
+   "options": [
+    "¿A qué hora salimos?",
+    "Quiero más cajas.",
+    "Me he cortado. ¿Dónde está el botiquín?"
+   ],
+   "answer": 2,
+   "ar_q": "جرحت نفسك بالسكين. ماذا تقول؟",
+   "ar_exp": "تقول إنك جُرحت وتسأل عن صندوق الإسعافات الأولية."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «el pienso»?",
+   "options": [
+    "Una herramienta.",
+    "Comida para los animales.",
+    "Un tipo de contrato."
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «el pienso»؟",
+   "ar_exp": "«el pienso» هو العلف، طعام الحيوانات."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es el «contrato en origen»?",
+   "options": [
+    "Un contrato que se firma en tu país antes de venir a trabajar a España.",
+    "Un contrato solo para trabajar en una oficina.",
+    "Un contrato sin sueldo."
+   ],
+   "answer": 0,
+   "ar_q": "ما هو «contrato en origen»؟",
+   "ar_exp": "هو عقد عمل موسمي يتم فيه اختيار العامل وتوقيع العقد في بلده قبل القدوم إلى إسبانيا."
+  },
+  {
+   "level": 3,
+   "q": "El encargado dice: «Esta nave está tratada, no se puede entrar hasta mañana». ¿Por qué no se puede entrar?",
+   "options": [
+    "Porque es fiesta.",
+    "Porque han echado productos fitosanitarios.",
+    "Porque no hay fruta."
+   ],
+   "answer": 1,
+   "ar_q": "المسؤول يقول: «هذا العنبر مُعالَج، لا يمكن الدخول حتى الغد». لماذا لا يمكن الدخول؟",
+   "ar_exp": "«tratada» تعني أنه رُشّ بالمبيدات، ويجب الانتظار قبل الدخول حفاظًا على الصحة."
+  },
+  {
+   "level": 3,
+   "q": "Un compañero está mareado, tiene la piel muy caliente y le duele la cabeza bajo el sol. ¿Qué haces?",
+   "options": [
+    "Le dices que siga trabajando.",
+    "Le das un café y sigues.",
+    "Lo llevas a la sombra, le das agua y avisas; si está muy mal, llamas al 112."
+   ],
+   "answer": 2,
+   "ar_q": "زميلك يشعر بالدوار وجلده ساخن جدًا ورأسه يؤلمه تحت الشمس. ماذا تفعل؟",
+   "ar_exp": "قد تكون ضربة حرارة: انقله إلى الظل وأعطه الماء وأخبر المسؤول، وإذا كانت حالته سيئة اتصل بالرقم 112."
+  },
+  {
+   "level": 3,
+   "q": "¿A qué número llamas en una emergencia en España?",
+   "options": [
+    "Al 112.",
+    "Al 123.",
+    "Al 321."
+   ],
+   "answer": 0,
+   "ar_q": "بأي رقم تتصل في حالة الطوارئ في إسبانيا؟",
+   "ar_exp": "الرقم 112 هو رقم الطوارئ العام في إسبانيا، وهو مجاني."
+  },
+  {
+   "level": 3,
+   "q": "¿Quién tiene que pagar los guantes y la mascarilla que usas en el trabajo?",
+   "options": [
+    "Tú.",
+    "La empresa.",
+    "El médico."
+   ],
+   "answer": 1,
+   "ar_q": "من يجب أن يدفع ثمن القفازات والكمامة التي تستعملها في العمل؟",
+   "ar_exp": "معدات الوقاية يجب أن تقدمها الشركة للعامل مجانًا."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es «el finiquito»?",
+   "options": [
+    "Un tipo de fruta.",
+    "El primer día de trabajo.",
+    "El dinero que te pagan al terminar el contrato."
+   ],
+   "answer": 2,
+   "ar_q": "ما هو «el finiquito»؟",
+   "ar_exp": "«el finiquito» هو المبلغ الذي يُدفع لك عند انتهاء العقد (مثل الأيام المستحقة والعطل غير المأخوذة)."
+  },
+  {
+   "level": 3,
+   "q": "Quieres saber si la empresa te ha asegurado. ¿Qué preguntas?",
+   "options": [
+    "¿Me has dado de alta en la Seguridad Social?",
+    "¿Me das una caja?",
+    "¿Hará calor mañana?"
+   ],
+   "answer": 0,
+   "ar_q": "تريد أن تعرف هل سجّلتك الشركة في التأمين. ماذا تسأل؟",
+   "ar_exp": "«dar de alta en la Seguridad Social» تعني التسجيل في الضمان الاجتماعي."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es «la almazara»?",
+   "options": [
+    "Un tipo de invernadero.",
+    "El sitio donde se hace el aceite de oliva.",
+    "Un animal de la granja."
+   ],
+   "answer": 1,
+   "ar_q": "ما هي «la almazara»؟",
+   "ar_exp": "«la almazara» هي معصرة الزيتون، حيث يُصنع زيت الزيتون."
+  }
+ ]
+}

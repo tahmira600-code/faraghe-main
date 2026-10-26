@@ -1,0 +1,817 @@
+{
+ "topic_id": "restaurants",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🍳",
+   "es": "la cocina",
+   "ar": "المطبخ",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "los fogones",
+   "ar": "مواقد الطبخ",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🍳",
+   "es": "la sartén",
+   "ar": "المقلاة",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🔪",
+   "es": "el cuchillo",
+   "ar": "السكين",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🍲",
+   "es": "la olla",
+   "ar": "القدر",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🥄",
+   "es": "la cuchara",
+   "ar": "الملعقة",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🍴",
+   "es": "el tenedor",
+   "ar": "الشوكة",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "el plato",
+   "ar": "الطبق",
+   "section": "المطبخ"
+  },
+  {
+   "level": 1,
+   "emoji": "🧑",
+   "es": "el camarero",
+   "ar": "النادل",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "la comanda",
+   "ar": "طلب الزبون (ورقة الطلبات)",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "🪑",
+   "es": "la mesa",
+   "ar": "الطاولة",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "la cuenta",
+   "ar": "الفاتورة (الحساب)",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "🪙",
+   "es": "la propina",
+   "ar": "البقشيش",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "📖",
+   "es": "la carta",
+   "ar": "قائمة الطعام",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "🥤",
+   "es": "la bebida",
+   "ar": "المشروب",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 1,
+   "emoji": "🥗",
+   "es": "la ensalada",
+   "ar": "السلطة",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🍗",
+   "es": "el pollo",
+   "ar": "الدجاج",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🐟",
+   "es": "el pescado",
+   "ar": "السمك",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🥩",
+   "es": "la carne",
+   "ar": "اللحم",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🍚",
+   "es": "el arroz",
+   "ar": "الأرز",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🍰",
+   "es": "el postre",
+   "ar": "الحلوى (التحلية)",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🥘",
+   "es": "la paella",
+   "ar": "البايِيّا (طبق أرز إسباني)",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🍟",
+   "es": "las patatas fritas",
+   "ar": "البطاطس المقلية",
+   "section": "الطعام"
+  },
+  {
+   "level": 1,
+   "emoji": "🧽",
+   "es": "la bayeta",
+   "ar": "قطعة قماش التنظيف",
+   "section": "النظافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧼",
+   "es": "el jabón",
+   "ar": "الصابون",
+   "section": "النظافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🗑️",
+   "es": "la basura",
+   "ar": "القمامة",
+   "section": "النظافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "la escoba",
+   "ar": "المكنسة",
+   "section": "النظافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🫧",
+   "es": "el lavavajillas",
+   "ar": "غسالة الأطباق",
+   "section": "النظافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "النظافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "la habitación",
+   "ar": "الغرفة",
+   "section": "الفندق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛎️",
+   "es": "la recepción",
+   "ar": "الاستقبال",
+   "section": "الفندق"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "la camarera de pisos",
+   "ar": "عاملة تنظيف الغرف",
+   "section": "الفندق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "la cama",
+   "ar": "السرير",
+   "section": "الفندق"
+  },
+  {
+   "level": 1,
+   "emoji": "🧺",
+   "es": "las sábanas",
+   "ar": "الشراشف",
+   "section": "الفندق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛁",
+   "es": "las toallas",
+   "ar": "المناشف",
+   "section": "الفندق"
+  },
+  {
+   "level": 1,
+   "emoji": "🔑",
+   "es": "la llave",
+   "ar": "المفتاح",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🔪",
+   "es": "Corta las cebollas en dados.",
+   "ar": "قطّع البصل مكعبات صغيرة.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 2,
+   "emoji": "🥕",
+   "es": "Pela las patatas y las zanahorias.",
+   "ar": "قشّر البطاطس والجزر.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 2,
+   "emoji": "🔥",
+   "es": "Enciende los fogones, por favor.",
+   "ar": "أشعل مواقد الطبخ من فضلك.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 2,
+   "emoji": "🍳",
+   "es": "Calienta el aceite en la sartén.",
+   "ar": "سخّن الزيت في المقلاة.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 2,
+   "emoji": "⏲️",
+   "es": "Saca el pescado del horno en diez minutos.",
+   "ar": "أخرج السمك من الفرن بعد عشر دقائق.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 2,
+   "emoji": "🧊",
+   "es": "Guarda la carne en la cámara frigorífica.",
+   "ar": "احفظ اللحم في غرفة التبريد.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 2,
+   "emoji": "🍽️",
+   "es": "¿Qué van a tomar?",
+   "ar": "ماذا ستتناولون؟",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "🪑",
+   "es": "¿Mesa para cuántas personas?",
+   "ar": "طاولة لكم شخصًا؟",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "📝",
+   "es": "Lleva esta comanda a la cocina.",
+   "ar": "خذ هذا الطلب إلى المطبخ.",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "La cuenta, por favor.",
+   "ar": "الحساب من فضلك.",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "¿Va a pagar con tarjeta o en efectivo?",
+   "ar": "هل ستدفع بالبطاقة أم نقدًا؟",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Recoge la mesa cinco.",
+   "ar": "أخلِ الطاولة رقم خمسة.",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "😊",
+   "es": "¡Que aproveche!",
+   "ar": "بالهناء والشفاء!",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 2,
+   "emoji": "🍽️",
+   "es": "El menú del día incluye primero, segundo y postre.",
+   "ar": "قائمة اليوم تشمل طبقًا أول وطبقًا ثانيًا وحلوى.",
+   "section": "الطعام"
+  },
+  {
+   "level": 2,
+   "emoji": "🐖",
+   "es": "¿Este plato lleva cerdo?",
+   "ar": "هل يحتوي هذا الطبق على لحم الخنزير؟",
+   "section": "الطعام"
+  },
+  {
+   "level": 2,
+   "emoji": "🥩",
+   "es": "¿Cómo quiere la carne, poco hecha o muy hecha?",
+   "ar": "كيف تريد اللحم، قليل الطهي أم مطهوًا جيدًا؟",
+   "section": "الطعام"
+  },
+  {
+   "level": 2,
+   "emoji": "🥜",
+   "es": "Este postre lleva frutos secos.",
+   "ar": "هذه الحلوى تحتوي على مكسرات.",
+   "section": "الطعام"
+  },
+  {
+   "level": 2,
+   "emoji": "🥘",
+   "es": "La paella tarda veinte minutos.",
+   "ar": "البايِيّا تحتاج عشرين دقيقة.",
+   "section": "الطعام"
+  },
+  {
+   "level": 2,
+   "emoji": "🧼",
+   "es": "Lávate las manos antes de entrar en la cocina.",
+   "ar": "اغسل يديك قبل دخول المطبخ.",
+   "section": "النظافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧽",
+   "es": "Limpia la encimera con la bayeta.",
+   "ar": "نظّف سطح العمل بقطعة القماش.",
+   "section": "النظافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🫧",
+   "es": "Pon los platos en el lavavajillas.",
+   "ar": "ضع الأطباق في غسالة الأطباق.",
+   "section": "النظافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🗑️",
+   "es": "Saca la basura al final del turno.",
+   "ar": "أخرج القمامة في نهاية الوردية.",
+   "section": "النظافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧢",
+   "es": "Ponte el gorro y el delantal.",
+   "ar": "البس القبعة والمريلة.",
+   "section": "النظافة"
+  },
+  {
+   "level": 2,
+   "emoji": "⚠️",
+   "es": "Cuidado, el suelo está mojado.",
+   "ar": "انتبه، الأرضية مبللة.",
+   "section": "النظافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Cambia las sábanas de la habitación 204.",
+   "ar": "غيّر شراشف الغرفة 204.",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🛁",
+   "es": "Repón las toallas del baño.",
+   "ar": "ضع مناشف جديدة في الحمام.",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🔑",
+   "es": "Aquí tiene la llave de su habitación.",
+   "ar": "تفضل مفتاح غرفتك.",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "La habitación está libre.",
+   "ar": "الغرفة شاغرة.",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🛎️",
+   "es": "¿Tiene una reserva?",
+   "ar": "هل لديك حجز؟",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🧳",
+   "es": "¿Le ayudo con las maletas?",
+   "ar": "هل أساعدك في الحقائب؟",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🧴",
+   "es": "Pon jabón y champú nuevos en el baño.",
+   "ar": "ضع صابونًا وشامبو جديدين في الحمام.",
+   "section": "الفندق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "No molestar.",
+   "ar": "الرجاء عدم الإزعاج.",
+   "section": "الفندق"
+  },
+  {
+   "level": 3,
+   "emoji": "🔪",
+   "es": "Corta el pimiento en tiras finas y la cebolla en dados pequeños.",
+   "ar": "قطّع الفلفل شرائح رفيعة والبصل مكعبات صغيرة.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 3,
+   "emoji": "🧊",
+   "es": "No vuelvas a congelar un alimento que ya se ha descongelado.",
+   "ar": "لا تُعِد تجميد طعام سبق أن ذاب تجميده.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Pon la etiqueta con la fecha a todo lo que guardes en la cámara.",
+   "ar": "ضع ملصقًا بالتاريخ على كل ما تحفظه في غرفة التبريد.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 3,
+   "emoji": "🍳",
+   "es": "Cuando salga el plato, avisa al camarero para que lo sirva caliente.",
+   "ar": "عندما يجهز الطبق، نبّه النادل ليقدّمه ساخنًا.",
+   "section": "المطبخ"
+  },
+  {
+   "level": 3,
+   "emoji": "🍽️",
+   "es": "Buenas noches, ¿tienen reserva o prefieren esperar a que quede una mesa libre?",
+   "ar": "مساء الخير، هل لديكم حجز أم تفضلون انتظار طاولة فارغة؟",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 3,
+   "emoji": "🥜",
+   "es": "Si un cliente tiene alergia, pregunta siempre en cocina qué ingredientes lleva el plato.",
+   "ar": "إذا كان لدى الزبون حساسية، اسأل دائمًا في المطبخ عن مكونات الطبق.",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Apunta bien la comanda y repítela al cliente para no equivocarte.",
+   "ar": "سجّل الطلب جيدًا وأعده على الزبون حتى لا تخطئ.",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 3,
+   "emoji": "😠",
+   "es": "Si un cliente se queja, escúchalo con educación y llama al encargado.",
+   "ar": "إذا اشتكى زبون، استمع إليه بأدب ونادِ المسؤول.",
+   "section": "خدمة الزبائن"
+  },
+  {
+   "level": 3,
+   "emoji": "🐟",
+   "es": "Hoy tenemos como plato del día merluza a la plancha con verduras.",
+   "ar": "لدينا اليوم كطبق اليوم سمك النازلي المشوي مع الخضار.",
+   "section": "الطعام"
+  },
+  {
+   "level": 3,
+   "emoji": "🌱",
+   "es": "Tenemos opciones vegetarianas y sin gluten en la carta.",
+   "ar": "لدينا خيارات نباتية وخالية من الغلوتين في القائمة.",
+   "section": "الطعام"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "En la carta están indicados los alérgenos de cada plato.",
+   "ar": "مسببات الحساسية مذكورة لكل طبق في القائمة.",
+   "section": "الطعام"
+  },
+  {
+   "level": 3,
+   "emoji": "🎓",
+   "es": "Para trabajar con alimentos necesitas el certificado de manipulador de alimentos.",
+   "ar": "للعمل مع الأطعمة تحتاج إلى شهادة متداول الأغذية.",
+   "section": "النظافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🥩",
+   "es": "Usa una tabla y un cuchillo distintos para la carne cruda y para la verdura.",
+   "ar": "استعمل لوحًا وسكينًا مختلفين للحم النيء وللخضار.",
+   "section": "النظافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧴",
+   "es": "Desinfecta las superficies de trabajo al terminar cada servicio.",
+   "ar": "عقّم أسطح العمل عند انتهاء كل خدمة.",
+   "section": "النظافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🌡️",
+   "es": "Comprueba que la temperatura de la nevera esté por debajo de cinco grados.",
+   "ar": "تحقق من أن حرارة الثلاجة أقل من خمس درجات.",
+   "section": "النظافة"
+  },
+  {
+   "level": 3,
+   "emoji": "💍",
+   "es": "No lleves anillos ni pulseras mientras preparas la comida.",
+   "ar": "لا تلبس خواتم ولا أساور أثناء تحضير الطعام.",
+   "section": "النظافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🛎️",
+   "es": "El desayuno se sirve de siete a diez en el comedor.",
+   "ar": "يُقدَّم الفطور من السابعة إلى العاشرة في قاعة الطعام.",
+   "section": "الفندق"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "Necesito su DNI o pasaporte para hacer el registro de entrada.",
+   "ar": "أحتاج إلى بطاقة هويتك أو جواز سفرك لتسجيل الدخول.",
+   "section": "الفندق"
+  },
+  {
+   "level": 3,
+   "emoji": "🕛",
+   "es": "La salida de la habitación es antes de las doce del mediodía.",
+   "ar": "مغادرة الغرفة قبل الساعة الثانية عشرة ظهرًا.",
+   "section": "الفندق"
+  },
+  {
+   "level": 3,
+   "emoji": "🧹",
+   "es": "Las habitaciones de salida se limpian primero para los nuevos clientes.",
+   "ar": "تُنظَّف غرف المغادرين أولًا من أجل الزبائن الجدد.",
+   "section": "الفندق"
+  },
+  {
+   "level": 3,
+   "emoji": "👜",
+   "es": "Si encuentras un objeto olvidado en la habitación, entrégalo en recepción.",
+   "ar": "إذا وجدت غرضًا منسيًا في الغرفة، سلّمه إلى الاستقبال.",
+   "section": "الفندق"
+  },
+  {
+   "level": 3,
+   "emoji": "🔧",
+   "es": "Avisa a mantenimiento si el aire acondicionado no funciona.",
+   "ar": "أبلغ قسم الصيانة إذا كان المكيّف لا يعمل.",
+   "section": "الفندق"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la sartén\"?",
+   "options": [
+    "القدر",
+    "المقلاة",
+    "الملعقة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la sartén\"؟",
+   "ar_exp": "\"la sartén\" هي المقلاة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la propina\"?",
+   "options": [
+    "البقشيش",
+    "الفاتورة",
+    "القائمة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"la propina\"؟",
+   "ar_exp": "\"la propina\" هي المال الإضافي الذي يتركه الزبون للعامل."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la cuenta\"?",
+   "options": [
+    "الطاولة",
+    "المشروب",
+    "الحساب (الفاتورة)"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"la cuenta\"؟",
+   "ar_exp": "\"la cuenta\" هي الفاتورة التي يدفعها الزبون."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién limpia las habitaciones en un hotel?",
+   "options": [
+    "el camarero",
+    "la camarera de pisos",
+    "el cocinero"
+   ],
+   "answer": 1,
+   "ar_q": "من ينظف الغرف في الفندق؟",
+   "ar_exp": "\"la camarera de pisos\" هي عاملة تنظيف الغرف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el cuchillo\"?",
+   "options": [
+    "الشوكة",
+    "الطبق",
+    "السكين"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"el cuchillo\"؟",
+   "ar_exp": "\"el cuchillo\" هو السكين."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la recepción\"?",
+   "options": [
+    "الاستقبال",
+    "الغرفة",
+    "المطبخ"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"la recepción\"؟",
+   "ar_exp": "\"la recepción\" هي مكان استقبال الزبائن في الفندق."
+  },
+  {
+   "level": 2,
+   "q": "El cocinero dice: \"Corta las cebollas en dados\". ¿Qué haces?",
+   "options": [
+    "أقطّع البصل مكعبات",
+    "أقشّر البصل فقط",
+    "أطبخ البصل كاملًا"
+   ],
+   "answer": 0,
+   "ar_q": "يقول الطباخ: \"Corta las cebollas en dados\". ماذا تفعل؟",
+   "ar_exp": "\"en dados\" تعني مكعبات صغيرة."
+  },
+  {
+   "level": 2,
+   "q": "Un cliente quiere pagar. ¿Qué dice?",
+   "options": [
+    "¿Mesa para dos?",
+    "La cuenta, por favor.",
+    "¡Que aproveche!"
+   ],
+   "answer": 1,
+   "ar_q": "زبون يريد الدفع. ماذا يقول؟",
+   "ar_exp": "\"La cuenta, por favor\" تعني الحساب من فضلك."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es \"la comanda\"?",
+   "options": [
+    "الطلب الذي يكتبه النادل",
+    "مفتاح الغرفة",
+    "نوع من الحلوى"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي \"la comanda\"؟",
+   "ar_exp": "\"la comanda\" هي ورقة الطلبات التي يأخذها النادل إلى المطبخ."
+  },
+  {
+   "level": 2,
+   "q": "Ves un cartel en la puerta de una habitación: \"No molestar\". ¿Qué haces?",
+   "options": [
+    "أدخل للتنظيف",
+    "لا أدخل الآن",
+    "أطرق بقوة"
+   ],
+   "answer": 1,
+   "ar_q": "ترى لافتة على باب غرفة: \"No molestar\". ماذا تفعل؟",
+   "ar_exp": "\"No molestar\" تعني الرجاء عدم الإزعاج، فلا ندخل."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué dices al servir la comida a los clientes?",
+   "options": [
+    "¡Que aproveche!",
+    "¡Cuidado!",
+    "¿Tiene una reserva?"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تقول عند تقديم الطعام للزبائن؟",
+   "ar_exp": "\"¡Que aproveche!\" تعني بالهناء والشفاء."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"La habitación está libre\"?",
+   "options": [
+    "الغرفة مشغولة",
+    "الغرفة مجانية",
+    "الغرفة شاغرة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"La habitación está libre\"؟",
+   "ar_exp": "\"libre\" هنا تعني شاغرة وغير مشغولة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es el certificado de manipulador de alimentos?",
+   "options": [
+    "شهادة للعمل مع الأطعمة",
+    "رخصة السياقة",
+    "عقد الإيجار"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي \"el certificado de manipulador de alimentos\"؟",
+   "ar_exp": "هي شهادة تثبت معرفتك بقواعد النظافة عند العمل مع الأطعمة."
+  },
+  {
+   "level": 3,
+   "q": "Un cliente dice que tiene alergia. ¿Qué haces?",
+   "options": [
+    "أقول له إن الطبق آمن دون سؤال",
+    "أسأل في المطبخ عن مكونات الطبق",
+    "أتجاهل الأمر"
+   ],
+   "answer": 1,
+   "ar_q": "زبون يقول إن لديه حساسية. ماذا تفعل؟",
+   "ar_exp": "يجب السؤال دائمًا في المطبخ عن مكونات الطبق."
+  },
+  {
+   "level": 3,
+   "q": "\"Usa una tabla distinta para la carne cruda.\" ¿Por qué?",
+   "options": [
+    "لأن اللوح جميل",
+    "لتوفير الوقت",
+    "لتجنب انتقال البكتيريا إلى أطعمة أخرى"
+   ],
+   "answer": 2,
+   "ar_q": "\"Usa una tabla distinta para la carne cruda.\" لماذا؟",
+   "ar_exp": "اللحم النيء قد ينقل البكتيريا إلى الأطعمة الأخرى، لذلك نستعمل لوحًا مختلفًا."
+  }
+ ]
+}

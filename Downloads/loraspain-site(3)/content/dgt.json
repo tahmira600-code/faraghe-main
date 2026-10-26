@@ -1,0 +1,1857 @@
+{
+ "topic_id": "dgt",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "la autopista",
+   "ar": "الطريق السيّار",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "la autovía",
+   "ar": "الطريق السريع المزدوج",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "⬛",
+   "es": "la calzada",
+   "ar": "قارعة الطريق (الجزء المخصّص للمركبات)",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚲",
+   "es": "el arcén",
+   "ar": "حافة الطريق (الكتف الجانبي)",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "⭕",
+   "es": "la glorieta",
+   "ar": "الدوّار (الساحة الدائرية)",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚇",
+   "es": "el túnel",
+   "ar": "النفق",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🏙️",
+   "es": "la vía urbana",
+   "ar": "الطريق داخل المدينة",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🌄",
+   "es": "el cambio de rasante",
+   "ar": "قمّة المرتفع (تغيّر منسوب الطريق)",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "↗️",
+   "es": "el carril de aceleración",
+   "ar": "مسار التسارع",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚂",
+   "es": "el paso a nivel",
+   "ar": "معبر السكة الحديدية",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚌",
+   "es": "el carril bus",
+   "ar": "مسار الحافلات",
+   "section": "الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "➡️",
+   "es": "Circule por el carril derecho y utilice el izquierdo solo para adelantar.",
+   "ar": "سر في المسار الأيمن ولا تستعمل الأيسر إلا للتجاوز.",
+   "section": "الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "⛔",
+   "es": "Está prohibido circular marcha atrás en autopistas y autovías.",
+   "ar": "يُمنع السير إلى الخلف في الطرق السيّارة والطرق السريعة.",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🪧",
+   "es": "la señal de tráfico",
+   "ar": "علامة المرور",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "⚠️",
+   "es": "la señal de peligro",
+   "ar": "علامة الخطر",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚫",
+   "es": "la señal de prohibición",
+   "ar": "علامة المنع",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔵",
+   "es": "la señal de obligación",
+   "ar": "علامة الإلزام",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛑",
+   "es": "la señal de stop",
+   "ar": "علامة «قف»",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔻",
+   "es": "la señal de ceda el paso",
+   "ar": "علامة «أعطِ الأولوية»",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "➖",
+   "es": "la línea continua",
+   "ar": "الخط المتصل",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "〰️",
+   "es": "la línea discontinua",
+   "ar": "الخط المتقطّع",
+   "section": "الإشارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚦",
+   "es": "la luz amarilla del semáforo",
+   "ar": "الضوء الأصفر في الإشارة الضوئية",
+   "section": "الإشارات"
+  },
+  {
+   "level": 2,
+   "emoji": "👮",
+   "es": "el agente de tráfico",
+   "ar": "شرطي المرور",
+   "section": "الإشارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚧",
+   "es": "la señal de obras",
+   "ar": "علامة الأشغال",
+   "section": "الإشارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "Esta señal prohíbe adelantar.",
+   "ar": "هذه العلامة تمنع التجاوز.",
+   "section": "الإشارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚥",
+   "es": "El semáforo está en rojo: hay que detenerse.",
+   "ar": "الإشارة الضوئية حمراء: يجب التوقف.",
+   "section": "الإشارات"
+  },
+  {
+   "level": 3,
+   "emoji": "👮",
+   "es": "Las órdenes del agente prevalecen sobre los semáforos y las señales.",
+   "ar": "أوامر شرطي المرور مقدّمة على الإشارات الضوئية وعلامات المرور.",
+   "section": "الإشارات"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Una señal triangular con borde rojo advierte de un peligro.",
+   "ar": "العلامة المثلثة ذات الإطار الأحمر تنبّه إلى خطر.",
+   "section": "الإشارات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚗",
+   "es": "Puede cruzar la línea si la parte discontinua está en su lado.",
+   "ar": "يمكنك عبور الخط إذا كان الجزء المتقطّع في جهتك.",
+   "section": "الإشارات"
+  },
+  {
+   "level": 1,
+   "emoji": "✋",
+   "es": "la preferencia",
+   "ar": "الأولوية",
+   "section": "الأولوية"
+  },
+  {
+   "level": 1,
+   "emoji": "🚶",
+   "es": "el peatón",
+   "ar": "الراجل",
+   "section": "الأولوية"
+  },
+  {
+   "level": 1,
+   "emoji": "🚴",
+   "es": "el ciclista",
+   "ar": "راكب الدراجة",
+   "section": "الأولوية"
+  },
+  {
+   "level": 1,
+   "emoji": "🚑",
+   "es": "la ambulancia",
+   "ar": "سيارة الإسعاف",
+   "section": "الأولوية"
+  },
+  {
+   "level": 2,
+   "emoji": "🚒",
+   "es": "el vehículo prioritario",
+   "ar": "مركبة ذات أولوية",
+   "section": "الأولوية"
+  },
+  {
+   "level": 2,
+   "emoji": "➡️",
+   "es": "la prioridad de la derecha",
+   "ar": "الأولوية لمن يأتي من اليمين",
+   "section": "الأولوية"
+  },
+  {
+   "level": 2,
+   "emoji": "↗️",
+   "es": "incorporarse a la vía",
+   "ar": "الاندماج في الطريق",
+   "section": "الأولوية"
+  },
+  {
+   "level": 2,
+   "emoji": "🚸",
+   "es": "Ceda el paso a los peatones.",
+   "ar": "أعطِ الأولوية للراجلين.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 2,
+   "emoji": "⭕",
+   "es": "Los vehículos que circulan por la glorieta tienen preferencia.",
+   "ar": "المركبات التي تسير داخل الدوّار لها الأولوية.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 2,
+   "emoji": "🚑",
+   "es": "Deje pasar a la ambulancia.",
+   "ar": "اترك سيارة الإسعاف تمرّ.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 3,
+   "emoji": "🔀",
+   "es": "En un cruce sin señalizar, tiene preferencia el vehículo que se aproxima por la derecha.",
+   "ar": "في تقاطع بلا علامات، الأولوية للمركبة القادمة من اليمين.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 3,
+   "emoji": "🚶",
+   "es": "Al girar, ceda el paso a los peatones que cruzan la calzada a la que se dirige.",
+   "ar": "عند الانعطاف، أعطِ الأولوية للراجلين الذين يعبرون الطريق الذي تتجه إليه.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 3,
+   "emoji": "🚒",
+   "es": "Cuando un vehículo prioritario avise con señales luminosas y acústicas, apártese a la derecha.",
+   "ar": "عندما تنبّه مركبة ذات أولوية بإشارات ضوئية وصوتية، ابتعد إلى اليمين.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 3,
+   "emoji": "🚗",
+   "es": "El conductor que es adelantado no debe aumentar la velocidad.",
+   "ar": "السائق الذي يتمّ تجاوزه يجب ألا يزيد سرعته.",
+   "section": "الأولوية"
+  },
+  {
+   "level": 1,
+   "emoji": "⏱️",
+   "es": "la velocidad",
+   "ar": "السرعة",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 1,
+   "emoji": "⏲️",
+   "es": "el límite de velocidad",
+   "ar": "حدّ السرعة",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 1,
+   "emoji": "📸",
+   "es": "el radar",
+   "ar": "الرادار",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 1,
+   "emoji": "📏",
+   "es": "la distancia de seguridad",
+   "ar": "مسافة الأمان",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚙",
+   "es": "el adelantamiento",
+   "ar": "عملية التجاوز",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "la multa",
+   "ar": "الغرامة (المخالفة)",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "la distancia de frenado",
+   "ar": "مسافة الكبح",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 2,
+   "emoji": "⏱️",
+   "es": "el tiempo de reacción",
+   "ar": "زمن ردّ الفعل",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌫️",
+   "es": "Reduzca la velocidad, hay niebla.",
+   "ar": "خفّف السرعة، هناك ضباب.",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Mantenga la distancia de seguridad con el vehículo de delante.",
+   "ar": "حافظ على مسافة الأمان مع المركبة التي أمامك.",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 2,
+   "emoji": "⏲️",
+   "es": "No supere la velocidad máxima permitida.",
+   "ar": "لا تتجاوز السرعة القصوى المسموح بها.",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚗",
+   "es": "La velocidad máxima de un turismo en carretera convencional es de 90 km/h.",
+   "ar": "السرعة القصوى للسيارة السياحية في الطريق العادي هي 90 كم/س.",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🌧️",
+   "es": "Con el suelo mojado, la distancia de frenado aumenta.",
+   "ar": "عندما تكون الأرض مبلّلة، تزداد مسافة الكبح.",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚴",
+   "es": "Al adelantar a un ciclista, deje una separación lateral mínima de 1,5 metros.",
+   "ar": "عند تجاوز راكب دراجة، اترك مسافة جانبية لا تقلّ عن 1,5 متر.",
+   "section": "السرعة والمسافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚙",
+   "es": "el turismo",
+   "ar": "السيارة السياحية",
+   "section": "السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚘",
+   "es": "el volante",
+   "ar": "المقود",
+   "section": "السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛑",
+   "es": "el freno",
+   "ar": "الفرامل",
+   "section": "السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛞",
+   "es": "el neumático",
+   "ar": "الإطار (العجلة المطاطية)",
+   "section": "السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "💡",
+   "es": "el intermitente",
+   "ar": "إشارة الانعطاف",
+   "section": "السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪞",
+   "es": "el retrovisor",
+   "ar": "مرآة الرؤية الخلفية",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "💡",
+   "es": "las luces de cruce",
+   "ar": "الأضواء القصيرة",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔦",
+   "es": "las luces de carretera",
+   "ar": "الأضواء الطويلة",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔆",
+   "es": "las luces de posición",
+   "ar": "أضواء الموضع",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌫️",
+   "es": "la luz antiniebla",
+   "ar": "ضوء الضباب",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🛞",
+   "es": "el dibujo del neumático",
+   "ar": "نقش الإطار",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "↩️",
+   "es": "la marcha atrás",
+   "ar": "السير إلى الخلف",
+   "section": "السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "💡",
+   "es": "Ponga el intermitente antes de girar.",
+   "ar": "شغّل إشارة الانعطاف قبل أن تنعطف.",
+   "section": "السيارة"
+  },
+  {
+   "level": 3,
+   "emoji": "🛞",
+   "es": "La profundidad mínima del dibujo de los neumáticos es de 1,6 milímetros.",
+   "ar": "العمق الأدنى لنقش الإطارات هو 1,6 ملّيمتر.",
+   "section": "السيارة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔦",
+   "es": "Cambie a luces de cruce para no deslumbrar a los demás conductores.",
+   "ar": "انتقل إلى الأضواء القصيرة حتى لا تبهر السائقين الآخرين.",
+   "section": "السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔒",
+   "es": "el cinturón de seguridad",
+   "ar": "حزام الأمان",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🍺",
+   "es": "el alcohol",
+   "ar": "الكحول",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "⛑️",
+   "es": "el casco",
+   "ar": "الخوذة",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el chaleco reflectante",
+   "ar": "السترة العاكسة",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "📱",
+   "es": "el móvil",
+   "ar": "الهاتف المحمول",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "💊",
+   "es": "las drogas",
+   "ar": "المخدّرات",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "👶",
+   "es": "la silla infantil",
+   "ar": "مقعد الأطفال",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🎧",
+   "es": "los auriculares",
+   "ar": "السمّاعات",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧪",
+   "es": "la prueba de alcoholemia",
+   "ar": "اختبار نسبة الكحول",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔶",
+   "es": "la baliza V-16",
+   "ar": "المصباح التحذيري V-16",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔒",
+   "es": "Abróchese el cinturón.",
+   "ar": "اربط حزام الأمان.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "📵",
+   "es": "No use el móvil mientras conduce.",
+   "ar": "لا تستعمل الهاتف المحمول أثناء السياقة.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🍺",
+   "es": "Si bebe, no conduzca.",
+   "ar": "إذا شربت الكحول فلا تقُد.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🌬️",
+   "es": "Sople por la boquilla de forma continua, por favor.",
+   "ar": "انفخ في الأنبوب بشكل متواصل من فضلك.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "👶",
+   "es": "Los niños de hasta 135 centímetros deben usar un sistema de retención infantil.",
+   "ar": "الأطفال الذين لا يتجاوز طولهم 135 سنتيمترا يجب أن يستعملوا مقعدا خاصا بالأطفال.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "☕",
+   "es": "Pare a descansar cada dos horas de conducción.",
+   "ar": "توقّف للاستراحة كل ساعتين من السياقة.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪪",
+   "es": "el permiso B",
+   "ar": "رخصة السياقة من الصنف B",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 1,
+   "emoji": "🏫",
+   "es": "la autoescuela",
+   "ar": "مدرسة تعليم السياقة",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "el examen teórico",
+   "ar": "الامتحان النظري",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 1,
+   "emoji": "📄",
+   "es": "el seguro",
+   "ar": "التأمين",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 1,
+   "emoji": "🔧",
+   "es": "la ITV",
+   "ar": "الفحص التقني للمركبات",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 1,
+   "emoji": "🔰",
+   "es": "el conductor novel",
+   "ar": "السائق المبتدئ",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "el permiso por puntos",
+   "ar": "الرخصة بالنقاط",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "el permiso de circulación",
+   "ar": "شهادة تسجيل المركبة",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 2,
+   "emoji": "📋",
+   "es": "la ficha técnica",
+   "ar": "البطاقة التقنية للمركبة",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 2,
+   "emoji": "✅",
+   "es": "aprobar el examen",
+   "ar": "النجاح في الامتحان",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "¿Cuántos puntos tiene su permiso?",
+   "ar": "كم نقطة في رخصتك؟",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "📉",
+   "es": "Ha perdido todos los puntos y su permiso ha perdido la vigencia.",
+   "ar": "لقد فقدت كل النقاط وفقدت رخصتك صلاحيتها.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "📚",
+   "es": "Puede recuperar puntos haciendo un curso de sensibilización y reeducación vial.",
+   "ar": "يمكنك استرجاع النقاط بإجراء دورة التوعية وإعادة التأهيل المروري.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "👮",
+   "es": "Muéstreme el permiso de conducir y la documentación del vehículo.",
+   "ar": "أرني رخصة السياقة ووثائق المركبة.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "🔰",
+   "es": "El conductor novel debe llevar la señal L durante el primer año.",
+   "ar": "يجب على السائق المبتدئ وضع علامة L خلال السنة الأولى.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "El seguro obligatorio cubre la responsabilidad civil frente a terceros.",
+   "ar": "التأمين الإجباري يغطّي المسؤولية المدنية تجاه الغير.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "⏳",
+   "es": "Tendrá que esperar seis meses para volver a obtener el permiso.",
+   "ar": "سيكون عليك الانتظار ستة أشهر للحصول على الرخصة من جديد.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "El examen teórico consta de treinta preguntas con tres respuestas posibles.",
+   "ar": "يتكوّن الامتحان النظري من ثلاثين سؤالا لكل منها ثلاثة أجوبة محتملة.",
+   "section": "الوثائق والنقاط"
+  },
+  {
+   "level": 3,
+   "emoji": "🚸",
+   "es": "Está prohibido estacionar en los pasos de peatones.",
+   "ar": "يُمنع ركن السيارة فوق ممرّات الراجلين.",
+   "section": "الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "🚇",
+   "es": "En los túneles es obligatorio llevar encendidas las luces de cruce.",
+   "ar": "في الأنفاق يجب تشغيل الأضواء القصيرة.",
+   "section": "السيارة"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "Al salir del vehículo en una vía interurbana, póngase el chaleco reflectante.",
+   "ar": "عند النزول من المركبة في طريق خارج المدينة، البس السترة العاكسة.",
+   "section": "الكحول والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "↗️",
+   "es": "Ceda el paso a los vehículos que circulan por la vía a la que se incorpora.",
+   "ar": "أعطِ الأولوية للمركبات التي تسير في الطريق الذي تندمج فيه.",
+   "section": "الأولوية"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué forma tiene la señal de STOP?",
+   "options": [
+    "Octogonal",
+    "Circular",
+    "Triangular"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو شكل علامة «قف» (STOP)؟",
+   "ar_exp": "علامة STOP ثمانية الأضلاع (مثمّنة) وحمراء اللون، وهي الوحيدة بهذا الشكل حتى يتعرّف عليها السائق من الخلف أيضا."
+  },
+  {
+   "level": 1,
+   "q": "La señal de «Ceda el paso» tiene forma de…",
+   "options": [
+    "Círculo azul",
+    "Triángulo con un vértice hacia abajo",
+    "Cuadrado blanco"
+   ],
+   "answer": 1,
+   "ar_q": "علامة «أعطِ الأولوية» شكلها…",
+   "ar_exp": "علامة «Ceda el paso» مثلث مقلوب (رأسه إلى الأسفل) بإطار أحمر."
+  },
+  {
+   "level": 1,
+   "q": "Las señales de advertencia de peligro son, por lo general…",
+   "options": [
+    "Rectangulares azules",
+    "Circulares con borde rojo",
+    "Triangulares con borde rojo"
+   ],
+   "answer": 2,
+   "ar_q": "علامات التحذير من الخطر تكون عادة…",
+   "ar_exp": "علامات الخطر مثلثة الشكل بإطار أحمر ورأسها إلى الأعلى."
+  },
+  {
+   "level": 1,
+   "q": "Una señal circular con fondo azul indica…",
+   "options": [
+    "Un peligro",
+    "Una obligación",
+    "Una prohibición"
+   ],
+   "answer": 1,
+   "ar_q": "العلامة الدائرية ذات الخلفية الزرقاء تدلّ على…",
+   "ar_exp": "العلامات الدائرية الزرقاء هي علامات إلزام، أي تفرض على السائق فعل شيء معيّن."
+  },
+  {
+   "level": 1,
+   "q": "Una señal circular con borde rojo indica, en general…",
+   "options": [
+    "Una obligación",
+    "Una indicación de servicios",
+    "Una prohibición o restricción"
+   ],
+   "answer": 2,
+   "ar_q": "العلامة الدائرية ذات الإطار الأحمر تدلّ عموما على…",
+   "ar_exp": "العلامات الدائرية بإطار أحمر هي علامات منع أو تقييد، مثل منع التجاوز أو حدّ السرعة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué debe hacer ante la luz roja fija de un semáforo?",
+   "options": [
+    "Detenerse antes del semáforo",
+    "Pasar con precaución",
+    "Acelerar para cruzar rápido"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا يجب أن تفعل أمام الضوء الأحمر الثابت في الإشارة الضوئية؟",
+   "ar_exp": "الضوء الأحمر الثابت يمنع المرور، فيجب التوقف قبل الإشارة أو قبل خط التوقف."
+  },
+  {
+   "level": 1,
+   "q": "Un peatón está cruzando por un paso de peatones. ¿Qué debe hacer?",
+   "options": [
+    "Tocar el claxon para que se aparte",
+    "Pasar por detrás de él sin frenar",
+    "Detenerse y dejarle pasar"
+   ],
+   "answer": 2,
+   "ar_q": "راجل يعبر في ممرّ الراجلين. ماذا يجب أن تفعل؟",
+   "ar_exp": "في ممرّ الراجلين الأولوية للراجل، فيجب على السائق التوقف وتركه يعبر."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la velocidad máxima genérica de un turismo en una carretera convencional?",
+   "options": [
+    "90 km/h",
+    "80 km/h",
+    "100 km/h"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي السرعة القصوى العامة للسيارة السياحية في الطريق العادي (غير السيّار)؟",
+   "ar_exp": "حسب النظام العام للسير، السرعة القصوى للسيارات السياحية والدراجات النارية في الطرق العادية هي 90 كم/س."
+  },
+  {
+   "level": 1,
+   "q": "En una vía urbana con dos o más carriles por sentido, la velocidad máxima genérica es…",
+   "options": [
+    "60 km/h",
+    "50 km/h",
+    "30 km/h"
+   ],
+   "answer": 1,
+   "ar_q": "في طريق حضري بمسارين أو أكثر في كل اتجاه، السرعة القصوى العامة هي…",
+   "ar_exp": "داخل المدن: 50 كم/س في الطرق ذات مسارين أو أكثر لكل اتجاه، و30 كم/س بمسار واحد لكل اتجاه، و20 كم/س في الطرق ذات المستوى الواحد للرصيف والطريق."
+  },
+  {
+   "level": 1,
+   "q": "En una vía urbana de plataforma única (calzada y acera al mismo nivel), la velocidad máxima es…",
+   "options": [
+    "20 km/h",
+    "40 km/h",
+    "30 km/h"
+   ],
+   "answer": 0,
+   "ar_q": "في طريق حضري ذي مستوى واحد (الطريق والرصيف على نفس المستوى)، السرعة القصوى هي…",
+   "ar_exp": "الطرق الحضرية ذات المستوى الواحد للطريق والرصيف حدّها الأقصى 20 كم/س."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la tasa máxima de alcohol en sangre para un conductor en general?",
+   "options": [
+    "0,8 gramos por litro",
+    "0,5 gramos por litro",
+    "0,3 gramos por litro"
+   ],
+   "answer": 1,
+   "ar_q": "ما هي النسبة القصوى للكحول في الدم للسائق بصفة عامة؟",
+   "ar_exp": "الحدّ العام هو 0,5 غرام/لتر في الدم (أي 0,25 ملغ/لتر في هواء الزفير). للمبتدئين والمهنيين 0,3 غرام/لتر."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la tasa máxima de alcohol en aire espirado para un conductor en general?",
+   "options": [
+    "0,15 mg/l",
+    "0,50 mg/l",
+    "0,25 mg/l"
+   ],
+   "answer": 2,
+   "ar_q": "ما هي النسبة القصوى للكحول في هواء الزفير للسائق بصفة عامة؟",
+   "ar_exp": "الحدّ العام في هواء الزفير هو 0,25 ملغ/لتر، وللسائقين المبتدئين والمهنيين 0,15 ملغ/لتر."
+  },
+  {
+   "level": 1,
+   "q": "¿Con cuántos puntos empieza un conductor que obtiene su primer permiso?",
+   "options": [
+    "15 puntos",
+    "8 puntos",
+    "12 puntos"
+   ],
+   "answer": 1,
+   "ar_q": "بكم نقطة يبدأ السائق الذي يحصل على رخصته الأولى؟",
+   "ar_exp": "السائق المبتدئ يبدأ بـ 8 نقاط، ويصل إلى 12 نقطة إذا لم يفقد أي نقطة خلال السنتين الأوليين."
+  },
+  {
+   "level": 1,
+   "q": "El saldo general del permiso por puntos de un conductor no novel es de…",
+   "options": [
+    "8 puntos",
+    "6 puntos",
+    "12 puntos"
+   ],
+   "answer": 2,
+   "ar_q": "الرصيد العام لرخصة النقاط لسائق غير مبتدئ هو…",
+   "ar_exp": "الرصيد العادي للرخصة بالنقاط هو 12 نقطة، أما السائق المبتدئ فيبدأ بـ 8 نقاط."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la edad mínima para obtener el permiso B?",
+   "options": [
+    "18 años",
+    "17 años",
+    "16 años"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو السنّ الأدنى للحصول على رخصة الصنف B؟",
+   "ar_exp": "يُشترط بلوغ 18 سنة للحصول على رخصة السياقة من الصنف B."
+  },
+  {
+   "level": 1,
+   "q": "¿Es obligatorio el casco para el conductor de una motocicleta?",
+   "options": [
+    "Solo en carretera",
+    "Solo de noche",
+    "Sí, siempre"
+   ],
+   "answer": 2,
+   "ar_q": "هل الخوذة إجبارية لسائق الدراجة النارية؟",
+   "ar_exp": "الخوذة المعتمدة إجبارية دائما لسائق الدراجة النارية ولراكبها، داخل المدن وخارجها."
+  },
+  {
+   "level": 1,
+   "q": "¿Puede usar el móvil sujetándolo con la mano mientras conduce?",
+   "options": [
+    "No, está prohibido",
+    "Sí, si circula despacio",
+    "Sí, dentro de la ciudad"
+   ],
+   "answer": 0,
+   "ar_q": "هل يمكنك استعمال الهاتف المحمول وأنت تمسكه بيدك أثناء السياقة؟",
+   "ar_exp": "يُمنع استعمال الهاتف المحمول باليد أثناء السياقة في جميع الطرق ومهما كانت السرعة."
+  },
+  {
+   "level": 1,
+   "q": "¿Puede conducir con auriculares conectados a un reproductor de sonido?",
+   "options": [
+    "Sí, solo en autopista",
+    "No, está prohibido",
+    "Sí, con el volumen bajo"
+   ],
+   "answer": 1,
+   "ar_q": "هل يمكنك السياقة وأنت تضع سمّاعات موصولة بجهاز صوت؟",
+   "ar_exp": "يُمنع على السائق استعمال السمّاعات الموصولة بأجهزة الصوت أثناء السياقة لأنها تمنعه من سماع ما حوله."
+  },
+  {
+   "level": 1,
+   "q": "Una ambulancia en servicio de urgencia, con las señales luminosas y acústicas encendidas, ¿tiene preferencia de paso?",
+   "options": [
+    "Sí",
+    "No",
+    "Solo de noche"
+   ],
+   "answer": 0,
+   "ar_q": "سيارة إسعاف في مهمّة مستعجلة وإشاراتها الضوئية والصوتية مشغّلة، هل لها أولوية المرور؟",
+   "ar_exp": "المركبات ذات الأولوية (الإسعاف، الشرطة، المطافئ) في مهمّة مستعجلة وبإشارات ضوئية وصوتية لها الأولوية، ويجب تسهيل مرورها."
+  },
+  {
+   "level": 1,
+   "q": "Por norma general, ¿por qué lado se debe adelantar?",
+   "options": [
+    "Por la derecha",
+    "Por la izquierda",
+    "Por cualquier lado"
+   ],
+   "answer": 1,
+   "ar_q": "كقاعدة عامة، من أيّ جهة يجب التجاوز؟",
+   "ar_exp": "القاعدة العامة أن التجاوز يكون من اليسار، ولا يُسمح من اليمين إلا في حالات خاصة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es el arcén?",
+   "options": [
+    "El carril reservado para adelantar",
+    "La zona de aparcamiento dentro de la ciudad",
+    "La franja al lado de la calzada que no está destinada normalmente a los automóviles"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو «الأرسين» (el arcén)؟",
+   "ar_exp": "الأرسين هو الشريط المحاذي للطريق، غير مخصّص عادة لسير السيارات إلا في حالات استثنائية، وتستعمله مثلا الدراجات."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es la calzada?",
+   "options": [
+    "La zona reservada a los peatones",
+    "La parte de la vía destinada a la circulación de vehículos",
+    "El espacio para aparcar"
+   ],
+   "answer": 1,
+   "ar_q": "ما هي «الكالثادا» (la calzada)؟",
+   "ar_exp": "الكالثادا هي جزء الطريق المخصّص لسير المركبات، وتتكوّن من مسار أو أكثر."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué luces debe llevar encendidas al circular por un túnel?",
+   "options": [
+    "Ninguna, si el túnel está iluminado",
+    "Solo las luces antiniebla",
+    "Al menos las luces de cruce"
+   ],
+   "answer": 2,
+   "ar_q": "ما الأضواء التي يجب تشغيلها عند السير في نفق؟",
+   "ar_exp": "في الأنفاق يجب تشغيل الأضواء القصيرة (de cruce) على الأقل، حتى لو كان النفق مضاءً."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué indica la luz amarilla intermitente de un semáforo?",
+   "options": [
+    "Que debe circular con especial precaución",
+    "Que está prohibido pasar",
+    "Que debe detenerse siempre"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا يعني الضوء الأصفر الوامض في الإشارة الضوئية؟",
+   "ar_exp": "الضوء الأصفر الوامض يعني الانتباه الشديد، ويمكن المرور مع احترام قواعد الأولوية."
+  },
+  {
+   "level": 1,
+   "q": "¿Se puede cruzar una línea longitudinal discontinua?",
+   "options": [
+    "No, nunca",
+    "Solo de noche",
+    "Sí, cuando sea necesario y se haga con seguridad"
+   ],
+   "answer": 2,
+   "ar_q": "هل يمكن عبور خط طولي متقطّع؟",
+   "ar_exp": "الخط المتقطّع يمكن عبوره عند الحاجة، مثلا للتجاوز أو تغيير المسار، بشرط أن يتمّ ذلك بأمان."
+  },
+  {
+   "level": 1,
+   "q": "Por regla general, ¿dónde deben viajar los niños de estatura igual o inferior a 135 cm?",
+   "options": [
+    "En los asientos traseros",
+    "En cualquier asiento",
+    "En el asiento del copiloto"
+   ],
+   "answer": 0,
+   "ar_q": "كقاعدة عامة، أين يجب أن يجلس الأطفال الذين طولهم 135 سم أو أقلّ؟",
+   "ar_exp": "الأطفال الذين لا يتجاوز طولهم 135 سم يجلسون كقاعدة عامة في المقاعد الخلفية، مع استعمال نظام حماية للأطفال مناسب."
+  },
+  {
+   "level": 1,
+   "q": "Si sale de su vehículo por una avería en una carretera interurbana, ¿qué debe ponerse?",
+   "options": [
+    "El casco",
+    "El chaleco reflectante",
+    "Nada, no es necesario"
+   ],
+   "answer": 1,
+   "ar_q": "إذا نزلت من سيارتك بسبب عطل في طريق خارج المدينة، ماذا يجب أن تلبس؟",
+   "ar_exp": "عند النزول من السيارة في طريق خارج المدن يجب لبس السترة العاكسة المعتمدة حتى يراك الآخرون."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa la sigla ITV?",
+   "options": [
+    "Inspección Técnica de Vehículos",
+    "Impuesto de Tráfico de Vehículos",
+    "Identificación del Titular del Vehículo"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا يعني الاختصار ITV؟",
+   "ar_exp": "ITV هو الفحص التقني الدوري للمركبات، ويجب اجتيازه للتأكّد من أن السيارة صالحة للسير."
+  },
+  {
+   "level": 1,
+   "q": "¿Es obligatorio tener un seguro para circular con un coche?",
+   "options": [
+    "No, es voluntario",
+    "Sí, el seguro obligatorio de responsabilidad civil",
+    "Solo si el coche es nuevo"
+   ],
+   "answer": 1,
+   "ar_q": "هل التأمين إجباري للسير بالسيارة؟",
+   "ar_exp": "كل مركبة تسير يجب أن يكون لها تأمين إجباري للمسؤولية المدنية يغطّي الأضرار التي تُلحق بالغير."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo debe indicar que va a salir de una glorieta?",
+   "options": [
+    "Con el claxon",
+    "Con el intermitente izquierdo",
+    "Con el intermitente derecho"
+   ],
+   "answer": 2,
+   "ar_q": "كيف تبيّن أنك ستخرج من الدوّار؟",
+   "ar_exp": "للخروج من الدوّار يجب تشغيل إشارة الانعطاف اليمنى مسبقا."
+  },
+  {
+   "level": 1,
+   "q": "Cuando llueve, la distancia de seguridad con el vehículo de delante debe…",
+   "options": [
+    "Reducirse",
+    "Aumentar",
+    "Ser la misma"
+   ],
+   "answer": 1,
+   "ar_q": "عند المطر، مسافة الأمان مع المركبة التي أمامك يجب أن…",
+   "ar_exp": "على الطريق المبلّل تزداد مسافة الكبح، لذلك يجب زيادة مسافة الأمان."
+  },
+  {
+   "level": 1,
+   "q": "¿Durante cuánto tiempo debe llevar la señal «L» un conductor novel?",
+   "options": [
+    "Durante seis meses",
+    "Durante tres años",
+    "Durante el primer año"
+   ],
+   "answer": 2,
+   "ar_q": "كم من الوقت يجب على السائق المبتدئ وضع علامة «L»؟",
+   "ar_exp": "يجب على السائق المبتدئ وضع علامة L في الخلف خلال السنة الأولى بعد الحصول على الرخصة."
+  },
+  {
+   "level": 1,
+   "q": "¿Puede usar las luces de carretera (largas) en una calle de ciudad suficientemente iluminada?",
+   "options": [
+    "No",
+    "Sí, siempre",
+    "Solo cuando llueve"
+   ],
+   "answer": 0,
+   "ar_q": "هل يمكن استعمال الأضواء الطويلة في شارع داخل المدينة مضاء بشكل كافٍ؟",
+   "ar_exp": "يُمنع استعمال الأضواء الطويلة في الطرق الحضرية المضاءة بشكل كافٍ، ويُستعمل بدلها الأضواء القصيرة أو أضواء الموضع."
+  },
+  {
+   "level": 1,
+   "q": "El cinturón de seguridad es obligatorio…",
+   "options": [
+    "Solo en carretera",
+    "Solo en autopista",
+    "En vías urbanas e interurbanas"
+   ],
+   "answer": 2,
+   "ar_q": "حزام الأمان إجباري…",
+   "ar_exp": "حزام الأمان إجباري في كل الطرق، داخل المدن وخارجها، للسائق وجميع الركاب."
+  },
+  {
+   "level": 1,
+   "q": "¿Está permitido conducir con presencia de drogas en el organismo?",
+   "options": [
+    "No, está prohibido",
+    "Sí, si es poca cantidad",
+    "Sí, dentro de la ciudad"
+   ],
+   "answer": 0,
+   "ar_q": "هل يُسمح بالسياقة مع وجود مخدّرات في الجسم؟",
+   "ar_exp": "يُمنع السياقة مع وجود مخدّرات في الجسم، مهما كانت الكمية."
+  },
+  {
+   "level": 1,
+   "q": "Con el permiso B se pueden conducir…",
+   "options": [
+    "Camiones de cualquier peso",
+    "Turismos de hasta 3.500 kg de masa máxima autorizada",
+    "Autobuses"
+   ],
+   "answer": 1,
+   "ar_q": "برخصة الصنف B يمكن سياقة…",
+   "ar_exp": "رخصة B تسمح بسياقة السيارات التي لا تتجاوز كتلتها القصوى المرخّصة 3.500 كغ، ولا يتجاوز عدد مقاعدها 9 مع السائق."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la velocidad máxima genérica de un turismo en autovía?",
+   "options": [
+    "120 km/h",
+    "130 km/h",
+    "100 km/h"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي السرعة القصوى العامة للسيارة السياحية في الطريق السريع (autovía)؟",
+   "ar_exp": "السرعة القصوى للسيارات السياحية في الطرق السيّارة والطرق السريعة هي 120 كم/س، ما لم تُشر علامة إلى أقلّ من ذلك."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la velocidad mínima de un turismo en autopista, si no hay circunstancias que lo justifiquen?",
+   "options": [
+    "40 km/h",
+    "60 km/h",
+    "80 km/h"
+   ],
+   "answer": 1,
+   "ar_q": "ما هي السرعة الدنيا للسيارة السياحية في الطريق السيّار ما لم توجد ظروف تبرّر غير ذلك؟",
+   "ar_exp": "يُمنع السير بسرعة أقلّ من نصف السرعة القصوى العامة للطريق؛ في الطريق السيّار 120 كم/س، إذن الحدّ الأدنى 60 كم/س."
+  },
+  {
+   "level": 2,
+   "q": "Para adelantar en una carretera convencional, ¿puede superar la velocidad máxima permitida?",
+   "options": [
+    "Sí, en 20 km/h",
+    "Sí, si el adelantamiento es corto",
+    "No, nunca"
+   ],
+   "answer": 2,
+   "ar_q": "للتجاوز في طريق عادي، هل يمكنك تجاوز السرعة القصوى المسموح بها؟",
+   "ar_exp": "أُلغي هامش 20 كم/س الذي كان مسموحا للتجاوز، ولا يجوز الآن تجاوز السرعة القصوى في أي حال."
+  },
+  {
+   "level": 2,
+   "q": "En una intersección sin señalizar, ¿quién tiene preferencia por norma general?",
+   "options": [
+    "El vehículo más grande",
+    "El vehículo que se aproxima por la derecha",
+    "El vehículo que se aproxima por la izquierda"
+   ],
+   "answer": 1,
+   "ar_q": "في تقاطع بلا علامات، من له الأولوية كقاعدة عامة؟",
+   "ar_exp": "في التقاطعات غير المُشار إليها، الأولوية للمركبة القادمة من اليمين."
+  },
+  {
+   "level": 2,
+   "q": "Al incorporarse a una autovía desde un carril de aceleración, usted…",
+   "options": [
+    "Tiene preferencia sobre los que circulan por la autovía",
+    "Debe detenerse siempre al final del carril",
+    "Debe ceder el paso a los vehículos que circulan por la autovía"
+   ],
+   "answer": 2,
+   "ar_q": "عند الاندماج في طريق سريع من مسار التسارع، أنت…",
+   "ar_exp": "من يندمج في الطريق يجب أن يعطي الأولوية للمركبات التي تسير فيه، ويستعمل مسار التسارع لبلوغ سرعة مناسبة."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la tasa máxima de alcohol en sangre para un conductor novel?",
+   "options": [
+    "0,3 gramos por litro",
+    "0,5 gramos por litro",
+    "0,8 gramos por litro"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي النسبة القصوى للكحول في الدم للسائق المبتدئ؟",
+   "ar_exp": "السائق المبتدئ (خلال السنتين الأوليين) والسائق المهني حدّهما 0,3 غرام/لتر في الدم، أي 0,15 ملغ/لتر في هواء الزفير."
+  },
+  {
+   "level": 2,
+   "q": "Si otro vehículo le está adelantando, usted debe…",
+   "options": [
+    "Acelerar para no dejarle pasar",
+    "Frenar bruscamente",
+    "No aumentar la velocidad"
+   ],
+   "answer": 2,
+   "ar_q": "إذا كانت مركبة أخرى تتجاوزك، يجب عليك…",
+   "ar_exp": "السائق الذي يتمّ تجاوزه يجب ألا يزيد سرعته، وأن يلتزم بأقصى يمين الطريق ليسهّل التجاوز."
+  },
+  {
+   "level": 2,
+   "q": "Después de adelantar, usted debe…",
+   "options": [
+    "Volver a su carril en cuanto pueda, sin obligar al adelantado a frenar",
+    "Quedarse en el carril izquierdo",
+    "Frenar delante del vehículo adelantado"
+   ],
+   "answer": 0,
+   "ar_q": "بعد التجاوز، يجب عليك…",
+   "ar_exp": "بعد التجاوز يجب الرجوع إلى المسار الأيمن في أقرب وقت ممكن وبشكل تدريجي، دون إجبار المركبة المتجاوَزة على الفرملة."
+  },
+  {
+   "level": 2,
+   "q": "Al adelantar a una bicicleta, ¿qué separación lateral mínima debe dejar?",
+   "options": [
+    "0,5 metros",
+    "1,5 metros",
+    "1 metro"
+   ],
+   "answer": 1,
+   "ar_q": "عند تجاوز دراجة هوائية، ما هي المسافة الجانبية الدنيا التي يجب تركها؟",
+   "ar_exp": "يجب ترك مسافة جانبية لا تقلّ عن 1,5 متر عند تجاوز الدراجات الهوائية أو النارية."
+  },
+  {
+   "level": 2,
+   "q": "¿Puede adelantar en un cambio de rasante de visibilidad reducida invadiendo el sentido contrario?",
+   "options": [
+    "No",
+    "Sí, con precaución",
+    "Sí, si toca el claxon"
+   ],
+   "answer": 0,
+   "ar_q": "هل يمكنك التجاوز في قمّة مرتفع ذات رؤية محدودة باحتلال الاتجاه المعاكس؟",
+   "ar_exp": "يُمنع التجاوز في المنعطفات وقمم المرتفعات ذات الرؤية المحدودة إذا كان يتطلّب احتلال جهة الاتجاه المعاكس."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué indica la luz amarilla fija de un semáforo?",
+   "options": [
+    "Lo mismo que la luz verde",
+    "Que debe detenerse, salvo que no pueda hacerlo con seguridad",
+    "Que debe acelerar"
+   ],
+   "answer": 1,
+   "ar_q": "ماذا يعني الضوء الأصفر الثابت في الإشارة الضوئية؟",
+   "ar_exp": "الضوء الأصفر الثابت يعني التوقف، إلا إذا كنت قريبا جدا ولا يمكنك التوقف بأمان."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué prevalece sobre todas las demás señales de circulación?",
+   "options": [
+    "Las señales verticales",
+    "Los semáforos",
+    "Las órdenes de los agentes"
+   ],
+   "answer": 2,
+   "ar_q": "ما الذي يتقدّم على جميع علامات المرور الأخرى؟",
+   "ar_exp": "ترتيب الأولوية: أوامر الأعوان أولا، ثم الإشارات المؤقتة، ثم الإشارات الضوئية، ثم العلامات العمودية، ثم العلامات الأرضية."
+  },
+  {
+   "level": 2,
+   "q": "El semáforo está en verde, pero un agente le indica que se detenga. ¿Qué hace?",
+   "options": [
+    "Tocar el claxon y pasar",
+    "Detenerse",
+    "Seguir, porque el semáforo está en verde"
+   ],
+   "answer": 1,
+   "ar_q": "الإشارة الضوئية خضراء لكن شرطي المرور يأمرك بالتوقف. ماذا تفعل؟",
+   "ar_exp": "أوامر شرطي المرور مقدّمة على الإشارات الضوئية، فيجب التوقف."
+  },
+  {
+   "level": 2,
+   "q": "Hay una línea continua junto a una discontinua. ¿Cuándo puede cruzarlas?",
+   "options": [
+    "Siempre",
+    "Nunca",
+    "Cuando la línea discontinua está en su lado"
+   ],
+   "answer": 2,
+   "ar_q": "يوجد خط متصل بجانب خط متقطّع. متى يمكنك عبورهما؟",
+   "ar_exp": "في الخط المزدوج يُحترم الخط الأقرب إليك: إذا كان المتقطّع في جهتك يمكنك العبور، وإذا كان المتصل في جهتك فلا."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuándo se debe usar la luz antiniebla trasera?",
+   "options": [
+    "Con niebla espesa u otras condiciones que reduzcan mucho la visibilidad",
+    "En ciudad, para que le vean mejor",
+    "Siempre que sea de noche"
+   ],
+   "answer": 0,
+   "ar_q": "متى يجب استعمال ضوء الضباب الخلفي؟",
+   "ar_exp": "ضوء الضباب الخلفي يُستعمل فقط في ظروف صعبة جدا تقلّل الرؤية كثيرا، مثل الضباب الكثيف أو المطر الغزير جدا أو الثلج الكثيف."
+  },
+  {
+   "level": 2,
+   "q": "De noche, al cruzarse con otro vehículo, si lleva las luces de carretera, debe…",
+   "options": [
+    "Apagar todas las luces",
+    "Mantener las luces de carretera",
+    "Cambiar a luces de cruce"
+   ],
+   "answer": 2,
+   "ar_q": "ليلا، عند تقاطعك مع مركبة قادمة وأنت تشغّل الأضواء الطويلة، يجب عليك…",
+   "ar_exp": "يجب الانتقال إلى الأضواء القصيرة حتى لا تبهر السائق القادم من الاتجاه المعاكس."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la profundidad mínima legal del dibujo de los neumáticos de un turismo?",
+   "options": [
+    "1,6 milímetros",
+    "0,5 milímetros",
+    "3 milímetros"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو العمق الأدنى القانوني لنقش إطارات السيارة السياحية؟",
+   "ar_exp": "العمق الأدنى القانوني لنقش الإطارات هو 1,6 ملّيمتر في الأخاديد الرئيسية."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuándo debe pasar la primera ITV un turismo particular nuevo?",
+   "options": [
+    "A los 10 años",
+    "A los 4 años",
+    "Al año"
+   ],
+   "answer": 1,
+   "ar_q": "متى يجب أن تجتاز السيارة السياحية الخاصة الجديدة أوّل فحص تقني ITV؟",
+   "ar_exp": "السيارة السياحية الخاصة تجتاز أول فحص بعد 4 سنوات، ثم كل سنتين حتى 10 سنوات، ثم كل سنة."
+  },
+  {
+   "level": 2,
+   "q": "Un turismo particular de entre 4 y 10 años de antigüedad debe pasar la ITV…",
+   "options": [
+    "Cada dos años",
+    "Cada año",
+    "Cada cinco años"
+   ],
+   "answer": 0,
+   "ar_q": "سيارة سياحية خاصة عمرها بين 4 و10 سنوات يجب أن تجتاز الفحص التقني…",
+   "ar_exp": "بين 4 و10 سنوات يكون الفحص كل سنتين، وبعد 10 سنوات كل سنة."
+  },
+  {
+   "level": 2,
+   "q": "Un niño de estatura igual o inferior a 135 cm debe viajar…",
+   "options": [
+    "Sin ningún sistema de sujeción",
+    "En un sistema de retención infantil adaptado a su talla y peso",
+    "Con el cinturón de adulto"
+   ],
+   "answer": 1,
+   "ar_q": "الطفل الذي طوله 135 سم أو أقلّ يجب أن يسافر…",
+   "ar_exp": "الأطفال الذين لا يتجاوز طولهم 135 سم يجب أن يستعملوا نظام حماية خاصا بالأطفال معتمدا ومناسبا لطولهم ووزنهم."
+  },
+  {
+   "level": 2,
+   "q": "¿Está permitido hablar por teléfono con un sistema de manos libres, sin usar las manos ni auriculares?",
+   "options": [
+    "Solo con el coche parado en el arcén",
+    "No, nunca",
+    "Sí"
+   ],
+   "answer": 2,
+   "ar_q": "هل يُسمح بالتحدّث في الهاتف بنظام «اليدين الحرّتين» دون استعمال اليدين ولا السمّاعات؟",
+   "ar_exp": "يُسمح باستعمال الهاتف بنظام اليدين الحرّتين ما دام السائق لا يستعمل يديه ولا يضع سمّاعات، مع أن الأفضل تجنّب المكالمات أثناء السياقة."
+  },
+  {
+   "level": 2,
+   "q": "Un vehículo prioritario se acerca por detrás con las señales luminosas y acústicas. ¿Qué debe hacer?",
+   "options": [
+    "Acelerar para ir delante de él",
+    "Facilitarle el paso, apartándose a la derecha o deteniéndose si es necesario",
+    "Frenar en seco en mitad del carril"
+   ],
+   "answer": 1,
+   "ar_q": "مركبة ذات أولوية تقترب من الخلف بإشاراتها الضوئية والصوتية. ماذا يجب أن تفعل؟",
+   "ar_exp": "يجب تسهيل مرور المركبات ذات الأولوية بالابتعاد إلى اليمين أو التوقف إن لزم الأمر، دون القيام بحركات خطيرة."
+  },
+  {
+   "level": 2,
+   "q": "Si duplica la velocidad, la distancia de frenado…",
+   "options": [
+    "Se duplica",
+    "No cambia",
+    "Se multiplica aproximadamente por cuatro"
+   ],
+   "answer": 2,
+   "ar_q": "إذا ضاعفت السرعة، فإن مسافة الكبح…",
+   "ar_exp": "مسافة الكبح تزداد بمربّع السرعة: عند مضاعفة السرعة تتضاعف مسافة الكبح أربع مرات تقريبا."
+  },
+  {
+   "level": 2,
+   "q": "Por norma general, en autopistas y autovías se circula por el carril…",
+   "options": [
+    "Derecho",
+    "Izquierdo",
+    "Que se prefiera"
+   ],
+   "answer": 0,
+   "ar_q": "كقاعدة عامة، في الطرق السيّارة والسريعة يُسار في المسار…",
+   "ar_exp": "القاعدة هي السير في المسار الأيمن، واستعمال المسارات الأخرى للتجاوز أو عندما تفرض حركة السير ذلك."
+  },
+  {
+   "level": 2,
+   "q": "¿Puede circular marcha atrás por una autovía si se ha pasado la salida?",
+   "options": [
+    "Sí, si no viene nadie",
+    "Sí, por el arcén",
+    "No, está prohibido"
+   ],
+   "answer": 2,
+   "ar_q": "هل يمكنك السير إلى الخلف في طريق سريع إذا تجاوزت المخرج؟",
+   "ar_exp": "يُمنع السير إلى الخلف في الطرق السيّارة والسريعة. إذا تجاوزت المخرج، تابع إلى المخرج التالي."
+  },
+  {
+   "level": 2,
+   "q": "Va a girar a la derecha y hay peatones cruzando la calle en la que va a entrar. ¿Qué hace?",
+   "options": [
+    "Cederles el paso",
+    "Pasar, porque usted tiene preferencia",
+    "Tocar el claxon"
+   ],
+   "answer": 0,
+   "ar_q": "ستنعطف إلى اليمين وهناك راجلون يعبرون الشارع الذي ستدخله. ماذا تفعل؟",
+   "ar_exp": "عند الانعطاف يجب إعطاء الأولوية للراجلين الذين يعبرون الطريق الذي تدخله، حتى لو لم يكن هناك ممرّ راجلين."
+  },
+  {
+   "level": 2,
+   "q": "Al girar, va a cruzar un carril bici por el que circula un ciclista. ¿Quién tiene preferencia?",
+   "options": [
+    "Usted",
+    "El ciclista",
+    "El que llegue primero"
+   ],
+   "answer": 1,
+   "ar_q": "عند الانعطاف ستعبر مسار الدراجات وفيه راكب دراجة. من له الأولوية؟",
+   "ar_exp": "عند عبور مسار مخصّص للدراجات أثناء الانعطاف، يجب إعطاء الأولوية لراكب الدراجة."
+  },
+  {
+   "level": 2,
+   "q": "En una carretera interurbana sin acera ni arcén transitable, los peatones deben caminar…",
+   "options": [
+    "Por el lado izquierdo",
+    "Por el lado derecho",
+    "Por el centro"
+   ],
+   "answer": 0,
+   "ar_q": "في طريق خارج المدينة بلا رصيف ولا حافة صالحة للمشي، يجب على الراجلين المشي…",
+   "ar_exp": "خارج المدن يمشي الراجلون عادة على الجهة اليسرى، أي في مواجهة السيارات القادمة حتى يروها."
+  },
+  {
+   "level": 2,
+   "q": "Desde el 1 de enero de 2026, para señalizar un vehículo inmovilizado en la calzada se utiliza…",
+   "options": [
+    "Los triángulos de emergencia",
+    "La baliza V-16 conectada",
+    "Solo las luces de posición"
+   ],
+   "answer": 1,
+   "ar_q": "منذ 1 يناير 2026، للإشارة إلى مركبة متوقفة في الطريق يُستعمل…",
+   "ar_exp": "منذ 1 يناير 2026 أصبح المصباح التحذيري V-16 المتصل بمنصّة DGT هو الوسيلة الإجبارية للإشارة، وحلّ محلّ المثلثات."
+  },
+  {
+   "level": 2,
+   "q": "Si le deslumbra un vehículo que viene de frente, debe…",
+   "options": [
+    "Poner las luces de carretera",
+    "Mirar directamente a sus luces",
+    "Reducir la velocidad y mirar hacia el borde derecho de la calzada"
+   ],
+   "answer": 2,
+   "ar_q": "إذا أبهرتك أضواء مركبة قادمة من الأمام، يجب عليك…",
+   "ar_exp": "عند الانبهار يجب تخفيف السرعة والنظر نحو الحافة اليمنى للطريق، وعدم الردّ بالأضواء الطويلة."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuándo se puede adelantar por la derecha?",
+   "options": [
+    "Nunca",
+    "Cuando el vehículo de delante indica que va a girar a la izquierda y deja espacio suficiente",
+    "Siempre que el carril derecho esté libre"
+   ],
+   "answer": 1,
+   "ar_q": "متى يمكن التجاوز من اليمين؟",
+   "ar_exp": "يُسمح بالتجاوز من اليمين عندما تشير المركبة التي أمامك إلى الانعطاف يسارا وتترك مساحة كافية."
+  },
+  {
+   "level": 2,
+   "q": "En una vía de doble sentido de circulación, ¿en qué lado se debe estacionar?",
+   "options": [
+    "En el lado izquierdo",
+    "En cualquier lado",
+    "En el lado derecho"
+   ],
+   "answer": 2,
+   "ar_q": "في طريق ذي اتجاهين، في أي جهة يجب ركن السيارة؟",
+   "ar_exp": "في الطرق ذات الاتجاهين يكون التوقف والركن على الجهة اليمنى حسب اتجاه السير."
+  },
+  {
+   "level": 3,
+   "q": "Conducir con una tasa de alcohol en aire espirado superior a… es delito, aunque no haya otros síntomas.",
+   "options": [
+    "0,60 mg/l",
+    "0,40 mg/l",
+    "0,25 mg/l"
+   ],
+   "answer": 0,
+   "ar_q": "السياقة بنسبة كحول في هواء الزفير تفوق… تُعتبر جريمة، حتى بدون أعراض أخرى.",
+   "ar_exp": "حسب القانون الجنائي، تُعتبر السياقة بنسبة تفوق 0,60 ملغ/لتر في هواء الزفير أو 1,2 غرام/لتر في الدم جريمة."
+  },
+  {
+   "level": 3,
+   "q": "Si un agente le requiere para hacer la prueba de alcoholemia y usted se niega, comete…",
+   "options": [
+    "Nada, es voluntaria",
+    "Una infracción leve",
+    "Un delito"
+   ],
+   "answer": 2,
+   "ar_q": "إذا طلب منك شرطي إجراء اختبار الكحول ورفضت، فأنت ترتكب…",
+   "ar_exp": "رفض إجراء اختبارات الكحول أو المخدّرات عند طلب العون المختص يُعتبر جريمة في القانون الجنائي."
+  },
+  {
+   "level": 3,
+   "q": "En una vía urbana, conducir superando la velocidad permitida en más de… es delito.",
+   "options": [
+    "60 km/h",
+    "40 km/h",
+    "20 km/h"
+   ],
+   "answer": 0,
+   "ar_q": "في طريق حضري، السياقة بسرعة تفوق المسموح بها بأكثر من… تُعتبر جريمة.",
+   "ar_exp": "تجاوز السرعة المسموح بها بأكثر من 60 كم/س داخل المدن، أو بأكثر من 80 كم/س خارجها، يُعتبر جريمة."
+  },
+  {
+   "level": 3,
+   "q": "En una vía interurbana, conducir superando la velocidad permitida en más de… es delito.",
+   "options": [
+    "50 km/h",
+    "80 km/h",
+    "30 km/h"
+   ],
+   "answer": 1,
+   "ar_q": "في طريق خارج المدن، السياقة بسرعة تفوق المسموح بها بأكثر من… تُعتبر جريمة.",
+   "ar_exp": "تجاوز السرعة المسموح بها بأكثر من 80 كم/س في الطرق خارج المدن يُعتبر جريمة، وداخل المدن بأكثر من 60 كم/س."
+  },
+  {
+   "level": 3,
+   "q": "Si pierde todos los puntos, ¿cuánto tiempo debe esperar, como conductor no profesional, para obtener de nuevo el permiso?",
+   "options": [
+    "Seis meses",
+    "Un mes",
+    "Cinco años"
+   ],
+   "answer": 0,
+   "ar_q": "إذا فقدت كل النقاط، كم يجب أن تنتظر، كسائق غير مهني، للحصول على الرخصة من جديد؟",
+   "ar_exp": "عند فقدان كل النقاط تفقد الرخصة صلاحيتها، ويجب انتظار 6 أشهر (3 أشهر للمهنيين) واجتياز دورة إعادة التأهيل وامتحان نظري."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuántos puntos se pueden recuperar con un curso de recuperación parcial?",
+   "options": [
+    "Hasta 12 puntos",
+    "Hasta 6 puntos",
+    "Hasta 2 puntos"
+   ],
+   "answer": 1,
+   "ar_q": "كم نقطة يمكن استرجاعها بدورة الاسترجاع الجزئي؟",
+   "ar_exp": "دورة التوعية وإعادة التأهيل للاسترجاع الجزئي تسمح باسترجاع ما يصل إلى 6 نقاط."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuál es el periodo de vigencia del permiso B para un conductor menor de 65 años?",
+   "options": [
+    "Indefinido",
+    "5 años",
+    "10 años"
+   ],
+   "answer": 2,
+   "ar_q": "ما هي مدة صلاحية رخصة B لسائق عمره أقلّ من 65 سنة؟",
+   "ar_exp": "رخصة B صالحة 10 سنوات للسائقين دون 65 سنة، و5 سنوات ابتداء من 65 سنة."
+  },
+  {
+   "level": 3,
+   "q": "A partir de los 65 años, el permiso B se renueva cada…",
+   "options": [
+    "10 años",
+    "5 años",
+    "2 años"
+   ],
+   "answer": 1,
+   "ar_q": "ابتداء من 65 سنة، تُجدَّد رخصة B كل…",
+   "ar_exp": "ابتداء من 65 سنة تصبح صلاحية رخصة B خمس سنوات بدل عشر."
+  },
+  {
+   "level": 3,
+   "q": "En España, con el permiso B y más de tres años de antigüedad, se pueden conducir motocicletas de hasta…",
+   "options": [
+    "250 cc",
+    "Cualquier cilindrada",
+    "125 cc"
+   ],
+   "answer": 2,
+   "ar_q": "في إسبانيا، برخصة B وأقدمية تفوق ثلاث سنوات، يمكن سياقة الدراجات النارية حتى…",
+   "ar_exp": "في إسبانيا تسمح رخصة B بعد ثلاث سنوات من الحصول عليها بسياقة الدراجات النارية حتى 125 سم³ (وبقدرة لا تتجاوز 11 كيلوواط)."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuántas plazas, incluido el conductor, puede tener como máximo un vehículo que se conduce con el permiso B?",
+   "options": [
+    "9",
+    "7",
+    "12"
+   ],
+   "answer": 0,
+   "ar_q": "كم مقعدا كحدّ أقصى، مع مقعد السائق، يمكن أن تحتوي المركبة التي تُساق برخصة B؟",
+   "ar_exp": "رخصة B تسمح بسياقة مركبات لا يتجاوز عدد مقاعدها 9 مع السائق، ولا تتجاوز كتلتها 3.500 كغ."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es una parada?",
+   "options": [
+    "Una inmovilización de más de dos minutos",
+    "Una inmovilización por un semáforo en rojo",
+    "Una inmovilización de no más de dos minutos sin que el conductor abandone el vehículo"
+   ],
+   "answer": 2,
+   "ar_q": "ما هي «الوقفة القصيرة» (parada)؟",
+   "ar_exp": "الـ parada هي توقيف المركبة لمدة لا تتجاوز دقيقتين دون أن يغادرها السائق. أكثر من ذلك يُعتبر ركنا (estacionamiento)."
+  },
+  {
+   "level": 3,
+   "q": "La inmovilización de un vehículo por necesidades de la circulación, por ejemplo ante un semáforo en rojo, se denomina…",
+   "options": [
+    "Detención",
+    "Parada",
+    "Estacionamiento"
+   ],
+   "answer": 0,
+   "ar_q": "توقيف المركبة بسبب ضرورة السير، مثلا أمام ضوء أحمر، يُسمّى…",
+   "ar_exp": "الـ detención هي التوقف بسبب حالة طارئة أو ازدحام أو لاحترام قاعدة مثل الضوء الأحمر."
+  },
+  {
+   "level": 3,
+   "q": "Un menor de estatura entre 135 y 150 cm…",
+   "options": [
+    "No puede viajar en un turismo",
+    "Puede usar el cinturón de adulto o un sistema de retención infantil adecuado",
+    "Debe viajar sin cinturón"
+   ],
+   "answer": 1,
+   "ar_q": "قاصر طوله بين 135 و150 سم…",
+   "ar_exp": "الأطفال بين 135 و150 سم يمكنهم استعمال حزام الأمان العادي أو نظام حماية للأطفال مناسب."
+  },
+  {
+   "level": 3,
+   "q": "Un niño de 120 cm puede viajar en el asiento delantero, utilizando un sistema de retención adecuado, cuando…",
+   "options": [
+    "El vehículo no tiene asientos traseros",
+    "Los padres lo autorizan",
+    "El viaje es corto"
+   ],
+   "answer": 0,
+   "ar_q": "طفل طوله 120 سم يمكنه الجلوس في المقعد الأمامي، مع نظام حماية مناسب، عندما…",
+   "ar_exp": "الاستثناءات المسموح بها: عدم وجود مقاعد خلفية، أو امتلاؤها بأطفال آخرين، أو استحالة تركيب أنظمة الحماية فيها؛ ومع ذلك يجب استعمال نظام حماية مناسب."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuántos puntos se pierden por conducir utilizando el móvil sujeto con la mano?",
+   "options": [
+    "2 puntos",
+    "6 puntos",
+    "Ninguno, solo hay multa"
+   ],
+   "answer": 1,
+   "ar_q": "كم نقطة يفقد السائق إذا ساق وهو يستعمل الهاتف ممسكا به بيده؟",
+   "ar_exp": "استعمال الهاتف المحمول باليد أثناء السياقة مخالفة خطيرة تُفقِد 6 نقاط إضافة إلى الغرامة."
+  },
+  {
+   "level": 3,
+   "q": "La tasa de alcohol de 0,3 g/l en sangre se aplica a los conductores noveles durante…",
+   "options": [
+    "El primer año",
+    "Los cinco primeros años",
+    "Los dos años siguientes a la obtención del permiso"
+   ],
+   "answer": 2,
+   "ar_q": "نسبة الكحول 0,3 غرام/لتر في الدم تُطبّق على السائقين المبتدئين خلال…",
+   "ar_exp": "يُعتبر السائق مبتدئا بالنسبة لحدّ الكحول خلال السنتين التاليتين للحصول على الرخصة، وحدّه 0,3 غرام/لتر في الدم."
+  },
+  {
+   "level": 3,
+   "q": "Si una señal vertical contradice una marca vial, ¿cuál debe obedecer?",
+   "options": [
+    "Ninguna de las dos",
+    "La señal vertical",
+    "La marca vial"
+   ],
+   "answer": 1,
+   "ar_q": "إذا تعارضت علامة عمودية مع علامة أرضية، أيّهما يجب احترامها؟",
+   "ar_exp": "حسب ترتيب الأولوية، العلامات العمودية مقدّمة على العلامات الأرضية المرسومة على الطريق."
+  },
+  {
+   "level": 3,
+   "q": "Si un semáforo contradice a una señal vertical, ¿qué debe obedecer?",
+   "options": [
+    "La señal vertical",
+    "Lo que le parezca más seguro",
+    "El semáforo"
+   ],
+   "answer": 2,
+   "ar_q": "إذا تعارضت إشارة ضوئية مع علامة عمودية، ماذا يجب أن تحترم؟",
+   "ar_exp": "الإشارات الضوئية مقدّمة على العلامات العمودية، وأوامر الأعوان مقدّمة على الجميع."
+  },
+  {
+   "level": 3,
+   "q": "Para salir de una glorieta de varios carriles, debe…",
+   "options": [
+    "Situarse con antelación en el carril exterior (derecho)",
+    "Salir directamente desde el carril interior",
+    "Detenerse dentro de la glorieta"
+   ],
+   "answer": 0,
+   "ar_q": "للخروج من دوّار متعدّد المسارات، يجب عليك…",
+   "ar_exp": "يجب الانتقال مسبقا وبأمان إلى المسار الخارجي (الأيمن) ثم الخروج، ولا يجوز الخروج مباشرة من المسار الداخلي قاطعا طريق الآخرين."
+  },
+  {
+   "level": 3,
+   "q": "Conducir un vehículo a motor sin haber obtenido nunca el permiso de conducción es…",
+   "options": [
+    "Una infracción leve",
+    "Legal si se conduce con cuidado",
+    "Un delito"
+   ],
+   "answer": 2,
+   "ar_q": "سياقة مركبة ذات محرّك دون الحصول على رخصة سياقة أبدا تُعتبر…",
+   "ar_exp": "السياقة دون الحصول على رخصة سياقة قط جريمة يعاقب عليها القانون الجنائي."
+  },
+  {
+   "level": 3,
+   "q": "Una tasa de 0,5 g/l de alcohol en sangre equivale a…",
+   "options": [
+    "0,25 mg/l en aire espirado",
+    "0,15 mg/l en aire espirado",
+    "0,50 mg/l en aire espirado"
+   ],
+   "answer": 0,
+   "ar_q": "نسبة 0,5 غرام/لتر من الكحول في الدم تعادل…",
+   "ar_exp": "0,5 غرام/لتر في الدم تعادل 0,25 ملغ/لتر في هواء الزفير، و0,3 في الدم تعادل 0,15 في الهواء."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué cubre el seguro obligatorio del automóvil?",
+   "options": [
+    "Los daños del propio vehículo",
+    "Los daños personales y materiales causados a terceros",
+    "El robo del vehículo"
+   ],
+   "answer": 1,
+   "ar_q": "ماذا يغطّي التأمين الإجباري للسيارة؟",
+   "ar_exp": "التأمين الإجباري يغطّي المسؤولية المدنية، أي الأضرار الجسدية والمادية التي تُلحقها بالغير. أضرار سيارتك أو سرقتها تحتاج تأمينا اختياريا."
+  }
+ ]
+}

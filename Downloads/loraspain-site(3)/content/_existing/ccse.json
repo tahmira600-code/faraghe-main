@@ -1,0 +1,215 @@
+{
+ "topic": {
+  "id": "ccse",
+  "kind": "package",
+  "name": "الجنسية الإسبانية",
+  "name_es": "Nacionalidad (CCSE)",
+  "emoji": "📜",
+  "color": "c6",
+  "tier": "paid",
+  "price_cents": 400,
+  "blurb": "مفردات وأسئلة التحضير لامتحان CCSE",
+  "sort": 6,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "emoji": "📕",
+   "es": "la nacionalidad",
+   "tr": {
+    "ar": "الجنسية"
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "emoji": "📘",
+   "es": "la Constitución",
+   "tr": {
+    "ar": "الدستور"
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "emoji": "👑",
+   "es": "el Rey",
+   "tr": {
+    "ar": "الملك"
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "ccse",
+   "level": 2,
+   "emoji": "🏛️",
+   "es": "el Gobierno",
+   "tr": {
+    "ar": "الحكومة"
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "ccse",
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "los derechos y deberes",
+   "tr": {
+    "ar": "الحقوق والواجبات"
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "ccse",
+   "level": 2,
+   "emoji": "🗂️",
+   "es": "el Registro Civil",
+   "tr": {
+    "ar": "السجل المدني"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "ccse",
+   "level": 3,
+   "emoji": "🏟️",
+   "es": "las Cortes Generales",
+   "tr": {
+    "ar": "البرلمان الإسباني (الكورتيس)"
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "ccse",
+   "level": 3,
+   "emoji": "✋",
+   "es": "jurar la Constitución",
+   "tr": {
+    "ar": "أداء اليمين على الدستور"
+   },
+   "section": "",
+   "sort": 7
+  }
+ ],
+ "questions": [
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "q": "¿Cuál es la capital de España?",
+   "options": [
+    "Barcelona",
+    "Madrid",
+    "Sevilla"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "ما هي عاصمة إسبانيا؟",
+     "exp": "عاصمة إسبانيا هي مدريد."
+    }
+   },
+   "sort": 0
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "q": "¿En qué año se aprobó la Constitución española?",
+   "options": [
+    "1975",
+    "1978",
+    "1986"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "في أي سنة تمت المصادقة على الدستور الإسباني؟",
+     "exp": "صودق على الدستور الإسباني في استفتاء سنة 1978."
+    }
+   },
+   "sort": 1
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "q": "¿Cuál es la forma política del Estado español?",
+   "options": [
+    "República federal",
+    "Monarquía parlamentaria",
+    "Monarquía absoluta"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "ما هو النظام السياسي للدولة الإسبانية؟",
+     "exp": "إسبانيا ملكية برلمانية: فيها ملك، والبرلمان والحكومة يسيّران السياسة."
+    }
+   },
+   "sort": 2
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "q": "¿Cuántas comunidades autónomas tiene España?",
+   "options": [
+    "15",
+    "17",
+    "19"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "كم عدد الجهات المستقلة ذاتيا في إسبانيا؟",
+     "exp": "في إسبانيا 17 جهة مستقلة ذاتيا، بالإضافة إلى مدينتين مستقلتين هما سبتة ومليلية."
+    }
+   },
+   "sort": 3
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "q": "¿Cuál es la lengua oficial en todo el Estado?",
+   "options": [
+    "El castellano",
+    "El catalán",
+    "El inglés"
+   ],
+   "answer": 0,
+   "tr": {
+    "ar": {
+     "q": "ما هي اللغة الرسمية في كل الدولة؟",
+     "exp": "القشتالية (الإسبانية) رسمية في كل الدولة، وبعض الجهات لها لغة رسمية ثانية مثل الكتالانية."
+    }
+   },
+   "sort": 4
+  },
+  {
+   "topic_id": "ccse",
+   "level": 1,
+   "q": "¿Qué número de teléfono se usa para emergencias en toda la Unión Europea?",
+   "options": [
+    "091",
+    "112",
+    "061"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "ما هو رقم الطوارئ في كل الاتحاد الأوروبي؟",
+     "exp": "الرقم 112 هو رقم الطوارئ الموحّد في الاتحاد الأوروبي، ومجاني."
+    }
+   },
+   "sort": 5
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "topic": {
+  "id": "admin",
+  "kind": "topic",
+  "name": "الإدارات والوثائق",
+  "name_es": "Administración y papeles",
+  "emoji": "🏛️",
+  "color": "c3",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "المواعيد والأوراق والإقامة",
+  "sort": 2,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "admin",
+   "level": 1,
+   "emoji": "🛂",
+   "es": "el pasaporte",
+   "tr": {
+    "ar": "جواز السفر"
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "admin",
+   "level": 1,
+   "emoji": "✍️",
+   "es": "Firme aquí, por favor.",
+   "tr": {
+    "ar": "وقّع هنا من فضلك."
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "admin",
+   "level": 1,
+   "emoji": "📄",
+   "es": "¿Qué documentos necesito?",
+   "tr": {
+    "ar": "ما الوثائق التي أحتاجها؟"
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "admin",
+   "level": 2,
+   "emoji": "🆔",
+   "es": "el NIE",
+   "tr": {
+    "ar": "رقم هوية الأجنبي"
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "admin",
+   "level": 2,
+   "emoji": "💳",
+   "es": "la tarjeta de residencia",
+   "tr": {
+    "ar": "بطاقة الإقامة"
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "admin",
+   "level": 2,
+   "emoji": "📍",
+   "es": "el empadronamiento",
+   "tr": {
+    "ar": "التسجيل في سجل سكان البلدية"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "admin",
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "Quiero pedir cita previa.",
+   "tr": {
+    "ar": "أريد أن أطلب موعدا مسبقا."
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "admin",
+   "level": 3,
+   "emoji": "🔄",
+   "es": "Tengo que renovar mi permiso de residencia.",
+   "tr": {
+    "ar": "يجب أن أجدّد تصريح إقامتي."
+   },
+   "section": "",
+   "sort": 7
+  },
+  {
+   "topic_id": "admin",
+   "level": 3,
+   "emoji": "🏢",
+   "es": "la Seguridad Social",
+   "tr": {
+    "ar": "الضمان الاجتماعي"
+   },
+   "section": "",
+   "sort": 8
+  },
+  {
+   "topic_id": "admin",
+   "level": 3,
+   "emoji": "📝",
+   "es": "Hay que rellenar este formulario.",
+   "tr": {
+    "ar": "يجب ملء هذه الاستمارة."
+   },
+   "section": "",
+   "sort": 9
+  }
+ ],
+ "questions": []
+}

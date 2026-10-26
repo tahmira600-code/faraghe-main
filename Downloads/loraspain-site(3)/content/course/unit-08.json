@@ -1,0 +1,363 @@
+{
+  "unit": 8,
+  "level": 2,
+  "title_ar": "الصحة والماضي القريب والمعاملات",
+  "title_es": "La salud, el pasado reciente y los trámites",
+  "emoji": "🩺",
+  "lessons": [
+    {
+      "id": "u08-l1",
+      "title_ar": "الجسم والألم",
+      "title_es": "El cuerpo y el dolor",
+      "emoji": "🤕",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء أعضاء الجسم، وكيف تقول ما يؤلمك باستعمال me duele وtengo.",
+      "explain": [
+        {
+          "h": "me duele / me duelen",
+          "p": "doler (يؤلم) يعمل مثل gustar: me duele + مفرد، me duelen + جمع. ويتغير فيه o إلى ue.",
+          "ex": [
+            ["Me duele la cabeza.", "رأسي يؤلمني."],
+            ["Me duelen los pies.", "قدماي تؤلمانني."]
+          ]
+        },
+        {
+          "h": "مع أشخاص آخرين",
+          "p": "te duele، le duele، nos duele، les duele. ومع أعضاء الجسم نستعمل el / la وليس mi.",
+          "ex": [
+            ["¿Te duele la espalda?", "هل يؤلمك ظهرك؟"],
+            ["A mi hijo le duele el oído.", "ابني تؤلمه أذنه."]
+          ]
+        },
+        {
+          "h": "tener وestar مع الأعراض",
+          "p": "نستعمل tener مع: fiebre (حمى)، tos (سعال)، gripe (إنفلونزا)، dolor de + عضو. ونستعمل estar مع الحالات: estar mareado (دائخ)، estar resfriado (مصاب بالزكام).",
+          "ex": [
+            ["Tengo fiebre y tos.", "عندي حمى وسعال."],
+            ["Tengo dolor de muelas.", "عندي ألم في الأضراس."],
+            ["Estoy resfriado.", "أنا مصاب بالزكام."]
+          ]
+        },
+        {
+          "h": "السؤال عن الحالة",
+          "p": "¿Qué te pasa؟ أو ¿Qué le pasa؟ = ما بك؟ ¿Desde cuándo؟ = منذ متى؟ والجواب: Desde ayer أو Desde hace tres días.",
+          "ex": [
+            ["—¿Qué le pasa? —Me duele el estómago.", "— ما بك؟ — معدتي تؤلمني."],
+            ["Tengo tos desde hace una semana.", "عندي سعال منذ أسبوع."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "la cabeza", "ar": "الرأس", "e": "🤕" },
+        { "es": "la espalda", "ar": "الظهر", "e": "" },
+        { "es": "el estómago", "ar": "المعدة", "e": "" },
+        { "es": "la garganta", "ar": "الحلق", "e": "" },
+        { "es": "el brazo", "ar": "الذراع", "e": "💪" },
+        { "es": "la pierna", "ar": "الساق", "e": "🦵" },
+        { "es": "el pie", "ar": "القدم", "e": "🦶" },
+        { "es": "la mano", "ar": "اليد", "e": "✋" },
+        { "es": "el ojo", "ar": "العين", "e": "👁️" },
+        { "es": "el oído", "ar": "الأذن (السمع)", "e": "👂" },
+        { "es": "la fiebre", "ar": "الحمى", "e": "🤒" },
+        { "es": "la tos", "ar": "السعال", "e": "😷" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, Ahmed. ¡Qué mala cara! ¿Qué te pasa?", "ar": "مرحبًا يا أحمد. تبدو متعبًا! ما بك؟" },
+        { "who": "B", "es": "Me duele mucho la garganta y tengo un poco de fiebre.", "ar": "حلقي يؤلمني كثيرًا وعندي قليل من الحمى." },
+        { "who": "A", "es": "¿Desde cuándo?", "ar": "منذ متى؟" },
+        { "who": "B", "es": "Desde ayer por la noche. También me duele la cabeza.", "ar": "منذ البارحة في الليل. ورأسي يؤلمني أيضًا." },
+        { "who": "A", "es": "Tienes que ir al médico. No puedes trabajar así.", "ar": "يجب أن تذهب إلى الطبيب. لا تستطيع أن تعمل هكذا." },
+        { "who": "B", "es": "Sí, voy a llamar al centro de salud ahora.", "ar": "نعم، سأتصل بالمركز الصحي الآن." }
+      ],
+      "quiz": [
+        { "q": "Me ___ la espalda.", "o": ["duele", "duelen", "dolo"], "a": 0, "why": "la espalda مفرد، لذلك duele." },
+        { "q": "Me ___ los ojos.", "o": ["duele", "duelen", "duelo"], "a": 1, "why": "los ojos جمع، لذلك duelen." },
+        { "q": "A mi hija ___ duele el oído.", "o": ["me", "les", "le"], "a": 2, "why": "mi hija شخص واحد (هي)، فنستعمل le." },
+        { "q": "كيف تقول: عندي حمى؟", "o": ["Estoy fiebre.", "Tengo fiebre.", "Me duele fiebre."], "a": 1, "why": "مع fiebre نستعمل tener." },
+        { "q": "Tengo tos desde ___ tres días.", "o": ["hace", "hay", "desde"], "a": 0, "why": "منذ + مدة = desde hace + مدة." }
+      ]
+    },
+    {
+      "id": "u08-l2",
+      "title_ar": "في المركز الصحي",
+      "title_es": "En el centro de salud",
+      "emoji": "🏥",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تطلب موعدًا مع الطبيب، وتفهم أسئلته، وتأخذ الدواء من الصيدلية.",
+      "explain": [
+        {
+          "h": "طلب موعد",
+          "p": "تحتاج la tarjeta sanitaria (البطاقة الصحية). يمكنك أن تطلب cita (موعدًا) بالهاتف أو بالإنترنت أو في الاستقبال. el médico de cabecera = طبيب الأسرة.",
+          "ex": [
+            ["Quería pedir cita con mi médico de cabecera.", "أريد أن أطلب موعدًا مع طبيب الأسرة."],
+            ["¿Tiene la tarjeta sanitaria?", "هل معك البطاقة الصحية؟"]
+          ]
+        },
+        {
+          "h": "عند الطبيب",
+          "p": "سيسألك الطبيب: ¿Qué le pasa؟ (ما بك؟) و¿Es alérgico a algún medicamento؟ (هل عندك حساسية من دواء ما؟). وقد يقول: Abra la boca (افتح فمك)، Respire hondo (تنفّس بعمق).",
+          "ex": [
+            ["¿Es alérgico a algún medicamento?", "هل عندك حساسية من دواء ما؟"],
+            ["Respire hondo, por favor.", "تنفّس بعمق من فضلك."]
+          ]
+        },
+        {
+          "h": "الوصفة والدواء",
+          "p": "la receta = الوصفة الطبية. las pastillas = الحبوب. el jarabe = الشراب الدوائي. cada ocho horas = كل ثماني ساعات.",
+          "ex": [
+            ["Tome una pastilla cada ocho horas.", "خذ حبة كل ثماني ساعات."],
+            ["Necesita receta para este medicamento.", "تحتاج وصفة لهذا الدواء."]
+          ]
+        },
+        {
+          "h": "الطوارئ والإجازة المرضية",
+          "p": "في الحالات الخطيرة اذهب إلى urgencias (قسم الطوارئ) أو اتصل بالرقم 112. وla baja = الإجازة المرضية من العمل.",
+          "ex": [
+            ["Mi hijo tiene mucha fiebre. Vamos a urgencias.", "ابني عنده حمى شديدة. سنذهب إلى الطوارئ."],
+            ["El médico me da la baja por tres días.", "الطبيب يعطيني إجازة مرضية لثلاثة أيام."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "la cita", "ar": "الموعد", "e": "📅" },
+        { "es": "la tarjeta sanitaria", "ar": "البطاقة الصحية", "e": "💳" },
+        { "es": "el médico de cabecera", "ar": "طبيب الأسرة", "e": "👨‍⚕️" },
+        { "es": "la receta", "ar": "الوصفة الطبية", "e": "📝" },
+        { "es": "la pastilla", "ar": "الحبة (دواء)", "e": "💊" },
+        { "es": "el jarabe", "ar": "الشراب الدوائي", "e": "🧴" },
+        { "es": "el medicamento", "ar": "الدواء", "e": "⚕️" },
+        { "es": "urgencias", "ar": "الطوارئ", "e": "🚑" },
+        { "es": "la alergia", "ar": "الحساسية", "e": "🤧" },
+        { "es": "la baja", "ar": "الإجازة المرضية", "e": "🛌" },
+        { "es": "la enfermera", "ar": "الممرضة", "e": "🧑‍⚕️" },
+        { "es": "la consulta", "ar": "غرفة الفحص / العيادة", "e": "🚪" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. Siéntese. ¿Qué le pasa?", "ar": "صباح الخير. اجلس. ما بك؟" },
+        { "who": "B", "es": "Buenos días, doctora. Tengo tos y fiebre desde hace tres días.", "ar": "صباح الخير يا دكتورة. عندي سعال وحمى منذ ثلاثة أيام." },
+        { "who": "A", "es": "Vamos a ver. Abra la boca... Respire hondo. ¿Es alérgico a algún medicamento?", "ar": "لنرَ. افتح فمك... تنفّس بعمق. هل عندك حساسية من دواء ما؟" },
+        { "who": "B", "es": "No, a ninguno.", "ar": "لا، من أي دواء." },
+        { "who": "A", "es": "Tiene una infección de garganta. Le doy una receta: una pastilla cada ocho horas durante siete días.", "ar": "عندك التهاب في الحلق. سأعطيك وصفة: حبة كل ثماني ساعات لمدة سبعة أيام." },
+        { "who": "B", "es": "¿Puedo ir a trabajar?", "ar": "هل يمكنني أن أذهب إلى العمل؟" },
+        { "who": "A", "es": "No, le doy la baja hasta el lunes.", "ar": "لا، سأعطيك إجازة مرضية حتى يوم الإثنين." }
+      ],
+      "quiz": [
+        { "q": "ما معنى la receta عند الطبيب؟", "o": ["الفاتورة", "الوصفة الطبية", "الموعد"], "a": 1, "why": "la receta = الوصفة الطبية." },
+        { "q": "طبيب الأسرة:", "o": ["el médico de cabecera", "el médico de urgencias", "la farmacéutica"], "a": 0, "why": "el médico de cabecera = طبيب الأسرة." },
+        { "q": "Tome el jarabe ___ ocho horas.", "o": ["por", "todo", "cada"], "a": 2, "why": "cada ocho horas = كل ثماني ساعات." },
+        { "q": "ما معنى: ¿Es alérgico a algún medicamento؟", "o": ["هل تأخذ دواء؟", "هل عندك حساسية من دواء ما؟", "هل تحتاج دواء؟"], "a": 1, "why": "alérgico = عنده حساسية، وmedicamento = دواء." },
+        { "q": "رقم الطوارئ العام في إسبانيا هو:", "o": ["112", "911", "999"], "a": 0, "why": "الرقم 112 هو رقم الطوارئ في إسبانيا." }
+      ]
+    },
+    {
+      "id": "u08-l3",
+      "title_ar": "الماضي القريب: pretérito perfecto",
+      "title_es": "El pretérito perfecto",
+      "emoji": "⏮️",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تتحدث عما فعلته اليوم أو هذا الأسبوع باستعمال haber + اسم المفعول (participio).",
+      "explain": [
+        {
+          "h": "التركيب",
+          "p": "pretérito perfecto = الفعل haber في الحاضر + participio. تصريف haber: he، has، ha، hemos، habéis، han.",
+          "ex": [
+            ["He trabajado mucho hoy.", "عملت كثيرًا اليوم."],
+            ["¿Has comido?", "هل أكلت؟"]
+          ]
+        },
+        {
+          "h": "صياغة participio",
+          "p": "أفعال -ar تصبح -ado: trabajar ← trabajado. أفعال -er و-ir تصبح -ido: comer ← comido، vivir ← vivido. ولا يتغير مع المؤنث أو الجمع.",
+          "ex": [
+            ["Ella ha llegado tarde.", "هي وصلت متأخرة."],
+            ["Mis hijos han dormido bien.", "أولادي ناموا جيدًا."]
+          ]
+        },
+        {
+          "h": "متى نستعمله؟",
+          "p": "للأحداث التي وقعت في زمن لم ينتهِ بعد: hoy، esta mañana، esta semana، este mes، este año. ومع alguna vez (من قبل) وnunca (لم ... قط).",
+          "ex": [
+            ["Esta mañana he ido al banco.", "هذا الصباح ذهبت إلى البنك."],
+            ["¿Has estado alguna vez en Barcelona?", "هل زرت برشلونة من قبل؟"]
+          ]
+        },
+        {
+          "h": "مكان no والضمائر",
+          "p": "لا نفصل أبدًا بين haber وparticipio. نضع no والضمائر الانعكاسية قبل haber.",
+          "ex": [
+            ["No he desayunado.", "لم أتناول الفطور."],
+            ["Hoy me he levantado a las seis.", "اليوم نهضت في الساعة السادسة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "hoy", "ar": "اليوم", "e": "📆" },
+        { "es": "esta mañana", "ar": "هذا الصباح", "e": "🌅" },
+        { "es": "esta semana", "ar": "هذا الأسبوع", "e": "🗓️" },
+        { "es": "este año", "ar": "هذه السنة", "e": "📅" },
+        { "es": "alguna vez", "ar": "من قبل / في أي وقت", "e": "❓" },
+        { "es": "nunca", "ar": "لم ... قط / أبدًا", "e": "🚫" },
+        { "es": "terminar", "ar": "ينهي", "e": "✅" },
+        { "es": "llegar", "ar": "يصل", "e": "🏁" },
+        { "es": "olvidar", "ar": "ينسى", "e": "🤦" },
+        { "es": "perder", "ar": "يفقد / يفوته", "e": "🔍" },
+        { "es": "llamar", "ar": "يتصل", "e": "📞" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¡Hola! ¿Qué tal el día?", "ar": "مرحبًا! كيف كان يومك؟" },
+        { "who": "B", "es": "Muy largo. He trabajado diez horas en el invernadero.", "ar": "طويل جدًا. عملت عشر ساعات في البيت البلاستيكي." },
+        { "who": "A", "es": "¿Has comido algo?", "ar": "هل أكلت شيئًا؟" },
+        { "who": "B", "es": "Sí, he comido un bocadillo a las dos. ¿Y tú?", "ar": "نعم، أكلت شطيرة في الثانية. وأنت؟" },
+        { "who": "A", "es": "Yo he ido al centro de salud esta mañana y he comprado las medicinas.", "ar": "أنا ذهبت إلى المركز الصحي هذا الصباح واشتريت الأدوية." },
+        { "who": "B", "es": "¿Y has llamado a la empresa?", "ar": "وهل اتصلت بالشركة؟" },
+        { "who": "A", "es": "No, voy a llamar mañana.", "ar": "لا، سأتصل غدًا." }
+      ],
+      "quiz": [
+        { "q": "Yo ___ comido paella.", "o": ["ha", "he", "has"], "a": 1, "why": "haber مع yo: he." },
+        { "q": "Nosotros ___ llegado tarde.", "o": ["hemos", "habemos", "han"], "a": 0, "why": "haber مع nosotros: hemos." },
+        { "q": "اسم المفعول (participio) من vivir:", "o": ["vivado", "vivo", "vivido"], "a": 2, "why": "أفعال -ir تأخذ -ido: vivido." },
+        { "q": "Esta mañana ellos ___ al médico.", "o": ["ha ido", "han ido", "han ir"], "a": 1, "why": "haber مع ellos: han، ثم participio ido." },
+        { "q": "اختر الجملة الصحيحة:", "o": ["He no trabajado hoy.", "He trabajado no hoy.", "No he trabajado hoy."], "a": 2, "why": "نضع no قبل haber، ولا نفصل بين haber وparticipio." }
+      ]
+    },
+    {
+      "id": "u08-l4",
+      "title_ar": "أسماء مفعول شاذة وya وtodavía no",
+      "title_es": "Participios irregulares, ya y todavía no",
+      "emoji": "✔️",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء المفعول الشاذة مثل hecho وdicho وvisto، وكيف تستعمل ya وtodavía no.",
+      "explain": [
+        {
+          "h": "أسماء مفعول شاذة",
+          "p": "بعض الأفعال لها participio خاص يجب حفظه: hacer ← hecho، decir ← dicho، ver ← visto، escribir ← escrito، poner ← puesto، volver ← vuelto، abrir ← abierto، romper ← roto.",
+          "ex": [
+            ["¿Qué has hecho hoy?", "ماذا فعلت اليوم؟"],
+            ["He visto el anuncio en internet.", "رأيت الإعلان على الإنترنت."]
+          ]
+        },
+        {
+          "h": "مع الأفعال الانعكاسية",
+          "p": "الضمير يبقى قبل haber، ويُستعمل participio الشاذ كما هو.",
+          "ex": [
+            ["Se ha roto la máquina.", "تعطّلت الآلة."],
+            ["Mi hijo ha vuelto del colegio.", "ابني عاد من المدرسة."]
+          ]
+        },
+        {
+          "h": "ya = بالفعل",
+          "p": "ya تعني أن الشيء قد حدث. تأتي غالبًا قبل haber.",
+          "ex": [
+            ["Ya he enviado el currículum.", "لقد أرسلت السيرة الذاتية بالفعل."],
+            ["¿Ya has hecho los deberes?", "هل أنهيت واجباتك؟"]
+          ]
+        },
+        {
+          "h": "todavía no / aún no = لم ... بعد",
+          "p": "تعني أن الشيء لم يحدث بعد، لكننا ننتظر أن يحدث.",
+          "ex": [
+            ["Todavía no he recibido la nómina.", "لم أستلم كشف الراتب بعد."],
+            ["—¿Has escrito a tu jefe? —No, aún no.", "— هل كتبت لمديرك؟ — لا، ليس بعد."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "he hecho", "ar": "فعلتُ", "e": "🛠️" },
+        { "es": "he dicho", "ar": "قلتُ", "e": "🗣️" },
+        { "es": "he visto", "ar": "رأيتُ", "e": "👀" },
+        { "es": "he escrito", "ar": "كتبتُ", "e": "✍️" },
+        { "es": "he puesto", "ar": "وضعتُ", "e": "📥" },
+        { "es": "he vuelto", "ar": "عدتُ", "e": "🔙" },
+        { "es": "he abierto", "ar": "فتحتُ", "e": "🔓" },
+        { "es": "se ha roto", "ar": "انكسر / تعطّل", "e": "💥" },
+        { "es": "ya", "ar": "بالفعل / قد", "e": "✅" },
+        { "es": "todavía no", "ar": "ليس بعد", "e": "⏳" },
+        { "es": "aún no", "ar": "ليس بعد", "e": "⌛" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Has visto al encargado?", "ar": "هل رأيت المسؤول؟" },
+        { "who": "B", "es": "Sí, ya ha llegado. Está en la oficina.", "ar": "نعم، لقد وصل. إنه في المكتب." },
+        { "who": "A", "es": "Es que la máquina de embalar se ha roto.", "ar": "المشكلة أن آلة التغليف تعطّلت." },
+        { "who": "B", "es": "¿Y ya has hablado con él?", "ar": "وهل تحدثت معه؟" },
+        { "who": "A", "es": "Todavía no. He escrito un mensaje, pero no ha contestado.", "ar": "ليس بعد. كتبت رسالة، لكنه لم يرد." },
+        { "who": "B", "es": "Vale, voy contigo. ¿Has puesto un cartel en la máquina?", "ar": "حسنًا، سأذهب معك. هل وضعت لافتة على الآلة؟" },
+        { "who": "A", "es": "Sí, ya lo he puesto.", "ar": "نعم، لقد وضعتها." }
+      ],
+      "quiz": [
+        { "q": "اسم المفعول من hacer:", "o": ["hacido", "hecho", "haciendo"], "a": 1, "why": "hacer شاذ: hecho." },
+        { "q": "¿Has ___ la película?", "o": ["visto", "veído", "vido"], "a": 0, "why": "ver شاذ: visto." },
+        { "q": "Ya he ___ el formulario.", "o": ["escribido", "escrivido", "escrito"], "a": 2, "why": "escribir شاذ: escrito." },
+        { "q": "ما معنى: Todavía no he comido؟", "o": ["أكلت بالفعل", "لم آكل بعد", "لن آكل"], "a": 1, "why": "todavía no = ليس بعد." },
+        { "q": "Mi marido ___ a casa.", "o": ["ha vuelto", "ha volvido", "han vuelto"], "a": 0, "why": "volver شاذ: vuelto، ومع él نستعمل ha." }
+      ]
+    },
+    {
+      "id": "u08-l5",
+      "title_ar": "المعاملات الإدارية والموعد المسبق",
+      "title_es": "Trámites y cita previa",
+      "emoji": "🗂️",
+      "goal_ar": "ستتعلم في هذا الدرس مفردات المعاملات الإدارية مثل el empadronamiento وel NIE وla cita previa، وكيف تتصرف في المكتب.",
+      "explain": [
+        {
+          "h": "الموعد المسبق",
+          "p": "في كثير من المكاتب العامة تحتاج cita previa (موعدًا مسبقًا)، وتطلبه عادة بالإنترنت أو بالهاتف. اذهب قبل الموعد بقليل ومعك وثائقك.",
+          "ex": [
+            ["Quería pedir cita previa para el padrón.", "أريد أن أطلب موعدًا مسبقًا للتسجيل في البلدية."],
+            ["Tengo cita a las diez y media.", "عندي موعد في العاشرة والنصف."]
+          ]
+        },
+        {
+          "h": "وثائق مهمة",
+          "p": "el pasaporte (جواز السفر)، el NIE (رقم هوية الأجنبي)، la TIE (بطاقة هوية الأجنبي)، el certificado de empadronamiento (شهادة التسجيل في البلدية)، el contrato de alquiler (عقد الإيجار).",
+          "ex": [
+            ["Necesito el certificado de empadronamiento.", "أحتاج شهادة التسجيل في البلدية."],
+            ["¿Ha traído el pasaporte original?", "هل أحضرت جواز السفر الأصلي؟"]
+          ]
+        },
+        {
+          "h": "أفعال المعاملات",
+          "p": "rellenar un formulario (يملأ استمارة)، firmar (يوقّع)، hacer una fotocopia (يصوّر نسخة)، entregar (يسلّم)، renovar (يجدّد).",
+          "ex": [
+            ["Rellene este formulario y fírmelo aquí.", "املأ هذه الاستمارة ووقّعها هنا."],
+            ["Tengo que renovar la tarjeta.", "يجب أن أجدّد البطاقة."]
+          ]
+        },
+        {
+          "h": "عبارات مفيدة",
+          "p": "استعمل usted مع الموظف. إذا لم تفهم قل: Perdone, no he entendido. ¿Puede hablar más despacio؟ وللسؤال عن الوثائق: ¿Qué documentos tengo que traer؟",
+          "ex": [
+            ["Perdone, no he entendido. ¿Puede repetir?", "عفوًا، لم أفهم. هل يمكنك أن تعيد؟"],
+            ["¿Qué documentos tengo que traer?", "ما الوثائق التي يجب أن أحضرها؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "la cita previa", "ar": "الموعد المسبق", "e": "📅" },
+        { "es": "el empadronamiento", "ar": "التسجيل في البلدية", "e": "🏛️" },
+        { "es": "el pasaporte", "ar": "جواز السفر", "e": "🛂" },
+        { "es": "el NIE", "ar": "رقم هوية الأجنبي", "e": "🔢" },
+        { "es": "la TIE", "ar": "بطاقة هوية الأجنبي", "e": "🪪" },
+        { "es": "el formulario", "ar": "الاستمارة", "e": "📋" },
+        { "es": "rellenar", "ar": "يملأ (استمارة)", "e": "✏️" },
+        { "es": "firmar", "ar": "يوقّع", "e": "✍️" },
+        { "es": "la fotocopia", "ar": "النسخة المصوّرة", "e": "📠" },
+        { "es": "el documento", "ar": "الوثيقة", "e": "📄" },
+        { "es": "la ventanilla", "ar": "الشبّاك", "e": "🪟" },
+        { "es": "el número de turno", "ar": "رقم الدور", "e": "🎟️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. ¿Tiene cita previa?", "ar": "صباح الخير. هل عندك موعد مسبق؟" },
+        { "who": "B", "es": "Sí, a las once. Vengo para empadronarme.", "ar": "نعم، في الحادية عشرة. جئت لأسجّل في البلدية." },
+        { "who": "A", "es": "Muy bien. ¿Ha traído el pasaporte y el contrato de alquiler?", "ar": "جيد جدًا. هل أحضرت جواز السفر وعقد الإيجار؟" },
+        { "who": "B", "es": "Sí, aquí están. También he traído una fotocopia del NIE.", "ar": "نعم، ها هما. وأحضرت أيضًا نسخة من رقم الهوية NIE." },
+        { "who": "A", "es": "Perfecto. Rellene este formulario y firme abajo, por favor.", "ar": "ممتاز. املأ هذه الاستمارة ووقّع في الأسفل من فضلك." },
+        { "who": "B", "es": "Perdone, no he entendido. ¿Dónde tengo que firmar?", "ar": "عفوًا، لم أفهم. أين يجب أن أوقّع؟" },
+        { "who": "A", "es": "Aquí abajo, al lado de la fecha.", "ar": "هنا في الأسفل، بجانب التاريخ." },
+        { "who": "B", "es": "Ya está. Muchas gracias.", "ar": "انتهيت. شكرًا جزيلًا." }
+      ],
+      "quiz": [
+        { "q": "ما معنى la cita previa؟", "o": ["الموعد المسبق", "وثيقة رسمية", "رقم الدور"], "a": 0, "why": "cita = موعد، وprevia = مسبق." },
+        { "q": "rellenar un formulario يعني:", "o": ["يوقّع استمارة", "يملأ استمارة", "يطبع استمارة"], "a": 1, "why": "rellenar = يملأ." },
+        { "q": "إذا لم تفهم كلام الموظف تقول:", "o": ["Perdone, no ha entiendo.", "Perdone, no he entendida.", "Perdone, no he entendido."], "a": 2, "why": "no he entendido = لم أفهم (he + participio entendido)." },
+        { "q": "¿Qué documentos ___ que traer yo?", "o": ["tengo", "tener", "tienes"], "a": 0, "why": "مع yo نقول tengo que." },
+        { "q": "el empadronamiento هو:", "o": ["تجديد جواز السفر", "التسجيل في البلدية", "عقد الإيجار"], "a": 1, "why": "empadronarse = التسجيل في سجل سكان البلدية." }
+      ]
+    }
+  ]
+}

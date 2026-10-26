@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "id": "warehouse",
+  "kind": "job",
+  "name": "المخازن",
+  "name_es": "Almacén",
+  "emoji": "📦",
+  "color": "c7",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 25,
+  "published": true
+ },
+ "cards": [],
+ "questions": []
+}

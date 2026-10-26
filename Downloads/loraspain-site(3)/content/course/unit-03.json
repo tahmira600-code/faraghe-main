@@ -1,0 +1,479 @@
+{
+  "unit": 3,
+  "level": 1,
+  "title_ar": "ser و estar وأدوات التعريف والجنس",
+  "title_es": "Ser, estar, artículos y género",
+  "emoji": "🧩",
+  "lessons": [
+    {
+      "id": "u03-l1",
+      "title_ar": "المذكر والمؤنث",
+      "title_es": "Masculino y femenino",
+      "emoji": "⚖️",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تعرف إن كان الاسم مذكرًا أو مؤنثًا.",
+      "explain": [
+        {
+          "h": "كل اسم له جنس",
+          "p": "في الإسبانية، كما في العربية، كل اسم إما مذكر أو مؤنث، حتى الأشياء. لكن جنس الكلمة قد يختلف عن العربية، فـ«الشمس» مؤنثة بالعربية و«el sol» مذكر بالإسبانية.",
+          "ex": [
+            ["el sol, la luna", "الشمس، القمر"]
+          ]
+        },
+        {
+          "h": "القاعدة العامة",
+          "p": "أغلب الأسماء التي تنتهي بـ o مذكرة، وأغلب التي تنتهي بـ a مؤنثة. وكثير من أسماء الأشخاص والمهن تتغير من o إلى a للمؤنث.",
+          "ex": [
+            ["el libro, la mesa", "الكتاب، الطاولة"],
+            ["el camarero, la camarera", "النادل، النادلة"]
+          ]
+        },
+        {
+          "h": "نهايات أخرى",
+          "p": "الكلمات المنتهية بـ -ción و -dad مؤنثة غالبًا. والكلمات المنتهية بـ e أو بحرف ساكن قد تكون مذكرة أو مؤنثة، فاحفظها مع أداة التعريف.",
+          "ex": [
+            ["la estación, la ciudad", "المحطة، المدينة"],
+            ["el coche, la calle", "السيارة، الشارع"]
+          ]
+        },
+        {
+          "h": "استثناءات مهمة",
+          "p": "بعض الكلمات لا تتبع القاعدة: «el día» (اليوم) و«el problema» (المشكلة) و«el mapa» (الخريطة) مذكرة، و«la mano» (اليد) و«la foto» (الصورة) مؤنثة.",
+          "ex": [
+            ["Buenos días. Tengo un problema.", "صباح الخير. عندي مشكلة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el libro", "ar": "الكتاب", "e": "📕" },
+        { "es": "la mesa", "ar": "الطاولة", "e": "🪑" },
+        { "es": "el coche", "ar": "السيارة", "e": "🚗" },
+        { "es": "la ciudad", "ar": "المدينة", "e": "🏙️" },
+        { "es": "la estación", "ar": "المحطة", "e": "🚉" },
+        { "es": "el día", "ar": "اليوم", "e": "☀️" },
+        { "es": "la mano", "ar": "اليد", "e": "✋" },
+        { "es": "el problema", "ar": "المشكلة", "e": "⚠️" },
+        { "es": "el camarero / la camarera", "ar": "النادل / النادلة", "e": "🧑‍🍳" },
+        { "es": "el sol", "ar": "الشمس", "e": "🌞" },
+        { "es": "la foto", "ar": "الصورة", "e": "📷" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Perdona, ¿la estación de tren?", "ar": "عفوًا، أين محطة القطار؟" },
+        { "who": "B", "es": "Uf, está lejos. ¿Tienes coche?", "ar": "أوه، إنها بعيدة. هل عندك سيارة؟" },
+        { "who": "A", "es": "No, no tengo coche.", "ar": "لا، ليس عندي سيارة." },
+        { "who": "B", "es": "Entonces, el autobús número tres.", "ar": "إذن، الحافلة رقم ثلاثة." },
+        { "who": "A", "es": "Vale, no hay problema. ¡Gracias!", "ar": "حسنًا، لا مشكلة. شكرًا!" }
+      ],
+      "quiz": [
+        {
+          "q": "ما جنس كلمة «mesa»؟",
+          "o": ["مذكر", "مؤنث", "لا جنس لها"],
+          "a": 1,
+          "why": "تنتهي بـ a، فهي مؤنثة: la mesa."
+        },
+        {
+          "q": "أي أداة صحيحة مع «día»؟",
+          "o": ["la", "las", "el"],
+          "a": 2,
+          "why": "«día» استثناء: تنتهي بـ a لكنها مذكرة."
+        },
+        {
+          "q": "ما مؤنث «el camarero»؟",
+          "o": ["la camarera", "la camarero", "el camarera"],
+          "a": 0,
+          "why": "نغيّر o إلى a ونستعمل الأداة la."
+        },
+        {
+          "q": "الكلمات المنتهية بـ -ción تكون غالبًا…",
+          "o": ["مذكرة", "مؤنثة", "جمعًا"],
+          "a": 1,
+          "why": "مثل la estación و la información."
+        },
+        {
+          "q": "أي جملة صحيحة؟",
+          "o": ["Tengo una problema.", "Tengo un problema.", "Tengo uno problema."],
+          "a": 1,
+          "why": "«problema» مذكرة، فنقول «un problema»."
+        }
+      ]
+    },
+    {
+      "id": "u03-l2",
+      "title_ar": "أدوات التعريف والتنكير والجمع",
+      "title_es": "El, la, un, una y el plural",
+      "emoji": "📦",
+      "goal_ar": "ستتعلم في هذا الدرس أدوات التعريف والتنكير وكيف تجمع الأسماء.",
+      "explain": [
+        {
+          "h": "أدوات التعريف",
+          "p": "مثل «ال» في العربية. للمذكر المفرد «el»، وللمؤنث المفرد «la»، وللمذكر الجمع «los»، وللمؤنث الجمع «las».",
+          "ex": [
+            ["el piso, la llave", "الشقة، المفتاح"],
+            ["los pisos, las llaves", "الشقق، المفاتيح"]
+          ]
+        },
+        {
+          "h": "أدوات التنكير",
+          "p": "«un» للمذكر و«una» للمؤنث، وتعني «واحد» أو تشبه التنوين في العربية. وفي الجمع «unos / unas» وتعني «بعض».",
+          "ex": [
+            ["un piso, una llave", "شقة، مفتاح"],
+            ["unos amigos, unas amigas", "بعض الأصدقاء، بعض الصديقات"]
+          ]
+        },
+        {
+          "h": "تكوين الجمع",
+          "p": "إذا انتهى الاسم بحرف علة نضيف s. وإذا انتهى بحرف ساكن نضيف es. وإذا انتهى بـ z نحوّلها إلى c ونضيف es.",
+          "ex": [
+            ["la casa → las casas", "البيت ← البيوت"],
+            ["el hotel → los hoteles", "الفندق ← الفنادق"],
+            ["el lápiz → los lápices", "قلم الرصاص ← أقلام الرصاص"]
+          ]
+        },
+        {
+          "h": "al و del",
+          "p": "عندما تأتي «a» أو «de» قبل «el» تندمجان: a + el = al، و de + el = del. ولا يحدث هذا مع la.",
+          "ex": [
+            ["Voy al médico.", "أذهب إلى الطبيب."],
+            ["Es la llave del coche.", "إنه مفتاح السيارة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el piso", "ar": "الشقة", "e": "🏢" },
+        { "es": "la llave", "ar": "المفتاح", "e": "🔑" },
+        { "es": "el amigo / la amiga", "ar": "الصديق / الصديقة", "e": "🧑‍🤝‍🧑" },
+        { "es": "el papel", "ar": "الورقة", "e": "📄" },
+        { "es": "el documento", "ar": "الوثيقة", "e": "📑" },
+        { "es": "la tarjeta", "ar": "البطاقة", "e": "💳" },
+        { "es": "el lápiz", "ar": "قلم الرصاص", "e": "✏️" },
+        { "es": "el bolígrafo", "ar": "القلم الجاف", "e": "🖊️" },
+        { "es": "el médico / la médica", "ar": "الطبيب / الطبيبة", "e": "🩺" },
+        { "es": "la bolsa", "ar": "الكيس / الحقيبة", "e": "👜" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola. Para el trámite necesito unos documentos.", "ar": "مرحبا. لهذا الإجراء أحتاج بعض الوثائق." },
+        { "who": "B", "es": "Sí: el pasaporte, una foto y el contrato del piso.", "ar": "نعم: جواز السفر، وصورة، وعقد الشقة." },
+        { "who": "A", "es": "¿Una foto o dos fotos?", "ar": "صورة واحدة أم صورتان؟" },
+        { "who": "B", "es": "Una foto. Y rellene los papeles, por favor.", "ar": "صورة واحدة. واملأ الأوراق من فضلك." },
+        { "who": "A", "es": "Perdone, ¿tiene un bolígrafo?", "ar": "عفوًا، هل عندك قلم؟" },
+        { "who": "B", "es": "Sí, tome.", "ar": "نعم، تفضل." }
+      ],
+      "quiz": [
+        {
+          "q": "أكمل: «___ llaves» (المفاتيح)",
+          "o": ["los", "las", "la"],
+          "a": 1,
+          "why": "«llave» مؤنثة، والجمع المؤنث يأخذ «las»."
+        },
+        {
+          "q": "ما جمع «el hotel»؟",
+          "o": ["los hoteles", "los hotels", "las hoteles"],
+          "a": 0,
+          "why": "ينتهي بحرف ساكن فنضيف es، وهو مذكر فنقول los."
+        },
+        {
+          "q": "أكمل: «Voy ___ médico.»",
+          "o": ["a el", "del", "al"],
+          "a": 2,
+          "why": "a + el تصبح «al»."
+        },
+        {
+          "q": "ما جمع «el lápiz»؟",
+          "o": ["los lápizs", "los lápices", "los lápizes"],
+          "a": 1,
+          "why": "z تتحول إلى c ونضيف es."
+        },
+        {
+          "q": "أي ترجمة صحيحة لـ«بعض الصديقات»؟",
+          "o": ["unas amigas", "unos amigas", "las amiga"],
+          "a": 0,
+          "why": "«unas» للجمع المؤنث النكرة."
+        }
+      ]
+    },
+    {
+      "id": "u03-l3",
+      "title_ar": "الفعل ser (يكون)",
+      "title_es": "El verbo ser",
+      "emoji": "🧑‍🔧",
+      "goal_ar": "ستتعلم في هذا الدرس تصريف الفعل ser واستعماله للهوية والمهنة والأصل والوصف.",
+      "explain": [
+        {
+          "h": "تصريف ser",
+          "p": "yo soy، tú eres، él/ella/usted es، nosotros somos، vosotros sois، ellos/ellas/ustedes son. هذا الفعل شاذ، فاحفظه جيدًا.",
+          "ex": [
+            ["Yo soy Omar y ella es Laila.", "أنا عمر وهي ليلى."],
+            ["Nosotros somos vecinos.", "نحن جيران."]
+          ]
+        },
+        {
+          "h": "المهنة",
+          "p": "نستعمل ser للمهنة، ولا نضع «un» أو «una» قبلها عادة.",
+          "ex": [
+            ["Soy albañil.", "أنا بنّاء."],
+            ["Mi mujer es enfermera.", "زوجتي ممرضة."]
+          ]
+        },
+        {
+          "h": "الأصل والجنسية",
+          "p": "نقول «ser de» ثم المكان للحديث عن الأصل. وللسؤال: «¿De dónde eres?».",
+          "ex": [
+            ["—¿De dónde eres? —Soy de Sevilla.", "—من أين أنت؟ —أنا من إشبيلية."]
+          ]
+        },
+        {
+          "h": "الوصف الدائم",
+          "p": "نستعمل ser لوصف صفات ثابتة للشخص أو الشيء: الشكل، الطبع، اللون.",
+          "ex": [
+            ["Mi jefe es simpático.", "مديري لطيف."],
+            ["La casa es grande.", "البيت كبير."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "ser", "ar": "يكون", "e": "" },
+        { "es": "el albañil", "ar": "البنّاء", "e": "🧱" },
+        { "es": "el enfermero / la enfermera", "ar": "الممرض / الممرضة", "e": "👩‍⚕️" },
+        { "es": "el conductor / la conductora", "ar": "السائق / السائقة", "e": "🚚" },
+        { "es": "el cocinero / la cocinera", "ar": "الطباخ / الطباخة", "e": "👨‍🍳" },
+        { "es": "el estudiante / la estudiante", "ar": "الطالب / الطالبة", "e": "🎓" },
+        { "es": "el vecino / la vecina", "ar": "الجار / الجارة", "e": "🏘️" },
+        { "es": "el jefe / la jefa", "ar": "المدير / المديرة", "e": "👔" },
+        { "es": "¿de dónde eres?", "ar": "من أين أنت؟", "e": "🌍" },
+        { "es": "simpático / simpática", "ar": "لطيف / لطيفة", "e": "😊" },
+        { "es": "grande", "ar": "كبير", "e": "🐘" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, soy Marta, la vecina del segundo.", "ar": "مرحبا، أنا مارتا، جارة الطابق الثاني." },
+        { "who": "B", "es": "Encantado. Yo soy Driss. Soy nuevo aquí.", "ar": "تشرفت. أنا إدريس. أنا جديد هنا." },
+        { "who": "A", "es": "¿Y de dónde eres?", "ar": "ومن أين أنت؟" },
+        { "who": "B", "es": "Soy de Murcia, pero ahora vivo aquí.", "ar": "أنا من مرسية، لكنني الآن أسكن هنا." },
+        { "who": "A", "es": "¿Y a qué te dedicas?", "ar": "وما عملك؟" },
+        { "who": "B", "es": "Soy cocinero. ¿Y tú?", "ar": "أنا طباخ. وأنتِ؟" },
+        { "who": "A", "es": "Yo soy enfermera.", "ar": "أنا ممرضة." }
+      ],
+      "quiz": [
+        {
+          "q": "أكمل: «Nosotros ___ compañeros.»",
+          "o": ["son", "somos", "sois"],
+          "a": 1,
+          "why": "nosotros + ser = somos."
+        },
+        {
+          "q": "أكمل: «¿Tú ___ estudiante?»",
+          "o": ["eres", "es", "soy"],
+          "a": 0,
+          "why": "tú + ser = eres."
+        },
+        {
+          "q": "كيف تقول «أنا سائق»؟",
+          "o": ["Soy un de conductor.", "Estoy conductor.", "Soy conductor."],
+          "a": 2,
+          "why": "نستعمل ser للمهنة دون أداة تنكير."
+        },
+        {
+          "q": "ما معنى «¿De dónde eres?»",
+          "o": ["أين تسكن؟", "من أين أنت؟", "ما مهنتك؟"],
+          "a": 1,
+          "why": "«de dónde» = من أين، للسؤال عن الأصل."
+        },
+        {
+          "q": "أكمل: «Ellos ___ de Valencia.»",
+          "o": ["es", "somos", "son"],
+          "a": 2,
+          "why": "ellos + ser = son."
+        }
+      ]
+    },
+    {
+      "id": "u03-l4",
+      "title_ar": "الفعل estar و hay",
+      "title_es": "El verbo estar y hay",
+      "emoji": "📍",
+      "goal_ar": "ستتعلم في هذا الدرس الفعل estar للمكان والحالة، والكلمة hay بمعنى «يوجد».",
+      "explain": [
+        {
+          "h": "تصريف estar",
+          "p": "yo estoy، tú estás، él/ella/usted está، nosotros estamos، vosotros estáis، ellos/ellas/ustedes están. لاحظ العلامات على الحروف.",
+          "ex": [
+            ["Estoy en casa.", "أنا في البيت."],
+            ["¿Dónde estáis?", "أين أنتم؟"]
+          ]
+        },
+        {
+          "h": "المكان",
+          "p": "نستعمل estar لنقول أين يوجد شخص أو شيء معيّن. للسؤال: «¿Dónde está…?».",
+          "ex": [
+            ["—¿Dónde está el banco? —Está en la plaza.", "—أين البنك؟ —إنه في الساحة."],
+            ["Mis hijos están en el colegio.", "أولادي في المدرسة."]
+          ]
+        },
+        {
+          "h": "الحالة المؤقتة",
+          "p": "نستعمل estar للحالة التي تتغير: التعب، المرض، المزاج.",
+          "ex": [
+            ["Hoy estoy enfermo.", "اليوم أنا مريض."],
+            ["La tienda está cerrada.", "المتجر مغلق."]
+          ]
+        },
+        {
+          "h": "hay = يوجد",
+          "p": "«hay» لا تتغير في المفرد والجمع، وتأتي مع النكرة (un, una, أرقام، أو بلا أداة). أما estar فتأتي مع المعرفة (el, la).",
+          "ex": [
+            ["Hay un banco en la plaza.", "يوجد بنك في الساحة."],
+            ["El banco está en la plaza.", "البنك في الساحة."],
+            ["¿Hay farmacias cerca?", "هل توجد صيدليات قريبة؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "estar", "ar": "يكون (في مكان أو حالة)", "e": "" },
+        { "es": "hay", "ar": "يوجد / توجد", "e": "👉" },
+        { "es": "¿dónde?", "ar": "أين؟", "e": "📍" },
+        { "es": "aquí", "ar": "هنا", "e": "⬇️" },
+        { "es": "cerca", "ar": "قريب", "e": "📏" },
+        { "es": "lejos", "ar": "بعيد", "e": "🏔️" },
+        { "es": "el banco", "ar": "البنك", "e": "🏦" },
+        { "es": "la farmacia", "ar": "الصيدلية", "e": "💊" },
+        { "es": "la plaza", "ar": "الساحة", "e": "⛲" },
+        { "es": "enfermo / enferma", "ar": "مريض / مريضة", "e": "🤒" },
+        { "es": "abierto / cerrado", "ar": "مفتوح / مغلق", "e": "🚪" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Perdone, ¿hay una farmacia por aquí?", "ar": "عفوًا، هل توجد صيدلية هنا؟" },
+        { "who": "B", "es": "Sí, hay una en la plaza. Está muy cerca.", "ar": "نعم، توجد واحدة في الساحة. إنها قريبة جدًا." },
+        { "who": "A", "es": "¿Está abierta ahora?", "ar": "هل هي مفتوحة الآن؟" },
+        { "who": "B", "es": "Creo que sí. ¿Está usted enfermo?", "ar": "أظن ذلك. هل أنت مريض؟" },
+        { "who": "A", "es": "No, mi hijo está enfermo.", "ar": "لا، ابني مريض." },
+        { "who": "B", "es": "Vaya. ¡Que se mejore!", "ar": "يا للأسف. أتمنى له الشفاء!" }
+      ],
+      "quiz": [
+        {
+          "q": "أكمل: «Nosotros ___ en el trabajo.»",
+          "o": ["somos", "estamos", "están"],
+          "a": 1,
+          "why": "للمكان نستعمل estar: nosotros estamos."
+        },
+        {
+          "q": "أكمل: «___ dos bancos en esta calle.»",
+          "o": ["Hay", "Están", "Son"],
+          "a": 0,
+          "why": "«hay» تعني يوجد، وتأتي مع الأرقام والنكرة."
+        },
+        {
+          "q": "أكمل: «¿Dónde ___ la estación?»",
+          "o": ["hay", "es", "está"],
+          "a": 2,
+          "why": "للمكان مع اسم معرّف نستعمل «está»."
+        },
+        {
+          "q": "كيف تقول «المتجر مغلق»؟",
+          "o": ["La tienda es cerrada.", "La tienda hay cerrada.", "La tienda está cerrada."],
+          "a": 2,
+          "why": "مغلق حالة مؤقتة، فنستعمل estar."
+        },
+        {
+          "q": "أكمل: «Mis padres ___ bien.»",
+          "o": ["están", "son", "estamos"],
+          "a": 0,
+          "why": "الحال مع ellos: «están»."
+        }
+      ]
+    },
+    {
+      "id": "u03-l5",
+      "title_ar": "الصفات و ser أم estar",
+      "title_es": "Los adjetivos: ¿ser o estar?",
+      "emoji": "🎨",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تطابق الصفة مع الاسم، ومتى تستعمل ser ومتى تستعمل estar.",
+      "explain": [
+        {
+          "h": "مكان الصفة",
+          "p": "تأتي الصفة عادة بعد الاسم، كما في العربية.",
+          "ex": [
+            ["un piso pequeño", "شقة صغيرة"],
+            ["una camisa blanca", "قميص أبيض"]
+          ]
+        },
+        {
+          "h": "المطابقة",
+          "p": "الصفة تطابق الاسم في الجنس والعدد. الصفات المنتهية بـ o تتغير (o/a/os/as). أما المنتهية بـ e أو بحرف ساكن فلا تتغير في الجنس، بل في العدد فقط.",
+          "ex": [
+            ["el coche rojo, las casas rojas", "السيارة الحمراء، البيوت الحمراء"],
+            ["un hombre amable, una mujer amable", "رجل لطيف، امرأة لطيفة"],
+            ["un trabajo fácil, unos trabajos fáciles", "عمل سهل، أعمال سهلة"]
+          ]
+        },
+        {
+          "h": "ser أم estar؟",
+          "p": "ser للصفة الثابتة التي تعرّف الشيء (الطول، الطبع، اللون). estar للحالة المؤقتة أو النتيجة (التعب، الفرح، النظافة). سؤال مفيد: هل هذه الصفة جزء من هويته أم حالته الآن؟",
+          "ex": [
+            ["Ahmed es alto.", "أحمد طويل."],
+            ["Ahmed está cansado.", "أحمد متعب."]
+          ]
+        },
+        {
+          "h": "صفة واحدة بمعنيين",
+          "p": "بعض الصفات يتغير معناها: «es aburrido» = ممل، «está aburrido» = يشعر بالملل. «es listo» = ذكي، «está listo» = جاهز.",
+          "ex": [
+            ["La clase es aburrida.", "الدرس ممل."],
+            ["¿Estás listo? Nos vamos.", "هل أنت جاهز؟ سنذهب."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "alto / alta", "ar": "طويل / طويلة", "e": "🦒" },
+        { "es": "bajo / baja", "ar": "قصير / قصيرة", "e": "" },
+        { "es": "pequeño / pequeña", "ar": "صغير / صغيرة", "e": "🐭" },
+        { "es": "nuevo / nueva", "ar": "جديد / جديدة", "e": "✨" },
+        { "es": "viejo / vieja", "ar": "قديم / عجوز", "e": "🏚️" },
+        { "es": "contento / contenta", "ar": "مسرور / مسرورة", "e": "😃" },
+        { "es": "triste", "ar": "حزين", "e": "😢" },
+        { "es": "limpio / limpia", "ar": "نظيف / نظيفة", "e": "🧼" },
+        { "es": "sucio / sucia", "ar": "متسخ / متسخة", "e": "🦠" },
+        { "es": "fácil", "ar": "سهل", "e": "👌" },
+        { "es": "difícil", "ar": "صعب", "e": "🧗" },
+        { "es": "listo / lista", "ar": "جاهز / ذكي", "e": "✅" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué tal el piso nuevo?", "ar": "كيف الشقة الجديدة؟" },
+        { "who": "B", "es": "Es pequeño, pero es muy bonito.", "ar": "إنها صغيرة، لكنها جميلة جدًا." },
+        { "who": "A", "es": "¿Y está limpio?", "ar": "وهل هي نظيفة؟" },
+        { "who": "B", "es": "Ahora sí, pero estoy muy cansada.", "ar": "الآن نعم، لكنني متعبة جدًا." },
+        { "who": "A", "es": "¿Y los vecinos?", "ar": "والجيران؟" },
+        { "who": "B", "es": "Son muy amables. Estoy contenta.", "ar": "لطفاء جدًا. أنا مسرورة." }
+      ],
+      "quiz": [
+        {
+          "q": "أكمل: «las casas ___»",
+          "o": ["blanco", "blancas", "blanca"],
+          "a": 1,
+          "why": "الاسم مؤنث جمع، فالصفة أيضًا: blancas."
+        },
+        {
+          "q": "أكمل: «Mi hermano ___ muy alto.»",
+          "o": ["es", "está", "hay"],
+          "a": 0,
+          "why": "الطول صفة ثابتة، فنستعمل ser."
+        },
+        {
+          "q": "أكمل: «Hoy ___ triste.» (أنا)",
+          "o": ["soy", "estoy", "es"],
+          "a": 1,
+          "why": "الحزن اليوم حالة مؤقتة، فنستعمل estar."
+        },
+        {
+          "q": "ما جمع «un trabajo difícil»؟",
+          "o": ["unos trabajos difícils", "unos trabajos difícil", "unos trabajos difíciles"],
+          "a": 2,
+          "why": "الصفة المنتهية بحرف ساكن تأخذ es في الجمع."
+        },
+        {
+          "q": "ماذا تعني «La comida está lista»؟",
+          "o": ["الطعام ذكي", "الطعام جاهز", "الطعام لذيذ"],
+          "a": 1,
+          "why": "مع estar تعني «listo» جاهز."
+        }
+      ]
+    }
+  ]
+}

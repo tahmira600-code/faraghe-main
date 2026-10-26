@@ -1,0 +1,641 @@
+{
+ "topic_id": "cleaning",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "la lejía",
+   "ar": "المُبيِّض (الكلور)",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "la fregona",
+   "ar": "ممسحة الأرض",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "la escoba",
+   "ar": "المكنسة",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧽",
+   "es": "la bayeta",
+   "ar": "قطعة قماش التنظيف",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🔌",
+   "es": "la aspiradora",
+   "ar": "المكنسة الكهربائية",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪣",
+   "es": "el cubo",
+   "ar": "الدلو",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🗑️",
+   "es": "el recogedor",
+   "ar": "جاروف القمامة",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "el detergente",
+   "ar": "المنظِّف",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧽",
+   "es": "el estropajo",
+   "ar": "ليفة الجلي",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🗑️",
+   "es": "la bolsa de basura",
+   "ar": "كيس القمامة",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "el limpiacristales",
+   "ar": "منظف الزجاج",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧻",
+   "es": "el papel higiénico",
+   "ar": "ورق المرحاض",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🍳",
+   "es": "la cocina",
+   "ar": "المطبخ",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🚽",
+   "es": "el baño",
+   "ar": "الحمّام",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "el dormitorio",
+   "ar": "غرفة النوم",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🛋️",
+   "es": "el salón",
+   "ar": "غرفة الجلوس",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "la oficina",
+   "ar": "المكتب",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "el pasillo",
+   "ar": "الممر",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🏨",
+   "es": "la habitación",
+   "ar": "الغرفة (في الفندق)",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "barrer",
+   "ar": "يكنس",
+   "section": "المهام"
+  },
+  {
+   "level": 1,
+   "emoji": "🪣",
+   "es": "fregar el suelo",
+   "ar": "يمسح الأرض",
+   "section": "المهام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔌",
+   "es": "aspirar",
+   "ar": "يشفط بالمكنسة الكهربائية",
+   "section": "المهام"
+  },
+  {
+   "level": 1,
+   "emoji": "🪶",
+   "es": "limpiar el polvo",
+   "ar": "يزيل الغبار",
+   "section": "المهام"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "hacer la cama",
+   "ar": "يرتّب السرير",
+   "section": "المهام"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "😷",
+   "es": "la mascarilla",
+   "ar": "الكمامة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "⚠️",
+   "es": "el suelo mojado",
+   "ar": "الأرض مبللة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "☠️",
+   "es": "el producto tóxico",
+   "ar": "المادة السامة",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "La fregona está en el cuarto de la limpieza.",
+   "ar": "ممسحة الأرض في غرفة أدوات التنظيف.",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🗑️",
+   "es": "Necesito más bolsas de basura.",
+   "ar": "أحتاج إلى مزيد من أكياس القمامة.",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧴",
+   "es": "Se ha acabado el detergente.",
+   "ar": "نفد المنظِّف.",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🚽",
+   "es": "Hay que limpiar los baños de la planta baja.",
+   "ar": "يجب تنظيف حمّامات الطابق الأرضي.",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🏨",
+   "es": "La habitación 204 está libre.",
+   "ar": "الغرفة 204 فارغة.",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🍳",
+   "es": "Primero limpio la cocina y después el salón.",
+   "ar": "أنظّف المطبخ أولاً ثم غرفة الجلوس.",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🧳",
+   "es": "Los clientes han dejado la habitación.",
+   "ar": "غادر النزلاء الغرفة.",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Voy a cambiar las sábanas.",
+   "ar": "سأغيّر الشراشف.",
+   "section": "المهام"
+  },
+  {
+   "level": 2,
+   "emoji": "🗑️",
+   "es": "Hay que vaciar las papeleras.",
+   "ar": "يجب إفراغ سلال المهملات.",
+   "section": "المهام"
+  },
+  {
+   "level": 2,
+   "emoji": "🪣",
+   "es": "Friego el suelo después de barrer.",
+   "ar": "أمسح الأرض بعد الكنس.",
+   "section": "المهام"
+  },
+  {
+   "level": 2,
+   "emoji": "🪟",
+   "es": "Limpia los cristales con el limpiacristales.",
+   "ar": "نظّف الزجاج بمنظف الزجاج.",
+   "section": "المهام"
+  },
+  {
+   "level": 2,
+   "emoji": "🧼",
+   "es": "Repón el papel higiénico y el jabón.",
+   "ar": "أعِد تزويد ورق المرحاض والصابون.",
+   "section": "المهام"
+  },
+  {
+   "level": 2,
+   "emoji": "✅",
+   "es": "He terminado de limpiar esta planta.",
+   "ar": "انتهيت من تنظيف هذا الطابق.",
+   "section": "المهام"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Ponte los guantes antes de usar la lejía.",
+   "ar": "البس القفازات قبل استعمال المبيِّض.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "No mezcles la lejía con el amoniaco.",
+   "ar": "لا تخلط المبيِّض بالأمونيا.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🪟",
+   "es": "Abre la ventana para ventilar.",
+   "ar": "افتح النافذة للتهوية.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "⚠️",
+   "es": "Pon el cartel de suelo mojado.",
+   "ar": "ضع لافتة الأرض المبللة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔒",
+   "es": "Guarda los productos lejos de los niños.",
+   "ar": "احفظ المواد بعيداً عن الأطفال.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "¿A qué hora empiezas mañana?",
+   "ar": "في أي ساعة تبدأ غداً؟",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🏢",
+   "es": "Hoy te toca la segunda planta.",
+   "ar": "اليوم دورك في الطابق الثاني.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "❓",
+   "es": "¿Has terminado ya?",
+   "ar": "هل انتهيت؟",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🪑",
+   "es": "Esta mesa no está bien limpia.",
+   "ar": "هذه الطاولة ليست نظيفة جيداً.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Mañana libras.",
+   "ar": "غداً يوم راحتك.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Llámame si hay algún problema.",
+   "ar": "اتصل بي إذا كانت هناك أي مشكلة.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "👍",
+   "es": "Gracias, buen trabajo.",
+   "ar": "شكراً، عمل جيد.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🧴",
+   "es": "Diluye la lejía en agua fría según las instrucciones de la etiqueta.",
+   "ar": "خفّف المبيِّض بالماء البارد حسب التعليمات المكتوبة على الملصق.",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🧽",
+   "es": "Utiliza una bayeta de color diferente para el baño y para la cocina.",
+   "ar": "استعمل قطعة قماش بلون مختلف للحمّام وللمطبخ.",
+   "section": "الأدوات والمواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🏨",
+   "es": "Las habitaciones de salida deben estar listas antes de que lleguen los nuevos clientes.",
+   "ar": "يجب أن تكون الغرف التي غادرها النزلاء جاهزة قبل وصول النزلاء الجدد.",
+   "section": "الغرف"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "En la oficina, no muevas los papeles de las mesas.",
+   "ar": "في المكتب، لا تحرّك الأوراق الموجودة على الطاولات.",
+   "section": "الغرف"
+  },
+  {
+   "level": 3,
+   "emoji": "🛒",
+   "es": "Cuando termines, deja el carro de limpieza en el almacén y repón los productos.",
+   "ar": "عندما تنتهي، اترك عربة التنظيف في المخزن وأعِد تزويد المواد.",
+   "section": "المهام"
+  },
+  {
+   "level": 3,
+   "emoji": "🚪",
+   "es": "Desinfecta los pomos de las puertas y los interruptores.",
+   "ar": "عقّم مقابض الأبواب ومفاتيح الكهرباء.",
+   "section": "المهام"
+  },
+  {
+   "level": 3,
+   "emoji": "⬇️",
+   "es": "Limpia de arriba abajo: primero el polvo y después el suelo.",
+   "ar": "نظّف من الأعلى إلى الأسفل: الغبار أولاً ثم الأرض.",
+   "section": "المهام"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Lee siempre la etiqueta y las instrucciones antes de usar un producto.",
+   "ar": "اقرأ دائماً الملصق والتعليمات قبل استعمال أي مادة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🍼",
+   "es": "Nunca cambies un producto de envase ni lo pongas en una botella de agua.",
+   "ar": "لا تنقل أبداً أي مادة إلى عبوة أخرى ولا تضعها في قارورة ماء.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "👁️",
+   "es": "Si te salpica lejía en los ojos, lávalos con abundante agua.",
+   "ar": "إذا تطاير المبيِّض في عينيك، اغسلهما بكثير من الماء.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚑",
+   "es": "En caso de intoxicación, llama al 112.",
+   "ar": "في حالة التسمم، اتصل بالرقم 112.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧤",
+   "es": "Es obligatorio llevar el uniforme y los guantes durante el turno.",
+   "ar": "ارتداء الزي والقفازات إلزامي طوال فترة العمل.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "El contrato es a tiempo parcial, de lunes a viernes por la tarde.",
+   "ar": "العقد بدوام جزئي، من الاثنين إلى الجمعة في المساء.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "⏱️",
+   "es": "Si haces horas extra, apúntalas en la hoja.",
+   "ar": "إذا عملت ساعات إضافية، سجّلها في الورقة.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🕒",
+   "es": "Tienes que fichar al entrar y al salir.",
+   "ar": "يجب أن تسجّل وقت الدخول ووقت الخروج.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "📢",
+   "es": "Si vas a faltar, avísame con antelación.",
+   "ar": "إذا كنت ستتغيّب، أخبرني مسبقاً.",
+   "section": "كلام صاحب العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "😠",
+   "es": "Un cliente se ha quejado de que no se ha limpiado el baño.",
+   "ar": "اشتكى أحد الزبائن من أن الحمّام لم يُنظَّف.",
+   "section": "كلام صاحب العمل"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la fregona»?",
+   "options": [
+    "المكنسة الكهربائية",
+    "ممسحة الأرض",
+    "الدلو"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la fregona»؟",
+   "ar_exp": "«la fregona» هي ممسحة الأرض التي نستعملها مع الدلو."
+  },
+  {
+   "level": 1,
+   "q": "¿Con qué barres el suelo?",
+   "options": [
+    "Con la escoba.",
+    "Con la lejía.",
+    "Con los guantes."
+   ],
+   "answer": 0,
+   "ar_q": "بماذا تكنس الأرض؟",
+   "ar_exp": "نكنس الأرض بالمكنسة «la escoba»."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «los guantes»?",
+   "options": [
+    "الكمامة",
+    "الصابون",
+    "القفازات"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «los guantes»؟",
+   "ar_exp": "«los guantes» تعني القفازات."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde está la cama?",
+   "options": [
+    "En el dormitorio.",
+    "En la cocina.",
+    "En el pasillo."
+   ],
+   "answer": 0,
+   "ar_q": "أين يوجد السرير؟",
+   "ar_exp": "السرير في غرفة النوم «el dormitorio»."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «aspirar»?",
+   "options": [
+    "يرتّب السرير",
+    "يشفط بالمكنسة الكهربائية",
+    "يمسح الزجاج"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «aspirar»؟",
+   "ar_exp": "«aspirar» تعني التنظيف بالمكنسة الكهربائية."
+  },
+  {
+   "level": 2,
+   "q": "Tu jefa dice: «Mañana libras». ¿Qué significa?",
+   "options": [
+    "Mañana trabajas más horas.",
+    "Mañana empiezas antes.",
+    "Mañana no trabajas."
+   ],
+   "answer": 2,
+   "ar_q": "تقول مديرتك: «Mañana libras». ماذا تعني؟",
+   "ar_exp": "«librar» تعني أن تأخذ يوم راحة ولا تعمل."
+  },
+  {
+   "level": 2,
+   "q": "El suelo está mojado. ¿Qué haces?",
+   "options": [
+    "Pongo el cartel de suelo mojado.",
+    "Abro la aspiradora.",
+    "Vacío la papelera."
+   ],
+   "answer": 0,
+   "ar_q": "الأرض مبللة. ماذا تفعل؟",
+   "ar_exp": "نضع لافتة الأرض المبللة لكي لا يسقط أحد."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué NO debes hacer con la lejía?",
+   "options": [
+    "Ponerte guantes.",
+    "Mezclarla con el amoniaco.",
+    "Leer la etiqueta."
+   ],
+   "answer": 1,
+   "ar_q": "ما الذي يجب ألا تفعله بالمبيِّض؟",
+   "ar_exp": "خلط المبيِّض بالأمونيا يُطلق غازات خطيرة."
+  },
+  {
+   "level": 2,
+   "q": "Se ha acabado el jabón del baño. ¿Qué dices?",
+   "options": [
+    "El baño está libre.",
+    "He terminado la planta.",
+    "Necesito más jabón."
+   ],
+   "answer": 2,
+   "ar_q": "نفد صابون الحمّام. ماذا تقول؟",
+   "ar_exp": "«Necesito más jabón» تعني: أحتاج إلى مزيد من الصابون."
+  },
+  {
+   "level": 3,
+   "q": "Te salpica lejía en los ojos. ¿Qué haces?",
+   "options": [
+    "Me los froto con una bayeta.",
+    "Me los lavo con abundante agua.",
+    "Sigo trabajando."
+   ],
+   "answer": 1,
+   "ar_q": "تطاير المبيِّض في عينيك. ماذا تفعل؟",
+   "ar_exp": "يجب غسل العينين بكثير من الماء، وطلب المساعدة الطبية إذا لزم الأمر."
+  },
+  {
+   "level": 3,
+   "q": "¿Por qué no debes poner un producto de limpieza en una botella de agua?",
+   "options": [
+    "Porque alguien puede bebérselo por error.",
+    "Porque se gasta más rápido.",
+    "Porque limpia menos."
+   ],
+   "answer": 0,
+   "ar_q": "لماذا يجب ألا تضع مادة تنظيف في قارورة ماء؟",
+   "ar_exp": "قد يشربها شخص عن طريق الخطأ ويتعرض للتسمم."
+  },
+  {
+   "level": 3,
+   "q": "Tu jefe dice: «Tienes que fichar al entrar y al salir». ¿Qué significa?",
+   "options": [
+    "Tienes que limpiar la entrada.",
+    "Tienes que llamarle cada hora.",
+    "Tienes que registrar tu hora de entrada y de salida."
+   ],
+   "answer": 2,
+   "ar_q": "يقول مديرك: «Tienes que fichar al entrar y al salir». ماذا يعني؟",
+   "ar_exp": "«fichar» تعني تسجيل وقت بداية العمل ونهايته."
+  }
+ ]
+}

@@ -1,0 +1,747 @@
+{
+ "topic_id": "care",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🧼",
+   "es": "el aseo",
+   "ar": "النظافة اليومية",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "la ducha",
+   "ar": "الدش",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🧽",
+   "es": "la esponja",
+   "ar": "الإسفنجة",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🧺",
+   "es": "la toalla",
+   "ar": "المنشفة",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🧷",
+   "es": "el pañal",
+   "ar": "الحفاض",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🪥",
+   "es": "el cepillo de dientes",
+   "ar": "فرشاة الأسنان",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🦷",
+   "es": "la dentadura postiza",
+   "ar": "طقم الأسنان",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🚽",
+   "es": "la cuña",
+   "ar": "وعاء التبول في السرير",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🧻",
+   "es": "las toallitas húmedas",
+   "ar": "المناديل المبللة",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "la crema hidratante",
+   "ar": "الكريم المرطب",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 1,
+   "emoji": "🥐",
+   "es": "el desayuno",
+   "ar": "الفطور",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🍲",
+   "es": "la comida",
+   "ar": "الغداء",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "la cena",
+   "ar": "العشاء",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🥣",
+   "es": "el puré",
+   "ar": "الهريس",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "💊",
+   "es": "el pastillero",
+   "ar": "علبة الأدوية",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "las gotas",
+   "ar": "القطرات",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🧂",
+   "es": "la dieta sin sal",
+   "ar": "نظام غذائي بدون ملح",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🩺",
+   "es": "la tensión",
+   "ar": "ضغط الدم",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🦽",
+   "es": "la silla de ruedas",
+   "ar": "الكرسي المتحرك",
+   "section": "الحركة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦯",
+   "es": "el bastón",
+   "ar": "العصا",
+   "section": "الحركة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚶",
+   "es": "el andador",
+   "ar": "المشّاية",
+   "section": "الحركة"
+  },
+  {
+   "level": 1,
+   "emoji": "🏗️",
+   "es": "la grúa",
+   "ar": "رافعة نقل المريض",
+   "section": "الحركة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "la cama articulada",
+   "ar": "السرير الطبي القابل للتعديل",
+   "section": "الحركة"
+  },
+  {
+   "level": 1,
+   "emoji": "⚠️",
+   "es": "la caída",
+   "ar": "السقوط",
+   "section": "الحركة"
+  },
+  {
+   "level": 1,
+   "emoji": "👴",
+   "es": "el abuelo",
+   "ar": "الجد",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 1,
+   "emoji": "👵",
+   "es": "la abuela",
+   "ar": "الجدة",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 1,
+   "emoji": "😌",
+   "es": "¡Tranquilo!",
+   "ar": "اهدأ!",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "la cuidadora interna",
+   "ar": "مقدمة الرعاية المقيمة",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el día libre",
+   "ar": "يوم الراحة",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "la escoba",
+   "ar": "المكنسة",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 1,
+   "emoji": "🛒",
+   "es": "la compra",
+   "ar": "التسوق",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚿",
+   "es": "Vamos a la ducha.",
+   "ar": "هيا إلى الدش.",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "¿El agua está bien así?",
+   "ar": "هل حرارة الماء مناسبة هكذا؟",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 2,
+   "emoji": "🧷",
+   "es": "Le voy a cambiar el pañal.",
+   "ar": "سأغير لك الحفاض.",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 2,
+   "emoji": "🪥",
+   "es": "Ahora le lavo los dientes.",
+   "ar": "الآن أنظف لك أسنانك.",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "Le ayudo a vestirse.",
+   "ar": "أساعدك على ارتداء ملابسك.",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "Es la hora de la pastilla.",
+   "ar": "حان وقت الحبة.",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🍽️",
+   "es": "¿Tiene hambre?",
+   "ar": "هل أنت جائع؟",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🥛",
+   "es": "Beba un poco de agua.",
+   "ar": "اشرب قليلًا من الماء.",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🥄",
+   "es": "Coma despacio.",
+   "ar": "كُل ببطء.",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "Agárrese a mí.",
+   "ar": "تمسّك بي.",
+   "section": "الحركة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚶",
+   "es": "Vamos a dar un paseo.",
+   "ar": "هيا نتمشى قليلًا.",
+   "section": "الحركة"
+  },
+  {
+   "level": 2,
+   "emoji": "⚠️",
+   "es": "Cuidado, no se caiga.",
+   "ar": "انتبه، لا تسقط.",
+   "section": "الحركة"
+  },
+  {
+   "level": 2,
+   "emoji": "🪑",
+   "es": "Siéntese aquí.",
+   "ar": "اجلس هنا.",
+   "section": "الحركة"
+  },
+  {
+   "level": 2,
+   "emoji": "😴",
+   "es": "¿Ha dormido bien?",
+   "ar": "هل نمت جيدًا؟",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 2,
+   "emoji": "🤕",
+   "es": "¿Le duele algo?",
+   "ar": "هل يؤلمك شيء؟",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 2,
+   "emoji": "🚽",
+   "es": "¿Necesita ir al baño?",
+   "ar": "هل تحتاج إلى الذهاب إلى الحمام؟",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 2,
+   "emoji": "🤗",
+   "es": "No se preocupe, estoy aquí.",
+   "ar": "لا تقلق، أنا هنا.",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 2,
+   "emoji": "🙂",
+   "es": "¿Cómo se encuentra hoy?",
+   "ar": "كيف تشعر اليوم؟",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 2,
+   "emoji": "🍲",
+   "es": "Hoy ha comido bien.",
+   "ar": "أكل جيدًا اليوم.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "Se ha tomado todas las pastillas.",
+   "ar": "أخذ كل حبوبه.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌙",
+   "es": "Esta noche ha dormido mal.",
+   "ar": "نام نومًا سيئًا هذه الليلة.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 2,
+   "emoji": "📦",
+   "es": "Se han acabado los pañales.",
+   "ar": "نفدت الحفاضات.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 2,
+   "emoji": "🩺",
+   "es": "¿A qué hora viene el médico?",
+   "ar": "في أي ساعة يأتي الطبيب؟",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "Voy a hacer la compra.",
+   "ar": "سأذهب للتسوق.",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Ya he hecho la cama.",
+   "ar": "رتبت السرير.",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 2,
+   "emoji": "🧺",
+   "es": "He puesto la lavadora.",
+   "ar": "شغّلت الغسالة.",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 2,
+   "emoji": "🪣",
+   "es": "Voy a fregar el suelo.",
+   "ar": "سأمسح الأرضية.",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 2,
+   "emoji": "👔",
+   "es": "Esta tarde plancho la ropa.",
+   "ar": "سأكوي الملابس بعد الظهر.",
+   "section": "أعمال المنزل"
+  },
+  {
+   "level": 3,
+   "emoji": "🛏️",
+   "es": "Hay que cambiarle de postura cada pocas horas para evitar las úlceras.",
+   "ar": "يجب تغيير وضعيته كل بضع ساعات لتجنب قرح الفراش.",
+   "section": "الحركة"
+  },
+  {
+   "level": 3,
+   "emoji": "🦽",
+   "es": "Usamos la grúa para pasarle de la cama a la silla de ruedas.",
+   "ar": "نستعمل الرافعة لنقله من السرير إلى الكرسي المتحرك.",
+   "section": "الحركة"
+  },
+  {
+   "level": 3,
+   "emoji": "🛑",
+   "es": "Ponga el freno de la silla de ruedas antes de levantarle.",
+   "ar": "شغّل فرامل الكرسي المتحرك قبل أن ترفعه.",
+   "section": "الحركة"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Si se cae, no le levante deprisa: primero mire si le duele algo.",
+   "ar": "إذا سقط فلا ترفعه بسرعة: تحقق أولًا مما إذا كان يؤلمه شيء.",
+   "section": "الحركة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "Hay que revisarle la piel cada día por si tiene rojeces.",
+   "ar": "يجب فحص جلده كل يوم للتأكد من عدم وجود احمرار.",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 3,
+   "emoji": "🦶",
+   "es": "Después de la ducha le seco bien entre los dedos de los pies.",
+   "ar": "بعد الاستحمام أجفف جيدًا بين أصابع قدميه.",
+   "section": "النظافة الشخصية"
+  },
+  {
+   "level": 3,
+   "emoji": "🚿",
+   "es": "¿Prefiere ducharse por la mañana o por la noche?",
+   "ar": "هل تفضل الاستحمام في الصباح أم في المساء؟",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 3,
+   "emoji": "⏳",
+   "es": "No tenga prisa, tenemos todo el tiempo del mundo.",
+   "ar": "لا تستعجل، لدينا كل الوقت.",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 3,
+   "emoji": "👵",
+   "es": "Su hija ha llamado y vendrá a verle esta tarde.",
+   "ar": "اتصلت ابنتك وستأتي لزيارتك بعد الظهر.",
+   "section": "الكلام مع المسن"
+  },
+  {
+   "level": 3,
+   "emoji": "💊",
+   "es": "Le he dado la medicación de la mañana a las nueve.",
+   "ar": "أعطيته دواء الصباح في الساعة التاسعة.",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "🥣",
+   "es": "Le cuesta tragar, por eso le doy la comida triturada.",
+   "ar": "يصعب عليه البلع، لذلك أعطيه الطعام مهروسًا.",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "📒",
+   "es": "He apuntado en la libreta todo lo que ha comido y bebido.",
+   "ar": "سجّلت في الدفتر كل ما أكله وشربه.",
+   "section": "الأكل والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "🩺",
+   "es": "Hoy tenía la tensión un poco alta.",
+   "ar": "كان ضغط دمه اليوم مرتفعًا قليلًا.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚪",
+   "es": "Esta mañana se ha caído en el baño, pero no se ha hecho daño.",
+   "ar": "سقط هذا الصباح في الحمام، لكنه لم يتأذَّ.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧭",
+   "es": "Últimamente está más desorientado que antes.",
+   "ar": "في الآونة الأخيرة صار أكثر ارتباكًا من قبل.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "📞",
+   "es": "¿Me pueden dejar el teléfono del médico por si hay una urgencia?",
+   "ar": "هل يمكنكم أن تتركوا لي رقم هاتف الطبيب في حال حدوث طارئ؟",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚑",
+   "es": "Si pasa algo grave, llamo al 112 y después a ustedes.",
+   "ar": "إذا حدث شيء خطير، أتصل بالرقم 112 ثم أتصل بكم.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "Necesito saber qué días y qué horas tengo libres.",
+   "ar": "أحتاج أن أعرف ما هي أيام وساعات راحتي.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "Necesito que me hagan contrato y me den de alta en la Seguridad Social.",
+   "ar": "أحتاج أن تعملوا لي عقدًا وتسجلوني في الضمان الاجتماعي.",
+   "section": "الكلام مع العائلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Aquí tiene los tiques de la compra y el cambio.",
+   "ar": "تفضلوا إيصالات التسوق والباقي.",
+   "section": "أعمال المنزل"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la silla de ruedas»?",
+   "options": [
+    "السرير الطبي",
+    "الكرسي المتحرك",
+    "العصا"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la silla de ruedas»؟",
+   "ar_exp": "«la silla de ruedas» هي الكرسي المتحرك."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el pañal»?",
+   "options": [
+    "الحفاض",
+    "المنشفة",
+    "القفاز"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el pañal»؟",
+   "ar_exp": "«el pañal» هو الحفاض."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la caída»?",
+   "options": [
+    "الدواء",
+    "الدش",
+    "السقوط"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la caída»؟",
+   "ar_exp": "«la caída» تعني السقوط."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es «el pastillero»?",
+   "options": [
+    "Una caja para las pastillas",
+    "Un tipo de comida",
+    "Una silla"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو «el pastillero»؟",
+   "ar_exp": "«el pastillero» علبة لترتيب الحبوب حسب الأيام والأوقات."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la cena»?",
+   "options": [
+    "الفطور",
+    "الغداء",
+    "العشاء"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la cena»؟",
+   "ar_exp": "«la cena» هي وجبة العشاء."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la grúa» en el cuidado de mayores?",
+   "options": [
+    "رافعة لنقل المريض",
+    "سيارة الإسعاف",
+    "الغسالة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la grúa» في رعاية المسنين؟",
+   "ar_exp": "«la grúa» جهاز لرفع المريض ونقله من السرير إلى الكرسي مثلًا."
+  },
+  {
+   "level": 2,
+   "q": "Quieres preguntar al abuelo si necesita el baño. ¿Qué dices?",
+   "options": [
+    "¿Tiene hambre?",
+    "¿Necesita ir al baño?",
+    "¿Ha dormido bien?"
+   ],
+   "answer": 1,
+   "ar_q": "تريد أن تسأل الجد إن كان يحتاج إلى الحمام. ماذا تقول؟",
+   "ar_exp": "«¿Necesita ir al baño?» تعني هل تحتاج إلى الذهاب إلى الحمام؟"
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Agárrese a mí»?",
+   "options": [
+    "اجلس هنا",
+    "تمسّك بي",
+    "انتظرني"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «Agárrese a mí»؟",
+   "ar_exp": "«Agárrese a mí» تعني تمسّك بي، وتقال عند مساعدته على المشي أو القيام."
+  },
+  {
+   "level": 2,
+   "q": "La abuela está nerviosa. ¿Qué le dices?",
+   "options": [
+    "No se preocupe, estoy aquí.",
+    "Voy a fregar el suelo.",
+    "Se han acabado los pañales."
+   ],
+   "answer": 0,
+   "ar_q": "الجدة متوترة. ماذا تقول لها؟",
+   "ar_exp": "«No se preocupe, estoy aquí» تعني لا تقلقي، أنا هنا."
+  },
+  {
+   "level": 2,
+   "q": "Quieres decir a la familia que no quedan pañales. ¿Qué dices?",
+   "options": [
+    "He puesto la lavadora.",
+    "Ya he hecho la cama.",
+    "Se han acabado los pañales."
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تخبر العائلة أنه لم تبقَ حفاضات. ماذا تقول؟",
+   "ar_exp": "«Se han acabado los pañales» تعني نفدت الحفاضات."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Coma despacio»?",
+   "options": [
+    "كُل ببطء",
+    "كُل كثيرًا",
+    "لا تأكل"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Coma despacio»؟",
+   "ar_exp": "«Coma despacio» تعني كُل ببطء."
+  },
+  {
+   "level": 3,
+   "q": "¿Por qué hay que cambiar de postura a una persona que está siempre en la cama?",
+   "options": [
+    "Para que duerma más",
+    "Para evitar las úlceras",
+    "Para que coma mejor"
+   ],
+   "answer": 1,
+   "ar_q": "لماذا يجب تغيير وضعية شخص يبقى دائمًا في السرير؟",
+   "ar_exp": "تغيير الوضعية بانتظام يمنع ظهور قرح الفراش (las úlceras)."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué haces antes de levantar a una persona de la silla de ruedas?",
+   "options": [
+    "Pongo el freno de la silla",
+    "Quito los zapatos",
+    "Abro la ventana"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تفعل قبل رفع شخص من الكرسي المتحرك؟",
+   "ar_exp": "يجب تشغيل فرامل الكرسي حتى لا يتحرك ويسقط الشخص."
+  },
+  {
+   "level": 3,
+   "q": "«Le cuesta tragar». ¿Qué le pasa al anciano?",
+   "options": [
+    "Tiene dificultad para comer y beber",
+    "No puede andar",
+    "No oye bien"
+   ],
+   "answer": 0,
+   "ar_q": "«Le cuesta tragar». ماذا يحدث للمسن؟",
+   "ar_exp": "«tragar» تعني البلع، أي أنه يجد صعوبة في البلع."
+  },
+  {
+   "level": 3,
+   "q": "«Darse de alta en la Seguridad Social» significa:",
+   "options": [
+    "Ir al médico",
+    "Registrarse en la Seguridad Social",
+    "Dejar el trabajo"
+   ],
+   "answer": 1,
+   "ar_q": "«Darse de alta en la Seguridad Social» تعني:",
+   "ar_exp": "«dar de alta» تعني التسجيل في الضمان الاجتماعي، وهو حق للعامل."
+  }
+ ]
+}

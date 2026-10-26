@@ -1,0 +1,1372 @@
+{
+ "topic_id": "dgt",
+ "updated": "2026-10-25",
+ "source": [
+  "https://www.dgt.es/comunicacion/notas-de-prensa/20260930-reforma-del-reglamento-de-circulacion-usuarios-vulnerables/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/consejos-extranjeros/normas-basicas-de-circulacion/",
+  "https://www.dgt.es/nuestros-servicios/multas-y-sanciones/conoce-los-tipos-de-infracciones-y-sanciones/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/consumo-de-alcohol/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-sin-cinturon-de-seguridad/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/distracciones-al-conducir/",
+  "https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/",
+  "https://www.dgt.es/muevete-con-seguridad/que-hacer-ante-un-accidente-de-trafico/",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/comunicacion_noticias_20241030-autopistas-y-autovias-las-normas-para-conducir-seguro_/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/tus-puntos-y-tus-permisos/como-funciona-el-permiso-por-puntos/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/tus-puntos-y-tus-permisos/recupera-tus-puntos/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/clases-de-permisos-de-conducir/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/obtener-un-nuevo-permiso-de-conducir/requisitos-preparacion-y-presentacion-a-examen/",
+  "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/a-pie/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/en-bicicleta",
+  "https://www.dgt.es/nuestros-servicios/tu-vehiculo/documentacion-de-un-vehiculo/que-documentacion-debes-llevar-en-tu-vehiculo/",
+  "https://www.dgt.es/nuestros-servicios/multas-y-sanciones/quien-puede-multarte/",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/consejos-tuneles/",
+  "https://www.dgt.es/comunicacion/noticias/glorietas-como-circular-de-forma-segura",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-eficiente/",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/como-ahorrar-combustible/",
+  "https://www.dgt.es/comunicacion/noticias/20260602-flechas-en-senales-1",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/emergencias-en-carretera/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/consejos-extranjeros/otros-aspectos-de-interes/",
+  "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+  "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722"
+ ],
+ "chapters": [
+  {
+   "id": "dgt-01",
+   "title_ar": "الطريق العام وأنواع الطرق",
+   "title_es": "La vía pública y los tipos de vía",
+   "emoji": "🛣️",
+   "explain": [
+    {
+     "h": "أنواع الطرق",
+     "p": "تميّز القواعد بين ثلاثة مجالات: الطرق الحضرية داخل المدن، والطرق العادية (carreteras convencionales)، والطرق السريعة (autopistas y autovías) التي يفصل بين اتجاهيها حاجز وسطي.",
+     "ex": [
+      [
+       "Vías urbanas, carreteras convencionales y autovías/autopistas",
+       "طرق حضرية، طرق عادية، وطرق سريعة"
+      ]
+     ],
+     "ref": "DGT – Normas básicas de circulación"
+    },
+    {
+     "h": "قواعد الطرق السريعة",
+     "p": "في الطرق السريعة يُمنع الرجوع إلى الخلف وتغيير الاتجاه والتوقف والوقوف إلا في الأماكن المخصصة (المخارج ومناطق الاستراحة). إذا فاتك المخرج فخذ المخرج التالي. سر في الممر الأيمن واستعمل الباقي للتجاوز.",
+     "ex": [
+      [
+       "Si se pasa su salida, busque la siguiente",
+       "إذا فاتك المخرج فابحث عن التالي"
+      ],
+      [
+       "Circular por el carril más a la derecha",
+       "السير في الممر الأقصى يمينًا"
+      ]
+     ],
+     "ref": "RGC art. 80; DGT – Autopistas y autovías"
+    },
+    {
+     "h": "من يُمنع من الطرق السريعة",
+     "p": "يُمنع المشاة دائمًا، وتُمنع الدراجات النارية الصغيرة (ciclomotores) وعربات الجر الحيواني. الدراجات الهوائية ممنوعة في autopista، ويُسمح لها على حافة autovía عند عدم وجود بديل. من لا يستطيع تجاوز 60 كم/س بسبب طارئ يغادر من أول مخرج.",
+     "ex": [
+      [
+       "Los peatones tienen prohibido el acceso a autopistas y autovías",
+       "يُمنع على المشاة دخول الطرق السريعة"
+      ]
+     ],
+     "ref": "RGC art. 38; DGT – Autopistas y autovías"
+    }
+   ],
+   "words": [
+    {
+     "es": "la autopista",
+     "ar": "الطريق السريع (بأداء أو بمواصفات كاملة)",
+     "e": "🛣️"
+    },
+    {
+     "es": "la autovía",
+     "ar": "الطريق السريع المزدوج",
+     "e": "🛣️"
+    },
+    {
+     "es": "la carretera convencional",
+     "ar": "الطريق العادي",
+     "e": "🛤️"
+    },
+    {
+     "es": "el arcén",
+     "ar": "حافة الطريق",
+     "e": "↘️"
+    },
+    {
+     "es": "el carril",
+     "ar": "الممر",
+     "e": "⬆️"
+    },
+    {
+     "es": "la calzada",
+     "ar": "قارعة الطريق",
+     "e": "🚗"
+    },
+    {
+     "es": "la salida",
+     "ar": "المخرج",
+     "e": "↗️"
+    },
+    {
+     "es": "la mediana",
+     "ar": "الحاجز الوسطي",
+     "e": "🚧"
+    }
+   ],
+   "quiz_refs": [
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "id": "dgt-02",
+   "title_ar": "الإشارات وترتيب أولويتها وإشارات الأعوان",
+   "title_es": "Señales, su jerarquía y los agentes",
+   "emoji": "🚦",
+   "explain": [
+    {
+     "h": "أوامر الأعوان أولًا",
+     "p": "أوامر أعوان المرور تتقدم كقاعدة عامة على كل الإشارات الأخرى، حتى لو كانت الإشارة الضوئية حمراء وأمرك العون بالمرور.",
+     "ex": [
+      [
+       "Las señales y órdenes de los agentes prevalecen sobre todas las demás",
+       "إشارات وأوامر الأعوان تتقدم على كل الإشارات الأخرى"
+      ]
+     ],
+     "ref": "DGT – Viaja seguro a pie"
+    },
+    {
+     "h": "إشارات ذراع العون",
+     "p": "الذراع المرفوعة عموديًا: يتوقف كل القادمين نحو العون. الذراعان الممدودتان أفقيًا: يتوقف القادمون من اتجاهات تقطع اتجاه الذراعين. تبقى الإشارة سارية ولو أنزل ذراعه ما لم يغير وضعه. يمكن للأعوان استعمال الصفارة أيضًا.",
+     "ex": [
+      [
+       "Brazo levantado verticalmente: detenerse",
+       "ذراع مرفوعة عموديًا: توقف"
+      ]
+     ],
+     "ref": "DGT – Viaja seguro en bicicleta"
+    },
+    {
+     "h": "الإشارات الضوئية وSTOP",
+     "p": "الأحمر والبرتقالي الثابت يُلزمان بالتوقف، إلا إذا كنت قريبًا جدًا ولا يمكنك التوقف بأمان أمام البرتقالي. علامة STOP تُلزم بالتوقف دائمًا عند خط التوقف أو قبل التقاطع. عدم احترام الأحمر أو STOP: 200 يورو و4 نقاط.",
+     "ex": [
+      [
+       "Siempre tienes que detenerte, aunque creas que no vienen vehículos",
+       "يجب أن تتوقف دائمًا ولو ظننت أن لا أحد قادم"
+      ]
+     ],
+     "ref": "RGC art. 151; LSV Anexo II; DGT"
+    },
+    {
+     "h": "الأسهم والعلامات الأرضية",
+     "p": "سهم العودة يسبق خطًا متصلًا يُمنع بعده التجاوز. السهم المائل يعني أن الممر سينتهي. في إشارات الممرات: السهم الأخضر يسمح، والـ X الحمراء تمنع، والسهم الأصفر المائل ينذر بإغلاق الممر. منذ أكتوبر 2026 لا يتزامن البرتقالي الوامض للسيارات مع الأخضر الثابت للمشاة كقاعدة عامة.",
+     "ex": [
+      [
+       "Flecha de retorno: volver al carril derecho",
+       "سهم العودة: الرجوع إلى الممر الأيمن"
+      ],
+      [
+       "Aspa roja: carril cerrado",
+       "علامة X حمراء: ممر مغلق"
+      ]
+     ],
+     "ref": "DGT – Flechas en señales; Instrucción MOV 2026/28"
+    },
+    {
+     "h": "كتالوج الإشارات الجديد",
+     "p": "حُدّث الكتالوج الرسمي للإشارات في 1 يوليو 2025، مع إشارات جديدة للسكوتر الكهربائي ومناطق الانبعاثات المنخفضة، ويُستبدل الإشارات القديمة تدريجيًا.",
+     "ex": [
+      [
+       "Catálogo oficial de señales actualizado en 2025",
+       "تحديث الكتالوج الرسمي للإشارات سنة 2025"
+      ]
+     ],
+     "ref": "DGT – Nota de prensa 10-06-2025"
+    }
+   ],
+   "words": [
+    {
+     "es": "el agente",
+     "ar": "عون المرور (الشرطي)",
+     "e": "👮"
+    },
+    {
+     "es": "el semáforo",
+     "ar": "الإشارة الضوئية",
+     "e": "🚦"
+    },
+    {
+     "es": "la luz ámbar",
+     "ar": "الضوء البرتقالي",
+     "e": "🟠"
+    },
+    {
+     "es": "la línea continua",
+     "ar": "الخط المتصل",
+     "e": "➖"
+    },
+    {
+     "es": "la marca vial",
+     "ar": "العلامة الأرضية",
+     "e": "⬜"
+    },
+    {
+     "es": "la señal de STOP",
+     "ar": "علامة قف",
+     "e": "🛑"
+    },
+    {
+     "es": "el silbato",
+     "ar": "الصفارة",
+     "e": "📯"
+    }
+   ],
+   "quiz_refs": [
+    39,
+    40,
+    41,
+    81,
+    82,
+    83,
+    84,
+    96,
+    97
+   ]
+  },
+  {
+   "id": "dgt-03",
+   "title_ar": "أولوية المرور والدوّارات",
+   "title_es": "Prioridad de paso y glorietas",
+   "emoji": "🔄",
+   "explain": [
+    {
+     "h": "القاعدة العامة",
+     "p": "في تقاطع بلا إشارات، الأولوية للقادم من اليمين.",
+     "ex": [
+      [
+       "Preferencia de paso a la derecha",
+       "الأولوية لليمين"
+      ]
+     ],
+     "ref": "RGC art. 57; DGT – Normas básicas"
+    },
+    {
+     "h": "الدوّار",
+     "p": "الأولوية لمن هو داخل الدوار. عند الاقتراب انظر إلى اليسار وخفف السرعة وتوقف إن لزم. ادخل من الممر الأيمن، وسر في الممر الخارجي، واخرج دائمًا من الممر الخارجي الأيمن مع الإشارة. إن لم تستطع الوصول إليه فقم بدورة أخرى.",
+     "ex": [
+      [
+       "La prioridad es de los vehículos que circulan dentro",
+       "الأولوية للمركبات التي تسير داخله"
+      ],
+      [
+       "Salir por el carril exterior derecho",
+       "الخروج من الممر الخارجي الأيمن"
+      ]
+     ],
+     "ref": "RGC art. 57.1.c; DGT – Glorietas"
+    },
+    {
+     "h": "المشاة",
+     "p": "في ممر المشاة المرسوم (الخطوط البيضاء العريضة) للمشاة الأولوية دائمًا. وفي الشوارع ذات المستوى الواحد للمشاة الأولوية منذ إصلاح 2026.",
+     "ex": [
+      [
+       "En los pasos de peatones, los peatones siempre tienen preferencia",
+       "في ممرات المشاة للمشاة الأولوية دائمًا"
+      ]
+     ],
+     "ref": "DGT – A pie; RD 518/2026"
+    }
+   ],
+   "words": [
+    {
+     "es": "la glorieta / la rotonda",
+     "ar": "الدوّار",
+     "e": "🔄"
+    },
+    {
+     "es": "ceder el paso",
+     "ar": "إفساح الطريق",
+     "e": "⚠️"
+    },
+    {
+     "es": "la intersección",
+     "ar": "التقاطع",
+     "e": "✖️"
+    },
+    {
+     "es": "el paso de peatones",
+     "ar": "ممر المشاة",
+     "e": "🚸"
+    },
+    {
+     "es": "el carril exterior",
+     "ar": "الممر الخارجي",
+     "e": "➡️"
+    }
+   ],
+   "quiz_refs": [
+    36,
+    37,
+    38,
+    91,
+    92,
+    48
+   ]
+  },
+  {
+   "id": "dgt-04",
+   "title_ar": "السرعة ومسافة الأمان",
+   "title_es": "Velocidad y distancia de seguridad",
+   "emoji": "⏱️",
+   "explain": [
+    {
+     "h": "الحدود العامة",
+     "p": "السيارات والدراجات النارية: 120 كم/س في الطرق السريعة، و90 كم/س في الطرق العادية. الحافلات 100 والشاحنات 90 في الطرق السريعة. داخل المدن: 50 كم/س بممرين أو أكثر في كل اتجاه، و30 كم/س بممر واحد، و20 كم/س في الشوارع ذات المستوى الواحد.",
+     "ex": [
+      [
+       "Velocidad máxima 120 km/h en autopista",
+       "السرعة القصوى 120 كم/س في الطريق السريع"
+      ]
+     ],
+     "ref": "RGC art. 48 y 50; DGT"
+    },
+    {
+     "h": "السرعة المناسبة",
+     "p": "احترام الحد الأقصى لا يكفي: السرعة المناسبة هي التي تسمح لك بالتحكم في المركبة أمام أي طارئ، حسب حالة الطريق والطقس والمركبة وحالتك.",
+     "ex": [
+      [
+       "Velocidad adecuada",
+       "السرعة المناسبة"
+      ],
+      [
+       "Velocidad inadecuada o excesiva",
+       "سرعة غير مناسبة أو مفرطة"
+      ]
+     ],
+     "ref": "DGT – Exceso de velocidad"
+    },
+    {
+     "h": "مسافة التوقف",
+     "p": "مسافة التوقف = مسافة رد الفعل + مسافة الفرملة. زمن رد الفعل الطبيعي 0,75 ثانية: حوالي 10 أمتار بسرعة 50 كم/س و25 مترًا بسرعة 120 كم/س. عند السرعة يضيق مجال الرؤية (تأثير النفق).",
+     "ex": [
+      [
+       "Distancia de detención = reacción + frenado",
+       "مسافة التوقف = رد الفعل + الفرملة"
+      ]
+     ],
+     "ref": "DGT – Exceso de velocidad"
+    },
+    {
+     "h": "العقوبات",
+     "p": "التجاوز بأكثر من 60 كم/س داخل المدينة أو 80 كم/س خارجها جريمة. غرامات السرعة بين 100 و600 يورو وخصم من 2 إلى 6 نقاط. مسافة الأمان يجب أن تسمح بالتوقف دون اصطدام (200 يورو و4 نقاط إن لم تُحترم).",
+     "ex": [
+      [
+       "Es delito superar en 60 km/h (urbana) u 80 km/h (interurbana)",
+       "جريمة تجاوز السرعة بـ 60 (داخل المدينة) أو 80 (خارجها)"
+      ]
+     ],
+     "ref": "CP art. 379; RGC art. 54; DGT – Infracciones"
+    }
+   ],
+   "words": [
+    {
+     "es": "el límite de velocidad",
+     "ar": "حد السرعة",
+     "e": "🔢"
+    },
+    {
+     "es": "la distancia de seguridad",
+     "ar": "مسافة الأمان",
+     "e": "↔️"
+    },
+    {
+     "es": "el tiempo de reacción",
+     "ar": "زمن رد الفعل",
+     "e": "⏱️"
+    },
+    {
+     "es": "la distancia de frenado",
+     "ar": "مسافة الفرملة",
+     "e": "🛑"
+    },
+    {
+     "es": "el radar de tramo",
+     "ar": "رادار المقطع",
+     "e": "📷"
+    },
+    {
+     "es": "el efecto túnel",
+     "ar": "تأثير النفق",
+     "e": "👁️"
+    }
+   ],
+   "quiz_refs": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    21
+   ]
+  },
+  {
+   "id": "dgt-05",
+   "title_ar": "التجاوز",
+   "title_es": "El adelantamiento",
+   "emoji": "↗️",
+   "explain": [
+    {
+     "h": "تجاوز الدراجين",
+     "p": "خارج المدينة: مسافة جانبية 1,5 متر على الأقل، وتخفيض السرعة 20 كم/س على الأقل عن حد الطريق، وتغيير الممر بالكامل إذا وُجد أكثر من ممر في الاتجاه. نفس القاعدة عند المرور بجانب مركبة متوقفة بسبب عطل أو حادث.",
+     "ex": [
+      [
+       "Separación lateral mínima de 1,5 metros",
+       "مسافة جانبية لا تقل عن 1,5 متر"
+      ]
+     ],
+     "ref": "RGC art. 85 (RD 518/2026)"
+    },
+    {
+     "h": "متى يُمنع",
+     "p": "بعد سهم العودة يبدأ الخط المتصل ويُمنع التجاوز. في الأنفاق (إشارة S-5) لا تتجاوز إلا إذا وُجد أكثر من ممر في اتجاهك. في الطرق السريعة مع الثلج يُمنع التجاوز منذ أكتوبر 2026.",
+     "ex": [
+      [
+       "Prohibido adelantar con nieve en autopistas y autovías",
+       "ممنوع التجاوز مع الثلج في الطرق السريعة"
+      ]
+     ],
+     "ref": "DGT – Flechas, Túneles; RD 518/2026"
+    },
+    {
+     "h": "تجاوز آمن وفعال",
+     "p": "التجاوز يجب أن يكون آمنًا مع مساحة ووقت كافيين. إذا لم تستطع إتمامه بأمان فتراجع وعد إلى اليمين. التجاوز لكسب مكان أو مكانين لا يوفر وقتًا ويستهلك وقودًا كثيرًا.",
+     "ex": [
+      [
+       "El adelantamiento ha de ser siempre seguro",
+       "يجب أن يكون التجاوز آمنًا دائمًا"
+      ]
+     ],
+     "ref": "DGT – Conducción eficiente"
+    }
+   ],
+   "words": [
+    {
+     "es": "adelantar",
+     "ar": "يتجاوز",
+     "e": "↗️"
+    },
+    {
+     "es": "el ciclista",
+     "ar": "راكب الدراجة",
+     "e": "🚴"
+    },
+    {
+     "es": "la separación lateral",
+     "ar": "المسافة الجانبية",
+     "e": "↔️"
+    },
+    {
+     "es": "desistir",
+     "ar": "يتراجع",
+     "e": "↩️"
+    },
+    {
+     "es": "el túnel",
+     "ar": "النفق",
+     "e": "🚇"
+    }
+   ],
+   "quiz_refs": [
+    42,
+    43,
+    44,
+    58,
+    89,
+    96
+   ]
+  },
+  {
+   "id": "dgt-06",
+   "title_ar": "التوقف والوقوف والأضواء",
+   "title_es": "Parada, estacionamiento y alumbrado",
+   "emoji": "🅿️",
+   "explain": [
+    {
+     "h": "أماكن يُمنع فيها التوقف",
+     "p": "في الطرق السريعة والأنفاق يُمنع التوقف والوقوف وتغيير الاتجاه والرجوع إلى الخلف. في الطرق السريعة يكون ذلك فقط في الأماكن المخصصة (المخارج، مناطق الاستراحة والخدمات).",
+     "ex": [
+      [
+       "Prohibición de parar, estacionar, cambiar de sentido y marchar hacia atrás",
+       "منع التوقف والوقوف وتغيير الاتجاه والرجوع إلى الخلف"
+      ]
+     ],
+     "ref": "DGT – Túneles; DGT – Autopistas y autovías"
+    },
+    {
+     "h": "الأضواء في الأنفاق",
+     "p": "شغّل الأضواء قبل دخول أي نفق ولو كان قصيرًا، وانزع النظارات الشمسية. إذا توقفت الحركة داخل النفق: اترك مسافة، شغّل أضواء الطوارئ، أطفئ المحرك واترك أضواء الوضع مشتعلة.",
+     "ex": [
+      [
+       "Encender las luces antes de entrar en un túnel",
+       "شغّل الأضواء قبل دخول النفق"
+      ]
+     ],
+     "ref": "DGT – Consejos para conducir en túneles"
+    },
+    {
+     "h": "الرؤية والظهور",
+     "p": "سائقو الدراجات النارية يُنصحون بإبقاء أضواء التقاطع (cruce) مشتعلة دائمًا. السكوتر الكهربائي: الأضواء إلزامية دائمًا ابتداءً من 1 أكتوبر 2027.",
+     "ex": [
+      [
+       "Lleva la luz de cruce siempre encendida",
+       "أبقِ ضوء التقاطع مشتعلًا دائمًا"
+      ]
+     ],
+     "ref": "DGT – En moto; RD 518/2026"
+    }
+   ],
+   "words": [
+    {
+     "es": "parar",
+     "ar": "يتوقف (لحظة)",
+     "e": "⏸️"
+    },
+    {
+     "es": "estacionar",
+     "ar": "يركن / يقف",
+     "e": "🅿️"
+    },
+    {
+     "es": "las luces de cruce",
+     "ar": "أضواء التقاطع (المنخفضة)",
+     "e": "💡"
+    },
+    {
+     "es": "las luces de posición",
+     "ar": "أضواء الوضع",
+     "e": "🔆"
+    },
+    {
+     "es": "la luz de emergencia",
+     "ar": "أضواء الطوارئ",
+     "e": "⚠️"
+    },
+    {
+     "es": "cambiar de sentido",
+     "ar": "تغيير الاتجاه",
+     "e": "↩️"
+    }
+   ],
+   "quiz_refs": [
+    18,
+    89,
+    90
+   ]
+  },
+  {
+   "id": "dgt-07",
+   "title_ar": "الكحول والمخدرات",
+   "title_es": "Alcohol y drogas",
+   "emoji": "🍺",
+   "explain": [
+    {
+     "h": "النسب المسموح بها",
+     "p": "السائق العادي: 0,5 غ/لتر في الدم أو 0,25 ملغ/لتر في هواء الزفير. المبتدئون (أول سنتين) والمحترفون: 0,3 غ/لتر أو 0,15 ملغ/لتر. فوق 0,60 ملغ/لتر في الهواء جريمة. النسبة الآمنة الوحيدة هي 0,0.",
+     "ex": [
+      [
+       "La única tasa realmente segura es 0,0 g/l",
+       "النسبة الآمنة حقًا هي 0,0"
+      ]
+     ],
+     "ref": "RGC art. 20; CP art. 379.2; DGT"
+    },
+    {
+     "h": "المخدرات",
+     "p": "أي وجود للمخدرات في الجسم يعاقب عليه. القنب يضاعف احتمال الحادث، والكوكايين يرفع الثقة الزائفة والاندفاع.",
+     "ex": [
+      [
+       "Cualquier presencia de drogas es motivo de sanción",
+       "أي وجود للمخدرات سبب للعقوبة"
+      ]
+     ],
+     "ref": "LSV art. 14; DGT – Drogas"
+    },
+    {
+     "h": "أساطير خاطئة",
+     "p": "لا القهوة ولا النوم ولا الماء ولا العلكة تخفض الكحول. الكبد يتخلص من 8–10 غ في الساعة فقط، وقد تبقى إيجابيًا في الصباح بعد سهرة.",
+     "ex": [
+      [
+       "Un café, una cabezadita y como nuevo: falso",
+       "فنجان قهوة وقيلولة وأصبح كالجديد: خطأ"
+      ]
+     ],
+     "ref": "DGT – Consumo de alcohol"
+    }
+   ],
+   "words": [
+    {
+     "es": "la tasa de alcoholemia",
+     "ar": "نسبة الكحول",
+     "e": "🍷"
+    },
+    {
+     "es": "el aire espirado",
+     "ar": "هواء الزفير",
+     "e": "💨"
+    },
+    {
+     "es": "el etilómetro",
+     "ar": "جهاز قياس الكحول",
+     "e": "📟"
+    },
+    {
+     "es": "el conductor novel",
+     "ar": "السائق المبتدئ",
+     "e": "🔰"
+    },
+    {
+     "es": "la prueba de drogas",
+     "ar": "اختبار المخدرات",
+     "e": "🧪"
+    }
+   ],
+   "quiz_refs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "dgt-08",
+   "title_ar": "الانتباه والهاتف والإرهاق",
+   "title_es": "Distracciones, móvil y fatiga",
+   "emoji": "📱",
+   "explain": [
+    {
+     "h": "الهاتف",
+     "p": "إمساك الهاتف أثناء القيادة: 200 يورو و6 نقاط. يُسمح فقط بنظام اليدين الحرتين دون سماعات. حتى مع اليدين الحرتين تقل الانتباه، فالأفضل عدم الكلام.",
+     "ex": [
+      [
+       "Es obligatorio el uso de un sistema de manos libres",
+       "استعمال نظام اليدين الحرتين إلزامي"
+      ]
+     ],
+     "ref": "LSV art. 76; RGC art. 18.2; DGT – Distracciones"
+    },
+    {
+     "h": "مصادر التشتت",
+     "p": "الراديو، GPS، الأكل، التدخين، القراءة، البحث عن أشياء. برمج GPS قبل الانطلاق والسيارة متوقفة. بسرعة 100 كم/س، طلب رقم في الهاتف يجعلك تقطع حوالي 140 مترًا دون رؤية الطريق.",
+     "ex": [
+      [
+       "Las distracciones causan más del 30 % de los accidentes",
+       "التشتت سبب أكثر من 30 % من الحوادث"
+      ]
+     ],
+     "ref": "DGT – Distracciones al volante"
+    },
+    {
+     "h": "الإرهاق",
+     "p": "الإرهاق مرتبط بـ 20–30 % من الحوادث، وسببه الأول القيادة طويلًا دون راحة. علاماته: التثاؤب، تغيير الوضعية، ثقل الجفون. توقف للراحة كل ساعتين تقريبًا.",
+     "ex": [
+      [
+       "Parar cada dos horas",
+       "التوقف كل ساعتين"
+      ]
+     ],
+     "ref": "DGT – Fatiga; DGT – Emergencias en carretera"
+    }
+   ],
+   "words": [
+    {
+     "es": "el teléfono móvil",
+     "ar": "الهاتف المحمول",
+     "e": "📱"
+    },
+    {
+     "es": "el manos libres",
+     "ar": "نظام اليدين الحرتين",
+     "e": "🎧"
+    },
+    {
+     "es": "la distracción",
+     "ar": "التشتت",
+     "e": "😵"
+    },
+    {
+     "es": "la fatiga",
+     "ar": "الإرهاق",
+     "e": "😴"
+    },
+    {
+     "es": "el bostezo",
+     "ar": "التثاؤب",
+     "e": "🥱"
+    }
+   ],
+   "quiz_refs": [
+    32,
+    33,
+    79,
+    80
+   ]
+  },
+  {
+   "id": "dgt-09",
+   "title_ar": "السلامة السلبية: الحزام والكراسي والخوذة",
+   "title_es": "Seguridad pasiva: cinturón, SRI y casco",
+   "emoji": "🪢",
+   "explain": [
+    {
+     "h": "حزام الأمان",
+     "p": "إلزامي في كل المقاعد، وللحوامل أيضًا (بعيدًا عن منطقة الجنين). منذ أكتوبر 2026 أُلغيت الإعفاءات لسائقي التاكسي والبضائع ومدارس السياقة. المخالفة: 200 يورو و4 نقاط.",
+     "ex": [
+      [
+       "El cinturón tiene que utilizarse en todos los asientos",
+       "يجب استعمال الحزام في كل المقاعد"
+      ]
+     ],
+     "ref": "RGC art. 117; RD 518/2026; DGT"
+    },
+    {
+     "h": "مقاعد الأطفال SRI",
+     "p": "إلزامية حتى يتجاوز طول الطفل 135 سم، في المقاعد الخلفية كقاعدة عامة. المعتمدة R-129 (i-Size)، وتبقى R44/04 صالحة للاستعمال. السائق هو المسؤول.",
+     "ex": [
+      [
+       "Sistemas de retención infantil hasta 135 cm",
+       "مقاعد أمان الأطفال حتى 135 سم"
+      ]
+     ],
+     "ref": "RGC art. 117.2; DGT – Normas básicas"
+    },
+    {
+     "h": "أخطاء شائعة",
+     "p": "المشابك والملابس السميكة تقلل فعالية الحزام. المنشفة على المقعد تسبب تأثير الغواصة (الانزلاق تحت الحزام). الحزام يمر فوق الترقوة لا فوق العنق.",
+     "ex": [
+      [
+       "Efecto submarino",
+       "تأثير الغواصة"
+      ]
+     ],
+     "ref": "DGT – Cinturón de seguridad"
+    },
+    {
+     "h": "الخوذة",
+     "p": "إلزامية للدراجات النارية في كل الطرق. للدراجين: خارج المدن للجميع منذ 2026، وداخل المدن لمن هم دون 16 سنة.",
+     "ex": [
+      [
+       "Casco obligatorio para todos los ciclistas en vías interurbanas",
+       "الخوذة إلزامية لكل الدراجين خارج المدن"
+      ]
+     ],
+     "ref": "RGC art. 118; RD 518/2026"
+    }
+   ],
+   "words": [
+    {
+     "es": "el cinturón de seguridad",
+     "ar": "حزام الأمان",
+     "e": "🪢"
+    },
+    {
+     "es": "la silla infantil (SRI)",
+     "ar": "مقعد الطفل",
+     "e": "👶"
+    },
+    {
+     "es": "el casco",
+     "ar": "الخوذة",
+     "e": "⛑️"
+    },
+    {
+     "es": "el airbag",
+     "ar": "الوسادة الهوائية",
+     "e": "🎈"
+    },
+    {
+     "es": "el reposacabezas",
+     "ar": "مسند الرأس",
+     "e": "💺"
+    }
+   ],
+   "quiz_refs": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "id": "dgt-10",
+   "title_ar": "العطل وجهاز V-16 والطوارئ",
+   "title_es": "Avería, baliza V-16 y emergencias",
+   "emoji": "🔶",
+   "explain": [
+    {
+     "h": "جهاز V-16",
+     "p": "منذ 1 يناير 2026 هو الوسيلة القانونية الوحيدة لتنبيه الآخرين إلى مركبة متوقفة، ويعوّض المثلثات لأن وضعها كان يتطلب المشي 100 متر على الطريق. يرسل موقعك إلى DGT. شغّل معه أضواء الطوارئ.",
+     "ex": [
+      [
+       "La baliza V-16 conectada sustituye a los triángulos",
+       "جهاز V-16 المتصل يعوّض المثلثات"
+      ]
+     ],
+     "ref": "RGC art. 130 y Anexo XI; DGT – V16"
+    },
+    {
+     "h": "ممر الطوارئ",
+     "p": "في الازدحام تتنحى السيارات: بممرين، الأيسر يسارًا والأيمن يمينًا ويبقى الوسط فارغًا. بثلاثة ممرات، يُفتح الممر بين الأيسر والأوسط. مع الثلج يُترك الممر الأيسر لكاسحات الثلج.",
+     "ex": [
+      [
+       "Orillarse para dejar un carril de emergencia",
+       "التنحي لترك ممر للطوارئ"
+      ]
+     ],
+     "ref": "RD 518/2026"
+    },
+    {
+     "h": "الطقس السيئ",
+     "p": "لا تعبر طريقًا مغمورًا بالماء ولا نارًا. إذا علقت في الثلج ابقَ في السيارة مع التدفئة وجدد الهواء واتصل بـ 112. في الحرارة الشديدة لا تترك أحدًا داخل السيارة.",
+     "ex": [
+      [
+       "Llame al 112",
+       "اتصل بالرقم 112"
+      ]
+     ],
+     "ref": "DGT – Emergencias en carretera"
+    }
+   ],
+   "words": [
+    {
+     "es": "la avería",
+     "ar": "العطل",
+     "e": "🔧"
+    },
+    {
+     "es": "la baliza V-16",
+     "ar": "جهاز الإشارة V-16",
+     "e": "🔶"
+    },
+    {
+     "es": "el chaleco reflectante",
+     "ar": "السترة العاكسة",
+     "e": "🦺"
+    },
+    {
+     "es": "el carril de emergencia",
+     "ar": "ممر الطوارئ",
+     "e": "🚑"
+    },
+    {
+     "es": "la retención",
+     "ar": "الازدحام",
+     "e": "🚗🚗"
+    }
+   ],
+   "quiz_refs": [
+    34,
+    35,
+    55,
+    56,
+    57,
+    99
+   ]
+  },
+  {
+   "id": "dgt-11",
+   "title_ar": "رخصة النقاط والعقوبات",
+   "title_es": "Permiso por puntos y sanciones",
+   "emoji": "🔢",
+   "explain": [
+    {
+     "h": "رصيد النقاط",
+     "p": "الرصيد العام 12 نقطة، والمبتدئ أو من استعاد رخصته يبدأ بـ 8. بعد 3 سنوات بلا مخالفات +2 (14) ثم +1 (15 كحد أقصى). النقاط مشتركة بين كل الرخص.",
+     "ex": [
+      [
+       "Se parte con un saldo de 12 puntos",
+       "يبدأ الرصيد بـ 12 نقطة"
+      ]
+     ],
+     "ref": "LSV art. 63; DGT – Permiso por puntos"
+    },
+    {
+     "h": "فقدان واسترجاع النقاط",
+     "p": "لا تفقد أكثر من 8 نقاط في يوم واحد إلا في المخالفات الخطيرة جدًا. بعد سنتين دون عقوبة يعود الرصيد إلى 12، أو تسترجع حتى 4 نقاط بدورة 10 ساعات. عند الوصول إلى الصفر: 6 أشهر انتظار (3 للمحترفين) ودورة 20 ساعة وامتحان. القيادة بعد الإشعار جريمة.",
+     "ex": [
+      [
+       "Recuperar hasta 4 puntos con un curso",
+       "استرجاع حتى 4 نقاط بدورة"
+      ]
+     ],
+     "ref": "LSV art. 63; CP art. 384; DGT – Recupera tus puntos"
+    },
+    {
+     "h": "أنواع المخالفات",
+     "p": "بسيطة حتى 100 يورو، خطيرة 200 يورو، خطيرة جدًا 500 يورو. الدفع خلال 20 يومًا يمنح تخفيض 50 %. خارج المدن يحرر المخالفات الحرس المدني، وداخلها الشرطة المحلية.",
+     "ex": [
+      [
+       "Leves, graves y muy graves",
+       "بسيطة، خطيرة، خطيرة جدًا"
+      ]
+     ],
+     "ref": "LSV art. 80; DGT – Quién puede multarte"
+    }
+   ],
+   "words": [
+    {
+     "es": "los puntos",
+     "ar": "النقاط",
+     "e": "🔢"
+    },
+    {
+     "es": "la multa",
+     "ar": "الغرامة",
+     "e": "💶"
+    },
+    {
+     "es": "la infracción",
+     "ar": "المخالفة",
+     "e": "❌"
+    },
+    {
+     "es": "la pérdida de vigencia",
+     "ar": "فقدان الصلاحية",
+     "e": "🚫"
+    },
+    {
+     "es": "el curso de recuperación",
+     "ar": "دورة الاسترجاع",
+     "e": "🎓"
+    },
+    {
+     "es": "la Guardia Civil",
+     "ar": "الحرس المدني",
+     "e": "👮"
+    }
+   ],
+   "quiz_refs": [
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    87,
+    88
+   ]
+  },
+  {
+   "id": "dgt-12",
+   "title_ar": "الرخص والامتحان",
+   "title_es": "Permisos y examen",
+   "emoji": "🪪",
+   "explain": [
+    {
+     "h": "الرخص والأعمار",
+     "p": "AM من 15 سنة، A1 من 16، A2 من 18، A من 20، وB من 18. برخصة B يمكن جر مقطورة حتى 750 كغ. رخصة B تُجدد كل 10 سنوات حتى 65، ثم كل 5 سنوات.",
+     "ex": [
+      [
+       "Edad mínima de 18 años para el permiso B",
+       "السن الأدنى 18 سنة لرخصة B"
+      ]
+     ],
+     "ref": "RGCond art. 4 y 12; DGT – Clases de permisos"
+    },
+    {
+     "h": "التقدم للامتحان",
+     "p": "تقرير الأهلية النفسية والجسدية صالح 90 يومًا. الرسوم تمنح محاولتين. النجاح في امتحان يبقى صالحًا سنتين. يمكن التقدم للنظري قبل 3 أشهر من بلوغ السن. بعد النجاح تُمنح رخصة مؤقتة لـ 3 أشهر داخل إسبانيا فقط.",
+     "ex": [
+      [
+       "El aprobado de una prueba se guarda durante dos años",
+       "يُحتفظ بالنجاح سنتين"
+      ]
+     ],
+     "ref": "DGT – Requisitos y presentación a examen"
+    },
+    {
+     "h": "رخص أجنبية",
+     "p": "رخص دول الاتحاد الأوروبي صالحة في إسبانيا. رخص دول أخرى تحتاج رخصة دولية، ويمكن استبدالها إذا وُجد اتفاق ثنائي بين إسبانيا وبلدك.",
+     "ex": [
+      [
+       "Puedes canjear el permiso que ya tienes",
+       "يمكنك استبدال الرخصة التي لديك"
+      ]
+     ],
+     "ref": "DGT – Requisitos; DGT – Antes de conducir por España"
+    }
+   ],
+   "words": [
+    {
+     "es": "el permiso de conducir",
+     "ar": "رخصة السياقة",
+     "e": "🪪"
+    },
+    {
+     "es": "el examen teórico",
+     "ar": "الامتحان النظري",
+     "e": "📝"
+    },
+    {
+     "es": "el examen práctico",
+     "ar": "الامتحان التطبيقي",
+     "e": "🚗"
+    },
+    {
+     "es": "la autoescuela",
+     "ar": "مدرسة تعليم السياقة",
+     "e": "🏫"
+    },
+    {
+     "es": "canjear",
+     "ar": "يستبدل",
+     "e": "🔁"
+    },
+    {
+     "es": "el remolque",
+     "ar": "المقطورة",
+     "e": "🚛"
+    }
+   ],
+   "quiz_refs": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "id": "dgt-13",
+   "title_ar": "الوثائق والفحص التقني والتأمين والحمولة",
+   "title_es": "Documentación, ITV, seguro y carga",
+   "emoji": "📄",
+   "explain": [
+    {
+     "h": "الوثائق الإلزامية",
+     "p": "ثلاث وثائق: رخصة السياقة، ورخصة سير المركبة، وبطاقة الفحص التقني ITV. منذ 2008 لا يلزم حمل عقد التأمين، لكن التأمين الإلزامي يجب أن يكون ساريًا. تطبيق miDGT له نفس القيمة داخل إسبانيا.",
+     "ex": [
+      [
+       "Permiso de conducir, permiso de circulación y tarjeta ITV",
+       "رخصة السياقة، رخصة السير، بطاقة ITV"
+      ]
+     ],
+     "ref": "DGT – Qué documentación debes llevar"
+    },
+    {
+     "h": "المسؤولية",
+     "p": "الوثائق والتأمين وITV من مسؤولية مالك المركبة؛ مخالفات السير من مسؤولية السائق.",
+     "ex": [
+      [
+       "El titular responde de la ITV y el seguro",
+       "المالك مسؤول عن ITV والتأمين"
+      ]
+     ],
+     "ref": "LSV art. 82; DGT – Infracciones"
+    },
+    {
+     "h": "الحمولة البارزة",
+     "p": "حمولة أقل من عرض المركبة: علامة V-20 واحدة في طرفها. تشغل كامل العرض: علامتان على شكل V مقلوبة. أعرض من المركبة: ممنوعة.",
+     "ex": [
+      [
+       "Señal V-20 en el extremo de la carga",
+       "علامة V-20 في طرف الحمولة"
+      ]
+     ],
+     "ref": "DGT – Otros aspectos de interés"
+    }
+   ],
+   "words": [
+    {
+     "es": "el permiso de circulación",
+     "ar": "رخصة سير المركبة",
+     "e": "📄"
+    },
+    {
+     "es": "la tarjeta ITV",
+     "ar": "بطاقة الفحص التقني",
+     "e": "🔍"
+    },
+    {
+     "es": "el seguro obligatorio",
+     "ar": "التأمين الإلزامي",
+     "e": "🛡️"
+    },
+    {
+     "es": "el titular",
+     "ar": "المالك المسجل",
+     "e": "👤"
+    },
+    {
+     "es": "la carga",
+     "ar": "الحمولة",
+     "e": "📦"
+    }
+   ],
+   "quiz_refs": [
+    78,
+    85,
+    86,
+    100
+   ]
+  },
+  {
+   "id": "dgt-14",
+   "title_ar": "السياقة الاقتصادية",
+   "title_es": "Conducción eficiente",
+   "emoji": "🌱",
+   "explain": [
+    {
+     "h": "مبادئها",
+     "p": "تخفض استهلاك الوقود والتلوث وتزيد السلامة: انطلق بالغيار الأول وانتقل بسرعة إلى الثاني، سر بأطول غيار ممكن ودورات منخفضة (الرابع أو الخامس قبل 50 كم/س)، توقع الحركة وتجنب الفرملة والتسارع المفاجئ.",
+     "ex": [
+      [
+       "Circular en las marchas más largas y a bajas revoluciones",
+       "السير بالغيارات الطويلة ودورات منخفضة"
+      ]
+     ],
+     "ref": "DGT – Conducción eficiente; DGT – Ahorrar combustible"
+    },
+    {
+     "h": "ما يزيد الاستهلاك",
+     "p": "المكيف (يُنصح 21–22 درجة)، النوافذ المفتوحة في الطريق، الحمالة فوق السقف (حتى 35 % أكثر)، ضغط العجلات المنخفض. لا تنزل المنحدرات على المحايد: خطير ويستهلك أكثر.",
+     "ex": [
+      [
+       "Nunca bajar la pendiente en punto muerto",
+       "لا تنزل المنحدر على المحايد أبدًا"
+      ]
+     ],
+     "ref": "DGT – Conducción eficiente"
+    }
+   ],
+   "words": [
+    {
+     "es": "el consumo",
+     "ar": "الاستهلاك",
+     "e": "⛽"
+    },
+    {
+     "es": "la marcha",
+     "ar": "الغيار",
+     "e": "⚙️"
+    },
+    {
+     "es": "las revoluciones",
+     "ar": "دورات المحرك",
+     "e": "🔄"
+    },
+    {
+     "es": "el punto muerto",
+     "ar": "المحايد",
+     "e": "🅽"
+    },
+    {
+     "es": "la presión de los neumáticos",
+     "ar": "ضغط العجلات",
+     "e": "🛞"
+    }
+   ],
+   "quiz_refs": [
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "id": "dgt-15",
+   "title_ar": "الإسعافات الأولية: حماية، إبلاغ، إسعاف",
+   "title_es": "Primeros auxilios: conducta PAS",
+   "emoji": "🩹",
+   "explain": [
+    {
+     "h": "حماية",
+     "p": "أوقف سيارتك في مكان آمن، شغّل أضواء الطوارئ، ارتدِ السترة العاكسة قبل الخروج، وأشر إلى الحادث (اليوم بجهاز V-16). امنع التدخين قرب الحادث.",
+     "ex": [
+      [
+       "Proteger, Avisar, Socorrer",
+       "حماية، إبلاغ، إسعاف"
+      ]
+     ],
+     "ref": "DGT – Qué hacer ante un accidente"
+    },
+    {
+     "h": "إبلاغ",
+     "p": "اتصل بـ 112 وأعطِ: مكان الحادث، عدد المركبات، عدد المصابين وحالتهم، وأي خطر خاص (عالقون، مواد خطرة).",
+     "ex": [
+      [
+       "Llama al 112",
+       "اتصل بـ 112"
+      ]
+     ],
+     "ref": "DGT – Qué hacer ante un accidente"
+    },
+    {
+     "h": "إسعاف",
+     "p": "ساعد فقط إن كانت لديك المعرفة. لا تنزع خوذة الدراج، لا تحرك المصاب إلا عند خطر حريق أو انفجار، اضغط على الجروح النازفة، ولا تعطه أكلًا ولا شربًا.",
+     "ex": [
+      [
+       "Si no se sabe qué hacer, no hacer nada",
+       "إن لم تعرف ماذا تفعل فلا تفعل شيئًا"
+      ]
+     ],
+     "ref": "DGT – Qué hacer ante un accidente"
+    }
+   ],
+   "words": [
+    {
+     "es": "el herido",
+     "ar": "المصاب",
+     "e": "🤕"
+    },
+    {
+     "es": "socorrer",
+     "ar": "يُسعف",
+     "e": "🩹"
+    },
+    {
+     "es": "el accidente",
+     "ar": "الحادث",
+     "e": "💥"
+    },
+    {
+     "es": "la víctima",
+     "ar": "الضحية",
+     "e": "🧍"
+    },
+    {
+     "es": "emergencias",
+     "ar": "الطوارئ",
+     "e": "🚑"
+    }
+   ],
+   "quiz_refs": [
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "id": "dgt-16",
+   "title_ar": "مستعملو الطريق الهشون (إصلاح 2026)",
+   "title_es": "Usuarios vulnerables (RD 518/2026)",
+   "emoji": "🚸",
+   "explain": [
+    {
+     "h": "من هم",
+     "p": "منذ 1 أكتوبر 2026 يعرّف النظام «مستعمل الطريق الهش»: المشاة (خاصة الأطفال والمسنين وذوي الإعاقة)، والدراجون، ومستعملو السكوتر، وسائقو وركاب الدراجات النارية.",
+     "ex": [
+      [
+       "Usuario vulnerable de la vía",
+       "مستعمل الطريق الهش"
+      ]
+     ],
+     "ref": "RD 518/2026; DGT – Nota de prensa 30-09-2026"
+    },
+    {
+     "h": "الدراجون داخل المدن",
+     "p": "يسيرون في وسط الممر، وعلى السيارة خلفهم ترك 5 أمتار على الأقل. في شوارع الممر الواحد بحد 30 كم/س يمكنهم السير في الاتجاهين إذا سمحت الإشارة.",
+     "ex": [
+      [
+       "Distancia mínima de 5 metros",
+       "مسافة دنيا 5 أمتار"
+      ]
+     ],
+     "ref": "RD 518/2026 (Título VI)"
+    },
+    {
+     "h": "السكوتر والدراجات النارية والموزعون",
+     "p": "السكوتر: 15 سنة على الأقل، خوذة، وسترة عاكسة ليلًا. الدراجات النارية: قفازات خارج المدن وحذاء مغلق في كل الطرق (دون خصم نقاط)، ويمكن السير على الحافة عند الازدحام بـ 30 كم/س كحد أقصى في المقاطع المشار إليها. الموزعون (riders): خوذة وسترة دائمًا.",
+     "ex": [
+      [
+       "Casco y chaleco reflectante en todo momento",
+       "خوذة وسترة عاكسة في كل وقت"
+      ]
+     ],
+     "ref": "RD 518/2026; Instrucción SANC 2026/25"
+    },
+    {
+     "h": "المشاة",
+     "p": "في الطرق خارج المدن يمشي الراجل على اليسار ليرى السيارات القادمة، ويحمل عنصرًا عاكسًا ليلًا. احتمال وفاة الراجل المصدوم 5 % بسرعة 30 كم/س وحوالي 50 % بسرعة 50 كم/س.",
+     "ex": [
+      [
+       "Los peatones deben circular por la izquierda",
+       "يجب أن يمشي المشاة على اليسار"
+      ]
+     ],
+     "ref": "DGT – A pie; DGT – Exceso de velocidad"
+    }
+   ],
+   "words": [
+    {
+     "es": "el peatón",
+     "ar": "الراجل",
+     "e": "🚶"
+    },
+    {
+     "es": "el patinete eléctrico (VMP)",
+     "ar": "السكوتر الكهربائي",
+     "e": "🛴"
+    },
+    {
+     "es": "el repartidor (rider)",
+     "ar": "عامل التوصيل",
+     "e": "📦"
+    },
+    {
+     "es": "los guantes",
+     "ar": "القفازات",
+     "e": "🧤"
+    },
+    {
+     "es": "el calzado cerrado",
+     "ar": "الحذاء المغلق",
+     "e": "👟"
+    },
+    {
+     "es": "la plataforma única",
+     "ar": "الشارع ذو المستوى الواحد",
+     "e": "🟫"
+    }
+   ],
+   "quiz_refs": [
+    17,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    98
+   ]
+  }
+ ]
+}

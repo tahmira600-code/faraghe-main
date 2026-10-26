@@ -1,0 +1,11180 @@
+[
+ {
+  "es": "de",
+  "pos": "prep",
+  "g": "",
+  "ar": "مِن ، عن",
+  "ex": "Soy de Marruecos.",
+  "exar": "أنا من المغرب.",
+  "e": ""
+ },
+ {
+  "es": "el",
+  "pos": "det",
+  "g": "",
+  "ar": "الـ (أداة التعريف)",
+  "ex": "El niño come pan.",
+  "exar": "الولد يأكل خبزًا.",
+  "e": ""
+ },
+ {
+  "es": "que",
+  "pos": "conj",
+  "g": "",
+  "ar": "أنّ ، الذي",
+  "ex": "Creo que va a llover.",
+  "exar": "أظن أنها ستمطر.",
+  "e": ""
+ },
+ {
+  "es": "en",
+  "pos": "prep",
+  "g": "",
+  "ar": "في ، على",
+  "ex": "Vivo en Madrid.",
+  "exar": "أسكن في مدريد.",
+  "e": ""
+ },
+ {
+  "es": "y",
+  "pos": "conj",
+  "g": "",
+  "ar": "و",
+  "ex": "Pan y agua.",
+  "exar": "خبز وماء.",
+  "e": ""
+ },
+ {
+  "es": "a",
+  "pos": "prep",
+  "g": "",
+  "ar": "إلى ، لـ",
+  "ex": "Voy a la escuela.",
+  "exar": "أذهب إلى المدرسة.",
+  "e": ""
+ },
+ {
+  "es": "no",
+  "pos": "adv",
+  "g": "",
+  "ar": "لا ، ليس",
+  "ex": "No hablo inglés.",
+  "exar": "لا أتكلم الإنجليزية.",
+  "e": ""
+ },
+ {
+  "es": "un",
+  "pos": "det",
+  "g": "",
+  "ar": "(أداة نكرة) ، واحد",
+  "ex": "Tengo un hermano.",
+  "exar": "عندي أخ.",
+  "e": ""
+ },
+ {
+  "es": "se",
+  "pos": "pron",
+  "g": "",
+  "ar": "نفسه (ضمير انعكاسي)",
+  "ex": "Se lava las manos.",
+  "exar": "يغسل يديه.",
+  "e": ""
+ },
+ {
+  "es": "por",
+  "pos": "prep",
+  "g": "",
+  "ar": "بسبب ، من خلال ، من أجل",
+  "ex": "Gracias por tu ayuda.",
+  "exar": "شكرًا على مساعدتك.",
+  "e": ""
+ },
+ {
+  "es": "ser",
+  "pos": "v",
+  "g": "",
+  "ar": "كان ، يكون",
+  "ex": "Soy de Argelia.",
+  "exar": "أنا من الجزائر.",
+  "e": ""
+ },
+ {
+  "es": "con",
+  "pos": "prep",
+  "g": "",
+  "ar": "مع ، بـ",
+  "ex": "Café con leche.",
+  "exar": "قهوة بالحليب.",
+  "e": ""
+ },
+ {
+  "es": "para",
+  "pos": "prep",
+  "g": "",
+  "ar": "لِـ ، من أجل",
+  "ex": "Este regalo es para ti.",
+  "exar": "هذه الهدية لك.",
+  "e": ""
+ },
+ {
+  "es": "lo",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـه (ضمير المفعول) ، ذلك",
+  "ex": "No lo sé.",
+  "exar": "لا أعرف ذلك.",
+  "e": ""
+ },
+ {
+  "es": "su",
+  "pos": "det",
+  "g": "",
+  "ar": "ـه ، ـها ، ـهم (ملكية)",
+  "ex": "Su casa es grande.",
+  "exar": "بيته كبير.",
+  "e": ""
+ },
+ {
+  "es": "como",
+  "pos": "adv",
+  "g": "",
+  "ar": "مثل ، كَـ",
+  "ex": "Habla como su padre.",
+  "exar": "يتكلم مثل أبيه.",
+  "e": ""
+ },
+ {
+  "es": "me",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـني ، لي",
+  "ex": "Me llamo Ahmed.",
+  "exar": "اسمي أحمد.",
+  "e": ""
+ },
+ {
+  "es": "más",
+  "pos": "adv",
+  "g": "",
+  "ar": "أكثر",
+  "ex": "Quiero más agua.",
+  "exar": "أريد مزيدًا من الماء.",
+  "e": ""
+ },
+ {
+  "es": "si",
+  "pos": "conj",
+  "g": "",
+  "ar": "إذا ، لو",
+  "ex": "Si llueve, no salgo.",
+  "exar": "إذا أمطرت لا أخرج.",
+  "e": ""
+ },
+ {
+  "es": "pero",
+  "pos": "conj",
+  "g": "",
+  "ar": "لكن",
+  "ex": "Es caro, pero bueno.",
+  "exar": "إنه غالٍ لكنه جيد.",
+  "e": ""
+ },
+ {
+  "es": "te",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـك ، لك",
+  "ex": "Te quiero.",
+  "exar": "أحبك.",
+  "e": ""
+ },
+ {
+  "es": "o",
+  "pos": "conj",
+  "g": "",
+  "ar": "أو",
+  "ex": "¿Té o café?",
+  "exar": "شاي أم قهوة؟",
+  "e": ""
+ },
+ {
+  "es": "mi",
+  "pos": "det",
+  "g": "",
+  "ar": "ـي (ملكية)",
+  "ex": "Mi casa está cerca.",
+  "exar": "بيتي قريب.",
+  "e": ""
+ },
+ {
+  "es": "le",
+  "pos": "pron",
+  "g": "",
+  "ar": "له ، لها",
+  "ex": "Le doy el libro.",
+  "exar": "أعطيه الكتاب.",
+  "e": ""
+ },
+ {
+  "es": "este",
+  "pos": "det",
+  "g": "",
+  "ar": "هذا",
+  "ex": "Este coche es nuevo.",
+  "exar": "هذه السيارة جديدة.",
+  "e": ""
+ },
+ {
+  "es": "todo",
+  "pos": "det",
+  "g": "",
+  "ar": "كل ، جميع",
+  "ex": "Trabajo todo el día.",
+  "exar": "أعمل طوال اليوم.",
+  "e": ""
+ },
+ {
+  "es": "ya",
+  "pos": "adv",
+  "g": "",
+  "ar": "الآن ، قد ، بالفعل",
+  "ex": "Ya he comido.",
+  "exar": "لقد أكلت بالفعل.",
+  "e": ""
+ },
+ {
+  "es": "haber",
+  "pos": "v",
+  "g": "",
+  "ar": "فعل مساعد للماضي ، يوجد (hay)",
+  "ex": "Hay un problema.",
+  "exar": "توجد مشكلة.",
+  "e": ""
+ },
+ {
+  "es": "cuando",
+  "pos": "conj",
+  "g": "",
+  "ar": "عندما",
+  "ex": "Cuando llego, como.",
+  "exar": "عندما أصل آكل.",
+  "e": ""
+ },
+ {
+  "es": "yo",
+  "pos": "pron",
+  "g": "",
+  "ar": "أنا",
+  "ex": "Yo soy de Siria.",
+  "exar": "أنا من سوريا.",
+  "e": ""
+ },
+ {
+  "es": "sin",
+  "pos": "prep",
+  "g": "",
+  "ar": "بدون",
+  "ex": "Café sin azúcar.",
+  "exar": "قهوة بدون سكر.",
+  "e": ""
+ },
+ {
+  "es": "estar",
+  "pos": "v",
+  "g": "",
+  "ar": "كان ، يكون (حالة أو مكان)",
+  "ex": "Estoy cansado.",
+  "exar": "أنا متعب.",
+  "e": ""
+ },
+ {
+  "es": "tu",
+  "pos": "det",
+  "g": "",
+  "ar": "ـك (ملكية)",
+  "ex": "¿Es tu coche?",
+  "exar": "هل هذه سيارتك؟",
+  "e": ""
+ },
+ {
+  "es": "muy",
+  "pos": "adv",
+  "g": "",
+  "ar": "جدًا",
+  "ex": "Es muy bonito.",
+  "exar": "إنه جميل جدًا.",
+  "e": ""
+ },
+ {
+  "es": "sobre",
+  "pos": "prep",
+  "g": "",
+  "ar": "على ، فوق ، حول",
+  "ex": "El libro está sobre la mesa.",
+  "exar": "الكتاب على الطاولة.",
+  "e": ""
+ },
+ {
+  "es": "también",
+  "pos": "adv",
+  "g": "",
+  "ar": "أيضًا",
+  "ex": "Yo también.",
+  "exar": "أنا أيضًا.",
+  "e": ""
+ },
+ {
+  "es": "eso",
+  "pos": "pron",
+  "g": "",
+  "ar": "ذلك",
+  "ex": "Eso es verdad.",
+  "exar": "ذلك صحيح.",
+  "e": ""
+ },
+ {
+  "es": "tener",
+  "pos": "v",
+  "g": "",
+  "ar": "ملك ، يملك ، عنده",
+  "ex": "Tengo dos hijos.",
+  "exar": "عندي ولدان.",
+  "e": ""
+ },
+ {
+  "es": "nos",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـنا ، لنا",
+  "ex": "Nos vemos mañana.",
+  "exar": "نلتقي غدًا.",
+  "e": ""
+ },
+ {
+  "es": "porque",
+  "pos": "conj",
+  "g": "",
+  "ar": "لأنّ",
+  "ex": "No voy porque estoy enfermo.",
+  "exar": "لن أذهب لأنني مريض.",
+  "e": ""
+ },
+ {
+  "es": "qué",
+  "pos": "pron",
+  "g": "",
+  "ar": "ماذا ، ما",
+  "ex": "¿Qué quieres?",
+  "exar": "ماذا تريد؟",
+  "e": ""
+ },
+ {
+  "es": "así",
+  "pos": "adv",
+  "g": "",
+  "ar": "هكذا ، بهذه الطريقة",
+  "ex": "Se hace así.",
+  "exar": "يُعمل هكذا.",
+  "e": ""
+ },
+ {
+  "es": "el año",
+  "pos": "n",
+  "g": "m",
+  "ar": "سنة ، عام",
+  "ex": "Tengo treinta años.",
+  "exar": "عمري ثلاثون سنة.",
+  "e": ""
+ },
+ {
+  "es": "dos",
+  "pos": "num",
+  "g": "",
+  "ar": "اثنان",
+  "ex": "Tengo dos hermanas.",
+  "exar": "عندي أختان.",
+  "e": "2️⃣"
+ },
+ {
+  "es": "bien",
+  "pos": "adv",
+  "g": "",
+  "ar": "جيدًا ، بخير",
+  "ex": "Estoy bien, gracias.",
+  "exar": "أنا بخير، شكرًا.",
+  "e": "👍"
+ },
+ {
+  "es": "entre",
+  "pos": "prep",
+  "g": "",
+  "ar": "بين",
+  "ex": "Entre la casa y el parque.",
+  "exar": "بين البيت والحديقة.",
+  "e": ""
+ },
+ {
+  "es": "poder",
+  "pos": "v",
+  "g": "",
+  "ar": "استطاع ، يستطيع",
+  "ex": "No puedo ir.",
+  "exar": "لا أستطيع الذهاب.",
+  "e": ""
+ },
+ {
+  "es": "desde",
+  "pos": "prep",
+  "g": "",
+  "ar": "منذ ، من",
+  "ex": "Vivo aquí desde 2020.",
+  "exar": "أسكن هنا منذ 2020.",
+  "e": ""
+ },
+ {
+  "es": "hasta",
+  "pos": "prep",
+  "g": "",
+  "ar": "حتى ، إلى",
+  "ex": "Hasta mañana.",
+  "exar": "إلى الغد.",
+  "e": ""
+ },
+ {
+  "es": "hacer",
+  "pos": "v",
+  "g": "",
+  "ar": "فعل ، يفعل ، صنع",
+  "ex": "¿Qué haces?",
+  "exar": "ماذا تفعل؟",
+  "e": ""
+ },
+ {
+  "es": "ahora",
+  "pos": "adv",
+  "g": "",
+  "ar": "الآن",
+  "ex": "Ahora no puedo.",
+  "exar": "لا أستطيع الآن.",
+  "e": ""
+ },
+ {
+  "es": "esto",
+  "pos": "pron",
+  "g": "",
+  "ar": "هذا",
+  "ex": "¿Qué es esto?",
+  "exar": "ما هذا؟",
+  "e": ""
+ },
+ {
+  "es": "la vez",
+  "pos": "n",
+  "g": "f",
+  "ar": "مرة",
+  "ex": "Una vez a la semana.",
+  "exar": "مرة في الأسبوع.",
+  "e": ""
+ },
+ {
+  "es": "nada",
+  "pos": "pron",
+  "g": "",
+  "ar": "لا شيء",
+  "ex": "No tengo nada.",
+  "exar": "ليس عندي شيء.",
+  "e": ""
+ },
+ {
+  "es": "ni",
+  "pos": "conj",
+  "g": "",
+  "ar": "ولا",
+  "ex": "Ni frío ni calor.",
+  "exar": "لا برد ولا حر.",
+  "e": ""
+ },
+ {
+  "es": "donde",
+  "pos": "adv",
+  "g": "",
+  "ar": "حيث",
+  "ex": "La casa donde vivo.",
+  "exar": "البيت الذي أسكن فيه.",
+  "e": ""
+ },
+ {
+  "es": "la parte",
+  "pos": "n",
+  "g": "f",
+  "ar": "جزء",
+  "ex": "Una parte del dinero.",
+  "exar": "جزء من المال.",
+  "e": ""
+ },
+ {
+  "es": "solo",
+  "pos": "adv",
+  "g": "",
+  "ar": "فقط ، وحيد",
+  "ex": "Solo quiero agua.",
+  "exar": "أريد ماءً فقط.",
+  "e": ""
+ },
+ {
+  "es": "algo",
+  "pos": "pron",
+  "g": "",
+  "ar": "شيء ما",
+  "ex": "¿Quieres algo?",
+  "exar": "هل تريد شيئًا؟",
+  "e": ""
+ },
+ {
+  "es": "el tiempo",
+  "pos": "n",
+  "g": "m",
+  "ar": "وقت ، طقس",
+  "ex": "No tengo tiempo.",
+  "exar": "ليس عندي وقت.",
+  "e": "⏳"
+ },
+ {
+  "es": "el día",
+  "pos": "n",
+  "g": "m",
+  "ar": "يوم ، نهار",
+  "ex": "Buenos días.",
+  "exar": "صباح الخير.",
+  "e": ""
+ },
+ {
+  "es": "uno",
+  "pos": "num",
+  "g": "",
+  "ar": "واحد",
+  "ex": "Uno, dos, tres.",
+  "exar": "واحد، اثنان، ثلاثة.",
+  "e": "1️⃣"
+ },
+ {
+  "es": "mejor",
+  "pos": "adj",
+  "g": "",
+  "ar": "أفضل",
+  "ex": "Es el mejor día.",
+  "exar": "إنه أفضل يوم.",
+  "e": ""
+ },
+ {
+  "es": "mucho",
+  "pos": "det",
+  "g": "",
+  "ar": "كثير",
+  "ex": "Tengo mucho trabajo.",
+  "exar": "عندي عمل كثير.",
+  "e": ""
+ },
+ {
+  "es": "tan",
+  "pos": "adv",
+  "g": "",
+  "ar": "جدًا ، إلى هذا الحد",
+  "ex": "¡Es tan bonito!",
+  "exar": "إنه جميل جدًا!",
+  "e": ""
+ },
+ {
+  "es": "ver",
+  "pos": "v",
+  "g": "",
+  "ar": "رأى ، يرى ، شاهد",
+  "ex": "Veo la tele.",
+  "exar": "أشاهد التلفاز.",
+  "e": ""
+ },
+ {
+  "es": "la vida",
+  "pos": "n",
+  "g": "f",
+  "ar": "حياة",
+  "ex": "La vida en España.",
+  "exar": "الحياة في إسبانيا.",
+  "e": ""
+ },
+ {
+  "es": "ese",
+  "pos": "det",
+  "g": "",
+  "ar": "ذلك",
+  "ex": "Ese chico es mi hermano.",
+  "exar": "ذلك الشاب أخي.",
+  "e": ""
+ },
+ {
+  "es": "mismo",
+  "pos": "adj",
+  "g": "",
+  "ar": "نفس ، ذاته",
+  "ex": "El mismo día.",
+  "exar": "في اليوم نفسه.",
+  "e": ""
+ },
+ {
+  "es": "siempre",
+  "pos": "adv",
+  "g": "",
+  "ar": "دائمًا",
+  "ex": "Siempre llego tarde.",
+  "exar": "أصل متأخرًا دائمًا.",
+  "e": ""
+ },
+ {
+  "es": "cada",
+  "pos": "det",
+  "g": "",
+  "ar": "كل",
+  "ex": "Cada día.",
+  "exar": "كل يوم.",
+  "e": ""
+ },
+ {
+  "es": "después",
+  "pos": "adv",
+  "g": "",
+  "ar": "بعد ، فيما بعد",
+  "ex": "Después de comer.",
+  "exar": "بعد الأكل.",
+  "e": ""
+ },
+ {
+  "es": "la gente",
+  "pos": "n",
+  "g": "f",
+  "ar": "ناس",
+  "ex": "Hay mucha gente.",
+  "exar": "هناك ناس كثيرون.",
+  "e": "👥"
+ },
+ {
+  "es": "el estado",
+  "pos": "n",
+  "g": "m",
+  "ar": "دولة ، حالة",
+  "ex": "El estado de salud.",
+  "exar": "الحالة الصحية.",
+  "e": ""
+ },
+ {
+  "es": "el mundo",
+  "pos": "n",
+  "g": "m",
+  "ar": "عالم",
+  "ex": "Viajar por el mundo.",
+  "exar": "السفر حول العالم.",
+  "e": "🌍"
+ },
+ {
+  "es": "ir",
+  "pos": "v",
+  "g": "",
+  "ar": "ذهب ، يذهب",
+  "ex": "Voy al trabajo.",
+  "exar": "أذهب إلى العمل.",
+  "e": ""
+ },
+ {
+  "es": "les",
+  "pos": "pron",
+  "g": "",
+  "ar": "لهم",
+  "ex": "Les doy las gracias.",
+  "exar": "أشكرهم.",
+  "e": ""
+ },
+ {
+  "es": "otro",
+  "pos": "adj",
+  "g": "",
+  "ar": "آخر",
+  "ex": "Otro día.",
+  "exar": "يوم آخر.",
+  "e": ""
+ },
+ {
+  "es": "gracias",
+  "pos": "interj",
+  "g": "",
+  "ar": "شكرًا",
+  "ex": "Muchas gracias.",
+  "exar": "شكرًا جزيلًا.",
+  "e": "🙏"
+ },
+ {
+  "es": "la cosa",
+  "pos": "n",
+  "g": "f",
+  "ar": "شيء",
+  "ex": "Muchas cosas.",
+  "exar": "أشياء كثيرة.",
+  "e": ""
+ },
+ {
+  "es": "grande",
+  "pos": "adj",
+  "g": "",
+  "ar": "كبير ، عظيم",
+  "ex": "Una casa grande.",
+  "exar": "بيت كبير.",
+  "e": ""
+ },
+ {
+  "es": "menos",
+  "pos": "adv",
+  "g": "",
+  "ar": "أقل",
+  "ex": "Menos dinero.",
+  "exar": "مال أقل.",
+  "e": ""
+ },
+ {
+  "es": "nunca",
+  "pos": "adv",
+  "g": "",
+  "ar": "أبدًا",
+  "ex": "Nunca fumo.",
+  "exar": "لا أدخن أبدًا.",
+  "e": ""
+ },
+ {
+  "es": "la persona",
+  "pos": "n",
+  "g": "f",
+  "ar": "شخص",
+  "ex": "Una persona amable.",
+  "exar": "شخص لطيف.",
+  "e": "🧑"
+ },
+ {
+  "es": "tanto",
+  "pos": "adv",
+  "g": "",
+  "ar": "كثيرًا ، إلى هذا الحد",
+  "ex": "Te quiero tanto.",
+  "exar": "أحبك كثيرًا.",
+  "e": ""
+ },
+ {
+  "es": "antes",
+  "pos": "adv",
+  "g": "",
+  "ar": "قبل ، من قبل",
+  "ex": "Antes de salir.",
+  "exar": "قبل الخروج.",
+  "e": ""
+ },
+ {
+  "es": "poco",
+  "pos": "adv",
+  "g": "",
+  "ar": "قليل ، قليلًا",
+  "ex": "Hablo poco español.",
+  "exar": "أتكلم قليلًا من الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "el trabajo",
+  "pos": "n",
+  "g": "m",
+  "ar": "عمل ، شغل",
+  "ex": "Busco trabajo.",
+  "exar": "أبحث عن عمل.",
+  "e": "💼"
+ },
+ {
+  "es": "durante",
+  "pos": "prep",
+  "g": "",
+  "ar": "خلال ، أثناء",
+  "ex": "Durante el verano.",
+  "exar": "خلال الصيف.",
+  "e": ""
+ },
+ {
+  "es": "ellos",
+  "pos": "pron",
+  "g": "",
+  "ar": "هم",
+  "ex": "Ellos viven en Murcia.",
+  "exar": "هم يسكنون في مرسية.",
+  "e": ""
+ },
+ {
+  "es": "el lugar",
+  "pos": "n",
+  "g": "m",
+  "ar": "مكان",
+  "ex": "Un lugar tranquilo.",
+  "exar": "مكان هادئ.",
+  "e": "📍"
+ },
+ {
+  "es": "creer",
+  "pos": "v",
+  "g": "",
+  "ar": "اعتقد ، يعتقد ، صدّق",
+  "ex": "Creo que sí.",
+  "exar": "أظن ذلك.",
+  "e": ""
+ },
+ {
+  "es": "cómo",
+  "pos": "adv",
+  "g": "",
+  "ar": "كيف",
+  "ex": "¿Cómo estás?",
+  "exar": "كيف حالك؟",
+  "e": ""
+ },
+ {
+  "es": "el hecho",
+  "pos": "n",
+  "g": "m",
+  "ar": "حقيقة ، واقعة",
+  "ex": "Es un hecho.",
+  "exar": "إنها حقيقة.",
+  "e": ""
+ },
+ {
+  "es": "querer",
+  "pos": "v",
+  "g": "",
+  "ar": "أراد ، يريد ، أحبّ",
+  "ex": "Quiero un café.",
+  "exar": "أريد قهوة.",
+  "e": ""
+ },
+ {
+  "es": "aunque",
+  "pos": "conj",
+  "g": "",
+  "ar": "رغم أنّ ، حتى لو",
+  "ex": "Aunque llueve, salgo.",
+  "exar": "رغم أنها تمطر، أخرج.",
+  "e": ""
+ },
+ {
+  "es": "contra",
+  "pos": "prep",
+  "g": "",
+  "ar": "ضد",
+  "ex": "Contra la corrupción.",
+  "exar": "ضد الفساد.",
+  "e": ""
+ },
+ {
+  "es": "la cuenta",
+  "pos": "n",
+  "g": "f",
+  "ar": "حساب ، فاتورة",
+  "ex": "La cuenta, por favor.",
+  "exar": "الحساب من فضلك.",
+  "e": "🧾"
+ },
+ {
+  "es": "decir",
+  "pos": "v",
+  "g": "",
+  "ar": "قال ، يقول",
+  "ex": "¿Qué dices?",
+  "exar": "ماذا تقول؟",
+  "e": ""
+ },
+ {
+  "es": "el gobierno",
+  "pos": "n",
+  "g": "m",
+  "ar": "حكومة",
+  "ex": "El gobierno de España.",
+  "exar": "حكومة إسبانيا.",
+  "e": ""
+ },
+ {
+  "es": "el país",
+  "pos": "n",
+  "g": "m",
+  "ar": "بلد ، دولة",
+  "ex": "Mi país es Marruecos.",
+  "exar": "بلدي المغرب.",
+  "e": ""
+ },
+ {
+  "es": "la casa",
+  "pos": "n",
+  "g": "f",
+  "ar": "بيت ، منزل",
+  "ex": "Mi casa es pequeña.",
+  "exar": "بيتي صغير.",
+  "e": "🏠"
+ },
+ {
+  "es": "la forma",
+  "pos": "n",
+  "g": "f",
+  "ar": "شكل ، طريقة",
+  "ex": "De esta forma.",
+  "exar": "بهذه الطريقة.",
+  "e": ""
+ },
+ {
+  "es": "nuevo",
+  "pos": "adj",
+  "g": "",
+  "ar": "جديد",
+  "ex": "Un coche nuevo.",
+  "exar": "سيارة جديدة.",
+  "e": ""
+ },
+ {
+  "es": "él",
+  "pos": "pron",
+  "g": "",
+  "ar": "هو",
+  "ex": "Él es mi padre.",
+  "exar": "هو أبي.",
+  "e": ""
+ },
+ {
+  "es": "aquí",
+  "pos": "adv",
+  "g": "",
+  "ar": "هنا",
+  "ex": "Vivo aquí.",
+  "exar": "أسكن هنا.",
+  "e": ""
+ },
+ {
+  "es": "ella",
+  "pos": "pron",
+  "g": "",
+  "ar": "هي",
+  "ex": "Ella es médica.",
+  "exar": "هي طبيبة.",
+  "e": ""
+ },
+ {
+  "es": "sí",
+  "pos": "adv",
+  "g": "",
+  "ar": "نعم",
+  "ex": "Sí, claro.",
+  "exar": "نعم، طبعًا.",
+  "e": ""
+ },
+ {
+  "es": "hoy",
+  "pos": "adv",
+  "g": "",
+  "ar": "اليوم",
+  "ex": "Hoy es lunes.",
+  "exar": "اليوم هو الاثنين.",
+  "e": ""
+ },
+ {
+  "es": "alguien",
+  "pos": "pron",
+  "g": "",
+  "ar": "أحد ، شخص ما",
+  "ex": "¿Hay alguien?",
+  "exar": "هل يوجد أحد؟",
+  "e": ""
+ },
+ {
+  "es": "quien",
+  "pos": "pron",
+  "g": "",
+  "ar": "مَن ، الذي",
+  "ex": "Quien quiera, puede venir.",
+  "exar": "من يريد يمكنه أن يأتي.",
+  "e": ""
+ },
+ {
+  "es": "tres",
+  "pos": "num",
+  "g": "",
+  "ar": "ثلاثة",
+  "ex": "Tres hijos.",
+  "exar": "ثلاثة أولاد.",
+  "e": "3️⃣"
+ },
+ {
+  "es": "el caso",
+  "pos": "n",
+  "g": "m",
+  "ar": "حالة ، قضية",
+  "ex": "En ese caso.",
+  "exar": "في هذه الحالة.",
+  "e": ""
+ },
+ {
+  "es": "el momento",
+  "pos": "n",
+  "g": "m",
+  "ar": "لحظة ، وقت",
+  "ex": "Un momento, por favor.",
+  "exar": "لحظة من فضلك.",
+  "e": ""
+ },
+ {
+  "es": "bueno",
+  "pos": "adj",
+  "g": "",
+  "ar": "جيد ، طيب",
+  "ex": "Es un buen médico.",
+  "exar": "إنه طبيب جيد.",
+  "e": ""
+ },
+ {
+  "es": "la ciudad",
+  "pos": "n",
+  "g": "f",
+  "ar": "مدينة",
+  "ex": "Una ciudad grande.",
+  "exar": "مدينة كبيرة.",
+  "e": "🏙️"
+ },
+ {
+  "es": "nuestro",
+  "pos": "det",
+  "g": "",
+  "ar": "ـنا (ملكية)",
+  "ex": "Nuestro piso.",
+  "exar": "شقتنا.",
+  "e": ""
+ },
+ {
+  "es": "luego",
+  "pos": "adv",
+  "g": "",
+  "ar": "بعد ذلك ، لاحقًا",
+  "ex": "Hasta luego.",
+  "exar": "إلى اللقاء.",
+  "e": ""
+ },
+ {
+  "es": "nacional",
+  "pos": "adj",
+  "g": "",
+  "ar": "وطني ، قومي",
+  "ex": "Documento Nacional de Identidad.",
+  "exar": "بطاقة الهوية الوطنية.",
+  "e": ""
+ },
+ {
+  "es": "parecer",
+  "pos": "v",
+  "g": "",
+  "ar": "بدا ، يبدو",
+  "ex": "Parece fácil.",
+  "exar": "يبدو سهلًا.",
+  "e": ""
+ },
+ {
+  "es": "pues",
+  "pos": "conj",
+  "g": "",
+  "ar": "إذًا ، حسنًا",
+  "ex": "Pues vamos.",
+  "exar": "إذًا لنذهب.",
+  "e": ""
+ },
+ {
+  "es": "la verdad",
+  "pos": "n",
+  "g": "f",
+  "ar": "حقيقة",
+  "ex": "Dime la verdad.",
+  "exar": "قل لي الحقيقة.",
+  "e": ""
+ },
+ {
+  "es": "la historia",
+  "pos": "n",
+  "g": "f",
+  "ar": "تاريخ ، قصة",
+  "ex": "La historia de España.",
+  "exar": "تاريخ إسبانيا.",
+  "e": "📜"
+ },
+ {
+  "es": "mientras",
+  "pos": "conj",
+  "g": "",
+  "ar": "بينما",
+  "ex": "Mientras como, leo.",
+  "exar": "أقرأ بينما آكل.",
+  "e": ""
+ },
+ {
+  "es": "nadie",
+  "pos": "pron",
+  "g": "",
+  "ar": "لا أحد",
+  "ex": "No hay nadie.",
+  "exar": "لا يوجد أحد.",
+  "e": ""
+ },
+ {
+  "es": "primero",
+  "pos": "adj",
+  "g": "",
+  "ar": "أول",
+  "ex": "El primer día.",
+  "exar": "اليوم الأول.",
+  "e": ""
+ },
+ {
+  "es": "cual",
+  "pos": "pron",
+  "g": "",
+  "ar": "الذي ، التي (el cual)",
+  "ex": "La razón por la cual vine.",
+  "exar": "السبب الذي جئت من أجله.",
+  "e": ""
+ },
+ {
+  "es": "deber",
+  "pos": "v",
+  "g": "",
+  "ar": "وجب ، يجب",
+  "ex": "Debes estudiar.",
+  "exar": "يجب أن تدرس.",
+  "e": ""
+ },
+ {
+  "es": "entonces",
+  "pos": "adv",
+  "g": "",
+  "ar": "إذًا ، حينئذٍ",
+  "ex": "Entonces, ¿vienes?",
+  "exar": "إذًا، هل ستأتي؟",
+  "e": ""
+ },
+ {
+  "es": "el tipo",
+  "pos": "n",
+  "g": "m",
+  "ar": "نوع",
+  "ex": "¿Qué tipo de trabajo?",
+  "exar": "أي نوع من العمل؟",
+  "e": ""
+ },
+ {
+  "es": "alguno",
+  "pos": "det",
+  "g": "",
+  "ar": "بعض ، أحد",
+  "ex": "Algunos amigos.",
+  "exar": "بعض الأصدقاء.",
+  "e": ""
+ },
+ {
+  "es": "general",
+  "pos": "adj",
+  "g": "",
+  "ar": "عام",
+  "ex": "En general, bien.",
+  "exar": "بشكل عام، جيد.",
+  "e": ""
+ },
+ {
+  "es": "mayor",
+  "pos": "adj",
+  "g": "",
+  "ar": "أكبر ، مسنّ",
+  "ex": "Mi hermano mayor.",
+  "exar": "أخي الأكبر.",
+  "e": ""
+ },
+ {
+  "es": "tal",
+  "pos": "det",
+  "g": "",
+  "ar": "مثل هذا ، كذا",
+  "ex": "¿Qué tal?",
+  "exar": "كيف الحال؟",
+  "e": ""
+ },
+ {
+  "es": "además",
+  "pos": "adv",
+  "g": "",
+  "ar": "بالإضافة إلى ذلك ، أيضًا",
+  "ex": "Además, es barato.",
+  "exar": "بالإضافة إلى ذلك، إنه رخيص.",
+  "e": ""
+ },
+ {
+  "es": "mal",
+  "pos": "adv",
+  "g": "",
+  "ar": "بشكل سيئ",
+  "ex": "Me siento mal.",
+  "exar": "أشعر بسوء.",
+  "e": ""
+ },
+ {
+  "es": "según",
+  "pos": "prep",
+  "g": "",
+  "ar": "حسب ، وفقًا لـ",
+  "ex": "Según el médico.",
+  "exar": "حسب الطبيب.",
+  "e": ""
+ },
+ {
+  "es": "el acuerdo",
+  "pos": "n",
+  "g": "m",
+  "ar": "اتفاق",
+  "ex": "Estoy de acuerdo.",
+  "exar": "أنا موافق.",
+  "e": "🤝"
+ },
+ {
+  "es": "cualquiera",
+  "pos": "det",
+  "g": "",
+  "ar": "أيّ ، أيّ شخص",
+  "ex": "Puedes venir cualquier día.",
+  "exar": "يمكنك المجيء في أي يوم.",
+  "e": ""
+ },
+ {
+  "es": "el dios",
+  "pos": "n",
+  "g": "m",
+  "ar": "إله",
+  "ex": "Gracias a Dios.",
+  "exar": "الحمد لله.",
+  "e": ""
+ },
+ {
+  "es": "la manera",
+  "pos": "n",
+  "g": "f",
+  "ar": "طريقة",
+  "ex": "De esta manera.",
+  "exar": "بهذه الطريقة.",
+  "e": ""
+ },
+ {
+  "es": "el nombre",
+  "pos": "n",
+  "g": "m",
+  "ar": "اسم",
+  "ex": "¿Cuál es tu nombre?",
+  "exar": "ما اسمك؟",
+  "e": ""
+ },
+ {
+  "es": "la ley",
+  "pos": "n",
+  "g": "f",
+  "ar": "قانون",
+  "ex": "La ley de extranjería.",
+  "exar": "قانون الأجانب.",
+  "e": ""
+ },
+ {
+  "es": "medio",
+  "pos": "adj",
+  "g": "",
+  "ar": "نصف ، متوسط",
+  "ex": "Media hora.",
+  "exar": "نصف ساعة.",
+  "e": ""
+ },
+ {
+  "es": "el partido",
+  "pos": "n",
+  "g": "m",
+  "ar": "حزب ، مباراة",
+  "ex": "Un partido de fútbol.",
+  "exar": "مباراة كرة قدم.",
+  "e": ""
+ },
+ {
+  "es": "bajo",
+  "pos": "adj",
+  "g": "",
+  "ar": "منخفض ، قصير",
+  "ex": "Es bajo y delgado.",
+  "exar": "هو قصير ونحيف.",
+  "e": ""
+ },
+ {
+  "es": "fuera",
+  "pos": "adv",
+  "g": "",
+  "ar": "خارج",
+  "ex": "Espero fuera.",
+  "exar": "أنتظر في الخارج.",
+  "e": ""
+ },
+ {
+  "es": "hacia",
+  "pos": "prep",
+  "g": "",
+  "ar": "نحو ، باتجاه",
+  "ex": "Camina hacia la puerta.",
+  "exar": "يمشي نحو الباب.",
+  "e": ""
+ },
+ {
+  "es": "sino",
+  "pos": "conj",
+  "g": "",
+  "ar": "بل",
+  "ex": "No es rojo, sino azul.",
+  "exar": "ليس أحمر بل أزرق.",
+  "e": ""
+ },
+ {
+  "es": "dar",
+  "pos": "v",
+  "g": "",
+  "ar": "أعطى ، يعطي",
+  "ex": "Dame agua.",
+  "exar": "أعطني ماءً.",
+  "e": ""
+ },
+ {
+  "es": "el grupo",
+  "pos": "n",
+  "g": "m",
+  "ar": "مجموعة",
+  "ex": "Un grupo de amigos.",
+  "exar": "مجموعة من الأصدقاء.",
+  "e": ""
+ },
+ {
+  "es": "el hombre",
+  "pos": "n",
+  "g": "m",
+  "ar": "رجل ، إنسان",
+  "ex": "Un hombre alto.",
+  "exar": "رجل طويل.",
+  "e": "👨"
+ },
+ {
+  "es": "la mujer",
+  "pos": "n",
+  "g": "f",
+  "ar": "امرأة ، زوجة",
+  "ex": "Una mujer joven.",
+  "exar": "امرأة شابة.",
+  "e": "👩"
+ },
+ {
+  "es": "el sistema",
+  "pos": "n",
+  "g": "m",
+  "ar": "نظام",
+  "ex": "El sistema de salud.",
+  "exar": "النظام الصحي.",
+  "e": ""
+ },
+ {
+  "es": "casi",
+  "pos": "adv",
+  "g": "",
+  "ar": "تقريبًا",
+  "ex": "Son casi las tres.",
+  "exar": "الساعة الثالثة تقريبًا.",
+  "e": ""
+ },
+ {
+  "es": "el fin",
+  "pos": "n",
+  "g": "m",
+  "ar": "نهاية",
+  "ex": "El fin de semana.",
+  "exar": "نهاية الأسبوع.",
+  "e": ""
+ },
+ {
+  "es": "la noche",
+  "pos": "n",
+  "g": "f",
+  "ar": "ليل ، ليلة",
+  "ex": "Buenas noches.",
+  "exar": "تصبح على خير.",
+  "e": ""
+ },
+ {
+  "es": "nosotros",
+  "pos": "pron",
+  "g": "",
+  "ar": "نحن",
+  "ex": "Nosotros somos vecinos.",
+  "exar": "نحن جيران.",
+  "e": ""
+ },
+ {
+  "es": "pasado",
+  "pos": "adj",
+  "g": "",
+  "ar": "ماضٍ ، سابق",
+  "ex": "El año pasado.",
+  "exar": "السنة الماضية.",
+  "e": ""
+ },
+ {
+  "es": "el presidente",
+  "pos": "n",
+  "g": "m",
+  "ar": "رئيس",
+  "ex": "El presidente del gobierno.",
+  "exar": "رئيس الحكومة.",
+  "e": ""
+ },
+ {
+  "es": "ahí",
+  "pos": "adv",
+  "g": "",
+  "ar": "هناك",
+  "ex": "Está ahí.",
+  "exar": "إنه هناك.",
+  "e": ""
+ },
+ {
+  "es": "dentro",
+  "pos": "adv",
+  "g": "",
+  "ar": "داخل",
+  "ex": "Está dentro de la caja.",
+  "exar": "إنه داخل الصندوق.",
+  "e": ""
+ },
+ {
+  "es": "la familia",
+  "pos": "n",
+  "g": "f",
+  "ar": "عائلة ، أسرة",
+  "ex": "Mi familia vive en Siria.",
+  "exar": "عائلتي تعيش في سوريا.",
+  "e": "👨‍👩‍👧"
+ },
+ {
+  "es": "el lado",
+  "pos": "n",
+  "g": "m",
+  "ar": "جانب",
+  "ex": "Al lado de la farmacia.",
+  "exar": "بجانب الصيدلية.",
+  "e": ""
+ },
+ {
+  "es": "aún",
+  "pos": "adv",
+  "g": "",
+  "ar": "ما زال ، بعدُ",
+  "ex": "Aún no ha llegado.",
+  "exar": "لم يصل بعد.",
+  "e": ""
+ },
+ {
+  "es": "el pueblo",
+  "pos": "n",
+  "g": "m",
+  "ar": "قرية ، شعب",
+  "ex": "Vivo en un pueblo.",
+  "exar": "أسكن في قرية.",
+  "e": "🏘️"
+ },
+ {
+  "es": "el final",
+  "pos": "n",
+  "g": "m",
+  "ar": "نهاية",
+  "ex": "Al final de la calle.",
+  "exar": "في نهاية الشارع.",
+  "e": ""
+ },
+ {
+  "es": "la política",
+  "pos": "n",
+  "g": "f",
+  "ar": "سياسة",
+  "ex": "No me gusta la política.",
+  "exar": "لا أحب السياسة.",
+  "e": ""
+ },
+ {
+  "es": "el problema",
+  "pos": "n",
+  "g": "m",
+  "ar": "مشكلة",
+  "ex": "No hay problema.",
+  "exar": "لا توجد مشكلة.",
+  "e": ""
+ },
+ {
+  "es": "el punto",
+  "pos": "n",
+  "g": "m",
+  "ar": "نقطة",
+  "ex": "Un punto importante.",
+  "exar": "نقطة مهمة.",
+  "e": ""
+ },
+ {
+  "es": "el agua",
+  "pos": "n",
+  "g": "f",
+  "ar": "ماء",
+  "ex": "Un vaso de agua.",
+  "exar": "كوب ماء.",
+  "e": "💧"
+ },
+ {
+  "es": "el equipo",
+  "pos": "n",
+  "g": "m",
+  "ar": "فريق ، معدات",
+  "ex": "Mi equipo favorito.",
+  "exar": "فريقي المفضل.",
+  "e": ""
+ },
+ {
+  "es": "la guerra",
+  "pos": "n",
+  "g": "f",
+  "ar": "حرب",
+  "ex": "La guerra en mi país.",
+  "exar": "الحرب في بلدي.",
+  "e": ""
+ },
+ {
+  "es": "saber",
+  "pos": "v",
+  "g": "",
+  "ar": "عرف ، يعرف",
+  "ex": "No sé.",
+  "exar": "لا أعرف.",
+  "e": ""
+ },
+ {
+  "es": "ante",
+  "pos": "prep",
+  "g": "",
+  "ar": "أمام",
+  "ex": "Ante el juez.",
+  "exar": "أمام القاضي.",
+  "e": ""
+ },
+ {
+  "es": "sin embargo",
+  "pos": "expr",
+  "g": "",
+  "ar": "مع ذلك",
+  "ex": "Es caro; sin embargo, lo compro.",
+  "exar": "إنه غالٍ، ومع ذلك أشتريه.",
+  "e": ""
+ },
+ {
+  "es": "el favor",
+  "pos": "n",
+  "g": "m",
+  "ar": "معروف ، خدمة",
+  "ex": "Por favor, ayúdame.",
+  "exar": "من فضلك ساعدني.",
+  "e": ""
+ },
+ {
+  "es": "gustar",
+  "pos": "v",
+  "g": "",
+  "ar": "أعجب ، يعجب",
+  "ex": "Me gusta el té.",
+  "exar": "يعجبني الشاي.",
+  "e": ""
+ },
+ {
+  "es": "importante",
+  "pos": "adj",
+  "g": "",
+  "ar": "مهم",
+  "ex": "Es muy importante.",
+  "exar": "إنه مهم جدًا.",
+  "e": ""
+ },
+ {
+  "es": "la información",
+  "pos": "n",
+  "g": "f",
+  "ar": "معلومات",
+  "ex": "Necesito información.",
+  "exar": "أحتاج معلومات.",
+  "e": "ℹ️"
+ },
+ {
+  "es": "mañana",
+  "pos": "adv",
+  "g": "",
+  "ar": "غدًا ، صباح",
+  "ex": "Mañana trabajo.",
+  "exar": "غدًا أعمل.",
+  "e": ""
+ },
+ {
+  "es": "pasar",
+  "pos": "v",
+  "g": "",
+  "ar": "مرّ ، يمرّ ، حدث",
+  "ex": "¿Qué pasa?",
+  "exar": "ماذا يحدث؟",
+  "e": ""
+ },
+ {
+  "es": "la semana",
+  "pos": "n",
+  "g": "f",
+  "ar": "أسبوع",
+  "ex": "Trabajo cinco días a la semana.",
+  "exar": "أعمل خمسة أيام في الأسبوع.",
+  "e": ""
+ },
+ {
+  "es": "claro",
+  "pos": "adj",
+  "g": "",
+  "ar": "واضح ، فاتح",
+  "ex": "¡Claro que sí!",
+  "exar": "طبعًا!",
+  "e": ""
+ },
+ {
+  "es": "el dinero",
+  "pos": "n",
+  "g": "m",
+  "ar": "مال ، نقود",
+  "ex": "No tengo dinero.",
+  "exar": "ليس عندي مال.",
+  "e": "💰"
+ },
+ {
+  "es": "santo",
+  "pos": "adj",
+  "g": "",
+  "ar": "قدّيس ، مقدّس",
+  "ex": "Semana Santa.",
+  "exar": "أسبوع الآلام (عيد الفصح).",
+  "e": ""
+ },
+ {
+  "es": "social",
+  "pos": "adj",
+  "g": "",
+  "ar": "اجتماعي",
+  "ex": "La Seguridad Social.",
+  "exar": "الضمان الاجتماعي.",
+  "e": ""
+ },
+ {
+  "es": "el ejemplo",
+  "pos": "n",
+  "g": "m",
+  "ar": "مثال",
+  "ex": "Por ejemplo.",
+  "exar": "على سبيل المثال.",
+  "e": ""
+ },
+ {
+  "es": "la hora",
+  "pos": "n",
+  "g": "f",
+  "ar": "ساعة (وقت)",
+  "ex": "¿Qué hora es?",
+  "exar": "كم الساعة؟",
+  "e": "🕐"
+ },
+ {
+  "es": "igual",
+  "pos": "adj",
+  "g": "",
+  "ar": "متساوٍ ، مثل",
+  "ex": "Me da igual.",
+  "exar": "سيّان عندي.",
+  "e": ""
+ },
+ {
+  "es": "el millón",
+  "pos": "n",
+  "g": "m",
+  "ar": "مليون",
+  "ex": "Un millón de euros.",
+  "exar": "مليون يورو.",
+  "e": ""
+ },
+ {
+  "es": "el número",
+  "pos": "n",
+  "g": "m",
+  "ar": "رقم ، عدد",
+  "ex": "Mi número de teléfono.",
+  "exar": "رقم هاتفي.",
+  "e": "🔢"
+ },
+ {
+  "es": "ti",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـك (بعد حرف جر)",
+  "ex": "Esto es para ti.",
+  "exar": "هذا لك.",
+  "e": ""
+ },
+ {
+  "es": "hablar",
+  "pos": "v",
+  "g": "",
+  "ar": "تكلّم ، يتكلّم",
+  "ex": "Hablo árabe.",
+  "exar": "أتكلم العربية.",
+  "e": "🗣️"
+ },
+ {
+  "es": "la madre",
+  "pos": "n",
+  "g": "f",
+  "ar": "أم",
+  "ex": "Mi madre cocina bien.",
+  "exar": "أمي تطبخ جيدًا.",
+  "e": ""
+ },
+ {
+  "es": "el señor",
+  "pos": "n",
+  "g": "m",
+  "ar": "سيد ، رجل",
+  "ex": "Buenos días, señor.",
+  "exar": "صباح الخير يا سيدي.",
+  "e": ""
+ },
+ {
+  "es": "el centro",
+  "pos": "n",
+  "g": "m",
+  "ar": "مركز ، وسط",
+  "ex": "El centro de salud.",
+  "exar": "المركز الصحي.",
+  "e": ""
+ },
+ {
+  "es": "el derecho",
+  "pos": "n",
+  "g": "m",
+  "ar": "حق ، قانون",
+  "ex": "Tengo derecho a un abogado.",
+  "exar": "لي الحق في محامٍ.",
+  "e": ""
+ },
+ {
+  "es": "la falta",
+  "pos": "n",
+  "g": "f",
+  "ar": "نقص ، خطأ",
+  "ex": "Falta de dinero.",
+  "exar": "نقص في المال.",
+  "e": ""
+ },
+ {
+  "es": "el amigo",
+  "pos": "n",
+  "g": "m",
+  "ar": "صديق",
+  "ex": "Es mi amigo.",
+  "exar": "إنه صديقي.",
+  "e": ""
+ },
+ {
+  "es": "el cambio",
+  "pos": "n",
+  "g": "m",
+  "ar": "تغيير ، صرف",
+  "ex": "Un cambio importante.",
+  "exar": "تغيير مهم.",
+  "e": ""
+ },
+ {
+  "es": "la idea",
+  "pos": "n",
+  "g": "f",
+  "ar": "فكرة",
+  "ex": "Buena idea.",
+  "exar": "فكرة جيدة.",
+  "e": "💡"
+ },
+ {
+  "es": "la muerte",
+  "pos": "n",
+  "g": "f",
+  "ar": "موت ، وفاة",
+  "ex": "La muerte de su padre.",
+  "exar": "وفاة أبيه.",
+  "e": ""
+ },
+ {
+  "es": "la tarde",
+  "pos": "n",
+  "g": "f",
+  "ar": "بعد الظهر ، مساء ؛ متأخرًا",
+  "ex": "Buenas tardes.",
+  "exar": "مساء الخير.",
+  "e": ""
+ },
+ {
+  "es": "tras",
+  "pos": "prep",
+  "g": "",
+  "ar": "بعد ، خلف",
+  "ex": "Tras la reunión.",
+  "exar": "بعد الاجتماع.",
+  "e": ""
+ },
+ {
+  "es": "a través de",
+  "pos": "expr",
+  "g": "",
+  "ar": "عبر ، من خلال",
+  "ex": "A través de internet.",
+  "exar": "عبر الإنترنت.",
+  "e": ""
+ },
+ {
+  "es": "tú",
+  "pos": "pron",
+  "g": "",
+  "ar": "أنت",
+  "ex": "¿Tú eres de aquí?",
+  "exar": "هل أنت من هنا؟",
+  "e": ""
+ },
+ {
+  "es": "el mes",
+  "pos": "n",
+  "g": "m",
+  "ar": "شهر",
+  "ex": "Un mes de vacaciones.",
+  "exar": "شهر عطلة.",
+  "e": ""
+ },
+ {
+  "es": "la realidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "واقع ، حقيقة",
+  "ex": "En realidad, no sé.",
+  "exar": "في الحقيقة، لا أعرف.",
+  "e": ""
+ },
+ {
+  "es": "el amor",
+  "pos": "n",
+  "g": "m",
+  "ar": "حب",
+  "ex": "El amor de madre.",
+  "exar": "حب الأم.",
+  "e": "❤️"
+ },
+ {
+  "es": "frente",
+  "pos": "adv",
+  "g": "",
+  "ar": "أمام ، مقابل",
+  "ex": "Vivo frente al parque.",
+  "exar": "أسكن مقابل الحديقة.",
+  "e": ""
+ },
+ {
+  "es": "incluso",
+  "pos": "adv",
+  "g": "",
+  "ar": "حتى",
+  "ex": "Incluso los niños.",
+  "exar": "حتى الأطفال.",
+  "e": ""
+ },
+ {
+  "es": "real",
+  "pos": "adj",
+  "g": "",
+  "ar": "حقيقي ، ملكي",
+  "ex": "Una historia real.",
+  "exar": "قصة حقيقية.",
+  "e": ""
+ },
+ {
+  "es": "cuatro",
+  "pos": "num",
+  "g": "",
+  "ar": "أربعة",
+  "ex": "Cuatro personas.",
+  "exar": "أربعة أشخاص.",
+  "e": "4️⃣"
+ },
+ {
+  "es": "el desarrollo",
+  "pos": "n",
+  "g": "m",
+  "ar": "تنمية ، تطور",
+  "ex": "El desarrollo económico.",
+  "exar": "التنمية الاقتصادية.",
+  "e": ""
+ },
+ {
+  "es": "el hijo",
+  "pos": "n",
+  "g": "m",
+  "ar": "ابن ؛ (la hija) ابنة",
+  "ex": "Mi hijo tiene cinco años.",
+  "exar": "ابني عمره خمس سنوات.",
+  "e": "👦"
+ },
+ {
+  "es": "la sociedad",
+  "pos": "n",
+  "g": "f",
+  "ar": "مجتمع ، شركة",
+  "ex": "La sociedad española.",
+  "exar": "المجتمع الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "el tema",
+  "pos": "n",
+  "g": "m",
+  "ar": "موضوع",
+  "ex": "Es un tema difícil.",
+  "exar": "إنه موضوع صعب.",
+  "e": ""
+ },
+ {
+  "es": "varios",
+  "pos": "det",
+  "g": "",
+  "ar": "عدّة",
+  "ex": "Varios días.",
+  "exar": "عدة أيام.",
+  "e": ""
+ },
+ {
+  "es": "mí",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـي (بعد حرف جر)",
+  "ex": "Es para mí.",
+  "exar": "إنه لي.",
+  "e": ""
+ },
+ {
+  "es": "el nivel",
+  "pos": "n",
+  "g": "m",
+  "ar": "مستوى",
+  "ex": "Nivel A1 de español.",
+  "exar": "المستوى A1 في الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "el niño",
+  "pos": "n",
+  "g": "m",
+  "ar": "طفل ، ولد",
+  "ex": "El niño juega.",
+  "exar": "الطفل يلعب.",
+  "e": "🧒"
+ },
+ {
+  "es": "seguro",
+  "pos": "adj",
+  "g": "",
+  "ar": "آمن ، متأكد",
+  "ex": "Estoy seguro.",
+  "exar": "أنا متأكد.",
+  "e": ""
+ },
+ {
+  "es": "el juego",
+  "pos": "n",
+  "g": "m",
+  "ar": "لعبة ، لعب",
+  "ex": "Un juego para niños.",
+  "exar": "لعبة للأطفال.",
+  "e": "🎲"
+ },
+ {
+  "es": "llegar",
+  "pos": "v",
+  "g": "",
+  "ar": "وصل ، يصل",
+  "ex": "Llego a las ocho.",
+  "exar": "أصل في الثامنة.",
+  "e": ""
+ },
+ {
+  "es": "la mano",
+  "pos": "n",
+  "g": "f",
+  "ar": "يد",
+  "ex": "Lávate las manos.",
+  "exar": "اغسل يديك.",
+  "e": "✋"
+ },
+ {
+  "es": "el paso",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطوة ، ممر",
+  "ex": "Paso a paso.",
+  "exar": "خطوة بخطوة.",
+  "e": ""
+ },
+ {
+  "es": "posible",
+  "pos": "adj",
+  "g": "",
+  "ar": "ممكن",
+  "ex": "Es posible.",
+  "exar": "هذا ممكن.",
+  "e": ""
+ },
+ {
+  "es": "el proyecto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مشروع",
+  "ex": "Un proyecto nuevo.",
+  "exar": "مشروع جديد.",
+  "e": ""
+ },
+ {
+  "es": "seguir",
+  "pos": "v",
+  "g": "",
+  "ar": "تبع ، يتبع ، استمر",
+  "ex": "Sigue recto.",
+  "exar": "تابع إلى الأمام مباشرة.",
+  "e": ""
+ },
+ {
+  "es": "unido",
+  "pos": "adj",
+  "g": "",
+  "ar": "متحد ، مترابط",
+  "ex": "Una familia unida.",
+  "exar": "عائلة مترابطة.",
+  "e": ""
+ },
+ {
+  "es": "el uso",
+  "pos": "n",
+  "g": "m",
+  "ar": "استعمال",
+  "ex": "Uso personal.",
+  "exar": "استعمال شخصي.",
+  "e": ""
+ },
+ {
+  "es": "el artículo",
+  "pos": "n",
+  "g": "m",
+  "ar": "مقال ، مادة",
+  "ex": "Artículo 14 de la Constitución.",
+  "exar": "المادة 14 من الدستور.",
+  "e": ""
+ },
+ {
+  "es": "cerca",
+  "pos": "adv",
+  "g": "",
+  "ar": "قريب",
+  "ex": "Vivo cerca.",
+  "exar": "أسكن قريبًا.",
+  "e": ""
+ },
+ {
+  "es": "cierto",
+  "pos": "adj",
+  "g": "",
+  "ar": "صحيح ، معيّن",
+  "ex": "Es cierto.",
+  "exar": "هذا صحيح.",
+  "e": ""
+ },
+ {
+  "es": "quién",
+  "pos": "pron",
+  "g": "",
+  "ar": "مَن؟",
+  "ex": "¿Quién es?",
+  "exar": "من هذا؟",
+  "e": ""
+ },
+ {
+  "es": "la razón",
+  "pos": "n",
+  "g": "f",
+  "ar": "سبب ، عقل",
+  "ex": "Tienes razón.",
+  "exar": "معك حق.",
+  "e": ""
+ },
+ {
+  "es": "todavía",
+  "pos": "adv",
+  "g": "",
+  "ar": "ما زال ، بعدُ",
+  "ex": "Todavía no.",
+  "exar": "ليس بعد.",
+  "e": ""
+ },
+ {
+  "es": "la mayoría",
+  "pos": "n",
+  "g": "f",
+  "ar": "أغلبية",
+  "ex": "La mayoría de la gente.",
+  "exar": "أغلب الناس.",
+  "e": ""
+ },
+ {
+  "es": "el padre",
+  "pos": "n",
+  "g": "m",
+  "ar": "أب",
+  "ex": "Mi padre trabaja.",
+  "exar": "أبي يعمل.",
+  "e": ""
+ },
+ {
+  "es": "salir",
+  "pos": "v",
+  "g": "",
+  "ar": "خرج ، يخرج",
+  "ex": "Salgo de casa.",
+  "exar": "أخرج من البيت.",
+  "e": ""
+ },
+ {
+  "es": "la seguridad",
+  "pos": "n",
+  "g": "f",
+  "ar": "أمن ، أمان",
+  "ex": "Seguridad en el trabajo.",
+  "exar": "السلامة في العمل.",
+  "e": ""
+ },
+ {
+  "es": "la tierra",
+  "pos": "n",
+  "g": "f",
+  "ar": "أرض ، تراب",
+  "ex": "La tierra es fértil.",
+  "exar": "الأرض خصبة.",
+  "e": "🌱"
+ },
+ {
+  "es": "único",
+  "pos": "adj",
+  "g": "",
+  "ar": "وحيد ، فريد",
+  "ex": "Hijo único.",
+  "exar": "ابن وحيد.",
+  "e": ""
+ },
+ {
+  "es": "el cuerpo",
+  "pos": "n",
+  "g": "m",
+  "ar": "جسم",
+  "ex": "El cuerpo humano.",
+  "exar": "جسم الإنسان.",
+  "e": ""
+ },
+ {
+  "es": "el programa",
+  "pos": "n",
+  "g": "m",
+  "ar": "برنامج",
+  "ex": "Un programa de televisión.",
+  "exar": "برنامج تلفزيوني.",
+  "e": ""
+ },
+ {
+  "es": "segundo",
+  "pos": "num",
+  "g": "",
+  "ar": "ثانٍ",
+  "ex": "El segundo piso.",
+  "exar": "الطابق الثاني.",
+  "e": ""
+ },
+ {
+  "es": "la universidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "جامعة",
+  "ex": "Estudio en la universidad.",
+  "exar": "أدرس في الجامعة.",
+  "e": "🎓"
+ },
+ {
+  "es": "último",
+  "pos": "adj",
+  "g": "",
+  "ar": "أخير",
+  "ex": "El último tren.",
+  "exar": "القطار الأخير.",
+  "e": ""
+ },
+ {
+  "es": "la cabeza",
+  "pos": "n",
+  "g": "f",
+  "ar": "رأس",
+  "ex": "Me duele la cabeza.",
+  "exar": "رأسي يؤلمني.",
+  "e": ""
+ },
+ {
+  "es": "la foto",
+  "pos": "n",
+  "g": "f",
+  "ar": "صورة",
+  "ex": "Una foto de carné.",
+  "exar": "صورة شخصية.",
+  "e": "📸"
+ },
+ {
+  "es": "internacional",
+  "pos": "adj",
+  "g": "",
+  "ar": "دولي",
+  "ex": "Un aeropuerto internacional.",
+  "exar": "مطار دولي.",
+  "e": ""
+ },
+ {
+  "es": "mil",
+  "pos": "num",
+  "g": "",
+  "ar": "ألف",
+  "ex": "Mil euros.",
+  "exar": "ألف يورو.",
+  "e": ""
+ },
+ {
+  "es": "la palabra",
+  "pos": "n",
+  "g": "f",
+  "ar": "كلمة",
+  "ex": "Una palabra nueva.",
+  "exar": "كلمة جديدة.",
+  "e": ""
+ },
+ {
+  "es": "público",
+  "pos": "adj",
+  "g": "",
+  "ar": "عام ، عمومي",
+  "ex": "Un servicio público.",
+  "exar": "خدمة عامة.",
+  "e": ""
+ },
+ {
+  "es": "el servicio",
+  "pos": "n",
+  "g": "m",
+  "ar": "خدمة",
+  "ex": "Servicio de urgencias.",
+  "exar": "قسم الطوارئ.",
+  "e": ""
+ },
+ {
+  "es": "la situación",
+  "pos": "n",
+  "g": "f",
+  "ar": "وضع ، حالة",
+  "ex": "Situación irregular.",
+  "exar": "وضع غير نظامي.",
+  "e": ""
+ },
+ {
+  "es": "la ayuda",
+  "pos": "n",
+  "g": "f",
+  "ar": "مساعدة",
+  "ex": "Necesito ayuda.",
+  "exar": "أحتاج مساعدة.",
+  "e": ""
+ },
+ {
+  "es": "el libro",
+  "pos": "n",
+  "g": "m",
+  "ar": "كتاب",
+  "ex": "Leo un libro.",
+  "exar": "أقرأ كتابًا.",
+  "e": "📖"
+ },
+ {
+  "es": "siguiente",
+  "pos": "adj",
+  "g": "",
+  "ar": "تالٍ ، التالي",
+  "ex": "¡El siguiente, por favor!",
+  "exar": "التالي من فضلك!",
+  "e": ""
+ },
+ {
+  "es": "el dato",
+  "pos": "n",
+  "g": "m",
+  "ar": "معلومة ، بيان",
+  "ex": "Datos personales.",
+  "exar": "بيانات شخصية.",
+  "e": ""
+ },
+ {
+  "es": "dejar",
+  "pos": "v",
+  "g": "",
+  "ar": "ترك ، يترك ، سمح",
+  "ex": "Deja la puerta abierta.",
+  "exar": "اترك الباب مفتوحًا.",
+  "e": ""
+ },
+ {
+  "es": "la educación",
+  "pos": "n",
+  "g": "f",
+  "ar": "تعليم ، تربية",
+  "ex": "La educación es gratis.",
+  "exar": "التعليم مجاني.",
+  "e": ""
+ },
+ {
+  "es": "el proceso",
+  "pos": "n",
+  "g": "m",
+  "ar": "عملية ، إجراء",
+  "ex": "Un proceso largo.",
+  "exar": "إجراء طويل.",
+  "e": ""
+ },
+ {
+  "es": "el sentido",
+  "pos": "n",
+  "g": "m",
+  "ar": "معنى ، حاسة",
+  "ex": "No tiene sentido.",
+  "exar": "لا معنى له.",
+  "e": ""
+ },
+ {
+  "es": "cinco",
+  "pos": "num",
+  "g": "",
+  "ar": "خمسة",
+  "ex": "Cinco minutos.",
+  "exar": "خمس دقائق.",
+  "e": "5️⃣"
+ },
+ {
+  "es": "la clase",
+  "pos": "n",
+  "g": "f",
+  "ar": "صف ، درس ، نوع",
+  "ex": "Tengo clase de español.",
+  "exar": "عندي درس إسبانية.",
+  "e": ""
+ },
+ {
+  "es": "cuanto",
+  "pos": "adv",
+  "g": "",
+  "ar": "بقدر ما ، كلّما",
+  "ex": "Cuanto antes, mejor.",
+  "exar": "كلما كان أسرع كان أفضل.",
+  "e": ""
+ },
+ {
+  "es": "ello",
+  "pos": "pron",
+  "g": "",
+  "ar": "ذلك",
+  "ex": "Por ello.",
+  "exar": "لذلك.",
+  "e": ""
+ },
+ {
+  "es": "usted",
+  "pos": "pron",
+  "g": "",
+  "ar": "حضرتك ، أنت (للاحترام)",
+  "ex": "¿Cómo está usted?",
+  "exar": "كيف حالك (حضرتك)؟",
+  "e": ""
+ },
+ {
+  "es": "largo",
+  "pos": "adj",
+  "g": "",
+  "ar": "طويل",
+  "ex": "Un viaje largo.",
+  "exar": "رحلة طويلة.",
+  "e": ""
+ },
+ {
+  "es": "ninguno",
+  "pos": "det",
+  "g": "",
+  "ar": "لا أحد ، ولا واحد",
+  "ex": "Ningún problema.",
+  "exar": "لا مشكلة.",
+  "e": ""
+ },
+ {
+  "es": "el orden",
+  "pos": "n",
+  "g": "m",
+  "ar": "ترتيب ، نظام",
+  "ex": "Por orden alfabético.",
+  "exar": "بالترتيب الأبجدي.",
+  "e": ""
+ },
+ {
+  "es": "el puesto",
+  "pos": "n",
+  "g": "m",
+  "ar": "منصب ، كشك",
+  "ex": "Un puesto de trabajo.",
+  "exar": "وظيفة.",
+  "e": ""
+ },
+ {
+  "es": "realmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "حقًا",
+  "ex": "¿Realmente?",
+  "exar": "حقًا؟",
+  "e": ""
+ },
+ {
+  "es": "alto",
+  "pos": "adj",
+  "g": "",
+  "ar": "عالٍ ، طويل",
+  "ex": "Un edificio alto.",
+  "exar": "مبنى عالٍ.",
+  "e": ""
+ },
+ {
+  "es": "demás",
+  "pos": "pron",
+  "g": "",
+  "ar": "الآخرون ، الباقي",
+  "ex": "Respeta a los demás.",
+  "exar": "احترم الآخرين.",
+  "e": ""
+ },
+ {
+  "es": "diferente",
+  "pos": "adj",
+  "g": "",
+  "ar": "مختلف",
+  "ex": "Es diferente.",
+  "exar": "إنه مختلف.",
+  "e": ""
+ },
+ {
+  "es": "español",
+  "pos": "adj",
+  "g": "",
+  "ar": "إسباني",
+  "ex": "Hablo español.",
+  "exar": "أتكلم الإسبانية.",
+  "e": "🇪🇸"
+ },
+ {
+  "es": "junto",
+  "pos": "adj",
+  "g": "",
+  "ar": "معًا ، بجانب",
+  "ex": "Vivimos juntos.",
+  "exar": "نعيش معًا.",
+  "e": ""
+ },
+ {
+  "es": "la lista",
+  "pos": "n",
+  "g": "f",
+  "ar": "قائمة",
+  "ex": "La lista de la compra.",
+  "exar": "قائمة المشتريات.",
+  "e": "📋"
+ },
+ {
+  "es": "personal",
+  "pos": "adj",
+  "g": "",
+  "ar": "شخصي",
+  "ex": "Datos de uso personal.",
+  "exar": "بيانات للاستعمال الشخصي.",
+  "e": ""
+ },
+ {
+  "es": "total",
+  "pos": "adj",
+  "g": "",
+  "ar": "كلي ، إجمالي",
+  "ex": "El precio total.",
+  "exar": "السعر الإجمالي.",
+  "e": ""
+ },
+ {
+  "es": "tratar",
+  "pos": "v",
+  "g": "",
+  "ar": "عامل ، يعامل ، حاول",
+  "ex": "Trata de llegar pronto.",
+  "exar": "حاول أن تصل مبكرًا.",
+  "e": ""
+ },
+ {
+  "es": "el vídeo",
+  "pos": "n",
+  "g": "m",
+  "ar": "فيديو",
+  "ex": "Mira este vídeo.",
+  "exar": "شاهد هذا الفيديو.",
+  "e": "🎥"
+ },
+ {
+  "es": "venir",
+  "pos": "v",
+  "g": "",
+  "ar": "جاء ، يجيء",
+  "ex": "Ven aquí.",
+  "exar": "تعال إلى هنا.",
+  "e": ""
+ },
+ {
+  "es": "la web",
+  "pos": "n",
+  "g": "f",
+  "ar": "موقع إلكتروني",
+  "ex": "La web del ayuntamiento.",
+  "exar": "موقع البلدية الإلكتروني.",
+  "e": ""
+ },
+ {
+  "es": "la base",
+  "pos": "n",
+  "g": "f",
+  "ar": "أساس ، قاعدة",
+  "ex": "La base del problema.",
+  "exar": "أساس المشكلة.",
+  "e": ""
+ },
+ {
+  "es": "el camino",
+  "pos": "n",
+  "g": "m",
+  "ar": "طريق",
+  "ex": "El camino a casa.",
+  "exar": "الطريق إلى البيت.",
+  "e": ""
+ },
+ {
+  "es": "la empresa",
+  "pos": "n",
+  "g": "f",
+  "ar": "شركة",
+  "ex": "Trabajo en una empresa.",
+  "exar": "أعمل في شركة.",
+  "e": ""
+ },
+ {
+  "es": "especial",
+  "pos": "adj",
+  "g": "",
+  "ar": "خاص ، مميز",
+  "ex": "Un día especial.",
+  "exar": "يوم مميز.",
+  "e": ""
+ },
+ {
+  "es": "hola",
+  "pos": "interj",
+  "g": "",
+  "ar": "مرحبًا",
+  "ex": "¡Hola! ¿Qué tal?",
+  "exar": "مرحبًا! كيف الحال؟",
+  "e": "👋"
+ },
+ {
+  "es": "la paz",
+  "pos": "n",
+  "g": "f",
+  "ar": "سلام",
+  "ex": "Queremos paz.",
+  "exar": "نريد السلام.",
+  "e": "🕊️"
+ },
+ {
+  "es": "la policía",
+  "pos": "n",
+  "g": "f",
+  "ar": "شرطة",
+  "ex": "Llama a la policía.",
+  "exar": "اتصل بالشرطة.",
+  "e": "👮"
+ },
+ {
+  "es": "quedar",
+  "pos": "v",
+  "g": "",
+  "ar": "بقي ، يبقى ، تواعد",
+  "ex": "Quedamos a las cinco.",
+  "exar": "نلتقي في الخامسة.",
+  "e": ""
+ },
+ {
+  "es": "la salud",
+  "pos": "n",
+  "g": "f",
+  "ar": "صحة",
+  "ex": "La salud es lo primero.",
+  "exar": "الصحة أولًا.",
+  "e": ""
+ },
+ {
+  "es": "el sitio",
+  "pos": "n",
+  "g": "m",
+  "ar": "مكان ، موقع",
+  "ex": "No hay sitio.",
+  "exar": "لا يوجد مكان.",
+  "e": ""
+ },
+ {
+  "es": "tomar",
+  "pos": "v",
+  "g": "",
+  "ar": "أخذ ، يأخذ ، شرب",
+  "ex": "Tomo un café.",
+  "exar": "أشرب قهوة.",
+  "e": ""
+ },
+ {
+  "es": "la zona",
+  "pos": "n",
+  "g": "f",
+  "ar": "منطقة",
+  "ex": "Una zona tranquila.",
+  "exar": "منطقة هادئة.",
+  "e": ""
+ },
+ {
+  "es": "la calle",
+  "pos": "n",
+  "g": "f",
+  "ar": "شارع",
+  "ex": "Vivo en esta calle.",
+  "exar": "أسكن في هذا الشارع.",
+  "e": ""
+ },
+ {
+  "es": "la cara",
+  "pos": "n",
+  "g": "f",
+  "ar": "وجه",
+  "ex": "Lávate la cara.",
+  "exar": "اغسل وجهك.",
+  "e": ""
+ },
+ {
+  "es": "la línea",
+  "pos": "n",
+  "g": "f",
+  "ar": "خط",
+  "ex": "La línea 3 del metro.",
+  "exar": "الخط 3 للمترو.",
+  "e": ""
+ },
+ {
+  "es": "mundial",
+  "pos": "adj",
+  "g": "",
+  "ar": "عالمي",
+  "ex": "La Copa Mundial.",
+  "exar": "كأس العالم.",
+  "e": ""
+ },
+ {
+  "es": "la obra",
+  "pos": "n",
+  "g": "f",
+  "ar": "عمل ، ورشة بناء",
+  "ex": "Trabaja en una obra.",
+  "exar": "يعمل في ورشة بناء.",
+  "e": ""
+ },
+ {
+  "es": "el ojo",
+  "pos": "n",
+  "g": "m",
+  "ar": "عين",
+  "ex": "Tiene los ojos negros.",
+  "exar": "عيناه سوداوان.",
+  "e": "👁️"
+ },
+ {
+  "es": "os",
+  "pos": "pron",
+  "g": "",
+  "ar": "ـكم ، لكم",
+  "ex": "Os espero aquí.",
+  "exar": "أنتظركم هنا.",
+  "e": ""
+ },
+ {
+  "es": "pensar",
+  "pos": "v",
+  "g": "",
+  "ar": "فكّر ، يفكّر",
+  "ex": "Pienso en mi familia.",
+  "exar": "أفكر في عائلتي.",
+  "e": "🤔"
+ },
+ {
+  "es": "allí",
+  "pos": "adv",
+  "g": "",
+  "ar": "هناك",
+  "ex": "Mi familia vive allí.",
+  "exar": "عائلتي تعيش هناك.",
+  "e": ""
+ },
+ {
+  "es": "la atención",
+  "pos": "n",
+  "g": "f",
+  "ar": "انتباه ، رعاية",
+  "ex": "Atención al cliente.",
+  "exar": "خدمة العملاء.",
+  "e": ""
+ },
+ {
+  "es": "la escuela",
+  "pos": "n",
+  "g": "f",
+  "ar": "مدرسة",
+  "ex": "Mi hijo va a la escuela.",
+  "exar": "ابني يذهب إلى المدرسة.",
+  "e": "🏫"
+ },
+ {
+  "es": "julio",
+  "pos": "n",
+  "g": "m",
+  "ar": "يوليو (تموز)",
+  "ex": "Llegué en julio.",
+  "exar": "وصلت في يوليو.",
+  "e": ""
+ },
+ {
+  "es": "respecto a",
+  "pos": "expr",
+  "g": "",
+  "ar": "بالنسبة إلى ، بخصوص",
+  "ex": "Respecto a tu pregunta, no sé.",
+  "exar": "بخصوص سؤالك، لا أعرف.",
+  "e": ""
+ },
+ {
+  "es": "sentir",
+  "pos": "v",
+  "g": "",
+  "ar": "شعر ، يشعر ؛ أسف",
+  "ex": "Lo siento.",
+  "exar": "آسف.",
+  "e": ""
+ },
+ {
+  "es": "vivir",
+  "pos": "v",
+  "g": "",
+  "ar": "عاش ، يعيش ، سكن",
+  "ex": "Vivo en Valencia.",
+  "exar": "أسكن في فالنسيا.",
+  "e": ""
+ },
+ {
+  "es": "la capital",
+  "pos": "n",
+  "g": "f",
+  "ar": "عاصمة",
+  "ex": "Madrid es la capital.",
+  "exar": "مدريد هي العاصمة.",
+  "e": ""
+ },
+ {
+  "es": "libre",
+  "pos": "adj",
+  "g": "",
+  "ar": "حر ، فارغ",
+  "ex": "¿Está libre?",
+  "exar": "هل هو فارغ؟",
+  "e": ""
+ },
+ {
+  "es": "la luz",
+  "pos": "n",
+  "g": "f",
+  "ar": "ضوء ، كهرباء",
+  "ex": "La factura de la luz.",
+  "exar": "فاتورة الكهرباء.",
+  "e": ""
+ },
+ {
+  "es": "la población",
+  "pos": "n",
+  "g": "f",
+  "ar": "سكان",
+  "ex": "La población de España.",
+  "exar": "سكان إسبانيا.",
+  "e": ""
+ },
+ {
+  "es": "la relación",
+  "pos": "n",
+  "g": "f",
+  "ar": "علاقة",
+  "ex": "Una buena relación.",
+  "exar": "علاقة جيدة.",
+  "e": ""
+ },
+ {
+  "es": "la suerte",
+  "pos": "n",
+  "g": "f",
+  "ar": "حظ",
+  "ex": "¡Buena suerte!",
+  "exar": "حظًا سعيدًا!",
+  "e": "🍀"
+ },
+ {
+  "es": "bastante",
+  "pos": "adv",
+  "g": "",
+  "ar": "كفاية ، إلى حد كبير",
+  "ex": "Hablo bastante bien.",
+  "exar": "أتكلم جيدًا إلى حد كبير.",
+  "e": ""
+ },
+ {
+  "es": "la cultura",
+  "pos": "n",
+  "g": "f",
+  "ar": "ثقافة",
+  "ex": "La cultura española.",
+  "exar": "الثقافة الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "debido a",
+  "pos": "expr",
+  "g": "",
+  "ar": "بسبب",
+  "ex": "Debido a la lluvia.",
+  "exar": "بسبب المطر.",
+  "e": ""
+ },
+ {
+  "es": "difícil",
+  "pos": "adj",
+  "g": "",
+  "ar": "صعب",
+  "ex": "Es difícil.",
+  "exar": "إنه صعب.",
+  "e": ""
+ },
+ {
+  "es": "fuerte",
+  "pos": "adj",
+  "g": "",
+  "ar": "قوي",
+  "ex": "Un hombre fuerte.",
+  "exar": "رجل قوي.",
+  "e": ""
+ },
+ {
+  "es": "fácil",
+  "pos": "adj",
+  "g": "",
+  "ar": "سهل",
+  "ex": "Es fácil.",
+  "exar": "إنه سهل.",
+  "e": ""
+ },
+ {
+  "es": "el miedo",
+  "pos": "n",
+  "g": "m",
+  "ar": "خوف",
+  "ex": "Tengo miedo.",
+  "exar": "أنا خائف.",
+  "e": "😨"
+ },
+ {
+  "es": "el minuto",
+  "pos": "n",
+  "g": "m",
+  "ar": "دقيقة",
+  "ex": "Espera un minuto.",
+  "exar": "انتظر دقيقة.",
+  "e": "⏱️"
+ },
+ {
+  "es": "la música",
+  "pos": "n",
+  "g": "f",
+  "ar": "موسيقى",
+  "ex": "Me gusta la música.",
+  "exar": "أحب الموسيقى.",
+  "e": "🎵"
+ },
+ {
+  "es": "poner",
+  "pos": "v",
+  "g": "",
+  "ar": "وضع ، يضع",
+  "ex": "Pon la mesa.",
+  "exar": "جهّز المائدة.",
+  "e": ""
+ },
+ {
+  "es": "la pregunta",
+  "pos": "n",
+  "g": "f",
+  "ar": "سؤال",
+  "ex": "Tengo una pregunta.",
+  "exar": "عندي سؤال.",
+  "e": "❓"
+ },
+ {
+  "es": "el rey",
+  "pos": "n",
+  "g": "m",
+  "ar": "ملك ؛ (la reina) ملكة",
+  "ex": "El rey de España.",
+  "exar": "ملك إسبانيا.",
+  "e": "👑"
+ },
+ {
+  "es": "el apoyo",
+  "pos": "n",
+  "g": "m",
+  "ar": "دعم",
+  "ex": "Gracias por tu apoyo.",
+  "exar": "شكرًا على دعمك.",
+  "e": ""
+ },
+ {
+  "es": "demasiado",
+  "pos": "adv",
+  "g": "",
+  "ar": "أكثر من اللازم",
+  "ex": "Es demasiado caro.",
+  "exar": "إنه غالٍ جدًا.",
+  "e": ""
+ },
+ {
+  "es": "esperar",
+  "pos": "v",
+  "g": "",
+  "ar": "انتظر ، ينتظر ؛ أمل",
+  "ex": "Espero el autobús.",
+  "exar": "أنتظر الحافلة.",
+  "e": ""
+ },
+ {
+  "es": "la fuerza",
+  "pos": "n",
+  "g": "f",
+  "ar": "قوة",
+  "ex": "No tengo fuerza.",
+  "exar": "ليس لدي قوة.",
+  "e": ""
+ },
+ {
+  "es": "mayo",
+  "pos": "n",
+  "g": "m",
+  "ar": "مايو (أيار)",
+  "ex": "En mayo hace buen tiempo.",
+  "exar": "في مايو يكون الطقس جميلًا.",
+  "e": ""
+ },
+ {
+  "es": "oficial",
+  "pos": "adj",
+  "g": "",
+  "ar": "رسمي",
+  "ex": "Documento oficial.",
+  "exar": "وثيقة رسمية.",
+  "e": ""
+ },
+ {
+  "es": "propio",
+  "pos": "adj",
+  "g": "",
+  "ar": "خاص ، ذاتي",
+  "ex": "Mi propio coche.",
+  "exar": "سيارتي الخاصة.",
+  "e": ""
+ },
+ {
+  "es": "el control",
+  "pos": "n",
+  "g": "m",
+  "ar": "مراقبة ، تحكم",
+  "ex": "Control de pasaportes.",
+  "exar": "مراقبة الجوازات.",
+  "e": ""
+ },
+ {
+  "es": "encontrar",
+  "pos": "v",
+  "g": "",
+  "ar": "وجد ، يجد",
+  "ex": "No encuentro las llaves.",
+  "exar": "لا أجد المفاتيح.",
+  "e": ""
+ },
+ {
+  "es": "inglés",
+  "pos": "adj",
+  "g": "",
+  "ar": "إنجليزي",
+  "ex": "¿Hablas inglés?",
+  "exar": "هل تتكلم الإنجليزية؟",
+  "e": ""
+ },
+ {
+  "es": "marzo",
+  "pos": "n",
+  "g": "m",
+  "ar": "مارس (آذار)",
+  "ex": "En marzo empieza la primavera.",
+  "exar": "في مارس يبدأ الربيع.",
+  "e": ""
+ },
+ {
+  "es": "peor",
+  "pos": "adj",
+  "g": "",
+  "ar": "أسوأ",
+  "ex": "Es peor.",
+  "exar": "إنه أسوأ.",
+  "e": ""
+ },
+ {
+  "es": "la serie",
+  "pos": "n",
+  "g": "f",
+  "ar": "مسلسل ، سلسلة",
+  "ex": "Veo una serie.",
+  "exar": "أشاهد مسلسلًا.",
+  "e": ""
+ },
+ {
+  "es": "el sur",
+  "pos": "n",
+  "g": "m",
+  "ar": "جنوب",
+  "ex": "El sur de España.",
+  "exar": "جنوب إسبانيا.",
+  "e": ""
+ },
+ {
+  "es": "trabajar",
+  "pos": "v",
+  "g": "",
+  "ar": "عمل ، يعمل",
+  "ex": "Trabajo en un restaurante.",
+  "exar": "أعمل في مطعم.",
+  "e": ""
+ },
+ {
+  "es": "la edad",
+  "pos": "n",
+  "g": "f",
+  "ar": "عمر ، سن",
+  "ex": "¿Qué edad tienes?",
+  "exar": "كم عمرك؟",
+  "e": ""
+ },
+ {
+  "es": "el futuro",
+  "pos": "n",
+  "g": "m",
+  "ar": "مستقبل",
+  "ex": "Pienso en el futuro.",
+  "exar": "أفكر في المستقبل.",
+  "e": ""
+ },
+ {
+  "es": "la justicia",
+  "pos": "n",
+  "g": "f",
+  "ar": "عدالة ، قضاء",
+  "ex": "La justicia es igual para todos.",
+  "exar": "العدالة سواء للجميع.",
+  "e": "⚖️"
+ },
+ {
+  "es": "la libertad",
+  "pos": "n",
+  "g": "f",
+  "ar": "حرية",
+  "ex": "Libertad de expresión.",
+  "exar": "حرية التعبير.",
+  "e": ""
+ },
+ {
+  "es": "a pesar de",
+  "pos": "expr",
+  "g": "",
+  "ar": "رغم",
+  "ex": "A pesar del frío, salgo.",
+  "exar": "رغم البرد أخرج.",
+  "e": ""
+ },
+ {
+  "es": "tampoco",
+  "pos": "adv",
+  "g": "",
+  "ar": "ولا ... أيضًا",
+  "ex": "Yo tampoco.",
+  "exar": "ولا أنا.",
+  "e": ""
+ },
+ {
+  "es": "allá",
+  "pos": "adv",
+  "g": "",
+  "ar": "هناك",
+  "ex": "Allá en mi país.",
+  "exar": "هناك في بلدي.",
+  "e": ""
+ },
+ {
+  "es": "la cantidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "كمية",
+  "ex": "Una gran cantidad.",
+  "exar": "كمية كبيرة.",
+  "e": ""
+ },
+ {
+  "es": "el corazón",
+  "pos": "n",
+  "g": "m",
+  "ar": "قلب",
+  "ex": "Me duele el corazón.",
+  "exar": "قلبي يؤلمني.",
+  "e": "🫀"
+ },
+ {
+  "es": "diciembre",
+  "pos": "n",
+  "g": "m",
+  "ar": "ديسمبر (كانون الأول)",
+  "ex": "En diciembre es Navidad.",
+  "exar": "في ديسمبر يكون عيد الميلاد.",
+  "e": ""
+ },
+ {
+  "es": "existir",
+  "pos": "v",
+  "g": "",
+  "ar": "وُجد ، يوجد",
+  "ex": "No existe.",
+  "exar": "غير موجود.",
+  "e": ""
+ },
+ {
+  "es": "la imagen",
+  "pos": "n",
+  "g": "f",
+  "ar": "صورة",
+  "ex": "Una imagen bonita.",
+  "exar": "صورة جميلة.",
+  "e": ""
+ },
+ {
+  "es": "importar",
+  "pos": "v",
+  "g": "",
+  "ar": "همّ ، يهمّ ؛ استورد",
+  "ex": "No importa.",
+  "exar": "لا يهم.",
+  "e": ""
+ },
+ {
+  "es": "el norte",
+  "pos": "n",
+  "g": "m",
+  "ar": "شمال",
+  "ex": "El norte de Marruecos.",
+  "exar": "شمال المغرب.",
+  "e": "🧭"
+ },
+ {
+  "es": "octubre",
+  "pos": "n",
+  "g": "m",
+  "ar": "أكتوبر (تشرين الأول)",
+  "ex": "Mi cumpleaños es en octubre.",
+  "exar": "عيد ميلادي في أكتوبر.",
+  "e": ""
+ },
+ {
+  "es": "político",
+  "pos": "adj",
+  "g": "",
+  "ar": "سياسي",
+  "ex": "Un problema político.",
+  "exar": "مشكلة سياسية.",
+  "e": ""
+ },
+ {
+  "es": "principal",
+  "pos": "adj",
+  "g": "",
+  "ar": "رئيسي",
+  "ex": "La calle principal.",
+  "exar": "الشارع الرئيسي.",
+  "e": ""
+ },
+ {
+  "es": "la vista",
+  "pos": "n",
+  "g": "f",
+  "ar": "بصر ، منظر",
+  "ex": "Una vista bonita.",
+  "exar": "منظر جميل.",
+  "e": ""
+ },
+ {
+  "es": "volver",
+  "pos": "v",
+  "g": "",
+  "ar": "عاد ، يعود",
+  "ex": "Vuelvo a casa.",
+  "exar": "أعود إلى البيت.",
+  "e": ""
+ },
+ {
+  "es": "la voz",
+  "pos": "n",
+  "g": "f",
+  "ar": "صوت",
+  "ex": "Habla en voz baja.",
+  "exar": "تكلم بصوت منخفض.",
+  "e": ""
+ },
+ {
+  "es": "actual",
+  "pos": "adj",
+  "g": "",
+  "ar": "حالي",
+  "ex": "La situación actual.",
+  "exar": "الوضع الحالي.",
+  "e": ""
+ },
+ {
+  "es": "ambos",
+  "pos": "det",
+  "g": "",
+  "ar": "كلا",
+  "ex": "Ambos hermanos trabajan.",
+  "exar": "كلا الأخوين يعمل.",
+  "e": ""
+ },
+ {
+  "es": "la elección",
+  "pos": "n",
+  "g": "f",
+  "ar": "انتخاب ، اختيار",
+  "ex": "Las elecciones generales.",
+  "exar": "الانتخابات العامة.",
+  "e": "🗳️"
+ },
+ {
+  "es": "el estudio",
+  "pos": "n",
+  "g": "m",
+  "ar": "دراسة ، شقة استوديو",
+  "ex": "Vivo en un estudio.",
+  "exar": "أسكن في شقة استوديو.",
+  "e": ""
+ },
+ {
+  "es": "mirar",
+  "pos": "v",
+  "g": "",
+  "ar": "نظر ، ينظر",
+  "ex": "¡Mira!",
+  "exar": "انظر!",
+  "e": "👀"
+ },
+ {
+  "es": "el modo",
+  "pos": "n",
+  "g": "m",
+  "ar": "طريقة ، أسلوب",
+  "ex": "De este modo.",
+  "exar": "بهذه الطريقة.",
+  "e": ""
+ },
+ {
+  "es": "abril",
+  "pos": "n",
+  "g": "m",
+  "ar": "أبريل (نيسان)",
+  "ex": "En abril llueve mucho.",
+  "exar": "في أبريل تمطر كثيرًا.",
+  "e": ""
+ },
+ {
+  "es": "el campo",
+  "pos": "n",
+  "g": "m",
+  "ar": "حقل ، ريف",
+  "ex": "Trabajo en el campo.",
+  "exar": "أعمل في الحقل.",
+  "e": "🌾"
+ },
+ {
+  "es": "internet",
+  "pos": "n",
+  "g": "m",
+  "ar": "إنترنت",
+  "ex": "No tengo internet en casa.",
+  "exar": "ليس لدي إنترنت في البيت.",
+  "e": "🌐"
+ },
+ {
+  "es": "joven",
+  "pos": "adj",
+  "g": "",
+  "ar": "شاب",
+  "ex": "Es muy joven.",
+  "exar": "إنه شاب جدًا.",
+  "e": ""
+ },
+ {
+  "es": "el plan",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطة",
+  "ex": "¿Cuál es el plan?",
+  "exar": "ما الخطة؟",
+  "e": ""
+ },
+ {
+  "es": "la región",
+  "pos": "n",
+  "g": "f",
+  "ar": "منطقة ، إقليم",
+  "ex": "La Región de Murcia.",
+  "exar": "إقليم مرسية.",
+  "e": ""
+ },
+ {
+  "es": "significar",
+  "pos": "v",
+  "g": "",
+  "ar": "عنى ، يعني",
+  "ex": "¿Qué significa?",
+  "exar": "ماذا يعني؟",
+  "e": ""
+ },
+ {
+  "es": "la comunidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "مجتمع ، جماعة",
+  "ex": "La comunidad de vecinos.",
+  "exar": "جمعية الجيران.",
+  "e": ""
+ },
+ {
+  "es": "la dirección",
+  "pos": "n",
+  "g": "f",
+  "ar": "عنوان ، اتجاه ، إدارة",
+  "ex": "¿Cuál es tu dirección?",
+  "exar": "ما عنوانك؟",
+  "e": ""
+ },
+ {
+  "es": "la investigación",
+  "pos": "n",
+  "g": "f",
+  "ar": "بحث ، تحقيق",
+  "ex": "Investigación científica.",
+  "exar": "بحث علمي.",
+  "e": ""
+ },
+ {
+  "es": "junio",
+  "pos": "n",
+  "g": "m",
+  "ar": "يونيو (حزيران)",
+  "ex": "En junio terminan las clases.",
+  "exar": "في يونيو تنتهي الدروس.",
+  "e": ""
+ },
+ {
+  "es": "llevar",
+  "pos": "v",
+  "g": "",
+  "ar": "حمل ، يحمل ، لبس",
+  "ex": "Llevo una chaqueta.",
+  "exar": "ألبس سترة.",
+  "e": ""
+ },
+ {
+  "es": "partir",
+  "pos": "v",
+  "g": "",
+  "ar": "قسم ، يقسم ؛ غادر",
+  "ex": "A partir de mañana.",
+  "exar": "ابتداءً من الغد.",
+  "e": ""
+ },
+ {
+  "es": "la película",
+  "pos": "n",
+  "g": "f",
+  "ar": "فيلم",
+  "ex": "Vemos una película.",
+  "exar": "نشاهد فيلمًا.",
+  "e": "🎞️"
+ },
+ {
+  "es": "la república",
+  "pos": "n",
+  "g": "f",
+  "ar": "جمهورية",
+  "ex": "La República Dominicana.",
+  "exar": "جمهورية الدومينيكان.",
+  "e": ""
+ },
+ {
+  "es": "el resto",
+  "pos": "n",
+  "g": "m",
+  "ar": "باقي",
+  "ex": "El resto del dinero.",
+  "exar": "باقي المال.",
+  "e": ""
+ },
+ {
+  "es": "la vuelta",
+  "pos": "n",
+  "g": "f",
+  "ar": "عودة ، جولة",
+  "ex": "Billete de ida y vuelta.",
+  "exar": "تذكرة ذهاب وإياب.",
+  "e": ""
+ },
+ {
+  "es": "el consejo",
+  "pos": "n",
+  "g": "m",
+  "ar": "نصيحة ، مجلس",
+  "ex": "Te doy un consejo.",
+  "exar": "أقدم لك نصيحة.",
+  "e": ""
+ },
+ {
+  "es": "dónde",
+  "pos": "adv",
+  "g": "",
+  "ar": "أين",
+  "ex": "¿Dónde vives?",
+  "exar": "أين تسكن؟",
+  "e": ""
+ },
+ {
+  "es": "llamar",
+  "pos": "v",
+  "g": "",
+  "ar": "نادى ، ينادي ، اتصل",
+  "ex": "Te llamo mañana.",
+  "exar": "أتصل بك غدًا.",
+  "e": ""
+ },
+ {
+  "es": "el mercado",
+  "pos": "n",
+  "g": "m",
+  "ar": "سوق",
+  "ex": "Compro fruta en el mercado.",
+  "exar": "أشتري الفاكهة من السوق.",
+  "e": ""
+ },
+ {
+  "es": "el movimiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "حركة",
+  "ex": "Un movimiento social.",
+  "exar": "حركة اجتماعية.",
+  "e": ""
+ },
+ {
+  "es": "noviembre",
+  "pos": "n",
+  "g": "m",
+  "ar": "نوفمبر (تشرين الثاني)",
+  "ex": "Llegué a España en noviembre.",
+  "exar": "وصلت إلى إسبانيا في نوفمبر.",
+  "e": ""
+ },
+ {
+  "es": "el papel",
+  "pos": "n",
+  "g": "m",
+  "ar": "ورق ، دور",
+  "ex": "Una hoja de papel.",
+  "exar": "ورقة.",
+  "e": "📄"
+ },
+ {
+  "es": "el precio",
+  "pos": "n",
+  "g": "m",
+  "ar": "سعر",
+  "ex": "¿Cuál es el precio?",
+  "exar": "ما السعر؟",
+  "e": "🏷️"
+ },
+ {
+  "es": "la respuesta",
+  "pos": "n",
+  "g": "f",
+  "ar": "جواب",
+  "ex": "No tengo respuesta.",
+  "exar": "ليس لدي جواب.",
+  "e": ""
+ },
+ {
+  "es": "seis",
+  "pos": "num",
+  "g": "",
+  "ar": "ستة",
+  "ex": "Seis meses.",
+  "exar": "ستة أشهر.",
+  "e": "6️⃣"
+ },
+ {
+  "es": "simplemente",
+  "pos": "adv",
+  "g": "",
+  "ar": "ببساطة",
+  "ex": "Simplemente no quiero.",
+  "exar": "ببساطة لا أريد.",
+  "e": ""
+ },
+ {
+  "es": "agosto",
+  "pos": "n",
+  "g": "m",
+  "ar": "أغسطس (آب)",
+  "ex": "En agosto vamos a la playa.",
+  "exar": "في أغسطس نذهب إلى الشاطئ.",
+  "e": ""
+ },
+ {
+  "es": "el cargo",
+  "pos": "n",
+  "g": "m",
+  "ar": "منصب ، تهمة",
+  "ex": "Un cargo importante.",
+  "exar": "منصب مهم.",
+  "e": ""
+ },
+ {
+  "es": "la comida",
+  "pos": "n",
+  "g": "f",
+  "ar": "طعام ، وجبة",
+  "ex": "La comida está lista.",
+  "exar": "الطعام جاهز.",
+  "e": "🍲"
+ },
+ {
+  "es": "enero",
+  "pos": "n",
+  "g": "m",
+  "ar": "يناير (كانون الثاني)",
+  "ex": "En enero hace frío.",
+  "exar": "في يناير يكون الجو باردًا.",
+  "e": ""
+ },
+ {
+  "es": "la experiencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "خبرة ، تجربة",
+  "ex": "Tengo experiencia.",
+  "exar": "لدي خبرة.",
+  "e": ""
+ },
+ {
+  "es": "el jefe",
+  "pos": "n",
+  "g": "m",
+  "ar": "رئيس ، مدير",
+  "ex": "Mi jefe es simpático.",
+  "exar": "مديري لطيف.",
+  "e": ""
+ },
+ {
+  "es": "leer",
+  "pos": "v",
+  "g": "",
+  "ar": "قرأ ، يقرأ",
+  "ex": "Me gusta leer.",
+  "exar": "أحب القراءة.",
+  "e": ""
+ },
+ {
+  "es": "el miembro",
+  "pos": "n",
+  "g": "m",
+  "ar": "عضو",
+  "ex": "Miembro de la familia.",
+  "exar": "فرد من العائلة.",
+  "e": ""
+ },
+ {
+  "es": "la pena",
+  "pos": "n",
+  "g": "f",
+  "ar": "حزن ، عقوبة",
+  "ex": "¡Qué pena!",
+  "exar": "يا للأسف!",
+  "e": ""
+ },
+ {
+  "es": "la producción",
+  "pos": "n",
+  "g": "f",
+  "ar": "إنتاج",
+  "ex": "La producción de aceite.",
+  "exar": "إنتاج الزيت.",
+  "e": ""
+ },
+ {
+  "es": "el siglo",
+  "pos": "n",
+  "g": "m",
+  "ar": "قرن",
+  "ex": "El siglo veintiuno.",
+  "exar": "القرن الحادي والعشرون.",
+  "e": ""
+ },
+ {
+  "es": "ustedes",
+  "pos": "pron",
+  "g": "",
+  "ar": "أنتم (للاحترام)",
+  "ex": "¿Ustedes son de aquí?",
+  "exar": "هل أنتم من هنا؟",
+  "e": ""
+ },
+ {
+  "es": "el cabo",
+  "pos": "n",
+  "g": "m",
+  "ar": "رأس ، طرف",
+  "ex": "Al cabo de un año.",
+  "exar": "بعد سنة.",
+  "e": ""
+ },
+ {
+  "es": "común",
+  "pos": "adj",
+  "g": "",
+  "ar": "مشترك ، شائع",
+  "ex": "Un nombre común.",
+  "exar": "اسم شائع.",
+  "e": ""
+ },
+ {
+  "es": "la economía",
+  "pos": "n",
+  "g": "f",
+  "ar": "اقتصاد",
+  "ex": "La economía española.",
+  "exar": "الاقتصاد الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "entender",
+  "pos": "v",
+  "g": "",
+  "ar": "فهم ، يفهم",
+  "ex": "No entiendo.",
+  "exar": "لا أفهم.",
+  "e": ""
+ },
+ {
+  "es": "el espacio",
+  "pos": "n",
+  "g": "m",
+  "ar": "مساحة ، فضاء",
+  "ex": "No hay espacio.",
+  "exar": "لا توجد مساحة.",
+  "e": ""
+ },
+ {
+  "es": "febrero",
+  "pos": "n",
+  "g": "m",
+  "ar": "فبراير (شباط)",
+  "ex": "Febrero tiene 28 días.",
+  "exar": "فبراير فيه 28 يومًا.",
+  "e": ""
+ },
+ {
+  "es": "necesitar",
+  "pos": "v",
+  "g": "",
+  "ar": "احتاج ، يحتاج",
+  "ex": "Necesito un médico.",
+  "exar": "أحتاج طبيبًا.",
+  "e": ""
+ },
+ {
+  "es": "la opinión",
+  "pos": "n",
+  "g": "f",
+  "ar": "رأي",
+  "ex": "En mi opinión.",
+  "exar": "في رأيي.",
+  "e": ""
+ },
+ {
+  "es": "la oportunidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "فرصة",
+  "ex": "Una buena oportunidad.",
+  "exar": "فرصة جيدة.",
+  "e": ""
+ },
+ {
+  "es": "la organización",
+  "pos": "n",
+  "g": "f",
+  "ar": "منظمة ، تنظيم",
+  "ex": "Una organización humanitaria.",
+  "exar": "منظمة إنسانية.",
+  "e": ""
+ },
+ {
+  "es": "la página",
+  "pos": "n",
+  "g": "f",
+  "ar": "صفحة",
+  "ex": "Página diez.",
+  "exar": "الصفحة العاشرة.",
+  "e": ""
+ },
+ {
+  "es": "el resultado",
+  "pos": "n",
+  "g": "m",
+  "ar": "نتيجة",
+  "ex": "El resultado del examen.",
+  "exar": "نتيجة الامتحان.",
+  "e": ""
+ },
+ {
+  "es": "valer",
+  "pos": "v",
+  "g": "",
+  "ar": "ساوى ، يساوي ، كلّف ؛ (vale) حسنًا",
+  "ex": "¿Cuánto vale?",
+  "exar": "كم ثمنه؟",
+  "e": ""
+ },
+ {
+  "es": "la acción",
+  "pos": "n",
+  "g": "f",
+  "ar": "فعل ، عمل ، سهم",
+  "ex": "Una buena acción.",
+  "exar": "عمل طيب.",
+  "e": ""
+ },
+ {
+  "es": "el arte",
+  "pos": "n",
+  "g": "m",
+  "ar": "فن",
+  "ex": "El arte español.",
+  "exar": "الفن الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "la condición",
+  "pos": "n",
+  "g": "f",
+  "ar": "شرط ، حالة",
+  "ex": "Buenas condiciones.",
+  "exar": "ظروف جيدة.",
+  "e": ""
+ },
+ {
+  "es": "conocer",
+  "pos": "v",
+  "g": "",
+  "ar": "عرف ، يعرف ، تعرّف على",
+  "ex": "Quiero conocer Madrid.",
+  "exar": "أريد أن أتعرف على مدريد.",
+  "e": ""
+ },
+ {
+  "es": "la noticia",
+  "pos": "n",
+  "g": "f",
+  "ar": "خبر",
+  "ex": "Una buena noticia.",
+  "exar": "خبر سار.",
+  "e": "📰"
+ },
+ {
+  "es": "la plaza",
+  "pos": "n",
+  "g": "f",
+  "ar": "ساحة ، مكان",
+  "ex": "La Plaza Mayor.",
+  "exar": "الساحة الكبرى.",
+  "e": ""
+ },
+ {
+  "es": "septiembre",
+  "pos": "n",
+  "g": "m",
+  "ar": "سبتمبر (أيلول)",
+  "ex": "El curso empieza en septiembre.",
+  "exar": "تبدأ الدراسة في سبتمبر.",
+  "e": ""
+ },
+ {
+  "es": "usar",
+  "pos": "v",
+  "g": "",
+  "ar": "استعمل ، يستعمل",
+  "ex": "Uso el móvil.",
+  "exar": "أستعمل الهاتف.",
+  "e": ""
+ },
+ {
+  "es": "el valor",
+  "pos": "n",
+  "g": "m",
+  "ar": "قيمة ، شجاعة",
+  "ex": "El valor del trabajo.",
+  "exar": "قيمة العمل.",
+  "e": ""
+ },
+ {
+  "es": "la calidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "جودة",
+  "ex": "Buena calidad.",
+  "exar": "جودة جيدة.",
+  "e": ""
+ },
+ {
+  "es": "la causa",
+  "pos": "n",
+  "g": "f",
+  "ar": "سبب ، قضية",
+  "ex": "La causa del problema.",
+  "exar": "سبب المشكلة.",
+  "e": ""
+ },
+ {
+  "es": "central",
+  "pos": "adj",
+  "g": "",
+  "ar": "مركزي",
+  "ex": "La estación central.",
+  "exar": "المحطة المركزية.",
+  "e": ""
+ },
+ {
+  "es": "el director",
+  "pos": "n",
+  "g": "m",
+  "ar": "مدير",
+  "ex": "El director del colegio.",
+  "exar": "مدير المدرسة.",
+  "e": ""
+ },
+ {
+  "es": "la duda",
+  "pos": "n",
+  "g": "f",
+  "ar": "شك",
+  "ex": "Sin duda.",
+  "exar": "بلا شك.",
+  "e": ""
+ },
+ {
+  "es": "la fecha",
+  "pos": "n",
+  "g": "f",
+  "ar": "تاريخ (يوم)",
+  "ex": "Fecha de nacimiento.",
+  "exar": "تاريخ الميلاد.",
+  "e": "📅"
+ },
+ {
+  "es": "feliz",
+  "pos": "adj",
+  "g": "",
+  "ar": "سعيد",
+  "ex": "Estoy muy feliz.",
+  "exar": "أنا سعيد جدًا.",
+  "e": "😊"
+ },
+ {
+  "es": "la iglesia",
+  "pos": "n",
+  "g": "f",
+  "ar": "كنيسة",
+  "ex": "Una iglesia antigua.",
+  "exar": "كنيسة قديمة.",
+  "e": "⛪"
+ },
+ {
+  "es": "necesario",
+  "pos": "adj",
+  "g": "",
+  "ar": "ضروري",
+  "ex": "Es necesario el pasaporte.",
+  "exar": "جواز السفر ضروري.",
+  "e": ""
+ },
+ {
+  "es": "pronto",
+  "pos": "adv",
+  "g": "",
+  "ar": "قريبًا ، مبكرًا",
+  "ex": "Hasta pronto.",
+  "exar": "إلى اللقاء قريبًا.",
+  "e": ""
+ },
+ {
+  "es": "cambiar",
+  "pos": "v",
+  "g": "",
+  "ar": "غيّر ، يغيّر",
+  "ex": "Quiero cambiar de trabajo.",
+  "exar": "أريد أن أغيّر عملي.",
+  "e": ""
+ },
+ {
+  "es": "civil",
+  "pos": "adj",
+  "g": "",
+  "ar": "مدني",
+  "ex": "Estado civil: casado.",
+  "exar": "الحالة المدنية: متزوج.",
+  "e": ""
+ },
+ {
+  "es": "el hermano",
+  "pos": "n",
+  "g": "m",
+  "ar": "أخ ؛ (la hermana) أخت",
+  "ex": "Mi hermano vive en Francia.",
+  "exar": "أخي يعيش في فرنسا.",
+  "e": ""
+ },
+ {
+  "es": "local",
+  "pos": "adj",
+  "g": "",
+  "ar": "محلي",
+  "ex": "Productos locales.",
+  "exar": "منتجات محلية.",
+  "e": ""
+ },
+ {
+  "es": "el mar",
+  "pos": "n",
+  "g": "m",
+  "ar": "بحر",
+  "ex": "Me gusta el mar.",
+  "exar": "أحب البحر.",
+  "e": "🌊"
+ },
+ {
+  "es": "el viaje",
+  "pos": "n",
+  "g": "m",
+  "ar": "سفر ، رحلة",
+  "ex": "¡Buen viaje!",
+  "exar": "رحلة سعيدة!",
+  "e": "🧳"
+ },
+ {
+  "es": "acerca de",
+  "pos": "expr",
+  "g": "",
+  "ar": "حول ، عن",
+  "ex": "Hablamos acerca del trabajo.",
+  "exar": "نتكلم عن العمل.",
+  "e": ""
+ },
+ {
+  "es": "acá",
+  "pos": "adv",
+  "g": "",
+  "ar": "هنا",
+  "ex": "Ven acá.",
+  "exar": "تعال هنا.",
+  "e": ""
+ },
+ {
+  "es": "alrededor",
+  "pos": "adv",
+  "g": "",
+  "ar": "حول ، تقريبًا",
+  "ex": "Alrededor de las diez.",
+  "exar": "حوالي الساعة العاشرة.",
+  "e": ""
+ },
+ {
+  "es": "la campaña",
+  "pos": "n",
+  "g": "f",
+  "ar": "حملة ، موسم",
+  "ex": "La campaña de la fresa.",
+  "exar": "موسم الفراولة.",
+  "e": ""
+ },
+ {
+  "es": "la carrera",
+  "pos": "n",
+  "g": "f",
+  "ar": "سباق ، دراسة جامعية",
+  "ex": "Estudio la carrera de Medicina.",
+  "exar": "أدرس تخصص الطب.",
+  "e": ""
+ },
+ {
+  "es": "el ejército",
+  "pos": "n",
+  "g": "m",
+  "ar": "جيش",
+  "ex": "El ejército español.",
+  "exar": "الجيش الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "encima",
+  "pos": "adv",
+  "g": "",
+  "ar": "فوق",
+  "ex": "Está encima de la mesa.",
+  "exar": "إنه فوق الطاولة.",
+  "e": ""
+ },
+ {
+  "es": "el interés",
+  "pos": "n",
+  "g": "m",
+  "ar": "اهتمام ، فائدة",
+  "ex": "Tengo interés en aprender.",
+  "exar": "عندي اهتمام بالتعلم.",
+  "e": ""
+ },
+ {
+  "es": "el mensaje",
+  "pos": "n",
+  "g": "m",
+  "ar": "رسالة",
+  "ex": "Te mando un mensaje.",
+  "exar": "أرسل لك رسالة.",
+  "e": "💬"
+ },
+ {
+  "es": "negro",
+  "pos": "adj",
+  "g": "",
+  "ar": "أسود",
+  "ex": "Un coche negro.",
+  "exar": "سيارة سوداء.",
+  "e": "⚫"
+ },
+ {
+  "es": "el objetivo",
+  "pos": "n",
+  "g": "m",
+  "ar": "هدف",
+  "ex": "Mi objetivo es trabajar.",
+  "exar": "هدفي هو العمل.",
+  "e": "🎯"
+ },
+ {
+  "es": "popular",
+  "pos": "adj",
+  "g": "",
+  "ar": "شعبي",
+  "ex": "Una fiesta popular.",
+  "exar": "احتفال شعبي.",
+  "e": ""
+ },
+ {
+  "es": "el principio",
+  "pos": "n",
+  "g": "m",
+  "ar": "بداية ، مبدأ",
+  "ex": "Al principio fue difícil.",
+  "exar": "في البداية كان صعبًا.",
+  "e": ""
+ },
+ {
+  "es": "la provincia",
+  "pos": "n",
+  "g": "f",
+  "ar": "محافظة ، إقليم",
+  "ex": "La provincia de Almería.",
+  "exar": "محافظة ألميريا.",
+  "e": ""
+ },
+ {
+  "es": "el recurso",
+  "pos": "n",
+  "g": "m",
+  "ar": "مورد ، طعن",
+  "ex": "Recursos económicos.",
+  "exar": "موارد مالية.",
+  "e": ""
+ },
+ {
+  "es": "la red",
+  "pos": "n",
+  "g": "f",
+  "ar": "شبكة",
+  "ex": "Redes sociales.",
+  "exar": "شبكات التواصل الاجتماعي.",
+  "e": ""
+ },
+ {
+  "es": "el río",
+  "pos": "n",
+  "g": "m",
+  "ar": "نهر",
+  "ex": "El río Ebro.",
+  "exar": "نهر إيبرو.",
+  "e": "🏞️"
+ },
+ {
+  "es": "aquel",
+  "pos": "det",
+  "g": "",
+  "ar": "ذلك (البعيد)",
+  "ex": "Aquel edificio.",
+  "exar": "ذلك المبنى.",
+  "e": ""
+ },
+ {
+  "es": "ayer",
+  "pos": "adv",
+  "g": "",
+  "ar": "أمس",
+  "ex": "Ayer llegué.",
+  "exar": "وصلت أمس.",
+  "e": ""
+ },
+ {
+  "es": "blanco",
+  "pos": "adj",
+  "g": "",
+  "ar": "أبيض",
+  "ex": "Una camisa blanca.",
+  "exar": "قميص أبيض.",
+  "e": "⚪"
+ },
+ {
+  "es": "comer",
+  "pos": "v",
+  "g": "",
+  "ar": "أكل ، يأكل",
+  "ex": "Comemos a las dos.",
+  "exar": "نأكل في الساعة الثانية.",
+  "e": "🍽️"
+ },
+ {
+  "es": "la compañía",
+  "pos": "n",
+  "g": "f",
+  "ar": "شركة ، صحبة",
+  "ex": "Una compañía de seguros.",
+  "exar": "شركة تأمين.",
+  "e": ""
+ },
+ {
+  "es": "especialmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "خصوصًا",
+  "ex": "Especialmente en verano.",
+  "exar": "خصوصًا في الصيف.",
+  "e": ""
+ },
+ {
+  "es": "ganar",
+  "pos": "v",
+  "g": "",
+  "ar": "ربح ، يربح ، كسب",
+  "ex": "Gano poco dinero.",
+  "exar": "أكسب مالًا قليلًا.",
+  "e": ""
+ },
+ {
+  "es": "interior",
+  "pos": "adj",
+  "g": "",
+  "ar": "داخلي",
+  "ex": "Ministerio del Interior.",
+  "exar": "وزارة الداخلية.",
+  "e": ""
+ },
+ {
+  "es": "la lucha",
+  "pos": "n",
+  "g": "f",
+  "ar": "نضال ، صراع",
+  "ex": "La lucha por la igualdad.",
+  "exar": "النضال من أجل المساواة.",
+  "e": ""
+ },
+ {
+  "es": "mediante",
+  "pos": "prep",
+  "g": "",
+  "ar": "بواسطة",
+  "ex": "Mediante un contrato.",
+  "exar": "بواسطة عقد.",
+  "e": ""
+ },
+ {
+  "es": "la nota",
+  "pos": "n",
+  "g": "f",
+  "ar": "ملاحظة ، علامة",
+  "ex": "Saqué buena nota.",
+  "exar": "حصلت على علامة جيدة.",
+  "e": ""
+ },
+ {
+  "es": "pequeño",
+  "pos": "adj",
+  "g": "",
+  "ar": "صغير",
+  "ex": "Un piso pequeño.",
+  "exar": "شقة صغيرة.",
+  "e": ""
+ },
+ {
+  "es": "la prueba",
+  "pos": "n",
+  "g": "f",
+  "ar": "اختبار ، دليل",
+  "ex": "Una prueba de nivel.",
+  "exar": "اختبار مستوى.",
+  "e": ""
+ },
+ {
+  "es": "el sol",
+  "pos": "n",
+  "g": "m",
+  "ar": "شمس",
+  "ex": "Hace sol.",
+  "exar": "الجو مشمس.",
+  "e": "☀️"
+ },
+ {
+  "es": "anterior",
+  "pos": "adj",
+  "g": "",
+  "ar": "سابق",
+  "ex": "El día anterior.",
+  "exar": "اليوم السابق.",
+  "e": ""
+ },
+ {
+  "es": "buscar",
+  "pos": "v",
+  "g": "",
+  "ar": "بحث ، يبحث",
+  "ex": "Busco piso.",
+  "exar": "أبحث عن شقة.",
+  "e": "🔍"
+ },
+ {
+  "es": "justo",
+  "pos": "adj",
+  "g": "",
+  "ar": "عادل ، بالضبط",
+  "ex": "Es justo.",
+  "exar": "هذا عادل.",
+  "e": ""
+ },
+ {
+  "es": "la medida",
+  "pos": "n",
+  "g": "f",
+  "ar": "إجراء ، مقاس",
+  "ex": "Una medida del gobierno.",
+  "exar": "إجراء من الحكومة.",
+  "e": ""
+ },
+ {
+  "es": "el éxito",
+  "pos": "n",
+  "g": "m",
+  "ar": "نجاح",
+  "ex": "¡Mucho éxito!",
+  "exar": "بالتوفيق!",
+  "e": ""
+ },
+ {
+  "es": "la actividad",
+  "pos": "n",
+  "g": "f",
+  "ar": "نشاط",
+  "ex": "Actividades para niños.",
+  "exar": "أنشطة للأطفال.",
+  "e": ""
+ },
+ {
+  "es": "adelante",
+  "pos": "adv",
+  "g": "",
+  "ar": "إلى الأمام ، تفضّل",
+  "ex": "¡Adelante!",
+  "exar": "تفضل!",
+  "e": ""
+ },
+ {
+  "es": "el aire",
+  "pos": "n",
+  "g": "m",
+  "ar": "هواء",
+  "ex": "Aire acondicionado.",
+  "exar": "مكيف هواء.",
+  "e": ""
+ },
+ {
+  "es": "arriba",
+  "pos": "adv",
+  "g": "",
+  "ar": "فوق ، أعلى",
+  "ex": "Vivo arriba.",
+  "exar": "أسكن في الأعلى.",
+  "e": "⬆️"
+ },
+ {
+  "es": "el autor",
+  "pos": "n",
+  "g": "m",
+  "ar": "مؤلف",
+  "ex": "El autor del libro.",
+  "exar": "مؤلف الكتاب.",
+  "e": ""
+ },
+ {
+  "es": "la diferencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "فرق",
+  "ex": "¿Cuál es la diferencia?",
+  "exar": "ما الفرق؟",
+  "e": ""
+ },
+ {
+  "es": "entrar",
+  "pos": "v",
+  "g": "",
+  "ar": "دخل ، يدخل",
+  "ex": "¿Puedo entrar?",
+  "exar": "هل يمكنني الدخول؟",
+  "e": ""
+ },
+ {
+  "es": "el estilo",
+  "pos": "n",
+  "g": "m",
+  "ar": "أسلوب ، طراز",
+  "ex": "Un estilo moderno.",
+  "exar": "طراز حديث.",
+  "e": ""
+ },
+ {
+  "es": "lejos",
+  "pos": "adv",
+  "g": "",
+  "ar": "بعيد",
+  "ex": "Vivo lejos.",
+  "exar": "أسكن بعيدًا.",
+  "e": ""
+ },
+ {
+  "es": "militar",
+  "pos": "adj",
+  "g": "",
+  "ar": "عسكري",
+  "ex": "Servicio militar.",
+  "exar": "خدمة عسكرية.",
+  "e": ""
+ },
+ {
+  "es": "la muestra",
+  "pos": "n",
+  "g": "f",
+  "ar": "عينة ، معرض",
+  "ex": "Una muestra de orina.",
+  "exar": "عينة بول.",
+  "e": ""
+ },
+ {
+  "es": "el oro",
+  "pos": "n",
+  "g": "m",
+  "ar": "ذهب",
+  "ex": "Un anillo de oro.",
+  "exar": "خاتم من ذهب.",
+  "e": ""
+ },
+ {
+  "es": "el par",
+  "pos": "n",
+  "g": "m",
+  "ar": "زوج",
+  "ex": "Un par de zapatos.",
+  "exar": "زوج من الأحذية.",
+  "e": ""
+ },
+ {
+  "es": "la plata",
+  "pos": "n",
+  "g": "f",
+  "ar": "فضة",
+  "ex": "Un collar de plata.",
+  "exar": "عقد من فضة.",
+  "e": ""
+ },
+ {
+  "es": "la puerta",
+  "pos": "n",
+  "g": "f",
+  "ar": "باب",
+  "ex": "Cierra la puerta.",
+  "exar": "أغلق الباب.",
+  "e": "🚪"
+ },
+ {
+  "es": "ayudar",
+  "pos": "v",
+  "g": "",
+  "ar": "ساعد ، يساعد",
+  "ex": "¿Me puedes ayudar?",
+  "exar": "هل يمكنك مساعدتي؟",
+  "e": ""
+ },
+ {
+  "es": "la canción",
+  "pos": "n",
+  "g": "f",
+  "ar": "أغنية",
+  "ex": "Una canción bonita.",
+  "exar": "أغنية جميلة.",
+  "e": "🎶"
+ },
+ {
+  "es": "el color",
+  "pos": "n",
+  "g": "m",
+  "ar": "لون",
+  "ex": "¿De qué color?",
+  "exar": "ما اللون؟",
+  "e": "🎨"
+ },
+ {
+  "es": "contigo",
+  "pos": "pron",
+  "g": "",
+  "ar": "معك",
+  "ex": "Voy contigo.",
+  "exar": "أذهب معك.",
+  "e": ""
+ },
+ {
+  "es": "la defensa",
+  "pos": "n",
+  "g": "f",
+  "ar": "دفاع",
+  "ex": "Defensa personal.",
+  "exar": "دفاع عن النفس.",
+  "e": ""
+ },
+ {
+  "es": "el dólar",
+  "pos": "n",
+  "g": "m",
+  "ar": "دولار",
+  "ex": "Diez dólares.",
+  "exar": "عشرة دولارات.",
+  "e": "💵"
+ },
+ {
+  "es": "el fondo",
+  "pos": "n",
+  "g": "m",
+  "ar": "قاع ، خلفية ، صندوق",
+  "ex": "Al fondo a la derecha.",
+  "exar": "في الآخر على اليمين.",
+  "e": ""
+ },
+ {
+  "es": "el fútbol",
+  "pos": "n",
+  "g": "m",
+  "ar": "كرة القدم",
+  "ex": "Juego al fútbol.",
+  "exar": "ألعب كرة القدم.",
+  "e": "⚽"
+ },
+ {
+  "es": "humano",
+  "pos": "adj",
+  "g": "",
+  "ar": "إنساني ، بشري",
+  "ex": "Derechos humanos.",
+  "exar": "حقوق الإنسان.",
+  "e": ""
+ },
+ {
+  "es": "menor",
+  "pos": "adj",
+  "g": "",
+  "ar": "أصغر ، قاصر",
+  "ex": "Mi hermano menor.",
+  "exar": "أخي الأصغر.",
+  "e": ""
+ },
+ {
+  "es": "el ministerio",
+  "pos": "n",
+  "g": "m",
+  "ar": "وزارة",
+  "ex": "El Ministerio de Trabajo.",
+  "exar": "وزارة العمل.",
+  "e": ""
+ },
+ {
+  "es": "el puerto",
+  "pos": "n",
+  "g": "m",
+  "ar": "ميناء",
+  "ex": "El puerto de Algeciras.",
+  "exar": "ميناء الجزيرة الخضراء.",
+  "e": "⚓"
+ },
+ {
+  "es": "el recuerdo",
+  "pos": "n",
+  "g": "m",
+  "ar": "ذكرى",
+  "ex": "Un buen recuerdo.",
+  "exar": "ذكرى جميلة.",
+  "e": ""
+ },
+ {
+  "es": "el acceso",
+  "pos": "n",
+  "g": "m",
+  "ar": "دخول ، وصول",
+  "ex": "Acceso a internet.",
+  "exar": "الوصول إلى الإنترنت.",
+  "e": ""
+ },
+ {
+  "es": "el arma",
+  "pos": "n",
+  "g": "f",
+  "ar": "سلاح",
+  "ex": "Está prohibido llevar armas.",
+  "exar": "يُمنع حمل السلاح.",
+  "e": ""
+ },
+ {
+  "es": "la comunicación",
+  "pos": "n",
+  "g": "f",
+  "ar": "تواصل ، اتصال",
+  "ex": "La comunicación es importante.",
+  "exar": "التواصل مهم.",
+  "e": ""
+ },
+ {
+  "es": "el congreso",
+  "pos": "n",
+  "g": "m",
+  "ar": "مجلس النواب ، مؤتمر",
+  "ex": "El Congreso de los Diputados.",
+  "exar": "مجلس النواب.",
+  "e": ""
+ },
+ {
+  "es": "evitar",
+  "pos": "v",
+  "g": "",
+  "ar": "تجنّب ، يتجنّب",
+  "ex": "Evita el sol.",
+  "exar": "تجنب الشمس.",
+  "e": ""
+ },
+ {
+  "es": "finalmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "أخيرًا",
+  "ex": "Finalmente llegamos.",
+  "exar": "وصلنا أخيرًا.",
+  "e": ""
+ },
+ {
+  "es": "la fuente",
+  "pos": "n",
+  "g": "f",
+  "ar": "نافورة ، مصدر",
+  "ex": "Una fuente de agua.",
+  "exar": "نافورة ماء.",
+  "e": "⛲"
+ },
+ {
+  "es": "jugar",
+  "pos": "v",
+  "g": "",
+  "ar": "لعب ، يلعب",
+  "ex": "Los niños juegan.",
+  "exar": "الأطفال يلعبون.",
+  "e": ""
+ },
+ {
+  "es": "el ministro",
+  "pos": "n",
+  "g": "m",
+  "ar": "وزير",
+  "ex": "El ministro de Trabajo.",
+  "exar": "وزير العمل.",
+  "e": ""
+ },
+ {
+  "es": "el producto",
+  "pos": "n",
+  "g": "m",
+  "ar": "منتج",
+  "ex": "Productos frescos.",
+  "exar": "منتجات طازجة.",
+  "e": ""
+ },
+ {
+  "es": "ni siquiera",
+  "pos": "expr",
+  "g": "",
+  "ar": "ولا حتى",
+  "ex": "Ni siquiera me llamó.",
+  "exar": "لم يتصل بي حتى.",
+  "e": ""
+ },
+ {
+  "es": "la época",
+  "pos": "n",
+  "g": "f",
+  "ar": "عصر ، فترة",
+  "ex": "En esa época.",
+  "exar": "في تلك الفترة.",
+  "e": ""
+ },
+ {
+  "es": "el banco",
+  "pos": "n",
+  "g": "m",
+  "ar": "بنك ، مقعد",
+  "ex": "Abrir una cuenta en el banco.",
+  "exar": "فتح حساب في البنك.",
+  "e": "🏦"
+ },
+ {
+  "es": "conocido",
+  "pos": "adj",
+  "g": "",
+  "ar": "معروف",
+  "ex": "Un lugar conocido.",
+  "exar": "مكان معروف.",
+  "e": ""
+ },
+ {
+  "es": "conseguir",
+  "pos": "v",
+  "g": "",
+  "ar": "حصل ، يحصل على",
+  "ex": "Conseguí trabajo.",
+  "exar": "حصلت على عمل.",
+  "e": ""
+ },
+ {
+  "es": "la construcción",
+  "pos": "n",
+  "g": "f",
+  "ar": "بناء",
+  "ex": "Trabajo en la construcción.",
+  "exar": "أعمل في البناء.",
+  "e": "🏗️"
+ },
+ {
+  "es": "la corte",
+  "pos": "n",
+  "g": "f",
+  "ar": "محكمة ، بلاط",
+  "ex": "La corte de justicia.",
+  "exar": "محكمة العدل.",
+  "e": ""
+ },
+ {
+  "es": "el departamento",
+  "pos": "n",
+  "g": "m",
+  "ar": "قسم",
+  "ex": "El departamento de ventas.",
+  "exar": "قسم المبيعات.",
+  "e": ""
+ },
+ {
+  "es": "diez",
+  "pos": "num",
+  "g": "",
+  "ar": "عشرة",
+  "ex": "Tengo diez años.",
+  "exar": "عمري عشر سنوات.",
+  "e": "🔟"
+ },
+ {
+  "es": "la mitad",
+  "pos": "n",
+  "g": "f",
+  "ar": "نصف",
+  "ex": "La mitad del pan.",
+  "exar": "نصف الخبز.",
+  "e": ""
+ },
+ {
+  "es": "la oficina",
+  "pos": "n",
+  "g": "f",
+  "ar": "مكتب",
+  "ex": "La oficina abre a las nueve.",
+  "exar": "يفتح المكتب في التاسعة.",
+  "e": ""
+ },
+ {
+  "es": "presente",
+  "pos": "adj",
+  "g": "",
+  "ar": "حاضر",
+  "ex": "¡Presente!",
+  "exar": "حاضر!",
+  "e": ""
+ },
+ {
+  "es": "el sector",
+  "pos": "n",
+  "g": "m",
+  "ar": "قطاع",
+  "ex": "El sector agrícola.",
+  "exar": "القطاع الزراعي.",
+  "e": ""
+ },
+ {
+  "es": "serio",
+  "pos": "adj",
+  "g": "",
+  "ar": "جدّي",
+  "ex": "Es un hombre serio.",
+  "exar": "إنه رجل جدّي.",
+  "e": ""
+ },
+ {
+  "es": "superior",
+  "pos": "adj",
+  "g": "",
+  "ar": "أعلى ، عالٍ",
+  "ex": "Educación superior.",
+  "exar": "التعليم العالي.",
+  "e": ""
+ },
+ {
+  "es": "por supuesto",
+  "pos": "expr",
+  "g": "",
+  "ar": "طبعًا",
+  "ex": "¡Por supuesto!",
+  "exar": "طبعًا!",
+  "e": ""
+ },
+ {
+  "es": "la boca",
+  "pos": "n",
+  "g": "f",
+  "ar": "فم",
+  "ex": "Abre la boca.",
+  "exar": "افتح فمك.",
+  "e": "👄"
+ },
+ {
+  "es": "la capacidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "قدرة ، سعة",
+  "ex": "Capacidad de trabajo.",
+  "exar": "القدرة على العمل.",
+  "e": ""
+ },
+ {
+  "es": "comprar",
+  "pos": "v",
+  "g": "",
+  "ar": "اشترى ، يشتري",
+  "ex": "Quiero comprar un coche.",
+  "exar": "أريد شراء سيارة.",
+  "e": ""
+ },
+ {
+  "es": "crear",
+  "pos": "v",
+  "g": "",
+  "ar": "أنشأ ، ينشئ",
+  "ex": "Crear una empresa.",
+  "exar": "إنشاء شركة.",
+  "e": ""
+ },
+ {
+  "es": "la energía",
+  "pos": "n",
+  "g": "f",
+  "ar": "طاقة",
+  "ex": "Energía solar.",
+  "exar": "طاقة شمسية.",
+  "e": "⚡"
+ },
+ {
+  "es": "malo",
+  "pos": "adj",
+  "g": "",
+  "ar": "سيئ",
+  "ex": "Un mal día.",
+  "exar": "يوم سيئ.",
+  "e": ""
+ },
+ {
+  "es": "mantener",
+  "pos": "v",
+  "g": "",
+  "ar": "حافظ ، يحافظ ، أعال",
+  "ex": "Mantener a la familia.",
+  "exar": "إعالة العائلة.",
+  "e": ""
+ },
+ {
+  "es": "el modelo",
+  "pos": "n",
+  "g": "m",
+  "ar": "نموذج ، طراز",
+  "ex": "Un modelo nuevo.",
+  "exar": "طراز جديد.",
+  "e": ""
+ },
+ {
+  "es": "natural",
+  "pos": "adj",
+  "g": "",
+  "ar": "طبيعي",
+  "ex": "Zumo natural.",
+  "exar": "عصير طبيعي.",
+  "e": ""
+ },
+ {
+  "es": "la necesidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "حاجة",
+  "ex": "Necesidades básicas.",
+  "exar": "الحاجات الأساسية.",
+  "e": ""
+ },
+ {
+  "es": "la radio",
+  "pos": "n",
+  "g": "f",
+  "ar": "راديو",
+  "ex": "Escucho la radio.",
+  "exar": "أستمع إلى الراديو.",
+  "e": "📻"
+ },
+ {
+  "es": "el trabajador",
+  "pos": "n",
+  "g": "m",
+  "ar": "عامل",
+  "ex": "Los trabajadores del campo.",
+  "exar": "عمال الحقول.",
+  "e": "👷"
+ },
+ {
+  "es": "viejo",
+  "pos": "adj",
+  "g": "",
+  "ar": "قديم ، عجوز",
+  "ex": "Un coche viejo.",
+  "exar": "سيارة قديمة.",
+  "e": ""
+ },
+ {
+  "es": "la administración",
+  "pos": "n",
+  "g": "f",
+  "ar": "إدارة",
+  "ex": "La administración pública.",
+  "exar": "الإدارة العامة.",
+  "e": ""
+ },
+ {
+  "es": "la comisión",
+  "pos": "n",
+  "g": "f",
+  "ar": "لجنة ، عمولة",
+  "ex": "La Comisión Europea.",
+  "exar": "المفوضية الأوروبية.",
+  "e": ""
+ },
+ {
+  "es": "conmigo",
+  "pos": "pron",
+  "g": "",
+  "ar": "معي",
+  "ex": "¿Vienes conmigo?",
+  "exar": "هل تأتي معي؟",
+  "e": ""
+ },
+ {
+  "es": "la costa",
+  "pos": "n",
+  "g": "f",
+  "ar": "ساحل",
+  "ex": "La costa mediterránea.",
+  "exar": "الساحل المتوسطي.",
+  "e": ""
+ },
+ {
+  "es": "la crisis",
+  "pos": "n",
+  "g": "f",
+  "ar": "أزمة",
+  "ex": "La crisis económica.",
+  "exar": "الأزمة الاقتصادية.",
+  "e": ""
+ },
+ {
+  "es": "la culpa",
+  "pos": "n",
+  "g": "f",
+  "ar": "ذنب ، خطأ",
+  "ex": "No es mi culpa.",
+  "exar": "ليس ذنبي.",
+  "e": ""
+ },
+ {
+  "es": "la cámara",
+  "pos": "n",
+  "g": "f",
+  "ar": "كاميرا ، غرفة",
+  "ex": "Una cámara de fotos.",
+  "exar": "كاميرا تصوير.",
+  "e": "📷"
+ },
+ {
+  "es": "el diario",
+  "pos": "n",
+  "g": "m",
+  "ar": "صحيفة يومية ، يوميات",
+  "ex": "Leo el diario.",
+  "exar": "أقرأ الجريدة.",
+  "e": ""
+ },
+ {
+  "es": "el domingo",
+  "pos": "n",
+  "g": "m",
+  "ar": "الأحد",
+  "ex": "El domingo descanso.",
+  "exar": "أرتاح يوم الأحد.",
+  "e": ""
+ },
+ {
+  "es": "empezar",
+  "pos": "v",
+  "g": "",
+  "ar": "بدأ ، يبدأ",
+  "ex": "Empiezo a trabajar mañana.",
+  "exar": "أبدأ العمل غدًا.",
+  "e": ""
+ },
+ {
+  "es": "el fuego",
+  "pos": "n",
+  "g": "m",
+  "ar": "نار",
+  "ex": "Cuidado con el fuego.",
+  "exar": "احذر من النار.",
+  "e": "🔥"
+ },
+ {
+  "es": "perder",
+  "pos": "v",
+  "g": "",
+  "ar": "خسر ، يخسر ، أضاع",
+  "ex": "Perdí las llaves.",
+  "exar": "أضعت المفاتيح.",
+  "e": ""
+ },
+ {
+  "es": "la posición",
+  "pos": "n",
+  "g": "f",
+  "ar": "موقع ، وضعية",
+  "ex": "Una buena posición.",
+  "exar": "موقع جيد.",
+  "e": ""
+ },
+ {
+  "es": "suficiente",
+  "pos": "adj",
+  "g": "",
+  "ar": "كافٍ",
+  "ex": "No es suficiente.",
+  "exar": "هذا غير كافٍ.",
+  "e": ""
+ },
+ {
+  "es": "el título",
+  "pos": "n",
+  "g": "m",
+  "ar": "عنوان ، شهادة",
+  "ex": "Título universitario.",
+  "exar": "شهادة جامعية.",
+  "e": ""
+ },
+ {
+  "es": "actualmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "حاليًا",
+  "ex": "Actualmente trabajo aquí.",
+  "exar": "أعمل هنا حاليًا.",
+  "e": ""
+ },
+ {
+  "es": "la llamada",
+  "pos": "n",
+  "g": "f",
+  "ar": "مكالمة",
+  "ex": "Una llamada de teléfono.",
+  "exar": "مكالمة هاتفية.",
+  "e": "📞"
+ },
+ {
+  "es": "la mamá",
+  "pos": "n",
+  "g": "f",
+  "ar": "ماما",
+  "ex": "Te quiero, mamá.",
+  "exar": "أحبك يا ماما.",
+  "e": ""
+ },
+ {
+  "es": "la participación",
+  "pos": "n",
+  "g": "f",
+  "ar": "مشاركة",
+  "ex": "La participación es importante.",
+  "exar": "المشاركة مهمة.",
+  "e": ""
+ },
+ {
+  "es": "la sangre",
+  "pos": "n",
+  "g": "f",
+  "ar": "دم",
+  "ex": "Análisis de sangre.",
+  "exar": "تحليل دم.",
+  "e": "🩸"
+ },
+ {
+  "es": "la violencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "عنف",
+  "ex": "No a la violencia.",
+  "exar": "لا للعنف.",
+  "e": ""
+ },
+ {
+  "es": "el auto",
+  "pos": "n",
+  "g": "m",
+  "ar": "سيارة",
+  "ex": "Un auto nuevo.",
+  "exar": "سيارة جديدة.",
+  "e": ""
+ },
+ {
+  "es": "la carta",
+  "pos": "n",
+  "g": "f",
+  "ar": "رسالة ، قائمة طعام",
+  "ex": "La carta, por favor.",
+  "exar": "قائمة الطعام من فضلك.",
+  "e": "✉️"
+ },
+ {
+  "es": "el ciudadano",
+  "pos": "n",
+  "g": "m",
+  "ar": "مواطن",
+  "ex": "Un ciudadano español.",
+  "exar": "مواطن إسباني.",
+  "e": ""
+ },
+ {
+  "es": "cuál",
+  "pos": "pron",
+  "g": "",
+  "ar": "أيّ ، ما",
+  "ex": "¿Cuál prefieres?",
+  "exar": "أيهما تفضل؟",
+  "e": ""
+ },
+ {
+  "es": "probablemente",
+  "pos": "adv",
+  "g": "",
+  "ar": "على الأرجح",
+  "ex": "Probablemente llueva.",
+  "exar": "على الأرجح ستمطر.",
+  "e": ""
+ },
+ {
+  "es": "rápido",
+  "pos": "adj",
+  "g": "",
+  "ar": "سريع",
+  "ex": "Un tren rápido.",
+  "exar": "قطار سريع.",
+  "e": ""
+ },
+ {
+  "es": "solamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "فقط",
+  "ex": "Solamente un poco.",
+  "exar": "قليلًا فقط.",
+  "e": ""
+ },
+ {
+  "es": "el área",
+  "pos": "n",
+  "g": "f",
+  "ar": "منطقة ، مساحة",
+  "ex": "El área de servicio.",
+  "exar": "منطقة الخدمات.",
+  "e": ""
+ },
+ {
+  "es": "la banda",
+  "pos": "n",
+  "g": "f",
+  "ar": "فرقة ، عصابة ، شريط",
+  "ex": "Una banda de música.",
+  "exar": "فرقة موسيقية.",
+  "e": ""
+ },
+ {
+  "es": "el colegio",
+  "pos": "n",
+  "g": "m",
+  "ar": "مدرسة",
+  "ex": "Mis hijos van al colegio.",
+  "exar": "أولادي يذهبون إلى المدرسة.",
+  "e": ""
+ },
+ {
+  "es": "el contenido",
+  "pos": "n",
+  "g": "m",
+  "ar": "محتوى",
+  "ex": "El contenido del paquete.",
+  "exar": "محتوى الطرد.",
+  "e": ""
+ },
+ {
+  "es": "la decisión",
+  "pos": "n",
+  "g": "f",
+  "ar": "قرار",
+  "ex": "Una decisión difícil.",
+  "exar": "قرار صعب.",
+  "e": ""
+ },
+ {
+  "es": "el encuentro",
+  "pos": "n",
+  "g": "m",
+  "ar": "لقاء",
+  "ex": "Un encuentro de amigos.",
+  "exar": "لقاء أصدقاء.",
+  "e": ""
+ },
+ {
+  "es": "la entrada",
+  "pos": "n",
+  "g": "f",
+  "ar": "مدخل ، تذكرة",
+  "ex": "Compré dos entradas.",
+  "exar": "اشتريت تذكرتين.",
+  "e": "🎟️"
+ },
+ {
+  "es": "la fiesta",
+  "pos": "n",
+  "g": "f",
+  "ar": "حفلة ، عيد",
+  "ex": "Una fiesta de cumpleaños.",
+  "exar": "حفلة عيد ميلاد.",
+  "e": "🎉"
+ },
+ {
+  "es": "imposible",
+  "pos": "adj",
+  "g": "",
+  "ar": "مستحيل",
+  "ex": "Es imposible.",
+  "exar": "إنه مستحيل.",
+  "e": ""
+ },
+ {
+  "es": "pagar",
+  "pos": "v",
+  "g": "",
+  "ar": "دفع ، يدفع",
+  "ex": "Pago el alquiler.",
+  "exar": "أدفع الإيجار.",
+  "e": ""
+ },
+ {
+  "es": "permitir",
+  "pos": "v",
+  "g": "",
+  "ar": "سمح ، يسمح",
+  "ex": "No está permitido fumar.",
+  "exar": "التدخين غير مسموح.",
+  "e": ""
+ },
+ {
+  "es": "la televisión",
+  "pos": "n",
+  "g": "f",
+  "ar": "تلفاز",
+  "ex": "Veo la televisión.",
+  "exar": "أشاهد التلفاز.",
+  "e": "📺"
+ },
+ {
+  "es": "la unión",
+  "pos": "n",
+  "g": "f",
+  "ar": "اتحاد",
+  "ex": "La unión hace la fuerza.",
+  "exar": "الاتحاد قوة.",
+  "e": ""
+ },
+ {
+  "es": "la vía",
+  "pos": "n",
+  "g": "f",
+  "ar": "طريق ، سكة",
+  "ex": "Vía rápida.",
+  "exar": "طريق سريع.",
+  "e": ""
+ },
+ {
+  "es": "abajo",
+  "pos": "adv",
+  "g": "",
+  "ar": "تحت ، أسفل",
+  "ex": "Te espero abajo.",
+  "exar": "أنتظرك في الأسفل.",
+  "e": "⬇️"
+ },
+ {
+  "es": "atrás",
+  "pos": "adv",
+  "g": "",
+  "ar": "خلف ، وراء",
+  "ex": "Mira atrás.",
+  "exar": "انظر إلى الخلف.",
+  "e": ""
+ },
+ {
+  "es": "capaz",
+  "pos": "adj",
+  "g": "",
+  "ar": "قادر",
+  "ex": "Soy capaz de hacerlo.",
+  "exar": "أنا قادر على فعله.",
+  "e": ""
+ },
+ {
+  "es": "el club",
+  "pos": "n",
+  "g": "m",
+  "ar": "نادٍ",
+  "ex": "Un club de fútbol.",
+  "exar": "نادي كرة قدم.",
+  "e": ""
+ },
+ {
+  "es": "el comentario",
+  "pos": "n",
+  "g": "m",
+  "ar": "تعليق",
+  "ex": "Deja un comentario.",
+  "exar": "اترك تعليقًا.",
+  "e": ""
+ },
+ {
+  "es": "el error",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطأ",
+  "ex": "Es un error.",
+  "exar": "إنه خطأ.",
+  "e": "❌"
+ },
+ {
+  "es": "el gusto",
+  "pos": "n",
+  "g": "m",
+  "ar": "ذوق ، متعة",
+  "ex": "Mucho gusto.",
+  "exar": "تشرفت بمعرفتك.",
+  "e": ""
+ },
+ {
+  "es": "normal",
+  "pos": "adj",
+  "g": "",
+  "ar": "عادي ، طبيعي",
+  "ex": "Es normal.",
+  "exar": "هذا طبيعي.",
+  "e": ""
+ },
+ {
+  "es": "el sexo",
+  "pos": "n",
+  "g": "m",
+  "ar": "جنس (ذكر أو أنثى)",
+  "ex": "Sexo: hombre o mujer.",
+  "exar": "الجنس: ذكر أو أنثى.",
+  "e": ""
+ },
+ {
+  "es": "siete",
+  "pos": "num",
+  "g": "",
+  "ar": "سبعة",
+  "ex": "Siete días.",
+  "exar": "سبعة أيام.",
+  "e": "7️⃣"
+ },
+ {
+  "es": "el texto",
+  "pos": "n",
+  "g": "m",
+  "ar": "نص",
+  "ex": "Lee el texto.",
+  "exar": "اقرأ النص.",
+  "e": ""
+ },
+ {
+  "es": "el análisis",
+  "pos": "n",
+  "g": "m",
+  "ar": "تحليل",
+  "ex": "Análisis de orina.",
+  "exar": "تحليل بول.",
+  "e": ""
+ },
+ {
+  "es": "apenas",
+  "pos": "adv",
+  "g": "",
+  "ar": "بالكاد",
+  "ex": "Apenas como.",
+  "exar": "بالكاد آكل.",
+  "e": ""
+ },
+ {
+  "es": "el chico",
+  "pos": "n",
+  "g": "m",
+  "ar": "فتى ، شاب ؛ (la chica) فتاة",
+  "ex": "Los chicos juegan al fútbol.",
+  "exar": "الشباب يلعبون كرة القدم.",
+  "e": ""
+ },
+ {
+  "es": "la constitución",
+  "pos": "n",
+  "g": "f",
+  "ar": "دستور",
+  "ex": "La Constitución española.",
+  "exar": "الدستور الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "contrario",
+  "pos": "adj",
+  "g": "",
+  "ar": "معاكس ، مضاد",
+  "ex": "Al contrario.",
+  "exar": "على العكس.",
+  "e": ""
+ },
+ {
+  "es": "el código",
+  "pos": "n",
+  "g": "m",
+  "ar": "رمز ، قانون",
+  "ex": "Código postal.",
+  "exar": "الرمز البريدي.",
+  "e": ""
+ },
+ {
+  "es": "el dolor",
+  "pos": "n",
+  "g": "m",
+  "ar": "ألم",
+  "ex": "Dolor de cabeza.",
+  "exar": "صداع.",
+  "e": "🤕"
+ },
+ {
+  "es": "el efecto",
+  "pos": "n",
+  "g": "m",
+  "ar": "تأثير",
+  "ex": "Efectos secundarios.",
+  "exar": "آثار جانبية.",
+  "e": ""
+ },
+ {
+  "es": "la isla",
+  "pos": "n",
+  "g": "f",
+  "ar": "جزيرة",
+  "ex": "Las Islas Canarias.",
+  "exar": "جزر الكناري.",
+  "e": "🏝️"
+ },
+ {
+  "es": "la izquierda",
+  "pos": "n",
+  "g": "f",
+  "ar": "يسار",
+  "ex": "A la izquierda.",
+  "exar": "على اليسار.",
+  "e": "⬅️"
+ },
+ {
+  "es": "la mente",
+  "pos": "n",
+  "g": "f",
+  "ar": "عقل ، ذهن",
+  "ex": "Mente abierta.",
+  "exar": "عقل منفتح.",
+  "e": ""
+ },
+ {
+  "es": "el odio",
+  "pos": "n",
+  "g": "m",
+  "ar": "كراهية",
+  "ex": "No al odio.",
+  "exar": "لا للكراهية.",
+  "e": ""
+ },
+ {
+  "es": "la presencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "حضور ، وجود",
+  "ex": "Su presencia es importante.",
+  "exar": "حضوره مهم.",
+  "e": ""
+ },
+ {
+  "es": "el profesor",
+  "pos": "n",
+  "g": "m",
+  "ar": "أستاذ ، مدرّس",
+  "ex": "Mi profesor de español.",
+  "exar": "أستاذ الإسبانية عندي.",
+  "e": "👨‍🏫"
+ },
+ {
+  "es": "quizás",
+  "pos": "adv",
+  "g": "",
+  "ar": "ربما",
+  "ex": "Quizás mañana.",
+  "exar": "ربما غدًا.",
+  "e": ""
+ },
+ {
+  "es": "el respeto",
+  "pos": "n",
+  "g": "m",
+  "ar": "احترام",
+  "ex": "Respeto a los mayores.",
+  "exar": "احترام الكبار.",
+  "e": ""
+ },
+ {
+  "es": "la ropa",
+  "pos": "n",
+  "g": "f",
+  "ar": "ملابس",
+  "ex": "Lavar la ropa.",
+  "exar": "غسل الملابس.",
+  "e": "👕"
+ },
+ {
+  "es": "totalmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "تمامًا",
+  "ex": "Totalmente de acuerdo.",
+  "exar": "موافق تمامًا.",
+  "e": ""
+ },
+ {
+  "es": "la versión",
+  "pos": "n",
+  "g": "f",
+  "ar": "نسخة",
+  "ex": "Versión en árabe.",
+  "exar": "النسخة العربية.",
+  "e": ""
+ },
+ {
+  "es": "el cielo",
+  "pos": "n",
+  "g": "m",
+  "ar": "سماء",
+  "ex": "Mira el cielo.",
+  "exar": "انظر إلى السماء.",
+  "e": ""
+ },
+ {
+  "es": "el cine",
+  "pos": "n",
+  "g": "m",
+  "ar": "سينما",
+  "ex": "Vamos al cine.",
+  "exar": "لنذهب إلى السينما.",
+  "e": "🎬"
+ },
+ {
+  "es": "la cuestión",
+  "pos": "n",
+  "g": "f",
+  "ar": "مسألة",
+  "ex": "Es cuestión de tiempo.",
+  "exar": "إنها مسألة وقت.",
+  "e": ""
+ },
+ {
+  "es": "escribir",
+  "pos": "v",
+  "g": "",
+  "ar": "كتب ، يكتب",
+  "ex": "Escribo una carta.",
+  "exar": "أكتب رسالة.",
+  "e": ""
+ },
+ {
+  "es": "la formación",
+  "pos": "n",
+  "g": "f",
+  "ar": "تكوين ، تدريب",
+  "ex": "Curso de formación.",
+  "exar": "دورة تكوينية.",
+  "e": ""
+ },
+ {
+  "es": "la importancia",
+  "pos": "n",
+  "g": "f",
+  "ar": "أهمية",
+  "ex": "Tiene mucha importancia.",
+  "exar": "له أهمية كبيرة.",
+  "e": ""
+ },
+ {
+  "es": "la industria",
+  "pos": "n",
+  "g": "f",
+  "ar": "صناعة",
+  "ex": "La industria del automóvil.",
+  "exar": "صناعة السيارات.",
+  "e": "🏭"
+ },
+ {
+  "es": "el instituto",
+  "pos": "n",
+  "g": "m",
+  "ar": "معهد ، مدرسة ثانوية",
+  "ex": "Mi hija va al instituto.",
+  "exar": "ابنتي تذهب إلى المدرسة الثانوية.",
+  "e": ""
+ },
+ {
+  "es": "loco",
+  "pos": "adj",
+  "g": "",
+  "ar": "مجنون",
+  "ex": "¿Estás loco?",
+  "exar": "هل أنت مجنون؟",
+  "e": ""
+ },
+ {
+  "es": "el origen",
+  "pos": "n",
+  "g": "m",
+  "ar": "أصل",
+  "ex": "País de origen.",
+  "exar": "بلد المنشأ.",
+  "e": ""
+ },
+ {
+  "es": "el premio",
+  "pos": "n",
+  "g": "m",
+  "ar": "جائزة",
+  "ex": "Ganó un premio.",
+  "exar": "فاز بجائزة.",
+  "e": "🏆"
+ },
+ {
+  "es": "rico",
+  "pos": "adj",
+  "g": "",
+  "ar": "غني ، لذيذ",
+  "ex": "La comida está rica.",
+  "exar": "الطعام لذيذ.",
+  "e": ""
+ },
+ {
+  "es": "simple",
+  "pos": "adj",
+  "g": "",
+  "ar": "بسيط",
+  "ex": "Es muy simple.",
+  "exar": "إنه بسيط جدًا.",
+  "e": ""
+ },
+ {
+  "es": "la unidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "وحدة",
+  "ex": "Unidad de Cuidados Intensivos.",
+  "exar": "وحدة العناية المركزة.",
+  "e": ""
+ },
+ {
+  "es": "el vino",
+  "pos": "n",
+  "g": "m",
+  "ar": "نبيذ",
+  "ex": "Vino tinto.",
+  "exar": "نبيذ أحمر.",
+  "e": "🍷"
+ },
+ {
+  "es": "el canal",
+  "pos": "n",
+  "g": "m",
+  "ar": "قناة",
+  "ex": "Cambia de canal.",
+  "exar": "غيّر القناة.",
+  "e": ""
+ },
+ {
+  "es": "cultural",
+  "pos": "adj",
+  "g": "",
+  "ar": "ثقافي",
+  "ex": "Centro cultural.",
+  "exar": "مركز ثقافي.",
+  "e": ""
+ },
+ {
+  "es": "la derecha",
+  "pos": "n",
+  "g": "f",
+  "ar": "يمين",
+  "ex": "Gira a la derecha.",
+  "exar": "انعطف إلى اليمين.",
+  "e": "➡️"
+ },
+ {
+  "es": "económico",
+  "pos": "adj",
+  "g": "",
+  "ar": "اقتصادي ، رخيص",
+  "ex": "Un piso económico.",
+  "exar": "شقة رخيصة.",
+  "e": ""
+ },
+ {
+  "es": "interesante",
+  "pos": "adj",
+  "g": "",
+  "ar": "مثير للاهتمام",
+  "ex": "Un libro interesante.",
+  "exar": "كتاب مثير للاهتمام.",
+  "e": ""
+ },
+ {
+  "es": "jamás",
+  "pos": "adv",
+  "g": "",
+  "ar": "أبدًا",
+  "ex": "Jamás lo olvidaré.",
+  "exar": "لن أنساه أبدًا.",
+  "e": ""
+ },
+ {
+  "es": "el juicio",
+  "pos": "n",
+  "g": "m",
+  "ar": "محاكمة ، حكم",
+  "ex": "El juicio es mañana.",
+  "exar": "المحاكمة غدًا.",
+  "e": ""
+ },
+ {
+  "es": "original",
+  "pos": "adj",
+  "g": "",
+  "ar": "أصلي",
+  "ex": "El documento original.",
+  "exar": "الوثيقة الأصلية.",
+  "e": ""
+ },
+ {
+  "es": "el peso",
+  "pos": "n",
+  "g": "m",
+  "ar": "وزن",
+  "ex": "¿Cuál es tu peso?",
+  "exar": "كم وزنك؟",
+  "e": ""
+ },
+ {
+  "es": "pobre",
+  "pos": "adj",
+  "g": "",
+  "ar": "فقير ، مسكين",
+  "ex": "Una familia pobre.",
+  "exar": "عائلة فقيرة.",
+  "e": ""
+ },
+ {
+  "es": "la prensa",
+  "pos": "n",
+  "g": "f",
+  "ar": "صحافة",
+  "ex": "La prensa española.",
+  "exar": "الصحافة الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "la propiedad",
+  "pos": "n",
+  "g": "f",
+  "ar": "ملكية",
+  "ex": "Propiedad privada.",
+  "exar": "ملكية خاصة.",
+  "e": ""
+ },
+ {
+  "es": "la revolución",
+  "pos": "n",
+  "g": "f",
+  "ar": "ثورة",
+  "ex": "La revolución industrial.",
+  "exar": "الثورة الصناعية.",
+  "e": ""
+ },
+ {
+  "es": "la victoria",
+  "pos": "n",
+  "g": "f",
+  "ar": "نصر ، فوز",
+  "ex": "Una gran victoria.",
+  "exar": "فوز كبير.",
+  "e": ""
+ },
+ {
+  "es": "el voto",
+  "pos": "n",
+  "g": "m",
+  "ar": "صوت (انتخابي)",
+  "ex": "El derecho al voto.",
+  "exar": "حق التصويت.",
+  "e": ""
+ },
+ {
+  "es": "el alma",
+  "pos": "n",
+  "g": "f",
+  "ar": "روح",
+  "ex": "Te lo agradezco con toda mi alma.",
+  "exar": "أشكرك من كل قلبي.",
+  "e": ""
+ },
+ {
+  "es": "el asunto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مسألة ، شأن",
+  "ex": "Un asunto personal.",
+  "exar": "شأن شخصي.",
+  "e": ""
+ },
+ {
+  "es": "completamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "تمامًا",
+  "ex": "Completamente nuevo.",
+  "exar": "جديد تمامًا.",
+  "e": ""
+ },
+ {
+  "es": "el conocimiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "معرفة",
+  "ex": "Conocimiento del idioma.",
+  "exar": "معرفة اللغة.",
+  "e": ""
+ },
+ {
+  "es": "el estudiante",
+  "pos": "n",
+  "g": "m",
+  "ar": "طالب",
+  "ex": "Soy estudiante.",
+  "exar": "أنا طالب.",
+  "e": "🧑‍🎓"
+ },
+ {
+  "es": "el hospital",
+  "pos": "n",
+  "g": "m",
+  "ar": "مستشفى",
+  "ex": "Voy al hospital.",
+  "exar": "أذهب إلى المستشفى.",
+  "e": "🏥"
+ },
+ {
+  "es": "la marcha",
+  "pos": "n",
+  "g": "f",
+  "ar": "سير ، مسيرة",
+  "ex": "Poner en marcha.",
+  "exar": "تشغيل.",
+  "e": ""
+ },
+ {
+  "es": "el pie",
+  "pos": "n",
+  "g": "m",
+  "ar": "قدم",
+  "ex": "Voy a pie.",
+  "exar": "أذهب مشيًا.",
+  "e": "🦶"
+ },
+ {
+  "es": "la tecnología",
+  "pos": "n",
+  "g": "f",
+  "ar": "تكنولوجيا",
+  "ex": "Nueva tecnología.",
+  "exar": "تكنولوجيا جديدة.",
+  "e": ""
+ },
+ {
+  "es": "el verano",
+  "pos": "n",
+  "g": "m",
+  "ar": "صيف",
+  "ex": "En verano hace calor.",
+  "exar": "في الصيف يكون الجو حارًا.",
+  "e": ""
+ },
+ {
+  "es": "aprender",
+  "pos": "v",
+  "g": "",
+  "ar": "تعلّم ، يتعلّم",
+  "ex": "Aprendo español.",
+  "exar": "أتعلم الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "el conjunto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مجموعة",
+  "ex": "En conjunto.",
+  "exar": "بشكل عام.",
+  "e": ""
+ },
+ {
+  "es": "cuarto",
+  "pos": "num",
+  "g": "",
+  "ar": "رابع ؛ غرفة ؛ ربع",
+  "ex": "Un cuarto de hora.",
+  "exar": "ربع ساعة.",
+  "e": ""
+ },
+ {
+  "es": "el curso",
+  "pos": "n",
+  "g": "m",
+  "ar": "دورة ، سنة دراسية",
+  "ex": "Curso de español.",
+  "exar": "دورة اللغة الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "la democracia",
+  "pos": "n",
+  "g": "f",
+  "ar": "ديمقراطية",
+  "ex": "Vivimos en democracia.",
+  "exar": "نعيش في ديمقراطية.",
+  "e": ""
+ },
+ {
+  "es": "don",
+  "pos": "n",
+  "g": "m",
+  "ar": "السيد (لقب احترام)",
+  "ex": "Don Manuel es mi vecino.",
+  "exar": "السيد مانويل جاري.",
+  "e": ""
+ },
+ {
+  "es": "la fe",
+  "pos": "n",
+  "g": "f",
+  "ar": "إيمان",
+  "ex": "Tengo fe.",
+  "exar": "عندي إيمان.",
+  "e": ""
+ },
+ {
+  "es": "las ganas",
+  "pos": "n",
+  "g": "fpl",
+  "ar": "رغبة",
+  "ex": "Tengo ganas de comer.",
+  "exar": "عندي رغبة في الأكل.",
+  "e": ""
+ },
+ {
+  "es": "el género",
+  "pos": "n",
+  "g": "m",
+  "ar": "جنس ، نوع",
+  "ex": "Igualdad de género.",
+  "exar": "المساواة بين الجنسين.",
+  "e": ""
+ },
+ {
+  "es": "muerto",
+  "pos": "adj",
+  "g": "",
+  "ar": "ميت",
+  "ex": "Está muerto.",
+  "exar": "إنه ميت.",
+  "e": ""
+ },
+ {
+  "es": "la nación",
+  "pos": "n",
+  "g": "f",
+  "ar": "أمة",
+  "ex": "Naciones Unidas.",
+  "exar": "الأمم المتحدة.",
+  "e": ""
+ },
+ {
+  "es": "el negocio",
+  "pos": "n",
+  "g": "m",
+  "ar": "تجارة ، عمل تجاري",
+  "ex": "Tengo un negocio.",
+  "exar": "عندي مشروع تجاري.",
+  "e": ""
+ },
+ {
+  "es": "ocho",
+  "pos": "num",
+  "g": "",
+  "ar": "ثمانية",
+  "ex": "A las ocho.",
+  "exar": "في الساعة الثامنة.",
+  "e": "8️⃣"
+ },
+ {
+  "es": "particular",
+  "pos": "adj",
+  "g": "",
+  "ar": "خاص",
+  "ex": "Clases particulares.",
+  "exar": "دروس خصوصية.",
+  "e": ""
+ },
+ {
+  "es": "la posibilidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "إمكانية",
+  "ex": "Hay una posibilidad.",
+  "exar": "هناك إمكانية.",
+  "e": ""
+ },
+ {
+  "es": "profesional",
+  "pos": "adj",
+  "g": "",
+  "ar": "مهني",
+  "ex": "Formación profesional.",
+  "exar": "التكوين المهني.",
+  "e": ""
+ },
+ {
+  "es": "el régimen",
+  "pos": "n",
+  "g": "m",
+  "ar": "نظام ، حمية",
+  "ex": "Estoy a régimen.",
+  "exar": "أنا أتبع حمية.",
+  "e": ""
+ },
+ {
+  "es": "el suelo",
+  "pos": "n",
+  "g": "m",
+  "ar": "أرض ، أرضية",
+  "ex": "Está en el suelo.",
+  "exar": "إنه على الأرض.",
+  "e": ""
+ },
+ {
+  "es": "la visita",
+  "pos": "n",
+  "g": "f",
+  "ar": "زيارة",
+  "ex": "Una visita al médico.",
+  "exar": "زيارة إلى الطبيب.",
+  "e": ""
+ },
+ {
+  "es": "el ambiente",
+  "pos": "n",
+  "g": "m",
+  "ar": "جو ، بيئة",
+  "ex": "Buen ambiente.",
+  "exar": "جو جيد.",
+  "e": ""
+ },
+ {
+  "es": "el ataque",
+  "pos": "n",
+  "g": "m",
+  "ar": "هجوم",
+  "ex": "Un ataque al corazón.",
+  "exar": "نوبة قلبية.",
+  "e": ""
+ },
+ {
+  "es": "el edificio",
+  "pos": "n",
+  "g": "m",
+  "ar": "مبنى",
+  "ex": "Un edificio de diez pisos.",
+  "exar": "مبنى من عشرة طوابق.",
+  "e": "🏢"
+ },
+ {
+  "es": "federal",
+  "pos": "adj",
+  "g": "",
+  "ar": "فيدرالي",
+  "ex": "Gobierno federal.",
+  "exar": "حكومة فيدرالية.",
+  "e": ""
+ },
+ {
+  "es": "la lengua",
+  "pos": "n",
+  "g": "f",
+  "ar": "لسان ، لغة",
+  "ex": "Mi lengua materna es el árabe.",
+  "exar": "لغتي الأم هي العربية.",
+  "e": ""
+ },
+ {
+  "es": "la mesa",
+  "pos": "n",
+  "g": "f",
+  "ar": "طاولة",
+  "ex": "La mesa de la cocina.",
+  "exar": "طاولة المطبخ.",
+  "e": ""
+ },
+ {
+  "es": "la naturaleza",
+  "pos": "n",
+  "g": "f",
+  "ar": "طبيعة",
+  "ex": "Me gusta la naturaleza.",
+  "exar": "أحب الطبيعة.",
+  "e": "🌿"
+ },
+ {
+  "es": "el pago",
+  "pos": "n",
+  "g": "m",
+  "ar": "دفع",
+  "ex": "Pago con tarjeta.",
+  "exar": "الدفع بالبطاقة.",
+  "e": ""
+ },
+ {
+  "es": "la protección",
+  "pos": "n",
+  "g": "f",
+  "ar": "حماية",
+  "ex": "Protección internacional.",
+  "exar": "الحماية الدولية.",
+  "e": ""
+ },
+ {
+  "es": "publicar",
+  "pos": "v",
+  "g": "",
+  "ar": "نشر ، ينشر",
+  "ex": "Publicar un anuncio.",
+  "exar": "نشر إعلان.",
+  "e": ""
+ },
+ {
+  "es": "la sala",
+  "pos": "n",
+  "g": "f",
+  "ar": "قاعة ، صالة",
+  "ex": "Sala de espera.",
+  "exar": "قاعة الانتظار.",
+  "e": ""
+ },
+ {
+  "es": "el sueño",
+  "pos": "n",
+  "g": "m",
+  "ar": "نوم ، حلم",
+  "ex": "Tengo sueño.",
+  "exar": "أشعر بالنعاس.",
+  "e": "💤"
+ },
+ {
+  "es": "el teléfono",
+  "pos": "n",
+  "g": "m",
+  "ar": "هاتف",
+  "ex": "Hablo por teléfono.",
+  "exar": "أتكلم بالهاتف.",
+  "e": "☎️"
+ },
+ {
+  "es": "el transporte",
+  "pos": "n",
+  "g": "m",
+  "ar": "نقل ، مواصلات",
+  "ex": "Transporte público.",
+  "exar": "النقل العام.",
+  "e": "🚌"
+ },
+ {
+  "es": "el usuario",
+  "pos": "n",
+  "g": "m",
+  "ar": "مستخدم",
+  "ex": "Nombre de usuario.",
+  "exar": "اسم المستخدم.",
+  "e": ""
+ },
+ {
+  "es": "el acto",
+  "pos": "n",
+  "g": "m",
+  "ar": "فعل ، حفل",
+  "ex": "Un acto oficial.",
+  "exar": "حفل رسمي.",
+  "e": ""
+ },
+ {
+  "es": "el animal",
+  "pos": "n",
+  "g": "m",
+  "ar": "حيوان",
+  "ex": "Me gustan los animales.",
+  "exar": "أحب الحيوانات.",
+  "e": "🐾"
+ },
+ {
+  "es": "la asociación",
+  "pos": "n",
+  "g": "f",
+  "ar": "جمعية",
+  "ex": "Una asociación de inmigrantes.",
+  "exar": "جمعية للمهاجرين.",
+  "e": ""
+ },
+ {
+  "es": "completo",
+  "pos": "adj",
+  "g": "",
+  "ar": "كامل ، ممتلئ",
+  "ex": "El hotel está completo.",
+  "exar": "الفندق ممتلئ.",
+  "e": ""
+ },
+ {
+  "es": "el cuidado",
+  "pos": "n",
+  "g": "m",
+  "ar": "عناية ، حذر",
+  "ex": "¡Cuidado!",
+  "exar": "انتبه!",
+  "e": ""
+ },
+ {
+  "es": "el deseo",
+  "pos": "n",
+  "g": "m",
+  "ar": "رغبة ، أمنية",
+  "ex": "Pide un deseo.",
+  "exar": "تمنَّ أمنية.",
+  "e": ""
+ },
+ {
+  "es": "detrás",
+  "pos": "adv",
+  "g": "",
+  "ar": "خلف",
+  "ex": "Detrás de la casa.",
+  "exar": "خلف البيت.",
+  "e": ""
+ },
+ {
+  "es": "directamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "مباشرة",
+  "ex": "Ve directamente al médico.",
+  "exar": "اذهب إلى الطبيب مباشرة.",
+  "e": ""
+ },
+ {
+  "es": "el doctor",
+  "pos": "n",
+  "g": "m",
+  "ar": "طبيب ، دكتور",
+  "ex": "El doctor me ha dado una receta.",
+  "exar": "أعطاني الطبيب وصفة.",
+  "e": "🩺"
+ },
+ {
+  "es": "la edición",
+  "pos": "n",
+  "g": "f",
+  "ar": "طبعة ، تحرير",
+  "ex": "Nueva edición.",
+  "exar": "طبعة جديدة.",
+  "e": ""
+ },
+ {
+  "es": "escuchar",
+  "pos": "v",
+  "g": "",
+  "ar": "استمع ، يستمع",
+  "ex": "Escucho música.",
+  "exar": "أستمع إلى الموسيقى.",
+  "e": "🎧"
+ },
+ {
+  "es": "el informe",
+  "pos": "n",
+  "g": "m",
+  "ar": "تقرير",
+  "ex": "Informe médico.",
+  "exar": "تقرير طبي.",
+  "e": ""
+ },
+ {
+  "es": "el material",
+  "pos": "n",
+  "g": "m",
+  "ar": "مادة ، أدوات",
+  "ex": "Material escolar.",
+  "exar": "أدوات مدرسية.",
+  "e": ""
+ },
+ {
+  "es": "el metro",
+  "pos": "n",
+  "g": "m",
+  "ar": "متر ، مترو",
+  "ex": "Cogemos el metro.",
+  "exar": "نركب المترو.",
+  "e": "🚇"
+ },
+ {
+  "es": "la pareja",
+  "pos": "n",
+  "g": "f",
+  "ar": "زوجان ، شريك",
+  "ex": "Vivo con mi pareja.",
+  "exar": "أعيش مع شريكي.",
+  "e": ""
+ },
+ {
+  "es": "perfecto",
+  "pos": "adj",
+  "g": "",
+  "ar": "مثالي ، ممتاز",
+  "ex": "¡Perfecto!",
+  "exar": "ممتاز!",
+  "e": ""
+ },
+ {
+  "es": "presentar",
+  "pos": "v",
+  "g": "",
+  "ar": "قدّم ، يقدّم",
+  "ex": "Presentar la solicitud.",
+  "exar": "تقديم الطلب.",
+  "e": ""
+ },
+ {
+  "es": "recordar",
+  "pos": "v",
+  "g": "",
+  "ar": "تذكّر ، يتذكّر",
+  "ex": "No recuerdo su nombre.",
+  "exar": "لا أتذكر اسمه.",
+  "e": ""
+ },
+ {
+  "es": "la venta",
+  "pos": "n",
+  "g": "f",
+  "ar": "بيع",
+  "ex": "Piso en venta.",
+  "exar": "شقة للبيع.",
+  "e": ""
+ },
+ {
+  "es": "la confianza",
+  "pos": "n",
+  "g": "f",
+  "ar": "ثقة",
+  "ex": "Tengo confianza en ti.",
+  "exar": "أثق بك.",
+  "e": ""
+ },
+ {
+  "es": "la creación",
+  "pos": "n",
+  "g": "f",
+  "ar": "إنشاء ، خلق",
+  "ex": "Creación de empleo.",
+  "exar": "خلق فرص العمل.",
+  "e": ""
+ },
+ {
+  "es": "el destino",
+  "pos": "n",
+  "g": "m",
+  "ar": "وجهة ، مصير",
+  "ex": "Destino: Madrid.",
+  "exar": "الوجهة: مدريد.",
+  "e": ""
+ },
+ {
+  "es": "la especie",
+  "pos": "n",
+  "g": "f",
+  "ar": "نوع",
+  "ex": "Una especie de pájaro.",
+  "exar": "نوع من الطيور.",
+  "e": ""
+ },
+ {
+  "es": "el esposo",
+  "pos": "n",
+  "g": "m",
+  "ar": "زوج ؛ (la esposa) زوجة",
+  "ex": "Mi esposa es enfermera.",
+  "exar": "زوجتي ممرضة.",
+  "e": ""
+ },
+ {
+  "es": "el hambre",
+  "pos": "n",
+  "g": "f",
+  "ar": "جوع",
+  "ex": "Tengo hambre.",
+  "exar": "أنا جائع.",
+  "e": ""
+ },
+ {
+  "es": "legal",
+  "pos": "adj",
+  "g": "",
+  "ar": "قانوني",
+  "ex": "Es legal.",
+  "exar": "إنه قانوني.",
+  "e": ""
+ },
+ {
+  "es": "obtener",
+  "pos": "v",
+  "g": "",
+  "ar": "حصل ، يحصل على",
+  "ex": "Obtener la residencia.",
+  "exar": "الحصول على الإقامة.",
+  "e": ""
+ },
+ {
+  "es": "pedir",
+  "pos": "v",
+  "g": "",
+  "ar": "طلب ، يطلب",
+  "ex": "Pedir ayuda.",
+  "exar": "طلب المساعدة.",
+  "e": ""
+ },
+ {
+  "es": "el perro",
+  "pos": "n",
+  "g": "m",
+  "ar": "كلب",
+  "ex": "Tengo un perro.",
+  "exar": "عندي كلب.",
+  "e": "🐕"
+ },
+ {
+  "es": "la propuesta",
+  "pos": "n",
+  "g": "f",
+  "ar": "اقتراح",
+  "ex": "Una buena propuesta.",
+  "exar": "اقتراح جيد.",
+  "e": ""
+ },
+ {
+  "es": "la responsabilidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "مسؤولية",
+  "ex": "Es tu responsabilidad.",
+  "exar": "إنها مسؤوليتك.",
+  "e": ""
+ },
+ {
+  "es": "la reunión",
+  "pos": "n",
+  "g": "f",
+  "ar": "اجتماع",
+  "ex": "Tengo una reunión.",
+  "exar": "عندي اجتماع.",
+  "e": ""
+ },
+ {
+  "es": "la revista",
+  "pos": "n",
+  "g": "f",
+  "ar": "مجلة",
+  "ex": "Leo una revista.",
+  "exar": "أقرأ مجلة.",
+  "e": ""
+ },
+ {
+  "es": "la solución",
+  "pos": "n",
+  "g": "f",
+  "ar": "حل",
+  "ex": "Hay una solución.",
+  "exar": "هناك حل.",
+  "e": ""
+ },
+ {
+  "es": "el territorio",
+  "pos": "n",
+  "g": "m",
+  "ar": "إقليم ، أراضٍ",
+  "ex": "Territorio español.",
+  "exar": "الأراضي الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "el viernes",
+  "pos": "n",
+  "g": "m",
+  "ar": "الجمعة",
+  "ex": "El viernes voy a la mezquita.",
+  "exar": "يوم الجمعة أذهب إلى المسجد.",
+  "e": ""
+ },
+ {
+  "es": "la aplicación",
+  "pos": "n",
+  "g": "f",
+  "ar": "تطبيق",
+  "ex": "Descarga la aplicación.",
+  "exar": "حمّل التطبيق.",
+  "e": ""
+ },
+ {
+  "es": "el aumento",
+  "pos": "n",
+  "g": "m",
+  "ar": "زيادة",
+  "ex": "Aumento de sueldo.",
+  "exar": "زيادة الراتب.",
+  "e": ""
+ },
+ {
+  "es": "la cama",
+  "pos": "n",
+  "g": "f",
+  "ar": "سرير",
+  "ex": "Me voy a la cama.",
+  "exar": "أذهب إلى السرير.",
+  "e": "🛏️"
+ },
+ {
+  "es": "la ciencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "علم",
+  "ex": "La ciencia avanza.",
+  "exar": "العلم يتقدم.",
+  "e": "🔬"
+ },
+ {
+  "es": "la distancia",
+  "pos": "n",
+  "g": "f",
+  "ar": "مسافة",
+  "ex": "¿Qué distancia hay?",
+  "exar": "ما المسافة؟",
+  "e": ""
+ },
+ {
+  "es": "doble",
+  "pos": "adj",
+  "g": "",
+  "ar": "مزدوج ، ضعف",
+  "ex": "Habitación doble.",
+  "exar": "غرفة مزدوجة.",
+  "e": ""
+ },
+ {
+  "es": "la marca",
+  "pos": "n",
+  "g": "f",
+  "ar": "علامة ، ماركة",
+  "ex": "¿De qué marca es?",
+  "exar": "ما ماركته؟",
+  "e": ""
+ },
+ {
+  "es": "la memoria",
+  "pos": "n",
+  "g": "f",
+  "ar": "ذاكرة",
+  "ex": "Tengo buena memoria.",
+  "exar": "ذاكرتي جيدة.",
+  "e": ""
+ },
+ {
+  "es": "el motivo",
+  "pos": "n",
+  "g": "m",
+  "ar": "سبب ، دافع",
+  "ex": "¿Por qué motivo?",
+  "exar": "لأي سبب؟",
+  "e": ""
+ },
+ {
+  "es": "la opción",
+  "pos": "n",
+  "g": "f",
+  "ar": "خيار",
+  "ex": "Otra opción.",
+  "exar": "خيار آخر.",
+  "e": ""
+ },
+ {
+  "es": "la práctica",
+  "pos": "n",
+  "g": "f",
+  "ar": "ممارسة ، تدريب عملي",
+  "ex": "Prácticas en una empresa.",
+  "exar": "تدريب في شركة.",
+  "e": ""
+ },
+ {
+  "es": "realizar",
+  "pos": "v",
+  "g": "",
+  "ar": "أنجز ، ينجز",
+  "ex": "Realizar un curso.",
+  "exar": "إنجاز دورة.",
+  "e": ""
+ },
+ {
+  "es": "la referencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "مرجع ، إشارة",
+  "ex": "Número de referencia.",
+  "exar": "رقم المرجع.",
+  "e": ""
+ },
+ {
+  "es": "la reforma",
+  "pos": "n",
+  "g": "f",
+  "ar": "إصلاح ، ترميم",
+  "ex": "Reforma de la cocina.",
+  "exar": "ترميم المطبخ.",
+  "e": ""
+ },
+ {
+  "es": "el reino",
+  "pos": "n",
+  "g": "m",
+  "ar": "مملكة",
+  "ex": "El Reino de Marruecos.",
+  "exar": "المملكة المغربية.",
+  "e": ""
+ },
+ {
+  "es": "resultar",
+  "pos": "v",
+  "g": "",
+  "ar": "نتج ، ينتج ، تبيّن",
+  "ex": "Resulta difícil.",
+  "exar": "يبدو صعبًا.",
+  "e": ""
+ },
+ {
+  "es": "el riesgo",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطر",
+  "ex": "Sin riesgo.",
+  "exar": "بدون خطر.",
+  "e": ""
+ },
+ {
+  "es": "sacar",
+  "pos": "v",
+  "g": "",
+  "ar": "أخرج ، يخرج ، سحب",
+  "ex": "Sacar dinero del cajero.",
+  "exar": "سحب المال من الصراف.",
+  "e": ""
+ },
+ {
+  "es": "el silencio",
+  "pos": "n",
+  "g": "m",
+  "ar": "صمت",
+  "ex": "Silencio, por favor.",
+  "exar": "صمتًا من فضلك.",
+  "e": "🤫"
+ },
+ {
+  "es": "la temporada",
+  "pos": "n",
+  "g": "f",
+  "ar": "موسم",
+  "ex": "Temporada de la aceituna.",
+  "exar": "موسم الزيتون.",
+  "e": ""
+ },
+ {
+  "es": "terminar",
+  "pos": "v",
+  "g": "",
+  "ar": "أنهى ، ينهي",
+  "ex": "Termino a las seis.",
+  "exar": "أنهي في السادسة.",
+  "e": ""
+ },
+ {
+  "es": "la autoridad",
+  "pos": "n",
+  "g": "f",
+  "ar": "سلطة",
+  "ex": "Las autoridades españolas.",
+  "exar": "السلطات الإسبانية.",
+  "e": ""
+ },
+ {
+  "es": "comenzar",
+  "pos": "v",
+  "g": "",
+  "ar": "بدأ ، يبدأ",
+  "ex": "La clase comienza a las nueve.",
+  "exar": "يبدأ الدرس في التاسعة.",
+  "e": ""
+ },
+ {
+  "es": "el comercio",
+  "pos": "n",
+  "g": "m",
+  "ar": "تجارة ، محل",
+  "ex": "Pequeño comercio.",
+  "exar": "محل صغير.",
+  "e": ""
+ },
+ {
+  "es": "el daño",
+  "pos": "n",
+  "g": "m",
+  "ar": "ضرر",
+  "ex": "Daño físico.",
+  "exar": "ضرر جسدي.",
+  "e": ""
+ },
+ {
+  "es": "el elemento",
+  "pos": "n",
+  "g": "m",
+  "ar": "عنصر",
+  "ex": "Un elemento importante.",
+  "exar": "عنصر مهم.",
+  "e": ""
+ },
+ {
+  "es": "el esfuerzo",
+  "pos": "n",
+  "g": "m",
+  "ar": "جهد",
+  "ex": "Con esfuerzo.",
+  "exar": "بالجهد.",
+  "e": ""
+ },
+ {
+  "es": "gratis",
+  "pos": "adv",
+  "g": "",
+  "ar": "مجانًا",
+  "ex": "Es gratis.",
+  "exar": "إنه مجاني.",
+  "e": ""
+ },
+ {
+  "es": "morir",
+  "pos": "v",
+  "g": "",
+  "ar": "مات ، يموت",
+  "ex": "Su abuelo murió.",
+  "exar": "مات جده.",
+  "e": ""
+ },
+ {
+  "es": "el médico",
+  "pos": "n",
+  "g": "m",
+  "ar": "طبيب",
+  "ex": "Voy al médico.",
+  "exar": "أذهب إلى الطبيب.",
+  "e": "👨‍⚕️"
+ },
+ {
+  "es": "próximo",
+  "pos": "adj",
+  "g": "",
+  "ar": "قادم ، تالٍ",
+  "ex": "La próxima semana.",
+  "exar": "الأسبوع القادم.",
+  "e": ""
+ },
+ {
+  "es": "la salida",
+  "pos": "n",
+  "g": "f",
+  "ar": "مخرج ، خروج",
+  "ex": "¿Dónde está la salida?",
+  "exar": "أين المخرج؟",
+  "e": ""
+ },
+ {
+  "es": "la selección",
+  "pos": "n",
+  "g": "f",
+  "ar": "اختيار ، منتخب",
+  "ex": "La selección española.",
+  "exar": "المنتخب الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "aparecer",
+  "pos": "v",
+  "g": "",
+  "ar": "ظهر ، يظهر",
+  "ex": "Tu nombre no aparece.",
+  "exar": "اسمك لا يظهر.",
+  "e": ""
+ },
+ {
+  "es": "el contacto",
+  "pos": "n",
+  "g": "m",
+  "ar": "اتصال ، تواصل",
+  "ex": "Datos de contacto.",
+  "exar": "بيانات الاتصال.",
+  "e": ""
+ },
+ {
+  "es": "contar",
+  "pos": "v",
+  "g": "",
+  "ar": "عدّ ، يعدّ ، حكى",
+  "ex": "Cuéntame.",
+  "exar": "احكِ لي.",
+  "e": ""
+ },
+ {
+  "es": "el crecimiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "نمو",
+  "ex": "Crecimiento económico.",
+  "exar": "نمو اقتصادي.",
+  "e": ""
+ },
+ {
+  "es": "excelente",
+  "pos": "adj",
+  "g": "",
+  "ar": "ممتاز",
+  "ex": "Un trabajo excelente.",
+  "exar": "عمل ممتاز.",
+  "e": ""
+ },
+ {
+  "es": "la función",
+  "pos": "n",
+  "g": "f",
+  "ar": "وظيفة ، عرض",
+  "ex": "¿Cuál es su función?",
+  "exar": "ما وظيفته؟",
+  "e": ""
+ },
+ {
+  "es": "la independencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "استقلال",
+  "ex": "Día de la independencia.",
+  "exar": "عيد الاستقلال.",
+  "e": ""
+ },
+ {
+  "es": "el plazo",
+  "pos": "n",
+  "g": "m",
+  "ar": "مهلة ، قسط",
+  "ex": "Pagar a plazos.",
+  "exar": "الدفع بالتقسيط.",
+  "e": ""
+ },
+ {
+  "es": "el término",
+  "pos": "n",
+  "g": "m",
+  "ar": "مصطلح ، نهاية",
+  "ex": "Un término técnico.",
+  "exar": "مصطلح تقني.",
+  "e": ""
+ },
+ {
+  "es": "verdadero",
+  "pos": "adj",
+  "g": "",
+  "ar": "حقيقي",
+  "ex": "Un amigo verdadero.",
+  "exar": "صديق حقيقي.",
+  "e": ""
+ },
+ {
+  "es": "verde",
+  "pos": "adj",
+  "g": "",
+  "ar": "أخضر",
+  "ex": "El semáforo está verde.",
+  "exar": "إشارة المرور خضراء.",
+  "e": "🟢"
+ },
+ {
+  "es": "la corrupción",
+  "pos": "n",
+  "g": "f",
+  "ar": "فساد",
+  "ex": "La corrupción es un delito.",
+  "exar": "الفساد جريمة.",
+  "e": ""
+ },
+ {
+  "es": "la cruz",
+  "pos": "n",
+  "g": "f",
+  "ar": "صليب",
+  "ex": "Cruz Roja.",
+  "exar": "الصليب الأحمر.",
+  "e": ""
+ },
+ {
+  "es": "dormir",
+  "pos": "v",
+  "g": "",
+  "ar": "نام ، ينام",
+  "ex": "Duermo ocho horas.",
+  "exar": "أنام ثماني ساعات.",
+  "e": "😴"
+ },
+ {
+  "es": "la esperanza",
+  "pos": "n",
+  "g": "f",
+  "ar": "أمل",
+  "ex": "Hay esperanza.",
+  "exar": "هناك أمل.",
+  "e": ""
+ },
+ {
+  "es": "fiscal",
+  "pos": "adj",
+  "g": "",
+  "ar": "ضريبي ؛ مدّعٍ عام",
+  "ex": "Año fiscal.",
+  "exar": "السنة الضريبية.",
+  "e": ""
+ },
+ {
+  "es": "incluir",
+  "pos": "v",
+  "g": "",
+  "ar": "شمل ، يشمل",
+  "ex": "El precio incluye el desayuno.",
+  "exar": "السعر يشمل الفطور.",
+  "e": ""
+ },
+ {
+  "es": "el líder",
+  "pos": "n",
+  "g": "m",
+  "ar": "قائد ، زعيم",
+  "ex": "Un líder político.",
+  "exar": "زعيم سياسي.",
+  "e": ""
+ },
+ {
+  "es": "el rato",
+  "pos": "n",
+  "g": "m",
+  "ar": "فترة قصيرة",
+  "ex": "Espera un rato.",
+  "exar": "انتظر قليلًا.",
+  "e": ""
+ },
+ {
+  "es": "el tribunal",
+  "pos": "n",
+  "g": "m",
+  "ar": "محكمة",
+  "ex": "El Tribunal Supremo.",
+  "exar": "المحكمة العليا.",
+  "e": ""
+ },
+ {
+  "es": "acabar",
+  "pos": "v",
+  "g": "",
+  "ar": "أنهى ، ينهي",
+  "ex": "Acabo de llegar.",
+  "exar": "وصلت للتو.",
+  "e": ""
+ },
+ {
+  "es": "amar",
+  "pos": "v",
+  "g": "",
+  "ar": "أحبّ ، يحبّ",
+  "ex": "Te amo.",
+  "exar": "أحبك.",
+  "e": ""
+ },
+ {
+  "es": "el barrio",
+  "pos": "n",
+  "g": "m",
+  "ar": "حي",
+  "ex": "Vivo en un barrio tranquilo.",
+  "exar": "أسكن في حي هادئ.",
+  "e": ""
+ },
+ {
+  "es": "ciento",
+  "pos": "num",
+  "g": "",
+  "ar": "مئة",
+  "ex": "El diez por ciento.",
+  "exar": "عشرة بالمئة.",
+  "e": "💯"
+ },
+ {
+  "es": "comercial",
+  "pos": "adj",
+  "g": "",
+  "ar": "تجاري",
+  "ex": "Centro comercial.",
+  "exar": "مركز تجاري.",
+  "e": ""
+ },
+ {
+  "es": "la copa",
+  "pos": "n",
+  "g": "f",
+  "ar": "كأس",
+  "ex": "Una copa de agua.",
+  "exar": "كأس ماء.",
+  "e": ""
+ },
+ {
+  "es": "cuyo",
+  "pos": "pron",
+  "g": "",
+  "ar": "الذي ... له",
+  "ex": "El hombre cuyo hijo es médico.",
+  "exar": "الرجل الذي ابنه طبيب.",
+  "e": ""
+ },
+ {
+  "es": "exterior",
+  "pos": "adj",
+  "g": "",
+  "ar": "خارجي",
+  "ex": "Asuntos exteriores.",
+  "exar": "الشؤون الخارجية.",
+  "e": ""
+ },
+ {
+  "es": "el habitante",
+  "pos": "n",
+  "g": "m",
+  "ar": "ساكن ، نسمة",
+  "ex": "Un pueblo de mil habitantes.",
+  "exar": "قرية من ألف نسمة.",
+  "e": ""
+ },
+ {
+  "es": "el honor",
+  "pos": "n",
+  "g": "m",
+  "ar": "شرف",
+  "ex": "Es un honor.",
+  "exar": "إنه شرف.",
+  "e": ""
+ },
+ {
+  "es": "la institución",
+  "pos": "n",
+  "g": "f",
+  "ar": "مؤسسة",
+  "ex": "Instituciones públicas.",
+  "exar": "المؤسسات العامة.",
+  "e": ""
+ },
+ {
+  "es": "mejorar",
+  "pos": "v",
+  "g": "",
+  "ar": "حسّن ، يحسّن",
+  "ex": "Quiero mejorar mi español.",
+  "exar": "أريد أن أحسّن إسبانيتي.",
+  "e": ""
+ },
+ {
+  "es": "el parque",
+  "pos": "n",
+  "g": "m",
+  "ar": "حديقة عامة",
+  "ex": "Vamos al parque.",
+  "exar": "لنذهب إلى الحديقة.",
+  "e": "🌳"
+ },
+ {
+  "es": "triste",
+  "pos": "adj",
+  "g": "",
+  "ar": "حزين",
+  "ex": "Estoy triste.",
+  "exar": "أنا حزين.",
+  "e": "😢"
+ },
+ {
+  "es": "el contrato",
+  "pos": "n",
+  "g": "m",
+  "ar": "عقد",
+  "ex": "Contrato de trabajo.",
+  "exar": "عقد عمل.",
+  "e": ""
+ },
+ {
+  "es": "el debate",
+  "pos": "n",
+  "g": "m",
+  "ar": "نقاش",
+  "ex": "Un debate político.",
+  "exar": "نقاش سياسي.",
+  "e": ""
+ },
+ {
+  "es": "el diseño",
+  "pos": "n",
+  "g": "m",
+  "ar": "تصميم",
+  "ex": "Diseño gráfico.",
+  "exar": "تصميم غرافيكي.",
+  "e": ""
+ },
+ {
+  "es": "electoral",
+  "pos": "adj",
+  "g": "",
+  "ar": "انتخابي",
+  "ex": "Campaña electoral.",
+  "exar": "حملة انتخابية.",
+  "e": ""
+ },
+ {
+  "es": "el hogar",
+  "pos": "n",
+  "g": "m",
+  "ar": "بيت ، منزل",
+  "ex": "Hogar, dulce hogar.",
+  "exar": "بيتي الحبيب.",
+  "e": ""
+ },
+ {
+  "es": "el mando",
+  "pos": "n",
+  "g": "m",
+  "ar": "قيادة ، جهاز تحكم",
+  "ex": "El mando de la tele.",
+  "exar": "جهاز تحكم التلفاز.",
+  "e": ""
+ },
+ {
+  "es": "recibir",
+  "pos": "v",
+  "g": "",
+  "ar": "استلم ، يستلم ، استقبل",
+  "ex": "Recibí una carta.",
+  "exar": "استلمت رسالة.",
+  "e": ""
+ },
+ {
+  "es": "rojo",
+  "pos": "adj",
+  "g": "",
+  "ar": "أحمر",
+  "ex": "Un coche rojo.",
+  "exar": "سيارة حمراء.",
+  "e": "🔴"
+ },
+ {
+  "es": "similar",
+  "pos": "adj",
+  "g": "",
+  "ar": "مشابه",
+  "ex": "Es similar.",
+  "exar": "إنه مشابه.",
+  "e": ""
+ },
+ {
+  "es": "argentino",
+  "pos": "adj",
+  "g": "",
+  "ar": "أرجنتيني",
+  "ex": "Mi vecino es argentino.",
+  "exar": "جاري أرجنتيني.",
+  "e": ""
+ },
+ {
+  "es": "azul",
+  "pos": "adj",
+  "g": "",
+  "ar": "أزرق",
+  "ex": "El cielo es azul.",
+  "exar": "السماء زرقاء.",
+  "e": "🔵"
+ },
+ {
+  "es": "la carne",
+  "pos": "n",
+  "g": "f",
+  "ar": "لحم",
+  "ex": "Carne halal.",
+  "exar": "لحم حلال.",
+  "e": "🥩"
+ },
+ {
+  "es": "cumplir",
+  "pos": "v",
+  "g": "",
+  "ar": "أتمّ ، يتمّ ، التزم",
+  "ex": "Cumplir las normas.",
+  "exar": "الالتزام بالقواعد.",
+  "e": ""
+ },
+ {
+  "es": "el discurso",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطاب",
+  "ex": "Un discurso largo.",
+  "exar": "خطاب طويل.",
+  "e": ""
+ },
+ {
+  "es": "encantar",
+  "pos": "v",
+  "g": "",
+  "ar": "أعجب كثيرًا ، يعجب كثيرًا",
+  "ex": "Me encanta España.",
+  "exar": "أحب إسبانيا كثيرًا.",
+  "e": ""
+ },
+ {
+  "es": "la entrevista",
+  "pos": "n",
+  "g": "f",
+  "ar": "مقابلة",
+  "ex": "Entrevista de trabajo.",
+  "exar": "مقابلة عمل.",
+  "e": ""
+ },
+ {
+  "es": "estudiar",
+  "pos": "v",
+  "g": "",
+  "ar": "درس ، يدرس",
+  "ex": "Mi hijo estudia en el instituto.",
+  "exar": "ابني يدرس في المدرسة الثانوية.",
+  "e": ""
+ },
+ {
+  "es": "la expresión",
+  "pos": "n",
+  "g": "f",
+  "ar": "تعبير",
+  "ex": "Una expresión común.",
+  "exar": "تعبير شائع.",
+  "e": ""
+ },
+ {
+  "es": "extraño",
+  "pos": "adj",
+  "g": "",
+  "ar": "غريب",
+  "ex": "Es extraño.",
+  "exar": "إنه غريب.",
+  "e": ""
+ },
+ {
+  "es": "la flor",
+  "pos": "n",
+  "g": "f",
+  "ar": "زهرة",
+  "ex": "Flores para mi madre.",
+  "exar": "زهور لأمي.",
+  "e": "🌸"
+ },
+ {
+  "es": "funcionar",
+  "pos": "v",
+  "g": "",
+  "ar": "اشتغل ، يشتغل (جهاز)",
+  "ex": "No funciona.",
+  "exar": "لا يعمل.",
+  "e": ""
+ },
+ {
+  "es": "increíble",
+  "pos": "adj",
+  "g": "",
+  "ar": "لا يُصدَّق ، مدهش",
+  "ex": "¡Es increíble!",
+  "exar": "هذا مدهش!",
+  "e": ""
+ },
+ {
+  "es": "el inicio",
+  "pos": "n",
+  "g": "m",
+  "ar": "بداية",
+  "ex": "Página de inicio.",
+  "exar": "الصفحة الرئيسية.",
+  "e": ""
+ },
+ {
+  "es": "el juez",
+  "pos": "n",
+  "g": "m",
+  "ar": "قاضٍ",
+  "ex": "El juez decide.",
+  "exar": "القاضي يقرر.",
+  "e": ""
+ },
+ {
+  "es": "el maestro",
+  "pos": "n",
+  "g": "m",
+  "ar": "معلّم",
+  "ex": "El maestro de mi hijo.",
+  "exar": "معلم ابني.",
+  "e": ""
+ },
+ {
+  "es": "el marco",
+  "pos": "n",
+  "g": "m",
+  "ar": "إطار",
+  "ex": "El marco de la foto.",
+  "exar": "إطار الصورة.",
+  "e": "🖼️"
+ },
+ {
+  "es": "la materia",
+  "pos": "n",
+  "g": "f",
+  "ar": "مادة",
+  "ex": "Materia prima.",
+  "exar": "مادة خام.",
+  "e": ""
+ },
+ {
+  "es": "la oposición",
+  "pos": "n",
+  "g": "f",
+  "ar": "معارضة ، مسابقة توظيف",
+  "ex": "Prepara oposiciones.",
+  "exar": "يستعد لمسابقة التوظيف الحكومي.",
+  "e": ""
+ },
+ {
+  "es": "el registro",
+  "pos": "n",
+  "g": "m",
+  "ar": "سجل ، تسجيل",
+  "ex": "El Registro Civil.",
+  "exar": "السجل المدني.",
+  "e": ""
+ },
+ {
+  "es": "el teatro",
+  "pos": "n",
+  "g": "m",
+  "ar": "مسرح",
+  "ex": "Vamos al teatro.",
+  "exar": "لنذهب إلى المسرح.",
+  "e": "🎭"
+ },
+ {
+  "es": "el vecino",
+  "pos": "n",
+  "g": "m",
+  "ar": "جار",
+  "ex": "Mi vecino es amable.",
+  "exar": "جاري لطيف.",
+  "e": ""
+ },
+ {
+  "es": "la asamblea",
+  "pos": "n",
+  "g": "f",
+  "ar": "جمعية ، مجلس",
+  "ex": "Asamblea general.",
+  "exar": "جمعية عامة.",
+  "e": ""
+ },
+ {
+  "es": "la caja",
+  "pos": "n",
+  "g": "f",
+  "ar": "صندوق ، صندوق الدفع",
+  "ex": "Paga en caja.",
+  "exar": "ادفع عند الصندوق.",
+  "e": "📦"
+ },
+ {
+  "es": "el detalle",
+  "pos": "n",
+  "g": "m",
+  "ar": "تفصيل",
+  "ex": "Más detalles.",
+  "exar": "مزيد من التفاصيل.",
+  "e": ""
+ },
+ {
+  "es": "el empleo",
+  "pos": "n",
+  "g": "m",
+  "ar": "عمل ، وظيفة",
+  "ex": "Oficina de empleo.",
+  "exar": "مكتب التشغيل.",
+  "e": ""
+ },
+ {
+  "es": "la enfermedad",
+  "pos": "n",
+  "g": "f",
+  "ar": "مرض",
+  "ex": "Una enfermedad crónica.",
+  "exar": "مرض مزمن.",
+  "e": ""
+ },
+ {
+  "es": "la escena",
+  "pos": "n",
+  "g": "f",
+  "ar": "مشهد",
+  "ex": "Una escena bonita.",
+  "exar": "مشهد جميل.",
+  "e": ""
+ },
+ {
+  "es": "la estructura",
+  "pos": "n",
+  "g": "f",
+  "ar": "هيكل ، بنية",
+  "ex": "La estructura del edificio.",
+  "exar": "هيكل المبنى.",
+  "e": ""
+ },
+ {
+  "es": "el golpe",
+  "pos": "n",
+  "g": "m",
+  "ar": "ضربة",
+  "ex": "Un golpe en la cabeza.",
+  "exar": "ضربة على الرأس.",
+  "e": ""
+ },
+ {
+  "es": "el grado",
+  "pos": "n",
+  "g": "m",
+  "ar": "درجة",
+  "ex": "Hace treinta grados.",
+  "exar": "درجة الحرارة ثلاثون.",
+  "e": "🌡️"
+ },
+ {
+  "es": "lleno",
+  "pos": "adj",
+  "g": "",
+  "ar": "ممتلئ",
+  "ex": "El autobús está lleno.",
+  "exar": "الحافلة ممتلئة.",
+  "e": ""
+ },
+ {
+  "es": "el matrimonio",
+  "pos": "n",
+  "g": "m",
+  "ar": "زواج",
+  "ex": "Certificado de matrimonio.",
+  "exar": "عقد الزواج.",
+  "e": "💍"
+ },
+ {
+  "es": "la misión",
+  "pos": "n",
+  "g": "f",
+  "ar": "مهمة",
+  "ex": "Una misión difícil.",
+  "exar": "مهمة صعبة.",
+  "e": ""
+ },
+ {
+  "es": "el pan",
+  "pos": "n",
+  "g": "m",
+  "ar": "خبز",
+  "ex": "Compro pan.",
+  "exar": "أشتري خبزًا.",
+  "e": "🍞"
+ },
+ {
+  "es": "participar",
+  "pos": "v",
+  "g": "",
+  "ar": "شارك ، يشارك",
+  "ex": "Participar en clase.",
+  "exar": "المشاركة في الصف.",
+  "e": ""
+ },
+ {
+  "es": "el peligro",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطر",
+  "ex": "¡Peligro!",
+  "exar": "خطر!",
+  "e": "⚠️"
+ },
+ {
+  "es": "el pelo",
+  "pos": "n",
+  "g": "m",
+  "ar": "شعر",
+  "ex": "Pelo largo.",
+  "exar": "شعر طويل.",
+  "e": "💇"
+ },
+ {
+  "es": "la presión",
+  "pos": "n",
+  "g": "f",
+  "ar": "ضغط",
+  "ex": "Presión arterial.",
+  "exar": "ضغط الدم.",
+  "e": ""
+ },
+ {
+  "es": "la sección",
+  "pos": "n",
+  "g": "f",
+  "ar": "قسم",
+  "ex": "Sección de frutas.",
+  "exar": "قسم الفواكه.",
+  "e": ""
+ },
+ {
+  "es": "tercero",
+  "pos": "num",
+  "g": "",
+  "ar": "ثالث",
+  "ex": "Vivo en el tercero.",
+  "exar": "أسكن في الطابق الثالث.",
+  "e": ""
+ },
+ {
+  "es": "la batalla",
+  "pos": "n",
+  "g": "f",
+  "ar": "معركة",
+  "ex": "Ganar la batalla.",
+  "exar": "كسب المعركة.",
+  "e": ""
+ },
+ {
+  "es": "el carácter",
+  "pos": "n",
+  "g": "m",
+  "ar": "طبع ، شخصية",
+  "ex": "Tiene buen carácter.",
+  "exar": "طبعه جيد.",
+  "e": ""
+ },
+ {
+  "es": "distinto",
+  "pos": "adj",
+  "g": "",
+  "ar": "مختلف",
+  "ex": "Dos cosas distintas.",
+  "exar": "شيئان مختلفان.",
+  "e": ""
+ },
+ {
+  "es": "duro",
+  "pos": "adj",
+  "g": "",
+  "ar": "صلب ، صعب",
+  "ex": "Un trabajo duro.",
+  "exar": "عمل شاق.",
+  "e": ""
+ },
+ {
+  "es": "la estación",
+  "pos": "n",
+  "g": "f",
+  "ar": "محطة ، فصل",
+  "ex": "Estación de tren.",
+  "exar": "محطة القطار.",
+  "e": "🚉"
+ },
+ {
+  "es": "el evento",
+  "pos": "n",
+  "g": "m",
+  "ar": "حدث ، فعالية",
+  "ex": "Un evento cultural.",
+  "exar": "فعالية ثقافية.",
+  "e": ""
+ },
+ {
+  "es": "francés",
+  "pos": "adj",
+  "g": "",
+  "ar": "فرنسي",
+  "ex": "Hablo francés.",
+  "exar": "أتكلم الفرنسية.",
+  "e": ""
+ },
+ {
+  "es": "independiente",
+  "pos": "adj",
+  "g": "",
+  "ar": "مستقل",
+  "ex": "Trabajador independiente.",
+  "exar": "عامل مستقل.",
+  "e": ""
+ },
+ {
+  "es": "el ingreso",
+  "pos": "n",
+  "g": "m",
+  "ar": "دخل ، إيداع",
+  "ex": "Ingresos mensuales.",
+  "exar": "الدخل الشهري.",
+  "e": ""
+ },
+ {
+  "es": "el intento",
+  "pos": "n",
+  "g": "m",
+  "ar": "محاولة",
+  "ex": "Primer intento.",
+  "exar": "المحاولة الأولى.",
+  "e": ""
+ },
+ {
+  "es": "el lunes",
+  "pos": "n",
+  "g": "m",
+  "ar": "الاثنين",
+  "ex": "El lunes empiezo.",
+  "exar": "أبدأ يوم الاثنين.",
+  "e": ""
+ },
+ {
+  "es": "el novio",
+  "pos": "n",
+  "g": "m",
+  "ar": "خطيب ، عريس ؛ (la novia) خطيبة",
+  "ex": "Mi novia es española.",
+  "exar": "خطيبتي إسبانية.",
+  "e": ""
+ },
+ {
+  "es": "ofrecer",
+  "pos": "v",
+  "g": "",
+  "ar": "عرض ، يعرض ، قدّم",
+  "ex": "Ofrecen trabajo.",
+  "exar": "يعرضون عملًا.",
+  "e": ""
+ },
+ {
+  "es": "la operación",
+  "pos": "n",
+  "g": "f",
+  "ar": "عملية",
+  "ex": "Una operación del corazón.",
+  "exar": "عملية في القلب.",
+  "e": ""
+ },
+ {
+  "es": "el papa",
+  "pos": "n",
+  "g": "m",
+  "ar": "البابا",
+  "ex": "El papa vive en Roma.",
+  "exar": "البابا يعيش في روما.",
+  "e": ""
+ },
+ {
+  "es": "el perdón",
+  "pos": "n",
+  "g": "m",
+  "ar": "عفو ، المعذرة",
+  "ex": "Perdón, no te entiendo.",
+  "exar": "عذرًا، لا أفهمك.",
+  "e": ""
+ },
+ {
+  "es": "la planta",
+  "pos": "n",
+  "g": "f",
+  "ar": "نبات ، طابق",
+  "ex": "Planta baja.",
+  "exar": "الطابق الأرضي.",
+  "e": "🪴"
+ },
+ {
+  "es": "servir",
+  "pos": "v",
+  "g": "",
+  "ar": "خدم ، يخدم ، نفع",
+  "ex": "¿Para qué sirve?",
+  "exar": "ما فائدته؟",
+  "e": ""
+ },
+ {
+  "es": "la teoría",
+  "pos": "n",
+  "g": "f",
+  "ar": "نظرية",
+  "ex": "En teoría.",
+  "exar": "نظريًا.",
+  "e": ""
+ },
+ {
+  "es": "el baño",
+  "pos": "n",
+  "g": "m",
+  "ar": "حمام",
+  "ex": "¿Dónde está el baño?",
+  "exar": "أين الحمام؟",
+  "e": "🚽"
+ },
+ {
+  "es": "la característica",
+  "pos": "n",
+  "g": "f",
+  "ar": "خاصية ، ميزة",
+  "ex": "Una característica importante.",
+  "exar": "ميزة مهمة.",
+  "e": ""
+ },
+ {
+  "es": "el compañero",
+  "pos": "n",
+  "g": "m",
+  "ar": "زميل",
+  "ex": "Compañero de trabajo.",
+  "exar": "زميل عمل.",
+  "e": ""
+ },
+ {
+  "es": "la compra",
+  "pos": "n",
+  "g": "f",
+  "ar": "شراء ، تسوّق",
+  "ex": "Hacer la compra.",
+  "exar": "التسوق.",
+  "e": "🛒"
+ },
+ {
+  "es": "el concepto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مفهوم",
+  "ex": "Un concepto difícil.",
+  "exar": "مفهوم صعب.",
+  "e": ""
+ },
+ {
+  "es": "el diputado",
+  "pos": "n",
+  "g": "m",
+  "ar": "نائب برلماني",
+  "ex": "Los diputados votan.",
+  "exar": "النواب يصوّتون.",
+  "e": ""
+ },
+ {
+  "es": "directo",
+  "pos": "adj",
+  "g": "",
+  "ar": "مباشر",
+  "ex": "Vuelo directo.",
+  "exar": "رحلة مباشرة.",
+  "e": ""
+ },
+ {
+  "es": "el documento",
+  "pos": "n",
+  "g": "m",
+  "ar": "وثيقة",
+  "ex": "Documento de identidad.",
+  "exar": "وثيقة الهوية.",
+  "e": "🪪"
+ },
+ {
+  "es": "enorme",
+  "pos": "adj",
+  "g": "",
+  "ar": "ضخم",
+  "ex": "Una casa enorme.",
+  "exar": "بيت ضخم.",
+  "e": ""
+ },
+ {
+  "es": "exactamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "بالضبط",
+  "ex": "Exactamente.",
+  "exar": "بالضبط.",
+  "e": ""
+ },
+ {
+  "es": "el festival",
+  "pos": "n",
+  "g": "m",
+  "ar": "مهرجان",
+  "ex": "Festival de música.",
+  "exar": "مهرجان موسيقى.",
+  "e": ""
+ },
+ {
+  "es": "el gobernador",
+  "pos": "n",
+  "g": "m",
+  "ar": "حاكم ، محافظ",
+  "ex": "El gobernador del banco.",
+  "exar": "محافظ البنك.",
+  "e": ""
+ },
+ {
+  "es": "el hotel",
+  "pos": "n",
+  "g": "m",
+  "ar": "فندق",
+  "ex": "Un hotel barato.",
+  "exar": "فندق رخيص.",
+  "e": "🏨"
+ },
+ {
+  "es": "lograr",
+  "pos": "v",
+  "g": "",
+  "ar": "نجح ، حقّق",
+  "ex": "Lo logré.",
+  "exar": "نجحت في ذلك.",
+  "e": ""
+ },
+ {
+  "es": "matar",
+  "pos": "v",
+  "g": "",
+  "ar": "قتل ، يقتل",
+  "ex": "El frío puede matar.",
+  "exar": "البرد قد يقتل.",
+  "e": ""
+ },
+ {
+  "es": "ocurrir",
+  "pos": "v",
+  "g": "",
+  "ar": "حدث ، يحدث",
+  "ex": "¿Qué ocurre?",
+  "exar": "ماذا يحدث؟",
+  "e": ""
+ },
+ {
+  "es": "el período",
+  "pos": "n",
+  "g": "m",
+  "ar": "فترة",
+  "ex": "Período de prueba.",
+  "exar": "فترة تجريبية.",
+  "e": ""
+ },
+ {
+  "es": "la piel",
+  "pos": "n",
+  "g": "f",
+  "ar": "جلد",
+  "ex": "Piel seca.",
+  "exar": "جلد جاف.",
+  "e": ""
+ },
+ {
+  "es": "principalmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "أساسًا",
+  "ex": "Trabajo principalmente por la mañana.",
+  "exar": "أعمل أساسًا في الصباح.",
+  "e": ""
+ },
+ {
+  "es": "raro",
+  "pos": "adj",
+  "g": "",
+  "ar": "غريب ، نادر",
+  "ex": "Un caso raro.",
+  "exar": "حالة نادرة.",
+  "e": ""
+ },
+ {
+  "es": "responsable",
+  "pos": "adj",
+  "g": "",
+  "ar": "مسؤول",
+  "ex": "Es muy responsable.",
+  "exar": "إنه مسؤول جدًا.",
+  "e": ""
+ },
+ {
+  "es": "el tamaño",
+  "pos": "n",
+  "g": "m",
+  "ar": "حجم",
+  "ex": "¿Qué tamaño?",
+  "exar": "ما الحجم؟",
+  "e": ""
+ },
+ {
+  "es": "abierto",
+  "pos": "adj",
+  "g": "",
+  "ar": "مفتوح",
+  "ex": "La tienda está abierta.",
+  "exar": "المحل مفتوح.",
+  "e": ""
+ },
+ {
+  "es": "afuera",
+  "pos": "adv",
+  "g": "",
+  "ar": "في الخارج",
+  "ex": "Los niños juegan afuera.",
+  "exar": "الأطفال يلعبون في الخارج.",
+  "e": ""
+ },
+ {
+  "es": "la clave",
+  "pos": "n",
+  "g": "f",
+  "ar": "مفتاح ، كلمة السر",
+  "ex": "La clave del wifi.",
+  "exar": "كلمة سر الواي فاي.",
+  "e": "🔑"
+ },
+ {
+  "es": "compartir",
+  "pos": "v",
+  "g": "",
+  "ar": "شارك ، يشارك ، تقاسم",
+  "ex": "Compartir piso.",
+  "exar": "تقاسم الشقة.",
+  "e": ""
+ },
+ {
+  "es": "considerar",
+  "pos": "v",
+  "g": "",
+  "ar": "اعتبر ، يعتبر",
+  "ex": "Lo considero un amigo.",
+  "exar": "أعتبره صديقًا.",
+  "e": ""
+ },
+ {
+  "es": "la crítica",
+  "pos": "n",
+  "g": "f",
+  "ar": "نقد",
+  "ex": "Acepto la crítica.",
+  "exar": "أتقبل النقد.",
+  "e": ""
+ },
+ {
+  "es": "la demanda",
+  "pos": "n",
+  "g": "f",
+  "ar": "طلب ، دعوى",
+  "ex": "Demanda de empleo.",
+  "exar": "طلب عمل.",
+  "e": ""
+ },
+ {
+  "es": "diverso",
+  "pos": "adj",
+  "g": "",
+  "ar": "متنوع",
+  "ex": "Diversos países.",
+  "exar": "بلدان متنوعة.",
+  "e": ""
+ },
+ {
+  "es": "el jugador",
+  "pos": "n",
+  "g": "m",
+  "ar": "لاعب",
+  "ex": "Un jugador de fútbol.",
+  "exar": "لاعب كرة قدم.",
+  "e": ""
+ },
+ {
+  "es": "la luna",
+  "pos": "n",
+  "g": "f",
+  "ar": "قمر",
+  "ex": "Luna llena.",
+  "exar": "البدر.",
+  "e": "🌙"
+ },
+ {
+  "es": "el personaje",
+  "pos": "n",
+  "g": "m",
+  "ar": "شخصية",
+  "ex": "Un personaje famoso.",
+  "exar": "شخصية مشهورة.",
+  "e": ""
+ },
+ {
+  "es": "el piso",
+  "pos": "n",
+  "g": "m",
+  "ar": "شقة ، طابق",
+  "ex": "Alquilo un piso.",
+  "exar": "أستأجر شقة.",
+  "e": ""
+ },
+ {
+  "es": "recién",
+  "pos": "adv",
+  "g": "",
+  "ar": "حديثًا",
+  "ex": "Recién llegado.",
+  "exar": "وصل حديثًا.",
+  "e": ""
+ },
+ {
+  "es": "representar",
+  "pos": "v",
+  "g": "",
+  "ar": "مثّل ، يمثّل",
+  "ex": "Representa a su país.",
+  "exar": "يمثل بلده.",
+  "e": ""
+ },
+ {
+  "es": "salvo",
+  "pos": "prep",
+  "g": "",
+  "ar": "باستثناء",
+  "ex": "Todos salvo él.",
+  "exar": "الجميع باستثنائه.",
+  "e": ""
+ },
+ {
+  "es": "el sábado",
+  "pos": "n",
+  "g": "m",
+  "ar": "السبت",
+  "ex": "El sábado no trabajo.",
+  "exar": "لا أعمل يوم السبت.",
+  "e": ""
+ },
+ {
+  "es": "la velocidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "سرعة",
+  "ex": "Límite de velocidad.",
+  "exar": "حد السرعة.",
+  "e": ""
+ },
+ {
+  "es": "la visión",
+  "pos": "n",
+  "g": "f",
+  "ar": "رؤية",
+  "ex": "Visión del futuro.",
+  "exar": "رؤية للمستقبل.",
+  "e": ""
+ },
+ {
+  "es": "el alcalde",
+  "pos": "n",
+  "g": "m",
+  "ar": "عمدة ، رئيس البلدية",
+  "ex": "El alcalde de la ciudad.",
+  "exar": "عمدة المدينة.",
+  "e": ""
+ },
+ {
+  "es": "la altura",
+  "pos": "n",
+  "g": "f",
+  "ar": "ارتفاع ، طول",
+  "ex": "¿Qué altura tienes?",
+  "exar": "كم طولك؟",
+  "e": ""
+ },
+ {
+  "es": "el candidato",
+  "pos": "n",
+  "g": "m",
+  "ar": "مرشح",
+  "ex": "El candidato a alcalde.",
+  "exar": "المرشح لرئاسة البلدية.",
+  "e": ""
+ },
+ {
+  "es": "la competencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "منافسة ، كفاءة",
+  "ex": "Mucha competencia.",
+  "exar": "منافسة كبيرة.",
+  "e": ""
+ },
+ {
+  "es": "debajo",
+  "pos": "adv",
+  "g": "",
+  "ar": "تحت",
+  "ex": "Debajo de la cama.",
+  "exar": "تحت السرير.",
+  "e": ""
+ },
+ {
+  "es": "la facultad",
+  "pos": "n",
+  "g": "f",
+  "ar": "كلية",
+  "ex": "Facultad de Medicina.",
+  "exar": "كلية الطب.",
+  "e": ""
+ },
+ {
+  "es": "la generación",
+  "pos": "n",
+  "g": "f",
+  "ar": "جيل",
+  "ex": "Nueva generación.",
+  "exar": "جيل جديد.",
+  "e": ""
+ },
+ {
+  "es": "la gestión",
+  "pos": "n",
+  "g": "f",
+  "ar": "إدارة ، إجراء",
+  "ex": "Gestión de empresas.",
+  "exar": "إدارة الأعمال.",
+  "e": ""
+ },
+ {
+  "es": "a menudo",
+  "pos": "expr",
+  "g": "",
+  "ar": "غالبًا",
+  "ex": "Voy a menudo al parque.",
+  "exar": "أذهب إلى الحديقة غالبًا.",
+  "e": ""
+ },
+ {
+  "es": "el presupuesto",
+  "pos": "n",
+  "g": "m",
+  "ar": "ميزانية ، عرض سعر",
+  "ex": "Pedir presupuesto.",
+  "exar": "طلب عرض سعر.",
+  "e": ""
+ },
+ {
+  "es": "querido",
+  "pos": "adj",
+  "g": "",
+  "ar": "عزيز",
+  "ex": "Querido amigo.",
+  "exar": "صديقي العزيز.",
+  "e": ""
+ },
+ {
+  "es": "sonar",
+  "pos": "v",
+  "g": "",
+  "ar": "رنّ ، يرنّ",
+  "ex": "Suena el teléfono.",
+  "exar": "الهاتف يرن.",
+  "e": ""
+ },
+ {
+  "es": "suponer",
+  "pos": "v",
+  "g": "",
+  "ar": "افترض ، يفترض",
+  "ex": "Supongo que sí.",
+  "exar": "أفترض ذلك.",
+  "e": ""
+ },
+ {
+  "es": "el abogado",
+  "pos": "n",
+  "g": "m",
+  "ar": "محامٍ",
+  "ex": "Necesito un abogado.",
+  "exar": "أحتاج محاميًا.",
+  "e": ""
+ },
+ {
+  "es": "abrir",
+  "pos": "v",
+  "g": "",
+  "ar": "فتح ، يفتح",
+  "ex": "Abre la ventana.",
+  "exar": "افتح النافذة.",
+  "e": ""
+ },
+ {
+  "es": "andar",
+  "pos": "v",
+  "g": "",
+  "ar": "مشى ، يمشي",
+  "ex": "Ando mucho.",
+  "exar": "أمشي كثيرًا.",
+  "e": "🚶"
+ },
+ {
+  "es": "antiguo",
+  "pos": "adj",
+  "g": "",
+  "ar": "قديم ، عتيق",
+  "ex": "Un edificio antiguo.",
+  "exar": "مبنى قديم.",
+  "e": ""
+ },
+ {
+  "es": "bastar",
+  "pos": "v",
+  "g": "",
+  "ar": "كفى ، يكفي",
+  "ex": "¡Basta!",
+  "exar": "كفى!",
+  "e": ""
+ },
+ {
+  "es": "la carga",
+  "pos": "n",
+  "g": "f",
+  "ar": "حمولة ، شحن",
+  "ex": "Carga y descarga.",
+  "exar": "تحميل وتفريغ.",
+  "e": ""
+ },
+ {
+  "es": "la cita",
+  "pos": "n",
+  "g": "f",
+  "ar": "موعد",
+  "ex": "Pedir cita previa.",
+  "exar": "طلب موعد مسبق.",
+  "e": ""
+ },
+ {
+  "es": "el consumo",
+  "pos": "n",
+  "g": "m",
+  "ar": "استهلاك",
+  "ex": "Consumo de agua.",
+  "exar": "استهلاك الماء.",
+  "e": ""
+ },
+ {
+  "es": "el contexto",
+  "pos": "n",
+  "g": "m",
+  "ar": "سياق",
+  "ex": "En este contexto.",
+  "exar": "في هذا السياق.",
+  "e": ""
+ },
+ {
+  "es": "el correo",
+  "pos": "n",
+  "g": "m",
+  "ar": "بريد",
+  "ex": "Correo electrónico.",
+  "exar": "بريد إلكتروني.",
+  "e": "📧"
+ },
+ {
+  "es": "el ejercicio",
+  "pos": "n",
+  "g": "m",
+  "ar": "تمرين",
+  "ex": "Hacer ejercicio.",
+  "exar": "ممارسة الرياضة.",
+  "e": "🏋️"
+ },
+ {
+  "es": "elegir",
+  "pos": "v",
+  "g": "",
+  "ar": "اختار ، يختار",
+  "ex": "Elige uno.",
+  "exar": "اختر واحدًا.",
+  "e": ""
+ },
+ {
+  "es": "la figura",
+  "pos": "n",
+  "g": "f",
+  "ar": "شكل ، شخصية",
+  "ex": "Una figura importante.",
+  "exar": "شخصية مهمة.",
+  "e": ""
+ },
+ {
+  "es": "genial",
+  "pos": "adj",
+  "g": "",
+  "ar": "رائع",
+  "ex": "¡Genial!",
+  "exar": "رائع!",
+  "e": ""
+ },
+ {
+  "es": "municipal",
+  "pos": "adj",
+  "g": "",
+  "ar": "بلدي",
+  "ex": "Piscina municipal.",
+  "exar": "مسبح بلدي.",
+  "e": ""
+ },
+ {
+  "es": "nueve",
+  "pos": "num",
+  "g": "",
+  "ar": "تسعة",
+  "ex": "A las nueve.",
+  "exar": "في الساعة التاسعة.",
+  "e": "9️⃣"
+ },
+ {
+  "es": "el objeto",
+  "pos": "n",
+  "g": "m",
+  "ar": "شيء ، غرض",
+  "ex": "Objetos perdidos.",
+  "exar": "المفقودات.",
+  "e": ""
+ },
+ {
+  "es": "la publicación",
+  "pos": "n",
+  "g": "f",
+  "ar": "منشور ، نشر",
+  "ex": "Una publicación en Facebook.",
+  "exar": "منشور على فيسبوك.",
+  "e": ""
+ },
+ {
+  "es": "el tratamiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "علاج",
+  "ex": "Tratamiento médico.",
+  "exar": "علاج طبي.",
+  "e": "💊"
+ },
+ {
+  "es": "la villa",
+  "pos": "n",
+  "g": "f",
+  "ar": "بلدة ، فيلا",
+  "ex": "Una villa antigua.",
+  "exar": "بلدة قديمة.",
+  "e": ""
+ },
+ {
+  "es": "el calor",
+  "pos": "n",
+  "g": "m",
+  "ar": "حرارة ، حرّ",
+  "ex": "Hace calor.",
+  "exar": "الجو حار.",
+  "e": "🥵"
+ },
+ {
+  "es": "la conciencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "ضمير ، وعي",
+  "ex": "Conciencia tranquila.",
+  "exar": "ضمير مرتاح.",
+  "e": ""
+ },
+ {
+  "es": "la cárcel",
+  "pos": "n",
+  "g": "f",
+  "ar": "سجن",
+  "ex": "Está en la cárcel.",
+  "exar": "هو في السجن.",
+  "e": ""
+ },
+ {
+  "es": "digital",
+  "pos": "adj",
+  "g": "",
+  "ar": "رقمي",
+  "ex": "Certificado digital.",
+  "exar": "شهادة رقمية.",
+  "e": ""
+ },
+ {
+  "es": "el distrito",
+  "pos": "n",
+  "g": "m",
+  "ar": "حي ، دائرة",
+  "ex": "Distrito centro.",
+  "exar": "حي الوسط.",
+  "e": ""
+ },
+ {
+  "es": "familiar",
+  "pos": "adj",
+  "g": "",
+  "ar": "عائلي",
+  "ex": "Reagrupación familiar.",
+  "exar": "لمّ الشمل العائلي.",
+  "e": ""
+ },
+ {
+  "es": "la fundación",
+  "pos": "n",
+  "g": "f",
+  "ar": "مؤسسة",
+  "ex": "Una fundación ayuda a inmigrantes.",
+  "exar": "مؤسسة تساعد المهاجرين.",
+  "e": ""
+ },
+ {
+  "es": "el ganado",
+  "pos": "n",
+  "g": "m",
+  "ar": "ماشية",
+  "ex": "Cuida el ganado.",
+  "exar": "يعتني بالماشية.",
+  "e": "🐄"
+ },
+ {
+  "es": "histórico",
+  "pos": "adj",
+  "g": "",
+  "ar": "تاريخي",
+  "ex": "Centro histórico.",
+  "exar": "المركز التاريخي.",
+  "e": ""
+ },
+ {
+  "es": "la intención",
+  "pos": "n",
+  "g": "f",
+  "ar": "نية",
+  "ex": "Buena intención.",
+  "exar": "نية حسنة.",
+  "e": ""
+ },
+ {
+  "es": "la junta",
+  "pos": "n",
+  "g": "f",
+  "ar": "مجلس ، اجتماع",
+  "ex": "Junta de Andalucía.",
+  "exar": "حكومة الأندلس.",
+  "e": ""
+ },
+ {
+  "es": "listo",
+  "pos": "adj",
+  "g": "",
+  "ar": "جاهز ، ذكي",
+  "ex": "Estoy listo.",
+  "exar": "أنا جاهز.",
+  "e": ""
+ },
+ {
+  "es": "máximo",
+  "pos": "adj",
+  "g": "",
+  "ar": "أقصى",
+  "ex": "Velocidad máxima.",
+  "exar": "السرعة القصوى.",
+  "e": ""
+ },
+ {
+  "es": "la ocasión",
+  "pos": "n",
+  "g": "f",
+  "ar": "مناسبة ، فرصة",
+  "ex": "En ocasiones.",
+  "exar": "أحيانًا.",
+  "e": ""
+ },
+ {
+  "es": "la piedra",
+  "pos": "n",
+  "g": "f",
+  "ar": "حجر",
+  "ex": "Una casa de piedra.",
+  "exar": "بيت من حجر.",
+  "e": "🪨"
+ },
+ {
+  "es": "privado",
+  "pos": "adj",
+  "g": "",
+  "ar": "خاص",
+  "ex": "Un colegio privado.",
+  "exar": "مدرسة خاصة.",
+  "e": ""
+ },
+ {
+  "es": "el propósito",
+  "pos": "n",
+  "g": "m",
+  "ar": "هدف ، غاية",
+  "ex": "A propósito.",
+  "exar": "بالمناسبة.",
+  "e": ""
+ },
+ {
+  "es": "la regla",
+  "pos": "n",
+  "g": "f",
+  "ar": "قاعدة ، مسطرة",
+  "ex": "Las reglas del juego.",
+  "exar": "قواعد اللعبة.",
+  "e": "📏"
+ },
+ {
+  "es": "el secretario",
+  "pos": "n",
+  "g": "m",
+  "ar": "سكرتير ، أمين",
+  "ex": "Secretario general.",
+  "exar": "الأمين العام.",
+  "e": ""
+ },
+ {
+  "es": "la sede",
+  "pos": "n",
+  "g": "f",
+  "ar": "مقر",
+  "ex": "La sede central.",
+  "exar": "المقر الرئيسي.",
+  "e": ""
+ },
+ {
+  "es": "el soldado",
+  "pos": "n",
+  "g": "m",
+  "ar": "جندي",
+  "ex": "Mi abuelo fue soldado.",
+  "exar": "كان جدي جنديًا.",
+  "e": ""
+ },
+ {
+  "es": "la técnica",
+  "pos": "n",
+  "g": "f",
+  "ar": "تقنية",
+  "ex": "Una técnica nueva.",
+  "exar": "تقنية جديدة.",
+  "e": ""
+ },
+ {
+  "es": "el aeropuerto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مطار",
+  "ex": "Voy al aeropuerto.",
+  "exar": "أذهب إلى المطار.",
+  "e": "🛫"
+ },
+ {
+  "es": "la cadena",
+  "pos": "n",
+  "g": "f",
+  "ar": "سلسلة ، قناة",
+  "ex": "Una cadena de oro.",
+  "exar": "سلسلة من ذهب.",
+  "e": "⛓️"
+ },
+ {
+  "es": "el capitán",
+  "pos": "n",
+  "g": "m",
+  "ar": "قائد ، نقيب",
+  "ex": "El capitán del equipo.",
+  "exar": "قائد الفريق.",
+  "e": ""
+ },
+ {
+  "es": "la continuación",
+  "pos": "n",
+  "g": "f",
+  "ar": "متابعة",
+  "ex": "A continuación.",
+  "exar": "فيما يلي.",
+  "e": ""
+ },
+ {
+  "es": "delante",
+  "pos": "adv",
+  "g": "",
+  "ar": "أمام",
+  "ex": "Delante de la casa.",
+  "exar": "أمام البيت.",
+  "e": ""
+ },
+ {
+  "es": "europeo",
+  "pos": "adj",
+  "g": "",
+  "ar": "أوروبي",
+  "ex": "Unión Europea.",
+  "exar": "الاتحاد الأوروبي.",
+  "e": "🇪🇺"
+ },
+ {
+  "es": "la influencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "تأثير",
+  "ex": "Mala influencia.",
+  "exar": "تأثير سيئ.",
+  "e": ""
+ },
+ {
+  "es": "judicial",
+  "pos": "adj",
+  "g": "",
+  "ar": "قضائي",
+  "ex": "Un proceso judicial.",
+  "exar": "إجراء قضائي.",
+  "e": ""
+ },
+ {
+  "es": "el lenguaje",
+  "pos": "n",
+  "g": "m",
+  "ar": "لغة",
+  "ex": "Lenguaje sencillo.",
+  "exar": "لغة بسيطة.",
+  "e": ""
+ },
+ {
+  "es": "la literatura",
+  "pos": "n",
+  "g": "f",
+  "ar": "أدب",
+  "ex": "Literatura árabe.",
+  "exar": "الأدب العربي.",
+  "e": ""
+ },
+ {
+  "es": "mexicano",
+  "pos": "adj",
+  "g": "",
+  "ar": "مكسيكي",
+  "ex": "Comida mexicana.",
+  "exar": "طعام مكسيكي.",
+  "e": ""
+ },
+ {
+  "es": "el saludo",
+  "pos": "n",
+  "g": "m",
+  "ar": "تحية",
+  "ex": "Saludos a tu familia.",
+  "exar": "سلامي إلى عائلتك.",
+  "e": ""
+ },
+ {
+  "es": "la actitud",
+  "pos": "n",
+  "g": "f",
+  "ar": "موقف ، سلوك",
+  "ex": "Buena actitud.",
+  "exar": "موقف إيجابي.",
+  "e": ""
+ },
+ {
+  "es": "la basura",
+  "pos": "n",
+  "g": "f",
+  "ar": "قمامة",
+  "ex": "Tira la basura.",
+  "exar": "ارمِ القمامة.",
+  "e": "🗑️"
+ },
+ {
+  "es": "la búsqueda",
+  "pos": "n",
+  "g": "f",
+  "ar": "بحث",
+  "ex": "Búsqueda de empleo.",
+  "exar": "البحث عن عمل.",
+  "e": ""
+ },
+ {
+  "es": "el coche",
+  "pos": "n",
+  "g": "m",
+  "ar": "سيارة",
+  "ex": "Tengo coche.",
+  "exar": "عندي سيارة.",
+  "e": "🚗"
+ },
+ {
+  "es": "corto",
+  "pos": "adj",
+  "g": "",
+  "ar": "قصير",
+  "ex": "Pelo corto.",
+  "exar": "شعر قصير.",
+  "e": ""
+ },
+ {
+  "es": "cuánto",
+  "pos": "adv",
+  "g": "",
+  "ar": "كم",
+  "ex": "¿Cuánto tiempo?",
+  "exar": "كم من الوقت؟",
+  "e": ""
+ },
+ {
+  "es": "el espíritu",
+  "pos": "n",
+  "g": "m",
+  "ar": "روح",
+  "ex": "Espíritu de equipo.",
+  "exar": "روح الفريق.",
+  "e": ""
+ },
+ {
+  "es": "la existencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "وجود",
+  "ex": "La existencia de problemas.",
+  "exar": "وجود مشاكل.",
+  "e": ""
+ },
+ {
+  "es": "la frontera",
+  "pos": "n",
+  "g": "f",
+  "ar": "حدود",
+  "ex": "La frontera con Francia.",
+  "exar": "الحدود مع فرنسا.",
+  "e": ""
+ },
+ {
+  "es": "el idioma",
+  "pos": "n",
+  "g": "m",
+  "ar": "لغة",
+  "ex": "Hablo tres idiomas.",
+  "exar": "أتكلم ثلاث لغات.",
+  "e": ""
+ },
+ {
+  "es": "la leche",
+  "pos": "n",
+  "g": "f",
+  "ar": "حليب",
+  "ex": "Un vaso de leche.",
+  "exar": "كوب حليب.",
+  "e": "🥛"
+ },
+ {
+  "es": "no obstante",
+  "pos": "expr",
+  "g": "",
+  "ar": "مع ذلك",
+  "ex": "No obstante, seguimos.",
+  "exar": "ومع ذلك نستمر.",
+  "e": ""
+ },
+ {
+  "es": "el planeta",
+  "pos": "n",
+  "g": "m",
+  "ar": "كوكب",
+  "ex": "Cuidar el planeta.",
+  "exar": "الحفاظ على الكوكب.",
+  "e": "🪐"
+ },
+ {
+  "es": "la pobreza",
+  "pos": "n",
+  "g": "f",
+  "ar": "فقر",
+  "ex": "Luchar contra la pobreza.",
+  "exar": "محاربة الفقر.",
+  "e": ""
+ },
+ {
+  "es": "sexual",
+  "pos": "adj",
+  "g": "",
+  "ar": "جنسي",
+  "ex": "Acoso sexual.",
+  "exar": "تحرش جنسي.",
+  "e": ""
+ },
+ {
+  "es": "la tienda",
+  "pos": "n",
+  "g": "f",
+  "ar": "متجر ، محل",
+  "ex": "Una tienda de ropa.",
+  "exar": "محل ملابس.",
+  "e": "🏪"
+ },
+ {
+  "es": "las vacaciones",
+  "pos": "n",
+  "g": "fpl",
+  "ar": "عطلة",
+  "ex": "Estoy de vacaciones.",
+  "exar": "أنا في عطلة.",
+  "e": ""
+ },
+ {
+  "es": "la belleza",
+  "pos": "n",
+  "g": "f",
+  "ar": "جمال",
+  "ex": "La belleza de Granada.",
+  "exar": "جمال غرناطة.",
+  "e": ""
+ },
+ {
+  "es": "construir",
+  "pos": "v",
+  "g": "",
+  "ar": "بنى ، يبني",
+  "ex": "Construir una casa.",
+  "exar": "بناء بيت.",
+  "e": ""
+ },
+ {
+  "es": "cuándo",
+  "pos": "adv",
+  "g": "",
+  "ar": "متى",
+  "ex": "¿Cuándo llegas?",
+  "exar": "متى تصل؟",
+  "e": ""
+ },
+ {
+  "es": "la declaración",
+  "pos": "n",
+  "g": "f",
+  "ar": "تصريح ، إقرار",
+  "ex": "Declaración de la renta.",
+  "exar": "الإقرار الضريبي.",
+  "e": ""
+ },
+ {
+  "es": "el empleado",
+  "pos": "n",
+  "g": "m",
+  "ar": "موظف",
+  "ex": "Un empleado del banco.",
+  "exar": "موظف في البنك.",
+  "e": ""
+ },
+ {
+  "es": "estadounidense",
+  "pos": "adj",
+  "g": "",
+  "ar": "أمريكي",
+  "ex": "Una empresa estadounidense.",
+  "exar": "شركة أمريكية.",
+  "e": ""
+ },
+ {
+  "es": "estatal",
+  "pos": "adj",
+  "g": "",
+  "ar": "حكومي ، تابع للدولة",
+  "ex": "Ayuda estatal.",
+  "exar": "مساعدة حكومية.",
+  "e": ""
+ },
+ {
+  "es": "mínimo",
+  "pos": "adj",
+  "g": "",
+  "ar": "أدنى",
+  "ex": "Salario mínimo.",
+  "exar": "الحد الأدنى للأجور.",
+  "e": ""
+ },
+ {
+  "es": "ojalá",
+  "pos": "interj",
+  "g": "",
+  "ar": "يا ليت ، إن شاء الله",
+  "ex": "Ojalá llueva.",
+  "exar": "ليتها تمطر.",
+  "e": ""
+ },
+ {
+  "es": "la pantalla",
+  "pos": "n",
+  "g": "f",
+  "ar": "شاشة",
+  "ex": "La pantalla del móvil.",
+  "exar": "شاشة الهاتف.",
+  "e": "🖥️"
+ },
+ {
+  "es": "el papá",
+  "pos": "n",
+  "g": "m",
+  "ar": "بابا",
+  "ex": "Mi papá trabaja mucho.",
+  "exar": "أبي يعمل كثيرًا.",
+  "e": ""
+ },
+ {
+  "es": "el perfil",
+  "pos": "n",
+  "g": "m",
+  "ar": "ملف شخصي",
+  "ex": "Perfil profesional.",
+  "exar": "الملف المهني.",
+  "e": ""
+ },
+ {
+  "es": "la tarea",
+  "pos": "n",
+  "g": "f",
+  "ar": "مهمة ، واجب",
+  "ex": "Las tareas de casa.",
+  "exar": "أعمال المنزل.",
+  "e": ""
+ },
+ {
+  "es": "el tratado",
+  "pos": "n",
+  "g": "m",
+  "ar": "معاهدة",
+  "ex": "Un tratado internacional.",
+  "exar": "معاهدة دولية.",
+  "e": ""
+ },
+ {
+  "es": "el artista",
+  "pos": "n",
+  "g": "m",
+  "ar": "فنان",
+  "ex": "Un artista famoso.",
+  "exar": "فنان مشهور.",
+  "e": ""
+ },
+ {
+  "es": "el aspecto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مظهر ، جانب",
+  "ex": "Buen aspecto.",
+  "exar": "مظهر جيد.",
+  "e": ""
+ },
+ {
+  "es": "caer",
+  "pos": "v",
+  "g": "",
+  "ar": "سقط ، يسقط",
+  "ex": "Cuidado, no te caigas.",
+  "exar": "انتبه، لا تسقط.",
+  "e": ""
+ },
+ {
+  "es": "el crédito",
+  "pos": "n",
+  "g": "m",
+  "ar": "قرض ، رصيد",
+  "ex": "Un crédito del banco.",
+  "exar": "قرض من البنك.",
+  "e": ""
+ },
+ {
+  "es": "costar",
+  "pos": "v",
+  "g": "",
+  "ar": "كلّف ، يكلّف",
+  "ex": "¿Cuánto cuesta?",
+  "exar": "كم ثمنه؟",
+  "e": ""
+ },
+ {
+  "es": "depender",
+  "pos": "v",
+  "g": "",
+  "ar": "اعتمد ، يعتمد",
+  "ex": "Depende del precio.",
+  "exar": "يعتمد على السعر.",
+  "e": ""
+ },
+ {
+  "es": "la distribución",
+  "pos": "n",
+  "g": "f",
+  "ar": "توزيع",
+  "ex": "Distribución de alimentos.",
+  "exar": "توزيع المواد الغذائية.",
+  "e": ""
+ },
+ {
+  "es": "el gas",
+  "pos": "n",
+  "g": "m",
+  "ar": "غاز",
+  "ex": "La factura del gas.",
+  "exar": "فاتورة الغاز.",
+  "e": ""
+ },
+ {
+  "es": "grave",
+  "pos": "adj",
+  "g": "",
+  "ar": "خطير",
+  "ex": "Está grave.",
+  "exar": "حالته خطيرة.",
+  "e": ""
+ },
+ {
+  "es": "la identidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "هوية",
+  "ex": "Tarjeta de identidad.",
+  "exar": "بطاقة الهوية.",
+  "e": ""
+ },
+ {
+  "es": "la inteligencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "ذكاء",
+  "ex": "Inteligencia artificial.",
+  "exar": "الذكاء الاصطناعي.",
+  "e": ""
+ },
+ {
+  "es": "la inversión",
+  "pos": "n",
+  "g": "f",
+  "ar": "استثمار",
+  "ex": "Una buena inversión.",
+  "exar": "استثمار جيد.",
+  "e": ""
+ },
+ {
+  "es": "la mirada",
+  "pos": "n",
+  "g": "f",
+  "ar": "نظرة",
+  "ex": "Una mirada triste.",
+  "exar": "نظرة حزينة.",
+  "e": ""
+ },
+ {
+  "es": "el pedido",
+  "pos": "n",
+  "g": "m",
+  "ar": "طلبية",
+  "ex": "Hacer un pedido.",
+  "exar": "تقديم طلبية.",
+  "e": ""
+ },
+ {
+  "es": "la playa",
+  "pos": "n",
+  "g": "f",
+  "ar": "شاطئ",
+  "ex": "Vamos a la playa.",
+  "exar": "لنذهب إلى الشاطئ.",
+  "e": "🏖️"
+ },
+ {
+  "es": "el promedio",
+  "pos": "n",
+  "g": "m",
+  "ar": "متوسط",
+  "ex": "En promedio.",
+  "exar": "في المتوسط.",
+  "e": ""
+ },
+ {
+  "es": "la pérdida",
+  "pos": "n",
+  "g": "f",
+  "ar": "خسارة",
+  "ex": "Una pérdida de tiempo.",
+  "exar": "مضيعة للوقت.",
+  "e": ""
+ },
+ {
+  "es": "la resistencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "مقاومة ، تحمّل",
+  "ex": "Resistencia física.",
+  "exar": "التحمل البدني.",
+  "e": ""
+ },
+ {
+  "es": "el terreno",
+  "pos": "n",
+  "g": "m",
+  "ar": "أرض ، قطعة أرض",
+  "ex": "Un terreno agrícola.",
+  "exar": "أرض زراعية.",
+  "e": ""
+ },
+ {
+  "es": "la voluntad",
+  "pos": "n",
+  "g": "f",
+  "ar": "إرادة",
+  "ex": "Buena voluntad.",
+  "exar": "حسن النية.",
+  "e": ""
+ },
+ {
+  "es": "votar",
+  "pos": "v",
+  "g": "",
+  "ar": "صوّت ، يصوّت",
+  "ex": "Votar en las elecciones.",
+  "exar": "التصويت في الانتخابات.",
+  "e": ""
+ },
+ {
+  "es": "aceptar",
+  "pos": "v",
+  "g": "",
+  "ar": "قبل ، يقبل",
+  "ex": "Acepto el trabajo.",
+  "exar": "أقبل العمل.",
+  "e": ""
+ },
+ {
+  "es": "el asesinato",
+  "pos": "n",
+  "g": "m",
+  "ar": "جريمة قتل ، اغتيال",
+  "ex": "La policía investiga un asesinato.",
+  "exar": "الشرطة تحقق في جريمة قتل.",
+  "e": ""
+ },
+ {
+  "es": "la cocina",
+  "pos": "n",
+  "g": "f",
+  "ar": "مطبخ ، طبخ",
+  "ex": "La cocina española.",
+  "exar": "المطبخ الإسباني.",
+  "e": "🍳"
+ },
+ {
+  "es": "el comité",
+  "pos": "n",
+  "g": "m",
+  "ar": "لجنة",
+  "ex": "Comité de empresa.",
+  "exar": "لجنة العمال.",
+  "e": ""
+ },
+ {
+  "es": "el conflicto",
+  "pos": "n",
+  "g": "m",
+  "ar": "نزاع",
+  "ex": "Un conflicto armado.",
+  "exar": "نزاع مسلح.",
+  "e": ""
+ },
+ {
+  "es": "la consecuencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "نتيجة ، عاقبة",
+  "ex": "Tiene graves consecuencias.",
+  "exar": "له عواقب خطيرة.",
+  "e": ""
+ },
+ {
+  "es": "correcto",
+  "pos": "adj",
+  "g": "",
+  "ar": "صحيح",
+  "ex": "La respuesta correcta.",
+  "exar": "الجواب الصحيح.",
+  "e": "✅"
+ },
+ {
+  "es": "dulce",
+  "pos": "adj",
+  "g": "",
+  "ar": "حلو",
+  "ex": "Me gusta lo dulce.",
+  "exar": "أحب الحلويات.",
+  "e": "🍬"
+ },
+ {
+  "es": "explicar",
+  "pos": "v",
+  "g": "",
+  "ar": "شرح ، يشرح",
+  "ex": "Explícame.",
+  "exar": "اشرح لي.",
+  "e": ""
+ },
+ {
+  "es": "físico",
+  "pos": "adj",
+  "g": "",
+  "ar": "جسدي ، فيزيائي",
+  "ex": "Actividad física.",
+  "exar": "نشاط بدني.",
+  "e": ""
+ },
+ {
+  "es": "el impuesto",
+  "pos": "n",
+  "g": "m",
+  "ar": "ضريبة",
+  "ex": "Pagar impuestos.",
+  "exar": "دفع الضرائب.",
+  "e": ""
+ },
+ {
+  "es": "inmediatamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "فورًا",
+  "ex": "Ven inmediatamente.",
+  "exar": "تعال فورًا.",
+  "e": ""
+ },
+ {
+  "es": "el jueves",
+  "pos": "n",
+  "g": "m",
+  "ar": "الخميس",
+  "ex": "El jueves tengo cita.",
+  "exar": "عندي موعد يوم الخميس.",
+  "e": ""
+ },
+ {
+  "es": "la medicina",
+  "pos": "n",
+  "g": "f",
+  "ar": "طب ، دواء",
+  "ex": "Estudia medicina.",
+  "exar": "يدرس الطب.",
+  "e": ""
+ },
+ {
+  "es": "mío",
+  "pos": "pron",
+  "g": "",
+  "ar": "لي ، خاصتي",
+  "ex": "Es mío.",
+  "exar": "إنه لي.",
+  "e": ""
+ },
+ {
+  "es": "la novela",
+  "pos": "n",
+  "g": "f",
+  "ar": "رواية",
+  "ex": "Leo una novela.",
+  "exar": "أقرأ رواية.",
+  "e": ""
+ },
+ {
+  "es": "el permiso",
+  "pos": "n",
+  "g": "m",
+  "ar": "إذن ، رخصة",
+  "ex": "Permiso de trabajo.",
+  "exar": "تصريح عمل.",
+  "e": ""
+ },
+ {
+  "es": "la presentación",
+  "pos": "n",
+  "g": "f",
+  "ar": "عرض ، تقديم",
+  "ex": "Carta de presentación.",
+  "exar": "رسالة تعريفية.",
+  "e": ""
+ },
+ {
+  "es": "el puente",
+  "pos": "n",
+  "g": "m",
+  "ar": "جسر",
+  "ex": "Cruza el puente.",
+  "exar": "اعبر الجسر.",
+  "e": "🌉"
+ },
+ {
+  "es": "el reconocimiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "اعتراف ، فحص",
+  "ex": "Reconocimiento médico.",
+  "exar": "فحص طبي.",
+  "e": ""
+ },
+ {
+  "es": "el regreso",
+  "pos": "n",
+  "g": "m",
+  "ar": "عودة",
+  "ex": "El regreso a casa.",
+  "exar": "العودة إلى البيت.",
+  "e": ""
+ },
+ {
+  "es": "el representante",
+  "pos": "n",
+  "g": "m",
+  "ar": "ممثل",
+  "ex": "Representante de los trabajadores.",
+  "exar": "ممثل العمال.",
+  "e": ""
+ },
+ {
+  "es": "la rosa",
+  "pos": "n",
+  "g": "f",
+  "ar": "وردة",
+  "ex": "Una rosa roja.",
+  "exar": "وردة حمراء.",
+  "e": "🌹"
+ },
+ {
+  "es": "subir",
+  "pos": "v",
+  "g": "",
+  "ar": "صعد ، يصعد",
+  "ex": "Subo las escaleras.",
+  "exar": "أصعد الدرج.",
+  "e": ""
+ },
+ {
+  "es": "el tren",
+  "pos": "n",
+  "g": "m",
+  "ar": "قطار",
+  "ex": "Cojo el tren.",
+  "exar": "أركب القطار.",
+  "e": "🚆"
+ },
+ {
+  "es": "utilizar",
+  "pos": "v",
+  "g": "",
+  "ar": "استخدم ، يستخدم",
+  "ex": "Utilizar el ordenador.",
+  "exar": "استخدام الحاسوب.",
+  "e": ""
+ },
+ {
+  "es": "la víctima",
+  "pos": "n",
+  "g": "f",
+  "ar": "ضحية",
+  "ex": "Víctima de violencia.",
+  "exar": "ضحية عنف.",
+  "e": ""
+ },
+ {
+  "es": "el bebé",
+  "pos": "n",
+  "g": "m",
+  "ar": "رضيع",
+  "ex": "El bebé duerme.",
+  "exar": "الرضيع نائم.",
+  "e": "👶"
+ },
+ {
+  "es": "el beneficio",
+  "pos": "n",
+  "g": "m",
+  "ar": "فائدة ، ربح",
+  "ex": "Beneficios sociales.",
+  "exar": "المزايا الاجتماعية.",
+  "e": ""
+ },
+ {
+  "es": "la categoría",
+  "pos": "n",
+  "g": "f",
+  "ar": "فئة",
+  "ex": "Categoría profesional.",
+  "exar": "الفئة المهنية.",
+  "e": ""
+ },
+ {
+  "es": "claramente",
+  "pos": "adv",
+  "g": "",
+  "ar": "بوضوح",
+  "ex": "Habla claramente.",
+  "exar": "تكلم بوضوح.",
+  "e": ""
+ },
+ {
+  "es": "el concurso",
+  "pos": "n",
+  "g": "m",
+  "ar": "مسابقة",
+  "ex": "Ganó el concurso.",
+  "exar": "فاز بالمسابقة.",
+  "e": ""
+ },
+ {
+  "es": "el decreto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مرسوم",
+  "ex": "Real decreto.",
+  "exar": "مرسوم ملكي.",
+  "e": ""
+ },
+ {
+  "es": "ejecutivo",
+  "pos": "adj",
+  "g": "",
+  "ar": "تنفيذي",
+  "ex": "Poder ejecutivo.",
+  "exar": "السلطة التنفيذية.",
+  "e": ""
+ },
+ {
+  "es": "la estrategia",
+  "pos": "n",
+  "g": "f",
+  "ar": "استراتيجية",
+  "ex": "Una buena estrategia.",
+  "exar": "استراتيجية جيدة.",
+  "e": ""
+ },
+ {
+  "es": "frío",
+  "pos": "adj",
+  "g": "",
+  "ar": "بارد ؛ برد",
+  "ex": "Agua fría.",
+  "exar": "ماء بارد.",
+  "e": "🥶"
+ },
+ {
+  "es": "generalmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "عادةً",
+  "ex": "Generalmente como en casa.",
+  "exar": "عادةً آكل في البيت.",
+  "e": ""
+ },
+ {
+  "es": "latino",
+  "pos": "adj",
+  "g": "",
+  "ar": "لاتيني",
+  "ex": "Música latina.",
+  "exar": "موسيقى لاتينية.",
+  "e": ""
+ },
+ {
+  "es": "el municipio",
+  "pos": "n",
+  "g": "m",
+  "ar": "بلدية",
+  "ex": "Empadronarse en el municipio.",
+  "exar": "التسجيل في سجل سكان البلدية.",
+  "e": ""
+ },
+ {
+  "es": "la patria",
+  "pos": "n",
+  "g": "f",
+  "ar": "وطن",
+  "ex": "Echo de menos mi patria.",
+  "exar": "أشتاق إلى وطني.",
+  "e": ""
+ },
+ {
+  "es": "penal",
+  "pos": "adj",
+  "g": "",
+  "ar": "جنائي",
+  "ex": "Antecedentes penales.",
+  "exar": "السوابق الجنائية.",
+  "e": ""
+ },
+ {
+  "es": "el pensamiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "فكر ، تفكير",
+  "ex": "Libertad de pensamiento.",
+  "exar": "حرية الفكر.",
+  "e": ""
+ },
+ {
+  "es": "el periodista",
+  "pos": "n",
+  "g": "m",
+  "ar": "صحفي",
+  "ex": "Es periodista.",
+  "exar": "إنه صحفي.",
+  "e": ""
+ },
+ {
+  "es": "preguntar",
+  "pos": "v",
+  "g": "",
+  "ar": "سأل ، يسأل",
+  "ex": "Pregunto al profesor.",
+  "exar": "أسأل الأستاذ.",
+  "e": ""
+ },
+ {
+  "es": "la prisión",
+  "pos": "n",
+  "g": "f",
+  "ar": "سجن",
+  "ex": "Prisión provisional.",
+  "exar": "حبس احتياطي.",
+  "e": ""
+ },
+ {
+  "es": "referir",
+  "pos": "v",
+  "g": "",
+  "ar": "أشار ، يشير",
+  "ex": "¿A qué te refieres?",
+  "exar": "ماذا تقصد؟",
+  "e": ""
+ },
+ {
+  "es": "el sentimiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "شعور",
+  "ex": "Buenos sentimientos.",
+  "exar": "مشاعر طيبة.",
+  "e": ""
+ },
+ {
+  "es": "el accidente",
+  "pos": "n",
+  "g": "m",
+  "ar": "حادث",
+  "ex": "Un accidente de tráfico.",
+  "exar": "حادث سير.",
+  "e": ""
+ },
+ {
+  "es": "la actualidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "الوقت الحاضر",
+  "ex": "En la actualidad.",
+  "exar": "في الوقت الحاضر.",
+  "e": ""
+ },
+ {
+  "es": "el alimento",
+  "pos": "n",
+  "g": "m",
+  "ar": "غذاء",
+  "ex": "Banco de alimentos.",
+  "exar": "بنك الطعام.",
+  "e": ""
+ },
+ {
+  "es": "aproximadamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "تقريبًا",
+  "ex": "Aproximadamente dos horas.",
+  "exar": "ساعتان تقريبًا.",
+  "e": ""
+ },
+ {
+  "es": "el avión",
+  "pos": "n",
+  "g": "m",
+  "ar": "طائرة",
+  "ex": "Viajo en avión.",
+  "exar": "أسافر بالطائرة.",
+  "e": "✈️"
+ },
+ {
+  "es": "la bandera",
+  "pos": "n",
+  "g": "f",
+  "ar": "علم",
+  "ex": "La bandera de España.",
+  "exar": "علم إسبانيا.",
+  "e": "🚩"
+ },
+ {
+  "es": "la biblioteca",
+  "pos": "n",
+  "g": "f",
+  "ar": "مكتبة",
+  "ex": "Voy a la biblioteca.",
+  "exar": "أذهب إلى المكتبة.",
+  "e": "📚"
+ },
+ {
+  "es": "el celular",
+  "pos": "n",
+  "g": "m",
+  "ar": "هاتف محمول",
+  "ex": "Mi celular no funciona.",
+  "exar": "هاتفي لا يعمل.",
+  "e": ""
+ },
+ {
+  "es": "el costo",
+  "pos": "n",
+  "g": "m",
+  "ar": "تكلفة",
+  "ex": "El costo de vida.",
+  "exar": "تكلفة المعيشة.",
+  "e": ""
+ },
+ {
+  "es": "el delito",
+  "pos": "n",
+  "g": "m",
+  "ar": "جريمة ، جنحة",
+  "ex": "Cometer un delito.",
+  "exar": "ارتكاب جريمة.",
+  "e": ""
+ },
+ {
+  "es": "el deporte",
+  "pos": "n",
+  "g": "m",
+  "ar": "رياضة",
+  "ex": "Hago deporte.",
+  "exar": "أمارس الرياضة.",
+  "e": ""
+ },
+ {
+  "es": "el disco",
+  "pos": "n",
+  "g": "m",
+  "ar": "قرص ، أسطوانة",
+  "ex": "Un disco de música.",
+  "exar": "أسطوانة موسيقى.",
+  "e": "💿"
+ },
+ {
+  "es": "entregar",
+  "pos": "v",
+  "g": "",
+  "ar": "سلّم ، يسلّم",
+  "ex": "Entregar los documentos.",
+  "exar": "تسليم الوثائق.",
+  "e": ""
+ },
+ {
+  "es": "el escritor",
+  "pos": "n",
+  "g": "m",
+  "ar": "كاتب",
+  "ex": "Un escritor famoso.",
+  "exar": "كاتب مشهور.",
+  "e": ""
+ },
+ {
+  "es": "la etapa",
+  "pos": "n",
+  "g": "f",
+  "ar": "مرحلة",
+  "ex": "Una nueva etapa.",
+  "exar": "مرحلة جديدة.",
+  "e": ""
+ },
+ {
+  "es": "el funcionario",
+  "pos": "n",
+  "g": "m",
+  "ar": "موظف حكومي",
+  "ex": "Habla con el funcionario.",
+  "exar": "تكلم مع الموظف.",
+  "e": ""
+ },
+ {
+  "es": "hermoso",
+  "pos": "adj",
+  "g": "",
+  "ar": "جميل",
+  "ex": "Una ciudad hermosa.",
+  "exar": "مدينة جميلة.",
+  "e": ""
+ },
+ {
+  "es": "la iniciativa",
+  "pos": "n",
+  "g": "f",
+  "ar": "مبادرة",
+  "ex": "Una buena iniciativa.",
+  "exar": "مبادرة جيدة.",
+  "e": ""
+ },
+ {
+  "es": "el kilómetro",
+  "pos": "n",
+  "g": "m",
+  "ar": "كيلومتر",
+  "ex": "Diez kilómetros.",
+  "exar": "عشرة كيلومترات.",
+  "e": ""
+ },
+ {
+  "es": "la liga",
+  "pos": "n",
+  "g": "f",
+  "ar": "دوري",
+  "ex": "La liga española.",
+  "exar": "الدوري الإسباني.",
+  "e": ""
+ },
+ {
+  "es": "la madera",
+  "pos": "n",
+  "g": "f",
+  "ar": "خشب",
+  "ex": "Una mesa de madera.",
+  "exar": "طاولة من خشب.",
+  "e": "🪵"
+ },
+ {
+  "es": "precisamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "بالضبط ، تحديدًا",
+  "ex": "Precisamente por eso.",
+  "exar": "لهذا السبب بالضبط.",
+  "e": ""
+ },
+ {
+  "es": "regional",
+  "pos": "adj",
+  "g": "",
+  "ar": "إقليمي",
+  "ex": "Gobierno regional.",
+  "exar": "حكومة إقليمية.",
+  "e": ""
+ },
+ {
+  "es": "la resolución",
+  "pos": "n",
+  "g": "f",
+  "ar": "قرار ، حل",
+  "ex": "Resolución de la solicitud.",
+  "exar": "قرار بشأن الطلب.",
+  "e": ""
+ },
+ {
+  "es": "la ruta",
+  "pos": "n",
+  "g": "f",
+  "ar": "طريق ، مسار",
+  "ex": "La mejor ruta.",
+  "exar": "أفضل طريق.",
+  "e": ""
+ },
+ {
+  "es": "el secreto",
+  "pos": "n",
+  "g": "m",
+  "ar": "سر",
+  "ex": "Es un secreto.",
+  "exar": "إنه سر.",
+  "e": "🤐"
+ },
+ {
+  "es": "soler",
+  "pos": "v",
+  "g": "",
+  "ar": "اعتاد ، يعتاد",
+  "ex": "Suelo ir al mercado los sábados.",
+  "exar": "عادةً أذهب إلى السوق أيام السبت.",
+  "e": ""
+ },
+ {
+  "es": "la tendencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "ميل ، اتجاه",
+  "ex": "Una nueva tendencia.",
+  "exar": "اتجاه جديد.",
+  "e": ""
+ },
+ {
+  "es": "tocar",
+  "pos": "v",
+  "g": "",
+  "ar": "لمس ، يلمس ؛ عزف",
+  "ex": "No toques.",
+  "exar": "لا تلمس.",
+  "e": ""
+ },
+ {
+  "es": "tradicional",
+  "pos": "adj",
+  "g": "",
+  "ar": "تقليدي",
+  "ex": "Comida tradicional.",
+  "exar": "طعام تقليدي.",
+  "e": ""
+ },
+ {
+  "es": "acaso",
+  "pos": "adv",
+  "g": "",
+  "ar": "ربما ، هل",
+  "ex": "¿Acaso no lo sabes?",
+  "exar": "ألا تعرف ذلك؟",
+  "e": ""
+ },
+ {
+  "es": "el alumno",
+  "pos": "n",
+  "g": "m",
+  "ar": "تلميذ",
+  "ex": "Un alumno nuevo.",
+  "exar": "تلميذ جديد.",
+  "e": ""
+ },
+ {
+  "es": "la audiencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "جمهور ، محكمة",
+  "ex": "La Audiencia Nacional.",
+  "exar": "المحكمة الوطنية.",
+  "e": ""
+ },
+ {
+  "es": "los bienes",
+  "pos": "n",
+  "g": "mpl",
+  "ar": "أملاك ، سلع",
+  "ex": "Bienes y servicios.",
+  "exar": "السلع والخدمات.",
+  "e": ""
+ },
+ {
+  "es": "el comienzo",
+  "pos": "n",
+  "g": "m",
+  "ar": "بداية",
+  "ex": "El comienzo del curso.",
+  "exar": "بداية السنة الدراسية.",
+  "e": ""
+ },
+ {
+  "es": "el crimen",
+  "pos": "n",
+  "g": "m",
+  "ar": "جريمة",
+  "ex": "El crimen no paga.",
+  "exar": "الجريمة لا تفيد.",
+  "e": ""
+ },
+ {
+  "es": "disponible",
+  "pos": "adj",
+  "g": "",
+  "ar": "متاح",
+  "ex": "Disponible ahora.",
+  "exar": "متاح الآن.",
+  "e": ""
+ },
+ {
+  "es": "la droga",
+  "pos": "n",
+  "g": "f",
+  "ar": "مخدرات",
+  "ex": "No a las drogas.",
+  "exar": "لا للمخدرات.",
+  "e": ""
+ },
+ {
+  "es": "el extranjero",
+  "pos": "n",
+  "g": "m",
+  "ar": "أجنبي ، الخارج",
+  "ex": "Vivo en el extranjero.",
+  "exar": "أعيش في الخارج.",
+  "e": ""
+ },
+ {
+  "es": "formar",
+  "pos": "v",
+  "g": "",
+  "ar": "كوّن ، يكوّن",
+  "ex": "Formar una familia.",
+  "exar": "تكوين أسرة.",
+  "e": ""
+ },
+ {
+  "es": "la frase",
+  "pos": "n",
+  "g": "f",
+  "ar": "جملة",
+  "ex": "Repite la frase.",
+  "exar": "كرّر الجملة.",
+  "e": ""
+ },
+ {
+  "es": "global",
+  "pos": "adj",
+  "g": "",
+  "ar": "عالمي ، شامل",
+  "ex": "Cambio global.",
+  "exar": "تغيير عالمي.",
+  "e": ""
+ },
+ {
+  "es": "el impacto",
+  "pos": "n",
+  "g": "m",
+  "ar": "أثر ، تأثير",
+  "ex": "Un gran impacto.",
+  "exar": "تأثير كبير.",
+  "e": ""
+ },
+ {
+  "es": "inteligente",
+  "pos": "adj",
+  "g": "",
+  "ar": "ذكي",
+  "ex": "Un niño inteligente.",
+  "exar": "طفل ذكي.",
+  "e": ""
+ },
+ {
+  "es": "intentar",
+  "pos": "v",
+  "g": "",
+  "ar": "حاول ، يحاول",
+  "ex": "Intenta otra vez.",
+  "exar": "حاول مرة أخرى.",
+  "e": ""
+ },
+ {
+  "es": "laboral",
+  "pos": "adj",
+  "g": "",
+  "ar": "متعلق بالعمل",
+  "ex": "Vida laboral.",
+  "exar": "السجل المهني.",
+  "e": ""
+ },
+ {
+  "es": "el móvil",
+  "pos": "n",
+  "g": "m",
+  "ar": "هاتف محمول",
+  "ex": "Carga el móvil.",
+  "exar": "اشحن الهاتف.",
+  "e": "📱"
+ },
+ {
+  "es": "la presidencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "رئاسة",
+  "ex": "La presidencia del gobierno.",
+  "exar": "رئاسة الحكومة.",
+  "e": ""
+ },
+ {
+  "es": "la publicidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "إعلان ، دعاية",
+  "ex": "Mucha publicidad.",
+  "exar": "إعلانات كثيرة.",
+  "e": ""
+ },
+ {
+  "es": "resolver",
+  "pos": "v",
+  "g": "",
+  "ar": "حلّ ، يحلّ",
+  "ex": "Resolver un problema.",
+  "exar": "حل مشكلة.",
+  "e": ""
+ },
+ {
+  "es": "el seguidor",
+  "pos": "n",
+  "g": "m",
+  "ar": "متابع",
+  "ex": "Muchos seguidores.",
+  "exar": "متابعون كثيرون.",
+  "e": ""
+ },
+ {
+  "es": "el trato",
+  "pos": "n",
+  "g": "m",
+  "ar": "معاملة ، اتفاق",
+  "ex": "Buen trato.",
+  "exar": "معاملة جيدة.",
+  "e": ""
+ },
+ {
+  "es": "alcanzar",
+  "pos": "v",
+  "g": "",
+  "ar": "بلغ ، يبلغ",
+  "ex": "Alcanzar el objetivo.",
+  "exar": "بلوغ الهدف.",
+  "e": ""
+ },
+ {
+  "es": "aparte",
+  "pos": "adv",
+  "g": "",
+  "ar": "على حدة ، بالإضافة",
+  "ex": "Aparte de eso.",
+  "exar": "بالإضافة إلى ذلك.",
+  "e": ""
+ },
+ {
+  "es": "la colaboración",
+  "pos": "n",
+  "g": "f",
+  "ar": "تعاون",
+  "ex": "Gracias por tu colaboración.",
+  "exar": "شكرًا على تعاونك.",
+  "e": ""
+ },
+ {
+  "es": "el compromiso",
+  "pos": "n",
+  "g": "m",
+  "ar": "التزام ، خطوبة",
+  "ex": "Sin compromiso.",
+  "exar": "بدون التزام.",
+  "e": ""
+ },
+ {
+  "es": "la conferencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "مؤتمر ، محاضرة",
+  "ex": "Una conferencia sobre el clima.",
+  "exar": "محاضرة عن المناخ.",
+  "e": ""
+ },
+ {
+  "es": "el cuento",
+  "pos": "n",
+  "g": "m",
+  "ar": "قصة",
+  "ex": "Un cuento para niños.",
+  "exar": "قصة للأطفال.",
+  "e": ""
+ },
+ {
+  "es": "el cáncer",
+  "pos": "n",
+  "g": "m",
+  "ar": "سرطان",
+  "ex": "Cáncer de pulmón.",
+  "exar": "سرطان الرئة.",
+  "e": ""
+ },
+ {
+  "es": "la deuda",
+  "pos": "n",
+  "g": "f",
+  "ar": "دَين",
+  "ex": "Tengo deudas.",
+  "exar": "عندي ديون.",
+  "e": ""
+ },
+ {
+  "es": "la división",
+  "pos": "n",
+  "g": "f",
+  "ar": "قسمة ، انقسام ، درجة",
+  "ex": "Primera división.",
+  "exar": "الدرجة الأولى.",
+  "e": ""
+ },
+ {
+  "es": "el enemigo",
+  "pos": "n",
+  "g": "m",
+  "ar": "عدو",
+  "ex": "No es mi enemigo.",
+  "exar": "ليس عدوي.",
+  "e": ""
+ },
+ {
+  "es": "la estrella",
+  "pos": "n",
+  "g": "f",
+  "ar": "نجمة",
+  "ex": "Hotel de tres estrellas.",
+  "exar": "فندق ثلاث نجوم.",
+  "e": "⭐"
+ },
+ {
+  "es": "el foro",
+  "pos": "n",
+  "g": "m",
+  "ar": "منتدى",
+  "ex": "Un foro en internet.",
+  "exar": "منتدى على الإنترنت.",
+  "e": ""
+ },
+ {
+  "es": "la frecuencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "تردد ، تكرار",
+  "ex": "Con frecuencia.",
+  "exar": "بشكل متكرر.",
+  "e": ""
+ },
+ {
+  "es": "el gasto",
+  "pos": "n",
+  "g": "m",
+  "ar": "مصروف",
+  "ex": "Gastos de la casa.",
+  "exar": "مصاريف البيت.",
+  "e": ""
+ },
+ {
+  "es": "la habitación",
+  "pos": "n",
+  "g": "f",
+  "ar": "غرفة",
+  "ex": "Mi habitación es pequeña.",
+  "exar": "غرفتي صغيرة.",
+  "e": ""
+ },
+ {
+  "es": "la herramienta",
+  "pos": "n",
+  "g": "f",
+  "ar": "أداة",
+  "ex": "Herramientas de trabajo.",
+  "exar": "أدوات العمل.",
+  "e": "🔧"
+ },
+ {
+  "es": "la humanidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "إنسانية",
+  "ex": "Crímenes contra la humanidad.",
+  "exar": "جرائم ضد الإنسانية.",
+  "e": ""
+ },
+ {
+  "es": "el humor",
+  "pos": "n",
+  "g": "m",
+  "ar": "مزاج ، فكاهة",
+  "ex": "Buen humor.",
+  "exar": "مزاج جيد.",
+  "e": ""
+ },
+ {
+  "es": "interesar",
+  "pos": "v",
+  "g": "",
+  "ar": "أهمّ ، يهمّ",
+  "ex": "Me interesa.",
+  "exar": "يهمني.",
+  "e": ""
+ },
+ {
+  "es": "la letra",
+  "pos": "n",
+  "g": "f",
+  "ar": "حرف ، خط ، كلمات أغنية",
+  "ex": "Escribe con letra clara.",
+  "exar": "اكتب بخط واضح.",
+  "e": ""
+ },
+ {
+  "es": "lindo",
+  "pos": "adj",
+  "g": "",
+  "ar": "جميل",
+  "ex": "¡Qué lindo!",
+  "exar": "ما أجمله!",
+  "e": ""
+ },
+ {
+  "es": "la llegada",
+  "pos": "n",
+  "g": "f",
+  "ar": "وصول",
+  "ex": "Hora de llegada.",
+  "exar": "ساعة الوصول.",
+  "e": ""
+ },
+ {
+  "es": "merecer",
+  "pos": "v",
+  "g": "",
+  "ar": "استحقّ ، يستحقّ",
+  "ex": "Lo merece.",
+  "exar": "يستحقه.",
+  "e": ""
+ },
+ {
+  "es": "moral",
+  "pos": "adj",
+  "g": "",
+  "ar": "أخلاقي ، معنوي",
+  "ex": "Apoyo moral.",
+  "exar": "دعم معنوي.",
+  "e": ""
+ },
+ {
+  "es": "el museo",
+  "pos": "n",
+  "g": "m",
+  "ar": "متحف",
+  "ex": "Museo del Prado.",
+  "exar": "متحف البرادو.",
+  "e": ""
+ },
+ {
+  "es": "la norma",
+  "pos": "n",
+  "g": "f",
+  "ar": "قاعدة ، معيار",
+  "ex": "Normas de la casa.",
+  "exar": "قواعد البيت.",
+  "e": ""
+ },
+ {
+  "es": "el palacio",
+  "pos": "n",
+  "g": "m",
+  "ar": "قصر",
+  "ex": "El Palacio Real.",
+  "exar": "القصر الملكي.",
+  "e": "🏰"
+ },
+ {
+  "es": "la plataforma",
+  "pos": "n",
+  "g": "f",
+  "ar": "منصة",
+  "ex": "Una plataforma digital.",
+  "exar": "منصة رقمية.",
+  "e": ""
+ },
+ {
+  "es": "el regalo",
+  "pos": "n",
+  "g": "m",
+  "ar": "هدية",
+  "ex": "Un regalo de cumpleaños.",
+  "exar": "هدية عيد ميلاد.",
+  "e": "🎁"
+ },
+ {
+  "es": "la religión",
+  "pos": "n",
+  "g": "f",
+  "ar": "دين",
+  "ex": "Libertad de religión.",
+  "exar": "حرية الدين.",
+  "e": ""
+ },
+ {
+  "es": "rápidamente",
+  "pos": "adv",
+  "g": "",
+  "ar": "بسرعة",
+  "ex": "Termina rápidamente.",
+  "exar": "ينهي بسرعة.",
+  "e": ""
+ },
+ {
+  "es": "tuyo",
+  "pos": "pron",
+  "g": "",
+  "ar": "لك ، خاصتك",
+  "ex": "Es tuyo.",
+  "exar": "إنه لك.",
+  "e": ""
+ },
+ {
+  "es": "técnico",
+  "pos": "adj",
+  "g": "",
+  "ar": "تقني",
+  "ex": "Servicio técnico.",
+  "exar": "خدمة تقنية.",
+  "e": ""
+ },
+ {
+  "es": "el agente",
+  "pos": "n",
+  "g": "m",
+  "ar": "عون ، وكيل",
+  "ex": "Agente de policía.",
+  "exar": "شرطي.",
+  "e": ""
+ },
+ {
+  "es": "bonito",
+  "pos": "adj",
+  "g": "",
+  "ar": "جميل",
+  "ex": "Un piso bonito.",
+  "exar": "شقة جميلة.",
+  "e": ""
+ },
+ {
+  "es": "breve",
+  "pos": "adj",
+  "g": "",
+  "ar": "قصير ، موجز",
+  "ex": "Una visita breve.",
+  "exar": "زيارة قصيرة.",
+  "e": ""
+ },
+ {
+  "es": "el capítulo",
+  "pos": "n",
+  "g": "m",
+  "ar": "فصل ، حلقة",
+  "ex": "Capítulo uno.",
+  "exar": "الفصل الأول.",
+  "e": ""
+ },
+ {
+  "es": "el cliente",
+  "pos": "n",
+  "g": "m",
+  "ar": "زبون",
+  "ex": "Atender a los clientes.",
+  "exar": "خدمة الزبائن.",
+  "e": ""
+ },
+ {
+  "es": "el cumpleaños",
+  "pos": "n",
+  "g": "m",
+  "ar": "عيد ميلاد",
+  "ex": "Hoy es mi cumpleaños.",
+  "exar": "اليوم عيد ميلادي.",
+  "e": "🎂"
+ },
+ {
+  "es": "decidir",
+  "pos": "v",
+  "g": "",
+  "ar": "قرّر ، يقرّر",
+  "ex": "Decidí venir a España.",
+  "exar": "قررت المجيء إلى إسبانيا.",
+  "e": ""
+ },
+ {
+  "es": "defender",
+  "pos": "v",
+  "g": "",
+  "ar": "دافع ، يدافع",
+  "ex": "Defender sus derechos.",
+  "exar": "الدفاع عن حقوقه.",
+  "e": ""
+ },
+ {
+  "es": "la evidencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "دليل",
+  "ex": "No hay evidencias.",
+  "exar": "لا توجد أدلة.",
+  "e": ""
+ },
+ {
+  "es": "la firma",
+  "pos": "n",
+  "g": "f",
+  "ar": "توقيع",
+  "ex": "Tu firma aquí.",
+  "exar": "توقيعك هنا.",
+  "e": "✍️"
+ },
+ {
+  "es": "la guardia",
+  "pos": "n",
+  "g": "f",
+  "ar": "حراسة ، حرس",
+  "ex": "Guardia Civil.",
+  "exar": "الحرس المدني.",
+  "e": ""
+ },
+ {
+  "es": "la juventud",
+  "pos": "n",
+  "g": "f",
+  "ar": "شباب",
+  "ex": "En mi juventud.",
+  "exar": "في شبابي.",
+  "e": ""
+ },
+ {
+  "es": "el martes",
+  "pos": "n",
+  "g": "m",
+  "ar": "الثلاثاء",
+  "ex": "Nos vemos el martes.",
+  "exar": "نلتقي يوم الثلاثاء.",
+  "e": ""
+ },
+ {
+  "es": "la Navidad",
+  "pos": "n",
+  "g": "f",
+  "ar": "عيد الميلاد",
+  "ex": "Feliz Navidad.",
+  "exar": "عيد ميلاد مجيد.",
+  "e": "🎄"
+ },
+ {
+  "es": "probable",
+  "pos": "adj",
+  "g": "",
+  "ar": "محتمل",
+  "ex": "Es probable.",
+  "exar": "من المحتمل.",
+  "e": ""
+ },
+ {
+  "es": "producir",
+  "pos": "v",
+  "g": "",
+  "ar": "أنتج ، ينتج",
+  "ex": "España produce aceite.",
+  "exar": "إسبانيا تنتج الزيت.",
+  "e": ""
+ },
+ {
+  "es": "responder",
+  "pos": "v",
+  "g": "",
+  "ar": "أجاب ، يجيب",
+  "ex": "Responde a la pregunta.",
+  "exar": "أجب عن السؤال.",
+  "e": ""
+ },
+ {
+  "es": "sencillo",
+  "pos": "adj",
+  "g": "",
+  "ar": "بسيط ، سهل",
+  "ex": "Un billete sencillo.",
+  "exar": "تذكرة ذهاب فقط.",
+  "e": ""
+ },
+ {
+  "es": "la señal",
+  "pos": "n",
+  "g": "f",
+  "ar": "إشارة",
+  "ex": "No hay señal.",
+  "exar": "لا توجد تغطية.",
+  "e": ""
+ },
+ {
+  "es": "la superficie",
+  "pos": "n",
+  "g": "f",
+  "ar": "سطح ، مساحة",
+  "ex": "Superficie del piso: 80 metros.",
+  "exar": "مساحة الشقة: 80 مترًا.",
+  "e": ""
+ },
+ {
+  "es": "temprano",
+  "pos": "adv",
+  "g": "",
+  "ar": "مبكرًا",
+  "ex": "Me levanto temprano.",
+  "exar": "أستيقظ مبكرًا.",
+  "e": ""
+ },
+ {
+  "es": "la tradición",
+  "pos": "n",
+  "g": "f",
+  "ar": "تقليد",
+  "ex": "Es una tradición española.",
+  "exar": "إنه تقليد إسباني.",
+  "e": ""
+ },
+ {
+  "es": "el universo",
+  "pos": "n",
+  "g": "m",
+  "ar": "كون",
+  "ex": "El universo es enorme.",
+  "exar": "الكون ضخم.",
+  "e": "🌌"
+ },
+ {
+  "es": "el valle",
+  "pos": "n",
+  "g": "m",
+  "ar": "وادٍ",
+  "ex": "Un valle verde.",
+  "exar": "وادٍ أخضر.",
+  "e": ""
+ },
+ {
+  "es": "el viento",
+  "pos": "n",
+  "g": "m",
+  "ar": "ريح",
+  "ex": "Hace viento.",
+  "exar": "الجو عاصف.",
+  "e": "💨"
+ },
+ {
+  "es": "la colección",
+  "pos": "n",
+  "g": "f",
+  "ar": "مجموعة",
+  "ex": "Una colección de sellos.",
+  "exar": "مجموعة طوابع.",
+  "e": ""
+ },
+ {
+  "es": "la conversación",
+  "pos": "n",
+  "g": "f",
+  "ar": "محادثة",
+  "ex": "Clase de conversación.",
+  "exar": "درس محادثة.",
+  "e": ""
+ },
+ {
+  "es": "el escenario",
+  "pos": "n",
+  "g": "m",
+  "ar": "مسرح ، خشبة",
+  "ex": "En el escenario.",
+  "exar": "على الخشبة.",
+  "e": ""
+ },
+ {
+  "es": "la exposición",
+  "pos": "n",
+  "g": "f",
+  "ar": "معرض",
+  "ex": "Una exposición de arte.",
+  "exar": "معرض فني.",
+  "e": ""
+ },
+ {
+  "es": "el huevo",
+  "pos": "n",
+  "g": "m",
+  "ar": "بيضة",
+  "ex": "Huevos fritos.",
+  "exar": "بيض مقلي.",
+  "e": "🥚"
+ },
+ {
+  "es": "la igualdad",
+  "pos": "n",
+  "g": "f",
+  "ar": "مساواة",
+  "ex": "Igualdad de derechos.",
+  "exar": "المساواة في الحقوق.",
+  "e": ""
+ },
+ {
+  "es": "el invierno",
+  "pos": "n",
+  "g": "m",
+  "ar": "شتاء",
+  "ex": "En invierno hace frío.",
+  "exar": "في الشتاء يكون الجو باردًا.",
+  "e": "❄️"
+ },
+ {
+  "es": "luchar",
+  "pos": "v",
+  "g": "",
+  "ar": "ناضل ، يناضل",
+  "ex": "Luchar por la familia.",
+  "exar": "النضال من أجل العائلة.",
+  "e": ""
+ },
+ {
+  "es": "la moda",
+  "pos": "n",
+  "g": "f",
+  "ar": "موضة",
+  "ex": "Está de moda.",
+  "exar": "إنه رائج.",
+  "e": ""
+ },
+ {
+  "es": "el método",
+  "pos": "n",
+  "g": "m",
+  "ar": "طريقة ، منهج",
+  "ex": "Un método fácil.",
+  "exar": "طريقة سهلة.",
+  "e": ""
+ },
+ {
+  "es": "normalmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "عادةً",
+  "ex": "Normalmente trabajo de lunes a viernes.",
+  "exar": "عادةً أعمل من الاثنين إلى الجمعة.",
+  "e": ""
+ },
+ {
+  "es": "la oferta",
+  "pos": "n",
+  "g": "f",
+  "ar": "عرض",
+  "ex": "Oferta de empleo.",
+  "exar": "عرض عمل.",
+  "e": ""
+ },
+ {
+  "es": "la onda",
+  "pos": "n",
+  "g": "f",
+  "ar": "موجة",
+  "ex": "Onda de calor.",
+  "exar": "موجة حر.",
+  "e": ""
+ },
+ {
+  "es": "seguramente",
+  "pos": "adv",
+  "g": "",
+  "ar": "على الأرجح",
+  "ex": "Seguramente viene mañana.",
+  "exar": "على الأرجح سيأتي غدًا.",
+  "e": ""
+ },
+ {
+  "es": "la sentencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "حكم قضائي",
+  "ex": "La sentencia del juez.",
+  "exar": "حكم القاضي.",
+  "e": ""
+ },
+ {
+  "es": "la sesión",
+  "pos": "n",
+  "g": "f",
+  "ar": "جلسة",
+  "ex": "Sesión de fisioterapia.",
+  "exar": "جلسة علاج طبيعي.",
+  "e": ""
+ },
+ {
+  "es": "el sonido",
+  "pos": "n",
+  "g": "m",
+  "ar": "صوت",
+  "ex": "No hay sonido.",
+  "exar": "لا يوجد صوت.",
+  "e": "🔊"
+ },
+ {
+  "es": "la sorpresa",
+  "pos": "n",
+  "g": "f",
+  "ar": "مفاجأة",
+  "ex": "¡Qué sorpresa!",
+  "exar": "يا لها من مفاجأة!",
+  "e": ""
+ },
+ {
+  "es": "suceder",
+  "pos": "v",
+  "g": "",
+  "ar": "حدث ، يحدث",
+  "ex": "Eso sucede a menudo.",
+  "exar": "ذلك يحدث غالبًا.",
+  "e": ""
+ },
+ {
+  "es": "la tarjeta",
+  "pos": "n",
+  "g": "f",
+  "ar": "بطاقة",
+  "ex": "Tarjeta sanitaria.",
+  "exar": "البطاقة الصحية.",
+  "e": "💳"
+ },
+ {
+  "es": "asimismo",
+  "pos": "adv",
+  "g": "",
+  "ar": "كذلك",
+  "ex": "Asimismo, debe traer el pasaporte.",
+  "exar": "كذلك يجب أن يحضر جواز السفر.",
+  "e": ""
+ },
+ {
+  "es": "la bolsa",
+  "pos": "n",
+  "g": "f",
+  "ar": "كيس ، حقيبة ، بورصة",
+  "ex": "Una bolsa de plástico.",
+  "exar": "كيس بلاستيك.",
+  "e": "🛍️"
+ },
+ {
+  "es": "el brazo",
+  "pos": "n",
+  "g": "m",
+  "ar": "ذراع",
+  "ex": "Me duele el brazo.",
+  "exar": "ذراعي تؤلمني.",
+  "e": "💪"
+ },
+ {
+  "es": "el cerebro",
+  "pos": "n",
+  "g": "m",
+  "ar": "دماغ",
+  "ex": "El cerebro humano.",
+  "exar": "الدماغ البشري.",
+  "e": "🧠"
+ },
+ {
+  "es": "el clima",
+  "pos": "n",
+  "g": "m",
+  "ar": "مناخ",
+  "ex": "Clima mediterráneo.",
+  "exar": "مناخ متوسطي.",
+  "e": ""
+ },
+ {
+  "es": "el comportamiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "سلوك",
+  "ex": "Buen comportamiento.",
+  "exar": "سلوك جيد.",
+  "e": ""
+ },
+ {
+  "es": "la corriente",
+  "pos": "n",
+  "g": "f",
+  "ar": "تيار",
+  "ex": "Corriente eléctrica.",
+  "exar": "تيار كهربائي.",
+  "e": ""
+ },
+ {
+  "es": "la discusión",
+  "pos": "n",
+  "g": "f",
+  "ar": "نقاش ، شجار",
+  "ex": "Tuvimos una discusión.",
+  "exar": "تشاجرنا.",
+  "e": ""
+ },
+ {
+  "es": "el dominio",
+  "pos": "n",
+  "g": "m",
+  "ar": "سيطرة ، إتقان",
+  "ex": "Dominio del idioma.",
+  "exar": "إتقان اللغة.",
+  "e": ""
+ },
+ {
+  "es": "la escala",
+  "pos": "n",
+  "g": "f",
+  "ar": "سُلّم ، مقياس ، توقف",
+  "ex": "Vuelo con escala.",
+  "exar": "رحلة مع توقف.",
+  "e": ""
+ },
+ {
+  "es": "la espalda",
+  "pos": "n",
+  "g": "f",
+  "ar": "ظهر",
+  "ex": "Me duele la espalda.",
+  "exar": "ظهري يؤلمني.",
+  "e": ""
+ },
+ {
+  "es": "la gracia",
+  "pos": "n",
+  "g": "f",
+  "ar": "نعمة ، ظرافة",
+  "ex": "Tiene gracia.",
+  "exar": "إنه ظريف.",
+  "e": ""
+ },
+ {
+  "es": "la intervención",
+  "pos": "n",
+  "g": "f",
+  "ar": "تدخل ، عملية",
+  "ex": "Intervención quirúrgica.",
+  "exar": "عملية جراحية.",
+  "e": ""
+ },
+ {
+  "es": "el montón",
+  "pos": "n",
+  "g": "m",
+  "ar": "كومة ، كثير",
+  "ex": "Un montón de gente.",
+  "exar": "كثير من الناس.",
+  "e": ""
+ },
+ {
+  "es": "probar",
+  "pos": "v",
+  "g": "",
+  "ar": "جرّب ، يجرّب ، تذوّق",
+  "ex": "Prueba esto.",
+  "exar": "جرّب هذا.",
+  "e": ""
+ },
+ {
+  "es": "la sensación",
+  "pos": "n",
+  "g": "f",
+  "ar": "إحساس",
+  "ex": "Una sensación rara.",
+  "exar": "إحساس غريب.",
+  "e": ""
+ },
+ {
+  "es": "terrible",
+  "pos": "adj",
+  "g": "",
+  "ar": "فظيع",
+  "ex": "Es terrible.",
+  "exar": "إنه فظيع.",
+  "e": ""
+ },
+ {
+  "es": "la vergüenza",
+  "pos": "n",
+  "g": "f",
+  "ar": "خجل ، عار",
+  "ex": "Me da vergüenza.",
+  "exar": "أشعر بالخجل.",
+  "e": ""
+ },
+ {
+  "es": "la agencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "وكالة",
+  "ex": "Agencia de viajes.",
+  "exar": "وكالة سفر.",
+  "e": ""
+ },
+ {
+  "es": "anunciar",
+  "pos": "v",
+  "g": "",
+  "ar": "أعلن ، يعلن",
+  "ex": "El gobierno anunció nuevas medidas.",
+  "exar": "أعلنت الحكومة إجراءات جديدة.",
+  "e": ""
+ },
+ {
+  "es": "apoyar",
+  "pos": "v",
+  "g": "",
+  "ar": "دعم ، يدعم",
+  "ex": "Te apoyo.",
+  "exar": "أدعمك.",
+  "e": ""
+ },
+ {
+  "es": "la asistencia",
+  "pos": "n",
+  "g": "f",
+  "ar": "حضور ، مساعدة",
+  "ex": "Asistencia sanitaria.",
+  "exar": "الرعاية الصحية.",
+  "e": ""
+ },
+ {
+  "es": "el ayuntamiento",
+  "pos": "n",
+  "g": "m",
+  "ar": "البلدية",
+  "ex": "Voy al ayuntamiento.",
+  "exar": "أذهب إلى البلدية.",
+  "e": "🏛️"
+ },
+ {
+  "es": "bajar",
+  "pos": "v",
+  "g": "",
+  "ar": "نزل ، ينزل",
+  "ex": "Bajo del autobús.",
+  "exar": "أنزل من الحافلة.",
+  "e": ""
+ },
+ {
+  "es": "caber",
+  "pos": "v",
+  "g": "",
+  "ar": "اتّسع ، يتّسع",
+  "ex": "No cabe.",
+  "exar": "لا يتسع.",
+  "e": ""
+ },
+ {
+  "es": "el comandante",
+  "pos": "n",
+  "g": "m",
+  "ar": "قائد",
+  "ex": "El comandante del barco.",
+  "exar": "قائد السفينة.",
+  "e": ""
+ },
+ {
+  "es": "constante",
+  "pos": "adj",
+  "g": "",
+  "ar": "ثابت ، مستمر",
+  "ex": "Dolor constante.",
+  "exar": "ألم مستمر.",
+  "e": ""
+ },
+ {
+  "es": "contener",
+  "pos": "v",
+  "g": "",
+  "ar": "احتوى ، يحتوي",
+  "ex": "Contiene gluten.",
+  "exar": "يحتوي على الغلوتين.",
+  "e": ""
+ },
+ {
+  "es": "convertir",
+  "pos": "v",
+  "g": "",
+  "ar": "حوّل ، يحوّل",
+  "ex": "Se convirtió en médico.",
+  "exar": "أصبح طبيبًا.",
+  "e": ""
+ },
+ {
+  "es": "el euro",
+  "pos": "n",
+  "g": "m",
+  "ar": "يورو",
+  "ex": "¿Cuántos euros?",
+  "exar": "كم يورو؟",
+  "e": "💶"
+ },
+ {
+  "es": "el examen",
+  "pos": "n",
+  "g": "m",
+  "ar": "امتحان",
+  "ex": "Examen de español.",
+  "exar": "امتحان الإسبانية.",
+  "e": "📝"
+ },
+ {
+  "es": "fundamental",
+  "pos": "adj",
+  "g": "",
+  "ar": "أساسي",
+  "ex": "Es fundamental.",
+  "exar": "إنه أساسي.",
+  "e": ""
+ },
+ {
+  "es": "igualmente",
+  "pos": "adv",
+  "g": "",
+  "ar": "كذلك ، أيضًا",
+  "ex": "—Buen fin de semana. —Igualmente.",
+  "exar": "— عطلة سعيدة. — وأنت كذلك.",
+  "e": ""
+ },
+ {
+  "es": "indicar",
+  "pos": "v",
+  "g": "",
+  "ar": "أشار ، يدلّ",
+  "ex": "Indica el camino.",
+  "exar": "يدل على الطريق.",
+  "e": ""
+ }
+]

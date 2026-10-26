@@ -1,0 +1,1217 @@
+{
+ "topic_id": "work",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🔎",
+   "es": "la oferta de trabajo",
+   "ar": "عرض العمل",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "📰",
+   "es": "el anuncio",
+   "ar": "الإعلان",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "la empresa",
+   "ar": "الشركة",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🧑",
+   "es": "el candidato",
+   "ar": "المترشّح",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🗂️",
+   "es": "la experiencia",
+   "ar": "الخبرة",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🎓",
+   "es": "la formación",
+   "ar": "التدريب",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🌐",
+   "es": "el idioma",
+   "ar": "اللغة",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🏬",
+   "es": "la agencia de empleo",
+   "ar": "وكالة التشغيل",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🚗",
+   "es": "el carné de conducir",
+   "ar": "رخصة القيادة",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🤝",
+   "es": "la entrevista",
+   "ar": "المقابلة",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "❓",
+   "es": "la pregunta",
+   "ar": "السؤال",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "💪",
+   "es": "el punto fuerte",
+   "ar": "نقطة القوة",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "🕐",
+   "es": "la disponibilidad",
+   "ar": "التوفّر للعمل",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "📞",
+   "es": "la llamada",
+   "ar": "المكالمة",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "el entrevistador",
+   "ar": "الشخص الذي يجري المقابلة",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "🙂",
+   "es": "la presentación",
+   "ar": "التقديم (تعريف النفس)",
+   "section": "المقابلة"
+  },
+  {
+   "level": 1,
+   "emoji": "📄",
+   "es": "el contrato temporal",
+   "ar": "العقد المؤقت",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "📃",
+   "es": "el contrato indefinido",
+   "ar": "العقد غير محدّد المدة",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "🍊",
+   "es": "el contrato fijo discontinuo",
+   "ar": "العقد الدائم المتقطّع",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el sueldo",
+   "ar": "الراتب",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "💰",
+   "es": "el salario bruto",
+   "ar": "الراتب الإجمالي",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "💵",
+   "es": "el salario neto",
+   "ar": "الراتب الصافي",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "🎁",
+   "es": "la paga extra",
+   "ar": "المنحة الإضافية",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧪",
+   "es": "el periodo de prueba",
+   "ar": "فترة التجربة",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "📑",
+   "es": "el convenio colectivo",
+   "ar": "الاتفاقية الجماعية",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "🕒",
+   "es": "la jornada",
+   "ar": "يوم العمل (ساعات العمل)",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 1,
+   "emoji": "👷",
+   "es": "el encargado",
+   "ar": "المسؤول (رئيس الفريق)",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "💼",
+   "es": "el jefe",
+   "ar": "المدير",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "👥",
+   "es": "el compañero",
+   "ar": "الزميل",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🔁",
+   "es": "el turno",
+   "ar": "الدوام (المناوبة)",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🌙",
+   "es": "el turno de noche",
+   "ar": "الدوام الليلي",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "el descanso",
+   "ar": "الاستراحة",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el uniforme",
+   "ar": "الزيّ الموحّد",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "⏱️",
+   "es": "el fichaje",
+   "ar": "تسجيل الحضور",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los equipos de protección",
+   "ar": "معدّات الحماية",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "los derechos",
+   "ar": "الحقوق",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "📌",
+   "es": "las obligaciones",
+   "ar": "الواجبات",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "el despido",
+   "ar": "الفصل من العمل",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el finiquito",
+   "ar": "التسوية النهائية",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "📉",
+   "es": "el paro",
+   "ar": "البطالة (إعانة البطالة)",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "✊",
+   "es": "el sindicato",
+   "ar": "النقابة",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🔍",
+   "es": "la Inspección de Trabajo",
+   "ar": "مفتشية العمل",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "✉️",
+   "es": "la carta de despido",
+   "ar": "رسالة الفصل",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚨",
+   "es": "el accidente laboral",
+   "ar": "حادث العمل",
+   "section": "الحقوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🏖️",
+   "es": "las vacaciones pagadas",
+   "ar": "العطلة المدفوعة الأجر",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "🤒",
+   "es": "la baja médica",
+   "ar": "الإجازة المرضية",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "📋",
+   "es": "el parte de baja",
+   "ar": "شهادة التوقف المرضي",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "✅",
+   "es": "el alta médica",
+   "ar": "شهادة الشفاء والعودة إلى العمل",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "🎉",
+   "es": "el día festivo",
+   "ar": "يوم العطلة الرسمية",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "👶",
+   "es": "el permiso de paternidad",
+   "ar": "إجازة الأبوّة",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "🏥",
+   "es": "la mutua",
+   "ar": "التعاضدية (التأمين على حوادث العمل)",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 1,
+   "emoji": "🩺",
+   "es": "el médico de cabecera",
+   "ar": "طبيب الأسرة",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "🙋",
+   "es": "¿Necesitan trabajadores?",
+   "ar": "هل تحتاجون إلى عمّال؟",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "Le dejo mi currículum.",
+   "ar": "أترك لك سيرتي الذاتية.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🌾",
+   "es": "He trabajado en el campo.",
+   "ar": "عملتُ في الحقل.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Puedo trabajar de lo que sea.",
+   "ar": "يمكنني العمل في أي شيء.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚌",
+   "es": "Estoy disponible desde mañana.",
+   "ar": "أنا متاح ابتداءً من الغد.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "📱",
+   "es": "¿Me pueden llamar a este número?",
+   "ar": "هل يمكنكم الاتصال بي على هذا الرقم؟",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "Busco trabajo de temporada.",
+   "ar": "أبحث عن عمل موسمي.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "Tengo carné de conducir y coche.",
+   "ar": "لديّ رخصة سياقة وسيارة.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🙂",
+   "es": "Háblame un poco de ti.",
+   "ar": "حدّثني قليلًا عن نفسك.",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕐",
+   "es": "¿Qué horario puede hacer?",
+   "ar": "ما هو الدوام الذي يمكنك العمل فيه؟",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "📍",
+   "es": "¿Dónde ha trabajado antes?",
+   "ar": "أين عملتَ من قبل؟",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "💬",
+   "es": "Hablo árabe y un poco de español.",
+   "ar": "أتكلم العربية وقليلًا من الإسبانية.",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "⭐",
+   "es": "Soy responsable y puntual.",
+   "ar": "أنا مسؤول وأحترم المواعيد.",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Cuánto se cobra al mes?",
+   "ar": "كم يُدفع في الشهر؟",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Le llamaremos la semana que viene.",
+   "ar": "سنتصل بك الأسبوع القادم.",
+   "section": "المقابلة"
+  },
+  {
+   "level": 2,
+   "emoji": "📝",
+   "es": "¿Qué tipo de contrato es?",
+   "ar": "ما نوع العقد؟",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "✍️",
+   "es": "Quiero leer el contrato antes de firmar.",
+   "ar": "أريد قراءة العقد قبل التوقيع.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Cuándo se cobra la nómina?",
+   "ar": "متى يُدفع الراتب؟",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "¿Me pagan las horas extra?",
+   "ar": "هل تدفعون لي الساعات الإضافية؟",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "Mi nómina no está bien.",
+   "ar": "كشف راتبي فيه خطأ.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "¿Cuántas horas son a la semana?",
+   "ar": "كم ساعة في الأسبوع؟",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "📑",
+   "es": "Necesito una copia del contrato.",
+   "ar": "أحتاج نسخة من العقد.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕖",
+   "es": "Entro a las siete y salgo a las tres.",
+   "ar": "أدخل على الساعة السابعة وأخرج على الساعة الثالثة.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🔄",
+   "es": "Esta semana tengo turno de tarde.",
+   "ar": "هذا الأسبوع عندي دوام المساء.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🏃",
+   "es": "Llego tarde, lo siento.",
+   "ar": "أنا متأخر، آسف.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🙏",
+   "es": "¿Puedo cambiar el turno con un compañero?",
+   "ar": "هل يمكنني تبديل الدوام مع زميل؟",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🦺",
+   "es": "No tengo guantes ni chaleco.",
+   "ar": "ليس لديّ قفازات ولا سترة.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "👷",
+   "es": "¿Dónde está el encargado?",
+   "ar": "أين المسؤول؟",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🤔",
+   "es": "No he entendido, ¿me lo explica otra vez?",
+   "ar": "لم أفهم، هل تشرح لي مرة أخرى؟",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "☕",
+   "es": "¿A qué hora es el descanso?",
+   "ar": "في أي ساعة الاستراحة؟",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "Conozco mis derechos.",
+   "ar": "أعرف حقوقي.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "Me han despedido.",
+   "ar": "لقد فُصلت من العمل.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "¿Cuándo me pagan el finiquito?",
+   "ar": "متى تدفعون لي التسوية النهائية؟",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "📉",
+   "es": "Quiero pedir el paro.",
+   "ar": "أريد طلب إعانة البطالة.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "✊",
+   "es": "Voy a hablar con el sindicato.",
+   "ar": "سأتحدث مع النقابة.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "Trabajo sin contrato.",
+   "ar": "أعمل بدون عقد.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🩹",
+   "es": "Me he hecho daño trabajando.",
+   "ar": "تعرّضت لإصابة أثناء العمل.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚑",
+   "es": "¡Ha habido un accidente!",
+   "ar": "وقع حادث!",
+   "section": "الحقوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🤒",
+   "es": "Hoy no puedo ir, estoy enfermo.",
+   "ar": "لا أستطيع الحضور اليوم، أنا مريض.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "🩺",
+   "es": "Tengo que ir al médico.",
+   "ar": "يجب أن أذهب إلى الطبيب.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "📋",
+   "es": "Le traigo el parte de baja.",
+   "ar": "أحضرت لك شهادة التوقف المرضي.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "🏖️",
+   "es": "¿Cuándo puedo coger las vacaciones?",
+   "ar": "متى يمكنني أخذ العطلة؟",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "✈️",
+   "es": "Quiero las vacaciones en agosto.",
+   "ar": "أريد العطلة في شهر أغسطس.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "👶",
+   "es": "Mi mujer va a dar a luz.",
+   "ar": "زوجتي ستلد.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "✅",
+   "es": "Mañana me dan el alta.",
+   "ar": "غدًا يعطونني شهادة العودة إلى العمل.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 2,
+   "emoji": "🎉",
+   "es": "¿Se trabaja el día festivo?",
+   "ar": "هل نعمل في يوم العطلة الرسمية؟",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "🔎",
+   "es": "Puede inscribirse como demandante de empleo en la oficina de empleo de su comunidad autónoma.",
+   "ar": "يمكنك التسجيل كباحث عن عمل في مكتب التشغيل التابع لمنطقتك الذاتية الحكم.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Envíe su currículum y le contactaremos si su perfil encaja.",
+   "ar": "أرسل سيرتك الذاتية وسنتصل بك إذا كان ملفك مناسبًا.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Desconfíe de las ofertas que le piden dinero para darle trabajo.",
+   "ar": "احذر من العروض التي تطلب منك مالًا مقابل إعطائك عملًا.",
+   "section": "البحث عن عمل"
+  },
+  {
+   "level": 3,
+   "emoji": "💬",
+   "es": "¿Por qué quiere trabajar en nuestra empresa?",
+   "ar": "لماذا تريد العمل في شركتنا؟",
+   "section": "المقابلة"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "Empezaría con un periodo de prueba y, si todo va bien, le haríamos contrato.",
+   "ar": "ستبدأ بفترة تجربة، وإذا سار كل شيء على ما يرام سنوقّع معك عقدًا.",
+   "section": "المقابلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "¿Tiene permiso de trabajo en vigor?",
+   "ar": "هل لديك تصريح عمل ساري المفعول؟",
+   "section": "المقابلة"
+  },
+  {
+   "level": 3,
+   "emoji": "🍊",
+   "es": "Con el contrato fijo discontinuo le llamamos cada temporada.",
+   "ar": "مع العقد الدائم المتقطّع نستدعيك في كل موسم.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 3,
+   "emoji": "📃",
+   "es": "El contrato indefinido no tiene fecha de finalización.",
+   "ar": "العقد غير محدّد المدة ليس له تاريخ انتهاء.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "En la nómina aparecen el salario bruto, los descuentos y el salario neto.",
+   "ar": "يظهر في كشف الراتب الراتب الإجمالي والاقتطاعات والراتب الصافي.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 3,
+   "emoji": "📑",
+   "es": "Su salario y su horario dependen del convenio colectivo del sector.",
+   "ar": "يتحدّد راتبك ودوامك حسب الاتفاقية الجماعية للقطاع.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 3,
+   "emoji": "✍️",
+   "es": "Pida siempre el contrato por escrito y guarde una copia.",
+   "ar": "اطلب دائمًا العقد مكتوبًا واحتفظ بنسخة منه.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 3,
+   "emoji": "⏰",
+   "es": "Las horas extra son voluntarias, salvo que se pacte lo contrario.",
+   "ar": "الساعات الإضافية اختيارية، إلا إذا تمّ الاتفاق على خلاف ذلك.",
+   "section": "العقد والأجرة"
+  },
+  {
+   "level": 3,
+   "emoji": "⏱️",
+   "es": "Tiene que fichar al entrar y al salir.",
+   "ar": "يجب أن تسجّل حضورك عند الدخول وعند الخروج.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "Es obligatorio llevar el equipo de protección durante toda la jornada.",
+   "ar": "ارتداء معدّات الحماية إلزامي طوال يوم العمل.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "📢",
+   "es": "Si ve algo peligroso, avise al encargado inmediatamente.",
+   "ar": "إذا رأيت شيئًا خطيرًا، فأبلغ المسؤول فورًا.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🔄",
+   "es": "La semana que viene cambiamos de turno: usted entra por la noche.",
+   "ar": "الأسبوع القادم نغيّر الدوام: ستعمل في الليل.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🧤",
+   "es": "La empresa debe darle gratis los equipos de protección.",
+   "ar": "يجب على الشركة أن تعطيك معدّات الحماية مجانًا.",
+   "section": "في مكان العمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "Puede denunciar a la empresa ante la Inspección de Trabajo.",
+   "ar": "يمكنك تقديم شكوى ضد الشركة لدى مفتشية العمل.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Si no está de acuerdo, firme el finiquito poniendo «no conforme».",
+   "ar": "إذا لم تكن موافقًا، فوقّع على التسوية النهائية مع كتابة «no conforme» (غير موافق).",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🚪",
+   "es": "El despido debe comunicarse por escrito en una carta de despido.",
+   "ar": "يجب إبلاغ الفصل كتابةً في رسالة فصل.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "⚖️",
+   "es": "Si cree que el despido es injusto, consulte con un abogado o con el sindicato cuanto antes.",
+   "ar": "إذا كنت تظن أن الفصل غير عادل، فاستشر محاميًا أو النقابة في أقرب وقت.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "📉",
+   "es": "Para cobrar el paro necesita haber cotizado un tiempo mínimo.",
+   "ar": "للحصول على إعانة البطالة تحتاج إلى أن تكون قد دفعت اشتراكات لمدة دنيا.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🚨",
+   "es": "Comunique cualquier accidente laboral a la empresa enseguida, aunque parezca leve.",
+   "ar": "أبلغ الشركة فورًا بأي حادث عمل، حتى لو بدا بسيطًا.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🙅",
+   "es": "No pueden despedirle por estar de baja médica de forma legal.",
+   "ar": "لا يمكنهم فصلك لأنك في إجازة مرضية قانونية.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "💸",
+   "es": "Trabajar sin estar dado de alta le deja sin protección.",
+   "ar": "العمل بدون تسجيل في الضمان الاجتماعي يتركك بدون حماية.",
+   "section": "الحقوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🏖️",
+   "es": "Tiene derecho, como mínimo, a treinta días naturales de vacaciones pagadas al año.",
+   "ar": "من حقك الحصول على ثلاثين يومًا تقويميًا على الأقل من العطلة المدفوعة الأجر في السنة.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "El médico le dará el parte de baja y usted debe entregarlo a la empresa.",
+   "ar": "سيعطيك الطبيب شهادة التوقف المرضي، ويجب أن تسلّمها للشركة.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "🏥",
+   "es": "Si se lesiona en el trabajo, normalmente le atenderá la mutua.",
+   "ar": "إذا أُصبت في العمل، فعادةً تتكفّل بك التعاضدية.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "🩺",
+   "es": "Con el alta médica tiene que volver al trabajo al día siguiente.",
+   "ar": "بعد شهادة الشفاء يجب أن تعود إلى العمل في اليوم التالي.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "💡",
+   "es": "Las vacaciones no se pueden cambiar por dinero, salvo al terminar el contrato.",
+   "ar": "لا يمكن تعويض العطلة بالمال، إلا عند انتهاء العقد.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "Las vacaciones que no ha disfrutado se pagan en el finiquito.",
+   "ar": "العطلة التي لم تأخذها تُدفع لك في التسوية النهائية.",
+   "section": "الإجازات والمرض"
+  },
+  {
+   "level": 3,
+   "emoji": "🕐",
+   "es": "Entre el final de una jornada y el inicio de la siguiente debe haber un descanso mínimo.",
+   "ar": "يجب أن تكون هناك راحة دنيا بين نهاية يوم عمل وبداية اليوم التالي.",
+   "section": "الإجازات والمرض"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la nómina»?",
+   "options": [
+    "العطلة",
+    "كشف الراتب",
+    "العقد"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la nómina»؟",
+   "ar_exp": "«la nómina» هي كشف الراتب الذي تعطيك إياه الشركة كل شهر."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el despido»?",
+   "options": [
+    "الفصل من العمل",
+    "الترقية",
+    "الاستراحة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el despido»؟",
+   "ar_exp": "«el despido» هو الفصل من العمل."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el encargado»?",
+   "options": [
+    "الزبون",
+    "الزميل",
+    "المسؤول (رئيس الفريق)"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el encargado»؟",
+   "ar_exp": "«el encargado» هو المسؤول الذي ينظّم العمل ويعطي التعليمات."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la baja médica»?",
+   "options": [
+    "الإجازة المرضية",
+    "العطلة السنوية",
+    "الدوام الليلي"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la baja médica»؟",
+   "ar_exp": "«la baja médica» هي الإجازة المرضية التي يعطيها الطبيب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el turno de noche»?",
+   "options": [
+    "دوام الصباح",
+    "الدوام الليلي",
+    "يوم العطلة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el turno de noche»؟",
+   "ar_exp": "«el turno de noche» هو الدوام الليلي."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el finiquito»?",
+   "options": [
+    "فترة التجربة",
+    "المنحة الإضافية",
+    "التسوية النهائية عند انتهاء العمل"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el finiquito»؟",
+   "ar_exp": "«el finiquito» هو المبلغ والوثيقة التي تُعطى لك عند انتهاء علاقة العمل."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el paro»?",
+   "options": [
+    "إعانة البطالة",
+    "الإضراب",
+    "الراتب الصافي"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el paro»؟",
+   "ar_exp": "«el paro» تعني البطالة، وتُستعمل أيضًا لإعانة البطالة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «las horas extra»?",
+   "options": [
+    "ساعات الاستراحة",
+    "الساعات الإضافية",
+    "ساعات النوم"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «las horas extra»؟",
+   "ar_exp": "«las horas extra» هي الساعات التي تعملها زيادة على دوامك العادي."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el sindicato»?",
+   "options": [
+    "الشركة",
+    "البلدية",
+    "النقابة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el sindicato»؟",
+   "ar_exp": "«el sindicato» هو النقابة التي تدافع عن حقوق العمال."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la entrevista»?",
+   "options": [
+    "المقابلة",
+    "الرسالة",
+    "الإعلان"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la entrevista»؟",
+   "ar_exp": "«la entrevista» هي مقابلة العمل."
+  },
+  {
+   "level": 2,
+   "q": "Quieres preguntar si te pagan las horas que trabajas de más. ¿Qué dices?",
+   "options": [
+    "¿Dónde está el encargado?",
+    "¿Me pagan las horas extra?",
+    "¿A qué hora es el descanso?"
+   ],
+   "answer": 1,
+   "ar_q": "تريد أن تسأل هل يدفعون لك الساعات التي تعملها زيادة. ماذا تقول؟",
+   "ar_exp": "«¿Me pagan las horas extra?» تعني: هل تدفعون لي الساعات الإضافية؟"
+  },
+  {
+   "level": 2,
+   "q": "Estás enfermo y no puedes ir a trabajar. ¿Qué le dices al jefe?",
+   "options": [
+    "Hoy no puedo ir, estoy enfermo.",
+    "Estoy disponible desde mañana.",
+    "Quiero las vacaciones en agosto."
+   ],
+   "answer": 0,
+   "ar_q": "أنت مريض ولا تستطيع الذهاب إلى العمل. ماذا تقول للمدير؟",
+   "ar_exp": "«Hoy no puedo ir, estoy enfermo» تعني: لا أستطيع الحضور اليوم، أنا مريض."
+  },
+  {
+   "level": 2,
+   "q": "En la entrevista te preguntan: «¿Dónde ha trabajado antes?». ¿Qué respondes?",
+   "options": [
+    "Tengo cuarenta años.",
+    "Me llamo Ahmed.",
+    "He trabajado en el campo y en la construcción."
+   ],
+   "answer": 2,
+   "ar_q": "في المقابلة يسألونك: «¿Dónde ha trabajado antes?». بماذا تجيب؟",
+   "ar_exp": "السؤال عن أماكن عملك السابقة، فتجيب بذكر خبرتك."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «el salario neto»?",
+   "options": [
+    "الراتب بعد الاقتطاعات",
+    "الراتب قبل الاقتطاعات",
+    "المنحة الإضافية"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو «el salario neto»؟",
+   "ar_exp": "«el salario neto» هو المبلغ الذي تتسلّمه فعلًا بعد الاقتطاعات."
+  },
+  {
+   "level": 2,
+   "q": "Antes de firmar un contrato, ¿qué es mejor decir?",
+   "options": [
+    "Firmo sin leer.",
+    "Quiero leer el contrato antes de firmar.",
+    "No necesito copia."
+   ],
+   "answer": 1,
+   "ar_q": "قبل توقيع عقد، ما الأفضل أن تقول؟",
+   "ar_exp": "من الأفضل قراءة العقد قبل التوقيع."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es un contrato temporal?",
+   "options": [
+    "عقد بدون نهاية",
+    "عقد بدون راتب",
+    "عقد لمدة محدودة"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو «contrato temporal»؟",
+   "ar_exp": "«contrato temporal» هو عقد مؤقت لمدة محدودة."
+  },
+  {
+   "level": 2,
+   "q": "Te has hecho daño en el trabajo. ¿Qué dices?",
+   "options": [
+    "Me he hecho daño trabajando.",
+    "Me han despedido.",
+    "Busco trabajo de temporada."
+   ],
+   "answer": 0,
+   "ar_q": "تعرّضت لإصابة في العمل. ماذا تقول؟",
+   "ar_exp": "«Me he hecho daño trabajando» تعني: تعرّضت لإصابة أثناء العمل."
+  },
+  {
+   "level": 2,
+   "q": "El jefe dice: «Esta semana tienes turno de tarde». ¿Cuándo trabajas?",
+   "options": [
+    "في الصباح",
+    "في المساء",
+    "في الليل"
+   ],
+   "answer": 1,
+   "ar_q": "يقول المدير: «Esta semana tienes turno de tarde». متى تعمل؟",
+   "ar_exp": "«turno de tarde» هو دوام المساء (بعد الظهر)."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «el periodo de prueba»?",
+   "options": [
+    "أيام العطلة",
+    "فترة البحث عن عمل",
+    "فترة التجربة في بداية العمل"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو «el periodo de prueba»؟",
+   "ar_exp": "«el periodo de prueba» هو فترة التجربة في بداية العقد."
+  },
+  {
+   "level": 3,
+   "q": "No estás de acuerdo con la cantidad del finiquito. ¿Qué puedes hacer al firmarlo?",
+   "options": [
+    "Escribir «no conforme».",
+    "No decir nada nunca.",
+    "Devolver el contrato."
+   ],
+   "answer": 0,
+   "ar_q": "لست موافقًا على مبلغ التسوية النهائية. ماذا يمكنك أن تفعل عند التوقيع؟",
+   "ar_exp": "يمكنك أن توقّع مع كتابة «no conforme» أي غير موافق، حتى تحتفظ بحق المطالبة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es un contrato fijo discontinuo?",
+   "options": [
+    "عقد ليوم واحد فقط",
+    "عقد دائم لعمل يتكرر في مواسم أو فترات",
+    "عقد بدون تسجيل في الضمان الاجتماعي"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «contrato fijo discontinuo»؟",
+   "ar_exp": "هو عقد دائم لكن العمل فيه متقطّع، مثل العمل الموسمي الذي يتكرر كل سنة."
+  },
+  {
+   "level": 3,
+   "q": "La empresa no paga lo que dice el contrato. ¿Dónde puedes denunciar?",
+   "options": [
+    "En la Inspección de Trabajo.",
+    "En el banco.",
+    "En el centro de salud."
+   ],
+   "answer": 0,
+   "ar_q": "الشركة لا تدفع ما يقوله العقد. أين يمكنك تقديم شكوى؟",
+   "ar_exp": "مفتشية العمل (Inspección de Trabajo) تراقب احترام حقوق العمال."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es «el convenio colectivo»?",
+   "options": [
+    "ورقة الحضور اليومية",
+    "الاتفاقية التي تحدّد شروط العمل والأجور في قطاع معيّن",
+    "رسالة الفصل"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «el convenio colectivo»؟",
+   "ar_exp": "«el convenio colectivo» اتفاقية بين النقابات وأصحاب العمل تحدّد الأجور والدوام والحقوق في القطاع."
+  },
+  {
+   "level": 3,
+   "q": "El encargado dice: «Tiene que fichar al entrar y al salir». ¿Qué significa?",
+   "options": [
+    "يجب أن تلبس الزيّ الموحّد.",
+    "يجب أن تأخذ الاستراحة.",
+    "يجب أن تسجّل حضورك عند الدخول والخروج."
+   ],
+   "answer": 2,
+   "ar_q": "يقول المسؤول: «Tiene que fichar al entrar y al salir». ماذا يعني؟",
+   "ar_exp": "«fichar» تعني تسجيل ساعة الدخول والخروج."
+  },
+  {
+   "level": 3,
+   "q": "Has tenido un pequeño accidente laboral. ¿Qué debes hacer?",
+   "options": [
+    "No decir nada si es leve.",
+    "Comunicarlo a la empresa enseguida.",
+    "Esperar a final de mes."
+   ],
+   "answer": 1,
+   "ar_q": "تعرّضت لحادث عمل بسيط. ماذا يجب أن تفعل؟",
+   "ar_exp": "يجب إبلاغ الشركة فورًا بأي حادث عمل حتى لو بدا بسيطًا."
+  }
+ ]
+}

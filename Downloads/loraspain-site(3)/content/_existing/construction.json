@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "id": "construction",
+  "kind": "job",
+  "name": "البناء",
+  "name_es": "Construcción",
+  "emoji": "🧱",
+  "color": "c6",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 21,
+  "published": true
+ },
+ "cards": [],
+ "questions": []
+}

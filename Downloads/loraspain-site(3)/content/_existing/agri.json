@@ -1,0 +1,260 @@
+{
+ "topic": {
+  "id": "agri",
+  "kind": "job",
+  "name": "الفلاحة",
+  "name_es": "Agricultura",
+  "emoji": "🌾",
+  "color": "c2",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 20,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "🍓",
+   "es": "Hoy recogemos fresas.",
+   "tr": {
+    "ar": "اليوم نقطف الفراولة."
+   },
+   "section": "في الحقل",
+   "sort": 0
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "🕖",
+   "es": "Empezamos a las siete.",
+   "tr": {
+    "ar": "نبدأ في الساعة السابعة."
+   },
+   "section": "في الحقل",
+   "sort": 1
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "📦",
+   "es": "Llena la caja.",
+   "tr": {
+    "ar": "املأ الصندوق."
+   },
+   "section": "في الحقل",
+   "sort": 2
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "➡️",
+   "es": "Ve a la fila tres.",
+   "tr": {
+    "ar": "اذهب إلى الصف الثالث."
+   },
+   "section": "في الحقل",
+   "sort": 3
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🐢",
+   "es": "Más despacio, con cuidado.",
+   "tr": {
+    "ar": "ببطء أكثر، وبحذر."
+   },
+   "section": "في الحقل",
+   "sort": 4
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🍓",
+   "es": "Solo las fresas rojas.",
+   "tr": {
+    "ar": "الفراولة الحمراء فقط."
+   },
+   "section": "في الحقل",
+   "sort": 5
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🏠",
+   "es": "el invernadero",
+   "tr": {
+    "ar": "البيت البلاستيكي"
+   },
+   "section": "في الحقل",
+   "sort": 6
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🌱",
+   "es": "la cosecha",
+   "tr": {
+    "ar": "الجني / الحصاد"
+   },
+   "section": "في الحقل",
+   "sort": 7
+  },
+  {
+   "topic_id": "agri",
+   "level": 3,
+   "emoji": "🗺️",
+   "es": "Hoy terminamos esta parcela.",
+   "tr": {
+    "ar": "اليوم ننهي هذه القطعة الأرضية."
+   },
+   "section": "في الحقل",
+   "sort": 8
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "tr": {
+    "ar": "القفازات"
+   },
+   "section": "الأدوات",
+   "sort": 9
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "✂️",
+   "es": "las tijeras",
+   "tr": {
+    "ar": "المقص"
+   },
+   "section": "الأدوات",
+   "sort": 10
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🚜",
+   "es": "el tractor",
+   "tr": {
+    "ar": "الجرار"
+   },
+   "section": "الأدوات",
+   "sort": 11
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🛒",
+   "es": "la carretilla",
+   "tr": {
+    "ar": "عربة اليد"
+   },
+   "section": "الأدوات",
+   "sort": 12
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "☀️",
+   "es": "Hace calor, bebe agua.",
+   "tr": {
+    "ar": "الجو حار، اشرب الماء."
+   },
+   "section": "السلامة",
+   "sort": 13
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "🤕",
+   "es": "Me he hecho daño.",
+   "tr": {
+    "ar": "لقد أُصبت."
+   },
+   "section": "السلامة",
+   "sort": 14
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "🧴",
+   "es": "No toques los productos químicos.",
+   "tr": {
+    "ar": "لا تلمس المواد الكيميائية."
+   },
+   "section": "السلامة",
+   "sort": 15
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "⛑️",
+   "es": "¿Dónde está el botiquín?",
+   "tr": {
+    "ar": "أين صندوق الإسعافات الأولية؟"
+   },
+   "section": "السلامة",
+   "sort": 16
+  },
+  {
+   "topic_id": "agri",
+   "level": 1,
+   "emoji": "💶",
+   "es": "¿Cuándo cobramos?",
+   "tr": {
+    "ar": "متى نتقاضى الأجر؟"
+   },
+   "section": "الأجرة والعقد",
+   "sort": 17
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "⏱️",
+   "es": "¿Cuánto pagan por hora?",
+   "tr": {
+    "ar": "كم يدفعون في الساعة؟"
+   },
+   "section": "الأجرة والعقد",
+   "sort": 18
+  },
+  {
+   "topic_id": "agri",
+   "level": 2,
+   "emoji": "📑",
+   "es": "el contrato de temporada",
+   "tr": {
+    "ar": "عقد العمل الموسمي"
+   },
+   "section": "الأجرة والعقد",
+   "sort": 19
+  },
+  {
+   "topic_id": "agri",
+   "level": 3,
+   "emoji": "📅",
+   "es": "¿Cuántos días libres tengo?",
+   "tr": {
+    "ar": "كم يوم عطلة لدي؟"
+   },
+   "section": "الأجرة والعقد",
+   "sort": 20
+  },
+  {
+   "topic_id": "agri",
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Necesito mi nómina de este mes.",
+   "tr": {
+    "ar": "أحتاج كشف راتب هذا الشهر."
+   },
+   "section": "الأجرة والعقد",
+   "sort": 21
+  }
+ ],
+ "questions": []
+}

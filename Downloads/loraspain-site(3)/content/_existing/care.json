@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "id": "care",
+  "kind": "job",
+  "name": "رعاية المسنين",
+  "name_es": "Cuidado de mayores",
+  "emoji": "👵",
+  "color": "c4",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 24,
+  "published": true
+ },
+ "cards": [],
+ "questions": []
+}

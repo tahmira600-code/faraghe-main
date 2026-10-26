@@ -1,0 +1,711 @@
+{
+ "topic_id": "food",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🍎",
+   "es": "la manzana",
+   "ar": "التفاحة",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍌",
+   "es": "el plátano",
+   "ar": "الموزة",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍊",
+   "es": "la naranja",
+   "ar": "البرتقالة",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍇",
+   "es": "las uvas",
+   "ar": "العنب",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍓",
+   "es": "la fresa",
+   "ar": "الفراولة",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍉",
+   "es": "la sandía",
+   "ar": "البطيخ الأحمر",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍈",
+   "es": "el melón",
+   "ar": "الشمام",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍐",
+   "es": "la pera",
+   "ar": "الإجاصة",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍑",
+   "es": "el melocotón",
+   "ar": "الخوخ",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍋",
+   "es": "el limón",
+   "ar": "الليمون",
+   "section": "الفواكه"
+  },
+  {
+   "level": 2,
+   "emoji": "🍒",
+   "es": "las cerezas",
+   "ar": "الكرز",
+   "section": "الفواكه"
+  },
+  {
+   "level": 2,
+   "emoji": "🥝",
+   "es": "el kiwi",
+   "ar": "الكيوي",
+   "section": "الفواكه"
+  },
+  {
+   "level": 2,
+   "emoji": "🍎",
+   "es": "Las manzanas están muy dulces.",
+   "ar": "التفاح حلو جدا.",
+   "section": "الفواكه"
+  },
+  {
+   "level": 3,
+   "emoji": "🍊",
+   "es": "Estas naranjas son de temporada y vienen de Valencia.",
+   "ar": "هذا البرتقال موسمي ويأتي من بلنسية.",
+   "section": "الفواكه"
+  },
+  {
+   "level": 1,
+   "emoji": "🍅",
+   "es": "el tomate",
+   "ar": "الطماطم",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🥔",
+   "es": "la patata",
+   "ar": "البطاطس",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🧅",
+   "es": "la cebolla",
+   "ar": "البصل",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🧄",
+   "es": "el ajo",
+   "ar": "الثوم",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🥕",
+   "es": "la zanahoria",
+   "ar": "الجزر",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🥒",
+   "es": "el pepino",
+   "ar": "الخيار",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🫑",
+   "es": "el pimiento",
+   "ar": "الفلفل",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🥬",
+   "es": "la lechuga",
+   "ar": "الخس",
+   "section": "الخضر"
+  },
+  {
+   "level": 2,
+   "emoji": "🍆",
+   "es": "la berenjena",
+   "ar": "الباذنجان",
+   "section": "الخضر"
+  },
+  {
+   "level": 2,
+   "emoji": "🥦",
+   "es": "el brócoli",
+   "ar": "البروكلي",
+   "section": "الخضر"
+  },
+  {
+   "level": 2,
+   "emoji": "🌽",
+   "es": "el maíz",
+   "ar": "الذرة",
+   "section": "الخضر"
+  },
+  {
+   "level": 2,
+   "emoji": "🫘",
+   "es": "los garbanzos",
+   "ar": "الحمص",
+   "section": "الخضر"
+  },
+  {
+   "level": 3,
+   "emoji": "🥗",
+   "es": "Para la ensalada necesito lechuga, tomate y cebolla.",
+   "ar": "لتحضير السلطة أحتاج إلى خس وطماطم وبصل.",
+   "section": "الخضر"
+  },
+  {
+   "level": 3,
+   "emoji": "🍅",
+   "es": "Los tomates de esta caja están demasiado maduros.",
+   "ar": "طماطم هذا الصندوق ناضجة أكثر من اللازم.",
+   "section": "الخضر"
+  },
+  {
+   "level": 1,
+   "emoji": "🍗",
+   "es": "el pollo",
+   "ar": "الدجاج",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 1,
+   "emoji": "🥩",
+   "es": "la carne",
+   "ar": "اللحم",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 1,
+   "emoji": "🐟",
+   "es": "el pescado",
+   "ar": "السمك",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 1,
+   "emoji": "🦐",
+   "es": "las gambas",
+   "ar": "الجمبري",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 1,
+   "emoji": "🥚",
+   "es": "los huevos",
+   "ar": "البيض",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 2,
+   "emoji": "🐑",
+   "es": "la carne de cordero",
+   "ar": "لحم الخروف",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 2,
+   "emoji": "🐄",
+   "es": "la carne de ternera",
+   "ar": "لحم العجل",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 2,
+   "emoji": "🍖",
+   "es": "la carne picada",
+   "ar": "اللحم المفروم",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 2,
+   "emoji": "🐟",
+   "es": "las sardinas",
+   "ar": "السردين",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 2,
+   "emoji": "🥩",
+   "es": "¿Tiene carne halal?",
+   "ar": "هل لديك لحم حلال؟",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 3,
+   "emoji": "🍗",
+   "es": "Póngame un kilo de pollo cortado en trozos, por favor.",
+   "ar": "أعطني كيلو دجاج مقطعا إلى قطع من فضلك.",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 3,
+   "emoji": "🐟",
+   "es": "El pescado fresco tiene los ojos brillantes y huele a mar.",
+   "ar": "السمك الطازج عيناه لامعتان ورائحته رائحة البحر.",
+   "section": "اللحوم والسمك"
+  },
+  {
+   "level": 1,
+   "emoji": "🥖",
+   "es": "la barra de pan",
+   "ar": "الخبزة الطويلة",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 1,
+   "emoji": "🥛",
+   "es": "la leche",
+   "ar": "الحليب",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 1,
+   "emoji": "🧀",
+   "es": "el queso",
+   "ar": "الجبن",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 1,
+   "emoji": "🧈",
+   "es": "la mantequilla",
+   "ar": "الزبدة",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 1,
+   "emoji": "🥐",
+   "es": "el cruasán",
+   "ar": "الكرواسون",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 1,
+   "emoji": "🍰",
+   "es": "el pastel",
+   "ar": "الكعكة",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 2,
+   "emoji": "🥣",
+   "es": "el yogur",
+   "ar": "الزبادي",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 2,
+   "emoji": "🍪",
+   "es": "las galletas",
+   "ar": "البسكويت",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 2,
+   "emoji": "🍞",
+   "es": "el pan de molde",
+   "ar": "خبز التوست",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 2,
+   "emoji": "🍯",
+   "es": "la miel",
+   "ar": "العسل",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 3,
+   "emoji": "🥛",
+   "es": "Esta leche está caducada; mira la fecha.",
+   "ar": "هذا الحليب منتهي الصلاحية؛ انظر إلى التاريخ.",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 3,
+   "emoji": "🥖",
+   "es": "Quería dos barras de pan y media docena de magdalenas.",
+   "ar": "أريد خبزتين طويلتين وست قطع من كعك المادلين.",
+   "section": "المخبزة والحليب"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "el café",
+   "ar": "القهوة",
+   "section": "المشروبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍵",
+   "es": "el té",
+   "ar": "الشاي",
+   "section": "المشروبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧃",
+   "es": "el zumo",
+   "ar": "العصير",
+   "section": "المشروبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥤",
+   "es": "el refresco",
+   "ar": "المشروب الغازي",
+   "section": "المشروبات"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "el agua con gas",
+   "ar": "الماء الغازي",
+   "section": "المشروبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧊",
+   "es": "el hielo",
+   "ar": "الثلج",
+   "section": "المشروبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🍊",
+   "es": "el zumo de naranja natural",
+   "ar": "عصير البرتقال الطبيعي",
+   "section": "المشروبات"
+  },
+  {
+   "level": 2,
+   "emoji": "☕",
+   "es": "el café con leche",
+   "ar": "القهوة بالحليب",
+   "section": "المشروبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🫖",
+   "es": "Un té con menta, por favor.",
+   "ar": "شاي بالنعناع من فضلك.",
+   "section": "المشروبات"
+  },
+  {
+   "level": 3,
+   "emoji": "🥤",
+   "es": "Perdone, ¿esta bebida lleva alcohol?",
+   "ar": "عفوا، هل يحتوي هذا المشروب على الكحول؟",
+   "section": "المشروبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍏",
+   "es": "la frutería",
+   "ar": "محل الفواكه",
+   "section": "في السوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🥩",
+   "es": "la carnicería",
+   "ar": "محل الجزارة",
+   "section": "في السوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🐟",
+   "es": "la pescadería",
+   "ar": "محل السمك",
+   "section": "في السوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🥖",
+   "es": "la panadería",
+   "ar": "المخبزة",
+   "section": "في السوق"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "el kilo",
+   "ar": "الكيلوغرام",
+   "section": "في السوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛍️",
+   "es": "la bolsa",
+   "ar": "الكيس",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🍅",
+   "es": "un kilo de tomates",
+   "ar": "كيلو من الطماطم",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🧅",
+   "es": "medio kilo de cebollas",
+   "ar": "نصف كيلو من البصل",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🥚",
+   "es": "una docena de huevos",
+   "ar": "دزينة بيض (اثنتا عشرة بيضة)",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Cuánto cuesta?",
+   "ar": "كم ثمنه؟",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🍓",
+   "es": "¿A cuánto está el kilo de fresas?",
+   "ar": "بكم كيلو الفراولة؟",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "el ticket de compra",
+   "ar": "وصل الشراء",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Son tres euros con cincuenta.",
+   "ar": "المبلغ ثلاثة يوروهات وخمسون سنتا.",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "¿Puedo pagar con tarjeta?",
+   "ar": "هل يمكنني الدفع بالبطاقة؟",
+   "section": "في السوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🙋",
+   "es": "¿Quién es el último?",
+   "ar": "من آخر واحد في الدور؟",
+   "section": "في السوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🧀",
+   "es": "¿Me pone un cuarto de kilo de queso, por favor?",
+   "ar": "هل تعطيني ربع كيلو من الجبن من فضلك؟",
+   "section": "في السوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🍅",
+   "es": "¿Me deja escoger los tomates a mí?",
+   "ar": "هل تسمح لي أن أختار الطماطم بنفسي؟",
+   "section": "في السوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Las fresas están de oferta: dos kilos por cinco euros.",
+   "ar": "الفراولة في عرض خاص: كيلوغرامان بخمسة يوروهات.",
+   "section": "في السوق"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la manzana\"?",
+   "options": [
+    "البرتقالة",
+    "التفاحة",
+    "الموزة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la manzana\"؟",
+   "ar_exp": "\"la manzana\" هي التفاحة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la cebolla\"?",
+   "options": [
+    "البصل",
+    "الثوم",
+    "الجزر"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"la cebolla\"؟",
+   "ar_exp": "\"la cebolla\" هي البصل، و\"el ajo\" هو الثوم."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"الحليب\" en español?",
+   "options": [
+    "el queso",
+    "el zumo",
+    "la leche"
+   ],
+   "answer": 2,
+   "ar_q": "كيف نقول \"الحليب\" بالإسبانية؟",
+   "ar_exp": "\"la leche\" هي الحليب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el pollo\"?",
+   "options": [
+    "الدجاج",
+    "السمك",
+    "اللحم"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el pollo\"؟",
+   "ar_exp": "\"el pollo\" هو الدجاج."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde compras carne?",
+   "options": [
+    "en la frutería",
+    "en la carnicería",
+    "en la panadería"
+   ],
+   "answer": 1,
+   "ar_q": "أين تشتري اللحم؟",
+   "ar_exp": "\"la carnicería\" هي محل الجزارة حيث يباع اللحم."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber el precio. ¿Qué preguntas?",
+   "options": [
+    "¿Cuánto cuesta?",
+    "¿Dónde está?",
+    "¿Qué hora es?"
+   ],
+   "answer": 0,
+   "ar_q": "تريد أن تعرف الثمن. ماذا تسأل؟",
+   "ar_exp": "\"¿Cuánto cuesta?\" تعني \"كم ثمنه؟\"."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"medio kilo\"?",
+   "options": [
+    "كيلوغرام واحد",
+    "ربع كيلو",
+    "نصف كيلو"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"medio kilo\"؟",
+   "ar_exp": "\"medio\" تعني نصف، فـ \"medio kilo\" نصف كيلوغرام."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuántos huevos hay en \"una docena\"?",
+   "options": [
+    "عشرة",
+    "اثنا عشر",
+    "ستة"
+   ],
+   "answer": 1,
+   "ar_q": "كم بيضة في \"una docena\"؟",
+   "ar_exp": "\"una docena\" تعني اثني عشر."
+  },
+  {
+   "level": 2,
+   "q": "Llegas a la frutería y hay gente esperando. ¿Qué preguntas?",
+   "options": [
+    "¿Quién es el último?",
+    "¿Cuánto cuesta?",
+    "¿Tiene bolsa?"
+   ],
+   "answer": 0,
+   "ar_q": "تصل إلى محل الفواكه وهناك أناس ينتظرون. ماذا تسأل؟",
+   "ar_exp": "في إسبانيا نسأل \"¿Quién es el último?\" لنعرف من آخر شخص في الدور."
+  },
+  {
+   "level": 2,
+   "q": "\"Son tres euros con cincuenta.\" ¿Cuánto tienes que pagar?",
+   "options": [
+    "3,15 €",
+    "13,50 €",
+    "3,50 €"
+   ],
+   "answer": 2,
+   "ar_q": "\"Son tres euros con cincuenta.\" كم يجب أن تدفع؟",
+   "ar_exp": "ثلاثة يوروهات وخمسون سنتا = 3,50 €."
+  },
+  {
+   "level": 3,
+   "q": "\"Esta leche está caducada.\" ¿Qué significa?",
+   "options": [
+    "هذا الحليب طازج",
+    "هذا الحليب منتهي الصلاحية",
+    "هذا الحليب رخيص"
+   ],
+   "answer": 1,
+   "ar_q": "\"Esta leche está caducada.\" ما معناها؟",
+   "ar_exp": "\"caducada\" تعني أن تاريخ صلاحيته قد انتهى."
+  },
+  {
+   "level": 3,
+   "q": "\"Las fresas están de oferta.\" ¿Qué significa?",
+   "options": [
+    "الفراولة في عرض خاص بسعر أقل",
+    "الفراولة نفدت",
+    "الفراولة غير ناضجة"
+   ],
+   "answer": 0,
+   "ar_q": "\"Las fresas están de oferta.\" ما معناها؟",
+   "ar_exp": "\"de oferta\" تعني أن عليها عرضا وسعرها أرخص من المعتاد."
+  }
+ ]
+}

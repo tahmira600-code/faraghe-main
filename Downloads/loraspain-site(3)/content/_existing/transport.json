@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "id": "transport",
+  "kind": "job",
+  "name": "النقل",
+  "name_es": "Transporte",
+  "emoji": "🚚",
+  "color": "c5",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 26,
+  "published": true
+ },
+ "cards": [],
+ "questions": []
+}

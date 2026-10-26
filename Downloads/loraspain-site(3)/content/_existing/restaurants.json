@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "id": "restaurants",
+  "kind": "job",
+  "name": "المطاعم",
+  "name_es": "Hostelería",
+  "emoji": "🍽️",
+  "color": "c1",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 22,
+  "published": true
+ },
+ "cards": [],
+ "questions": []
+}

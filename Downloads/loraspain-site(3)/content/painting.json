@@ -1,0 +1,477 @@
+{
+ "topic_id": "painting",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🎨",
+   "es": "la pintura",
+   "ar": "الطلاء",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "el disolvente",
+   "ar": "المذيب",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🫙",
+   "es": "la masilla",
+   "ar": "المعجون",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪵",
+   "es": "el barniz",
+   "ar": "الورنيش",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧪",
+   "es": "el esmalte",
+   "ar": "الطلاء اللامع (المينا)",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🌈",
+   "es": "el color",
+   "ar": "اللون",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪣",
+   "es": "el cubo",
+   "ar": "الدلو",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🖌️",
+   "es": "la brocha",
+   "ar": "فرشاة الطلاء",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "✏️",
+   "es": "el pincel",
+   "ar": "الفرشاة الرفيعة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧻",
+   "es": "el rodillo",
+   "ar": "الأسطوانة (الرولو)",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪜",
+   "es": "la escalera",
+   "ar": "السلّم",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏷️",
+   "es": "la cinta de carrocero",
+   "ar": "الشريط الورقي اللاصق",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧱",
+   "es": "la pared",
+   "ar": "الجدار",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "el techo",
+   "ar": "السقف",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "el marco de la ventana",
+   "ar": "إطار النافذة",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "📄",
+   "es": "el papel de lija",
+   "ar": "ورق الصنفرة",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "🕳️",
+   "es": "el agujero",
+   "ar": "الثقب",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "la humedad",
+   "ar": "الرطوبة",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "🛡️",
+   "es": "el plástico protector",
+   "ar": "البلاستيك الواقي",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 1,
+   "emoji": "👷",
+   "es": "el pintor",
+   "ar": "الدهّان",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🛋️",
+   "es": "Cubre los muebles con plástico.",
+   "ar": "غطِّ الأثاث بالبلاستيك.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Pon cinta en los enchufes y los marcos.",
+   "ar": "ضع الشريط على المقابس والإطارات.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "Lija la pared antes de pintar.",
+   "ar": "صنفر الجدار قبل الطلاء.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 2,
+   "emoji": "🫙",
+   "es": "Tapa los agujeros con masilla.",
+   "ar": "سدّ الثقوب بالمعجون.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Limpia el polvo de la pared.",
+   "ar": "نظّف الغبار عن الجدار.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 2,
+   "emoji": "🎨",
+   "es": "Remueve bien la pintura.",
+   "ar": "حرّك الطلاء جيداً.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "Añade un poco de agua a la pintura.",
+   "ar": "أضف قليلاً من الماء إلى الطلاء.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "⏳",
+   "es": "Espera a que se seque.",
+   "ar": "انتظر حتى يجفّ.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "✌️",
+   "es": "Hay que dar dos manos.",
+   "ar": "يجب وضع طبقتين.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧻",
+   "es": "Pinta el techo con el rodillo.",
+   "ar": "اطلِ السقف بالأسطوانة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🖌️",
+   "es": "Usa la brocha para las esquinas.",
+   "ar": "استعمل الفرشاة للزوايا.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚰",
+   "es": "Lava los rodillos con agua.",
+   "ar": "اغسل الأسطوانات بالماء.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🪜",
+   "es": "Sube a la escalera con cuidado.",
+   "ar": "اصعد السلّم بحذر.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛋️",
+   "es": "¿De qué color quiere el salón?",
+   "ar": "بأي لون تريد الصالون؟",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Mañana pintamos las habitaciones.",
+   "ar": "غداً نطلي الغرف.",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🪟",
+   "es": "Abre las ventanas para ventilar.",
+   "ar": "افتح النوافذ للتهوية.",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "😷",
+   "es": "Ponte la mascarilla.",
+   "ar": "البس الكمامة.",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "⚪",
+   "es": "Esta pared necesita otra mano.",
+   "ar": "هذا الجدار يحتاج طبقة أخرى.",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🔥",
+   "es": "Los disolventes son inflamables; guárdalos lejos del calor.",
+   "ar": "المذيبات قابلة للاشتعال؛ احفظها بعيداً عن الحرارة.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🪵",
+   "es": "Aplica una imprimación antes de pintar la madera.",
+   "ar": "ضع طبقة تأسيس قبل طلاء الخشب.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 3,
+   "emoji": "💧",
+   "es": "Primero hay que tratar la humedad; si no, la pintura se desconchará.",
+   "ar": "أولاً يجب معالجة الرطوبة، وإلا سيتقشّر الطلاء.",
+   "section": "تحضير السطح"
+  },
+  {
+   "level": 3,
+   "emoji": "🦠",
+   "es": "Usa pintura antimoho en el baño.",
+   "ar": "استعمل طلاءً مضاداً للعفن في الحمّام.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🧮",
+   "es": "Calcula cuántos litros necesitamos para toda la vivienda.",
+   "ar": "احسب كم لتراً نحتاج للمسكن كلّه.",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "El presupuesto incluye la pintura y la mano de obra.",
+   "ar": "عرض السعر يشمل الطلاء واليد العاملة.",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🚪",
+   "es": "Da una capa de barniz a las puertas.",
+   "ar": "ضع طبقة ورنيش على الأبواب.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "✨",
+   "es": "¿Lo quiere en acabado mate o satinado?",
+   "ar": "هل تريده بلمسة نهائية مطفأة أم نصف لامعة؟",
+   "section": "العمل والزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🏗️",
+   "es": "Para la fachada usaremos el andamio con el arnés puesto.",
+   "ar": "للواجهة سنستعمل السقالة مع لبس حزام الأمان.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "♻️",
+   "es": "Los botes de pintura vacíos se llevan al punto limpio.",
+   "ar": "علب الطلاء الفارغة تُنقل إلى مركز جمع النفايات الخاصة.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "✂️",
+   "es": "Retira la cinta de carrocero antes de que la pintura se seque del todo.",
+   "ar": "أزل الشريط الورقي قبل أن يجفّ الطلاء تماماً.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🎨",
+   "es": "Mezcla los botes para que el tono quede igual en toda la pared.",
+   "ar": "اخلط العلب ليبقى اللون موحّداً في الجدار كلّه.",
+   "section": "المواد"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el rodillo»?",
+   "options": [
+    "الدلو",
+    "الأسطوانة (الرولو)",
+    "السلّم"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el rodillo»؟",
+   "ar_exp": "«el rodillo» هو الأسطوانة التي نطلي بها الجدران والأسقف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el techo»?",
+   "options": [
+    "السقف",
+    "الجدار",
+    "الأرضية"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el techo»؟",
+   "ar_exp": "«el techo» هو السقف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la masilla»?",
+   "options": [
+    "المذيب",
+    "الورنيش",
+    "المعجون"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la masilla»؟",
+   "ar_exp": "«la masilla» هي المعجون الذي نسدّ به الثقوب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la brocha»?",
+   "options": [
+    "فرشاة الطلاء",
+    "ورق الصنفرة",
+    "الشريط اللاصق"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la brocha»؟",
+   "ar_exp": "«la brocha» هي فرشاة الطلاء."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Hay que dar dos manos»?",
+   "options": [
+    "يجب العمل بيدين",
+    "يجب وضع طبقتين من الطلاء",
+    "يجب غسل اليدين"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «Hay que dar dos manos»؟",
+   "ar_exp": "في الطلاء «una mano» تعني طبقة، و«dos manos» تعني طبقتين."
+  },
+  {
+   "level": 2,
+   "q": "Hay agujeros en la pared. ¿Qué haces antes de pintar?",
+   "options": [
+    "Los tapo con masilla.",
+    "Pinto encima directamente.",
+    "Los mojo con agua."
+   ],
+   "answer": 0,
+   "ar_q": "توجد ثقوب في الجدار. ماذا تفعل قبل الطلاء؟",
+   "ar_exp": "تُسدّ الثقوب بالمعجون ثم تُصنفر قبل الطلاء."
+  },
+  {
+   "level": 2,
+   "q": "¿Para qué sirve el plástico protector?",
+   "options": [
+    "Para pintar el techo.",
+    "Para mezclar la pintura.",
+    "Para cubrir los muebles y el suelo."
+   ],
+   "answer": 2,
+   "ar_q": "لماذا يُستعمل البلاستيك الواقي؟",
+   "ar_exp": "البلاستيك الواقي يحمي الأثاث والأرضية من بقع الطلاء."
+  },
+  {
+   "level": 3,
+   "q": "¿Por qué hay que guardar los disolventes lejos del calor?",
+   "options": [
+    "لأنها قابلة للاشتعال",
+    "لأنها تفقد لونها",
+    "لأنها تتجمّد"
+   ],
+   "answer": 0,
+   "ar_q": "لماذا يجب حفظ المذيبات بعيداً عن الحرارة؟",
+   "ar_exp": "المذيبات قابلة للاشتعال وقد تسبّب حريقاً."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué pasa si pintas sin tratar la humedad?",
+   "options": [
+    "يجفّ الطلاء أسرع.",
+    "يتقشّر الطلاء.",
+    "يصبح اللون أجمل."
+   ],
+   "answer": 1,
+   "ar_q": "ماذا يحدث إذا طليت دون معالجة الرطوبة؟",
+   "ar_exp": "الرطوبة تجعل الطلاء يتقشّر «se desconcha»."
+  },
+  {
+   "level": 3,
+   "q": "¿Adónde se llevan los botes de pintura vacíos?",
+   "options": [
+    "Al contenedor de papel.",
+    "Al contenedor de vidrio.",
+    "Al punto limpio."
+   ],
+   "answer": 2,
+   "ar_q": "إلى أين تُنقل علب الطلاء الفارغة؟",
+   "ar_exp": "علب الطلاء نفايات خاصة تُنقل إلى «el punto limpio»."
+  }
+ ]
+}

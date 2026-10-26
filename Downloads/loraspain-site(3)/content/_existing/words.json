@@ -1,0 +1,150 @@
+{
+ "topic": {
+  "id": "words",
+  "kind": "topic",
+  "name": "الكلمات الأساسية",
+  "name_es": "Palabras básicas",
+  "emoji": "🔤",
+  "color": "c1",
+  "tier": "free",
+  "price_cents": 0,
+  "blurb": "أول الكلمات التي تحتاجها كل يوم",
+  "sort": 0,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "🙋",
+   "es": "Hola",
+   "tr": {
+    "ar": "مرحبا"
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "🙏",
+   "es": "Gracias",
+   "tr": {
+    "ar": "شكرا"
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "🍞",
+   "es": "el pan",
+   "tr": {
+    "ar": "الخبز"
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "💧",
+   "es": "el agua",
+   "tr": {
+    "ar": "الماء"
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "🏠",
+   "es": "la casa",
+   "tr": {
+    "ar": "المنزل"
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "🚗",
+   "es": "el coche",
+   "tr": {
+    "ar": "السيارة"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "💶",
+   "es": "el dinero",
+   "tr": {
+    "ar": "المال"
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "words",
+   "level": 1,
+   "emoji": "🛒",
+   "es": "el supermercado",
+   "tr": {
+    "ar": "المتجر الكبير"
+   },
+   "section": "",
+   "sort": 7
+  },
+  {
+   "topic_id": "words",
+   "level": 2,
+   "emoji": "🔑",
+   "es": "el alquiler",
+   "tr": {
+    "ar": "الإيجار"
+   },
+   "section": "",
+   "sort": 8
+  },
+  {
+   "topic_id": "words",
+   "level": 2,
+   "emoji": "🧾",
+   "es": "la factura",
+   "tr": {
+    "ar": "الفاتورة"
+   },
+   "section": "",
+   "sort": 9
+  },
+  {
+   "topic_id": "words",
+   "level": 2,
+   "emoji": "📅",
+   "es": "la cita",
+   "tr": {
+    "ar": "الموعد"
+   },
+   "section": "",
+   "sort": 10
+  },
+  {
+   "topic_id": "words",
+   "level": 3,
+   "emoji": "🏘️",
+   "es": "el vecindario",
+   "tr": {
+    "ar": "الحيّ"
+   },
+   "section": "",
+   "sort": 11
+  }
+ ],
+ "questions": []
+}

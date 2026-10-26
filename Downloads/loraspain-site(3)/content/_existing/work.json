@@ -1,0 +1,128 @@
+{
+ "topic": {
+  "id": "work",
+  "kind": "topic",
+  "name": "العمل",
+  "name_es": "Trabajo",
+  "emoji": "🧰",
+  "color": "c7",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "البحث عن عمل والعقد والراتب",
+  "sort": 4,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "work",
+   "level": 1,
+   "emoji": "🔎",
+   "es": "Busco trabajo.",
+   "tr": {
+    "ar": "أبحث عن عمل."
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "work",
+   "level": 1,
+   "emoji": "🕘",
+   "es": "¿Cuál es el horario?",
+   "tr": {
+    "ar": "ما هو وقت العمل؟"
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "work",
+   "level": 1,
+   "emoji": "▶️",
+   "es": "¿Cuándo empiezo?",
+   "tr": {
+    "ar": "متى أبدأ؟"
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "work",
+   "level": 2,
+   "emoji": "📑",
+   "es": "el contrato",
+   "tr": {
+    "ar": "العقد"
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "work",
+   "level": 2,
+   "emoji": "💵",
+   "es": "la nómina",
+   "tr": {
+    "ar": "كشف الراتب"
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "work",
+   "level": 2,
+   "emoji": "📋",
+   "es": "el currículum",
+   "tr": {
+    "ar": "السيرة الذاتية"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "work",
+   "level": 2,
+   "emoji": "🏖️",
+   "es": "las vacaciones",
+   "tr": {
+    "ar": "العطلة"
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "work",
+   "level": 3,
+   "emoji": "⏱️",
+   "es": "las horas extra",
+   "tr": {
+    "ar": "الساعات الإضافية"
+   },
+   "section": "",
+   "sort": 7
+  },
+  {
+   "topic_id": "work",
+   "level": 3,
+   "emoji": "🧱",
+   "es": "Tengo experiencia en la construcción.",
+   "tr": {
+    "ar": "لديّ خبرة في البناء."
+   },
+   "section": "",
+   "sort": 8
+  },
+  {
+   "topic_id": "work",
+   "level": 3,
+   "emoji": "🤒",
+   "es": "Estoy de baja por enfermedad.",
+   "tr": {
+    "ar": "أنا في عطلة مرضية."
+   },
+   "section": "",
+   "sort": 9
+  }
+ ],
+ "questions": []
+}

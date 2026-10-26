@@ -1,0 +1,641 @@
+{
+ "topic_id": "animals",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🐄",
+   "es": "la vaca",
+   "ar": "البقرة",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐑",
+   "es": "la oveja",
+   "ar": "النعجة",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐐",
+   "es": "la cabra",
+   "ar": "العنزة",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐎",
+   "es": "el caballo",
+   "ar": "الحصان",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐔",
+   "es": "la gallina",
+   "ar": "الدجاجة",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐓",
+   "es": "el gallo",
+   "ar": "الديك",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🫏",
+   "es": "el burro",
+   "ar": "الحمار",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐇",
+   "es": "el conejo",
+   "ar": "الأرنب",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐖",
+   "es": "el cerdo",
+   "ar": "الخنزير",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🥚",
+   "es": "La gallina pone huevos.",
+   "ar": "الدجاجة تبيض.",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🥛",
+   "es": "La vaca da leche.",
+   "ar": "البقرة تعطي الحليب.",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐖",
+   "es": "No como carne de cerdo.",
+   "ar": "لا آكل لحم الخنزير.",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐑",
+   "es": "el rebaño de ovejas",
+   "ar": "قطيع الأغنام",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 3,
+   "emoji": "🐄",
+   "es": "El ganadero da de comer a las vacas todas las mañanas.",
+   "ar": "مربي الماشية يطعم الأبقار كل صباح.",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 3,
+   "emoji": "🐐",
+   "es": "Hay que meter las cabras en el corral antes de que anochezca.",
+   "ar": "يجب إدخال الماعز إلى الحظيرة قبل أن يحل الليل.",
+   "section": "حيوانات المزرعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐕",
+   "es": "el perro",
+   "ar": "الكلب",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐈",
+   "es": "el gato",
+   "ar": "القط",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 1,
+   "emoji": "🐟",
+   "es": "el pez",
+   "ar": "السمكة",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦜",
+   "es": "el loro",
+   "ar": "الببغاء",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐶",
+   "es": "Mi perro se llama Toby.",
+   "ar": "اسم كلبي توبي.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐱",
+   "es": "El gato duerme en el sofá.",
+   "ar": "القط ينام على الأريكة.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 2,
+   "emoji": "🦮",
+   "es": "Saco a pasear al perro.",
+   "ar": "أُخرج الكلب للنزهة.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐕",
+   "es": "¿Puedo tocar a tu perro?",
+   "ar": "هل يمكنني أن ألمس كلبك؟",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 2,
+   "emoji": "🐕",
+   "es": "Cuidado con el perro.",
+   "ar": "احذر من الكلب.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 3,
+   "emoji": "🐕",
+   "es": "En muchos parques, los perros tienen que ir atados.",
+   "ar": "في كثير من الحدائق، يجب أن تكون الكلاب مربوطة.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 3,
+   "emoji": "💉",
+   "es": "El veterinario le pone la vacuna al gato.",
+   "ar": "الطبيب البيطري يعطي القط اللقاح.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 3,
+   "emoji": "🐟",
+   "es": "Hay que cambiar el agua de la pecera cada semana.",
+   "ar": "يجب تغيير ماء حوض السمك كل أسبوع.",
+   "section": "الحيوانات الأليفة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦁",
+   "es": "el león",
+   "ar": "الأسد",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐘",
+   "es": "el elefante",
+   "ar": "الفيل",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐒",
+   "es": "el mono",
+   "ar": "القرد",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐻",
+   "es": "el oso",
+   "ar": "الدب",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐺",
+   "es": "el lobo",
+   "ar": "الذئب",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🦊",
+   "es": "el zorro",
+   "ar": "الثعلب",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐍",
+   "es": "la serpiente",
+   "ar": "الأفعى",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐪",
+   "es": "el camello",
+   "ar": "الجمل",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 2,
+   "emoji": "🦒",
+   "es": "La jirafa tiene el cuello muy largo.",
+   "ar": "الزرافة لها رقبة طويلة جدا.",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 2,
+   "emoji": "🦓",
+   "es": "La cebra tiene rayas negras y blancas.",
+   "ar": "الحمار الوحشي له خطوط سوداء وبيضاء.",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 2,
+   "emoji": "🐢",
+   "es": "La tortuga es muy lenta.",
+   "ar": "السلحفاة بطيئة جدا.",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 2,
+   "emoji": "🐭",
+   "es": "Hay un ratón en la cocina.",
+   "ar": "يوجد فأر في المطبخ.",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 2,
+   "emoji": "🐗",
+   "es": "el jabalí",
+   "ar": "الخنزير البري",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 3,
+   "emoji": "🐘",
+   "es": "El elefante es el animal terrestre más grande del mundo.",
+   "ar": "الفيل أكبر حيوان بري في العالم.",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 3,
+   "emoji": "🐺",
+   "es": "Los lobos viven y cazan en manada.",
+   "ar": "الذئاب تعيش وتصطاد في قطعان.",
+   "section": "الحيوانات البرية"
+  },
+  {
+   "level": 1,
+   "emoji": "🐦",
+   "es": "el pájaro",
+   "ar": "العصفور",
+   "section": "الطيور"
+  },
+  {
+   "level": 1,
+   "emoji": "🕊️",
+   "es": "la paloma",
+   "ar": "الحمامة",
+   "section": "الطيور"
+  },
+  {
+   "level": 1,
+   "emoji": "🦅",
+   "es": "el águila",
+   "ar": "العُقاب",
+   "section": "الطيور"
+  },
+  {
+   "level": 1,
+   "emoji": "🦆",
+   "es": "el pato",
+   "ar": "البطة",
+   "section": "الطيور"
+  },
+  {
+   "level": 1,
+   "emoji": "🦉",
+   "es": "el búho",
+   "ar": "البومة",
+   "section": "الطيور"
+  },
+  {
+   "level": 2,
+   "emoji": "🐣",
+   "es": "El pollito sale del huevo.",
+   "ar": "الكتكوت يخرج من البيضة.",
+   "section": "الطيور"
+  },
+  {
+   "level": 2,
+   "emoji": "🪺",
+   "es": "El pájaro hace su nido en el árbol.",
+   "ar": "الطائر يبني عشه في الشجرة.",
+   "section": "الطيور"
+  },
+  {
+   "level": 2,
+   "emoji": "🪶",
+   "es": "la pluma",
+   "ar": "الريشة",
+   "section": "الطيور"
+  },
+  {
+   "level": 2,
+   "emoji": "🦃",
+   "es": "el pavo",
+   "ar": "الديك الرومي",
+   "section": "الطيور"
+  },
+  {
+   "level": 2,
+   "emoji": "🦢",
+   "es": "el cisne",
+   "ar": "البجعة",
+   "section": "الطيور"
+  },
+  {
+   "level": 3,
+   "emoji": "🐦",
+   "es": "Muchas aves emigran al sur en invierno.",
+   "ar": "كثير من الطيور تهاجر إلى الجنوب في الشتاء.",
+   "section": "الطيور"
+  },
+  {
+   "level": 3,
+   "emoji": "🦅",
+   "es": "El águila tiene una vista excelente.",
+   "ar": "العُقاب يتمتع ببصر ممتاز.",
+   "section": "الطيور"
+  },
+  {
+   "level": 3,
+   "emoji": "🦉",
+   "es": "El búho caza por la noche y duerme durante el día.",
+   "ar": "البومة تصطاد في الليل وتنام في النهار.",
+   "section": "الطيور"
+  },
+  {
+   "level": 1,
+   "emoji": "🐬",
+   "es": "el delfín",
+   "ar": "الدلفين",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🦈",
+   "es": "el tiburón",
+   "ar": "سمك القرش",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🐝",
+   "es": "la abeja",
+   "ar": "النحلة",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🦋",
+   "es": "la mariposa",
+   "ar": "الفراشة",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🐜",
+   "es": "la hormiga",
+   "ar": "النملة",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪰",
+   "es": "la mosca",
+   "ar": "الذبابة",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🕷️",
+   "es": "la araña",
+   "ar": "العنكبوت",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🐋",
+   "es": "La ballena vive en el mar.",
+   "ar": "الحوت يعيش في البحر.",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🐙",
+   "es": "El pulpo tiene ocho brazos.",
+   "ar": "الأخطبوط له ثمانية أذرع.",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🐌",
+   "es": "el caracol",
+   "ar": "الحلزون",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🐝",
+   "es": "Me ha picado una abeja.",
+   "ar": "لسعتني نحلة.",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🦟",
+   "es": "Hay muchos mosquitos en verano.",
+   "ar": "هناك الكثير من البعوض في الصيف.",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 3,
+   "emoji": "🐝",
+   "es": "Las abejas son muy importantes para el campo porque polinizan las flores.",
+   "ar": "النحل مهم جدا للحقول لأنه يلقّح الأزهار.",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 3,
+   "emoji": "🐜",
+   "es": "Las hormigas trabajan juntas para llevar comida al hormiguero.",
+   "ar": "النمل يعمل معا لنقل الطعام إلى بيت النمل.",
+   "section": "البحر والحشرات"
+  },
+  {
+   "level": 3,
+   "emoji": "🐬",
+   "es": "Los delfines son mamíferos, no peces.",
+   "ar": "الدلافين ثدييات وليست أسماكا.",
+   "section": "البحر والحشرات"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la vaca\"?",
+   "options": [
+    "الحصان",
+    "البقرة",
+    "النعجة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la vaca\"؟",
+   "ar_exp": "\"la vaca\" هي البقرة التي تعطي الحليب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el perro\"?",
+   "options": [
+    "الكلب",
+    "القط",
+    "الأرنب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el perro\"؟",
+   "ar_exp": "\"el perro\" هو الكلب، و\"el gato\" هو القط."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la oveja\"?",
+   "options": [
+    "العنزة",
+    "الدجاجة",
+    "النعجة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"la oveja\"؟",
+   "ar_exp": "\"la oveja\" هي النعجة، و\"la cabra\" هي العنزة."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"النحلة\" en español?",
+   "options": [
+    "la mosca",
+    "la abeja",
+    "la hormiga"
+   ],
+   "answer": 1,
+   "ar_q": "كيف نقول \"النحلة\" بالإسبانية؟",
+   "ar_exp": "\"la abeja\" هي النحلة التي تصنع العسل."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué animal pone huevos?",
+   "options": [
+    "la gallina",
+    "la vaca",
+    "el caballo"
+   ],
+   "answer": 0,
+   "ar_q": "أي حيوان يبيض؟",
+   "ar_exp": "الدجاجة \"la gallina\" هي التي تبيض."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"el pájaro\"?",
+   "options": [
+    "السمكة",
+    "الفراشة",
+    "العصفور"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"el pájaro\"؟",
+   "ar_exp": "\"el pájaro\" هو العصفور أو الطائر الصغير."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué animal da leche?",
+   "options": [
+    "el gallo",
+    "la vaca",
+    "el pato"
+   ],
+   "answer": 1,
+   "ar_q": "أي حيوان يعطي الحليب؟",
+   "ar_exp": "البقرة \"la vaca\" تعطي الحليب."
+  },
+  {
+   "level": 2,
+   "q": "\"Me ha picado una abeja.\" ¿Qué te ha pasado?",
+   "options": [
+    "لسعتني نحلة",
+    "عضني كلب",
+    "رأيت فراشة"
+   ],
+   "answer": 0,
+   "ar_q": "\"Me ha picado una abeja.\" ماذا حدث لك؟",
+   "ar_exp": "\"picar\" هنا تعني اللسع، و\"una abeja\" نحلة."
+  },
+  {
+   "level": 2,
+   "q": "Ves un cartel: \"Cuidado con el perro\". ¿Qué significa?",
+   "options": [
+    "ممنوع دخول الكلاب",
+    "احذر من الكلب",
+    "الكلب للبيع"
+   ],
+   "answer": 1,
+   "ar_q": "ترى لافتة: \"Cuidado con el perro\". ما معناها؟",
+   "ar_exp": "\"Cuidado con\" تعني \"احذر من\"."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la diferencia entre \"el pez\" y \"el pescado\"?",
+   "options": [
+    "لا فرق بينهما",
+    "\"el pez\" سمكة حية و\"el pescado\" سمك للأكل",
+    "\"el pez\" سمك للأكل و\"el pescado\" سمكة حية"
+   ],
+   "answer": 1,
+   "ar_q": "ما الفرق بين \"el pez\" و\"el pescado\"؟",
+   "ar_exp": "\"el pez\" هو السمكة الحية في الماء، و\"el pescado\" هو السمك الذي نشتريه ونأكله."
+  },
+  {
+   "level": 3,
+   "q": "\"Los perros tienen que ir atados.\" ¿Qué significa?",
+   "options": [
+    "يجب أن تكون الكلاب مربوطة",
+    "يجب أن تأكل الكلاب",
+    "يمنع دخول الكلاب"
+   ],
+   "answer": 0,
+   "ar_q": "\"Los perros tienen que ir atados.\" ما معناها؟",
+   "ar_exp": "\"atados\" تعني مربوطين بالحبل أو السلسلة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué animal caza por la noche?",
+   "options": [
+    "la gallina",
+    "la oveja",
+    "el búho"
+   ],
+   "answer": 2,
+   "ar_q": "أي حيوان يصطاد في الليل؟",
+   "ar_exp": "البومة \"el búho\" تصطاد في الليل وتنام في النهار."
+  }
+ ]
+}

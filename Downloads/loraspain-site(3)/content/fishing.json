@@ -1,0 +1,477 @@
+{
+ "topic_id": "fishing",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🚢",
+   "es": "el barco pesquero",
+   "ar": "سفينة الصيد",
+   "section": "في البحر"
+  },
+  {
+   "level": 1,
+   "emoji": "🎣",
+   "es": "la caña de pescar",
+   "ar": "قصبة الصيد",
+   "section": "في البحر"
+  },
+  {
+   "level": 1,
+   "emoji": "🕸️",
+   "es": "la red",
+   "ar": "الشبكة",
+   "section": "في البحر"
+  },
+  {
+   "level": 1,
+   "emoji": "🪝",
+   "es": "el anzuelo",
+   "ar": "الصنّارة (الخطّاف)",
+   "section": "في البحر"
+  },
+  {
+   "level": 1,
+   "emoji": "🐟",
+   "es": "el pescado",
+   "ar": "السمك",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🐠",
+   "es": "la sardina",
+   "ar": "السردين",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🐙",
+   "es": "el pulpo",
+   "ar": "الأخطبوط",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🦐",
+   "es": "la gamba",
+   "ar": "الجمبري (القمرون)",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🦑",
+   "es": "el calamar",
+   "ar": "الحبّار",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🦀",
+   "es": "el cangrejo",
+   "ar": "السلطعون",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🐚",
+   "es": "el mejillón",
+   "ar": "بلح البحر",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "🐡",
+   "es": "el atún",
+   "ar": "التونة",
+   "section": "الأسماك"
+  },
+  {
+   "level": 1,
+   "emoji": "⚓",
+   "es": "el puerto",
+   "ar": "الميناء",
+   "section": "في الميناء"
+  },
+  {
+   "level": 1,
+   "emoji": "🏛️",
+   "es": "la lonja",
+   "ar": "سوق السمك",
+   "section": "في الميناء"
+  },
+  {
+   "level": 1,
+   "emoji": "🧊",
+   "es": "el hielo",
+   "ar": "الثلج",
+   "section": "في الميناء"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "la caja de pescado",
+   "ar": "صندوق السمك",
+   "section": "في الميناء"
+  },
+  {
+   "level": 1,
+   "emoji": "🥫",
+   "es": "la lata",
+   "ar": "العلبة",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🫒",
+   "es": "el aceite de oliva",
+   "ar": "زيت الزيتون",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el chaleco salvavidas",
+   "ar": "سترة النجاة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥾",
+   "es": "las botas de agua",
+   "ar": "الأحذية المطاطية",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌅",
+   "es": "Salimos a faenar a las cuatro de la mañana.",
+   "ar": "نخرج للصيد على الساعة الرابعة صباحاً.",
+   "section": "في البحر"
+  },
+  {
+   "level": 2,
+   "emoji": "🕸️",
+   "es": "Echa la red.",
+   "ar": "ارمِ الشبكة.",
+   "section": "في البحر"
+  },
+  {
+   "level": 2,
+   "emoji": "💪",
+   "es": "Recoge la red.",
+   "ar": "اسحب الشبكة.",
+   "section": "في البحر"
+  },
+  {
+   "level": 2,
+   "emoji": "🌊",
+   "es": "Hoy hay mucho oleaje.",
+   "ar": "البحر هائج كثيراً اليوم.",
+   "section": "في البحر"
+  },
+  {
+   "level": 2,
+   "emoji": "🪡",
+   "es": "Hay que reparar las redes.",
+   "ar": "يجب إصلاح الشباك.",
+   "section": "في الميناء"
+  },
+  {
+   "level": 2,
+   "emoji": "🧊",
+   "es": "Pon hielo en las cajas.",
+   "ar": "ضع الثلج في الصناديق.",
+   "section": "في الميناء"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Clasifica el pescado por tamaño.",
+   "ar": "صنّف السمك حسب الحجم.",
+   "section": "في الميناء"
+  },
+  {
+   "level": 2,
+   "emoji": "⚓",
+   "es": "Descarga las cajas en el muelle.",
+   "ar": "أفرغ الصناديق على الرصيف.",
+   "section": "في الميناء"
+  },
+  {
+   "level": 2,
+   "emoji": "🐠",
+   "es": "Estas sardinas son muy frescas.",
+   "ar": "هذا السردين طازج جداً.",
+   "section": "الأسماك"
+  },
+  {
+   "level": 2,
+   "emoji": "🦐",
+   "es": "Las gambas van en cajas pequeñas.",
+   "ar": "يوضع الجمبري في صناديق صغيرة.",
+   "section": "الأسماك"
+  },
+  {
+   "level": 2,
+   "emoji": "🦑",
+   "es": "Separa los calamares de los pulpos.",
+   "ar": "افصل الحبّار عن الأخطبوط.",
+   "section": "الأسماك"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "¿Cuántos kilos de atún hay?",
+   "ar": "كم كيلو من التونة يوجد؟",
+   "section": "الأسماك"
+  },
+  {
+   "level": 2,
+   "emoji": "🔪",
+   "es": "Limpia el pescado y quítale las espinas.",
+   "ar": "نظّف السمك وانزع عنه الحسك.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🥫",
+   "es": "Llena las latas de atún.",
+   "ar": "املأ علب التونة.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🫒",
+   "es": "Añade el aceite a las latas.",
+   "ar": "أضف الزيت إلى العلب.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Pon la etiqueta a cada lata.",
+   "ar": "ضع الملصق على كل علبة.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Ponte los guantes y el gorro.",
+   "ar": "البس القفازات والقبعة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🦺",
+   "es": "Ponte el chaleco salvavidas.",
+   "ar": "البس سترة النجاة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "⛈️",
+   "es": "Si el temporal empeora, volvemos a puerto.",
+   "ar": "إذا ساءت العاصفة، نعود إلى الميناء.",
+   "section": "في البحر"
+  },
+  {
+   "level": 3,
+   "emoji": "📏",
+   "es": "Está prohibido capturar peces por debajo de la talla mínima.",
+   "ar": "يُمنع صيد الأسماك التي يقلّ حجمها عن الحدّ الأدنى المسموح به.",
+   "section": "في البحر"
+  },
+  {
+   "level": 3,
+   "emoji": "🐚",
+   "es": "Los mejillones se cultivan en bateas en las rías gallegas.",
+   "ar": "يُربّى بلح البحر في منصّات عائمة في خلجان غاليسيا.",
+   "section": "الأسماك"
+  },
+  {
+   "level": 3,
+   "emoji": "🏛️",
+   "es": "El pescado se subasta en la lonja cada mañana.",
+   "ar": "يُباع السمك بالمزاد في سوق السمك كل صباح.",
+   "section": "في الميناء"
+  },
+  {
+   "level": 3,
+   "emoji": "❄️",
+   "es": "Cuanto antes se enfríe el pescado, mejor se conserva.",
+   "ar": "كلّما بُرِّد السمك أسرع، حُفظ بشكل أفضل.",
+   "section": "في الميناء"
+  },
+  {
+   "level": 3,
+   "emoji": "🔥",
+   "es": "Las latas se esterilizan en el autoclave.",
+   "ar": "تُعقَّم العلب في جهاز التعقيم بالبخار (الأوتوكلاف).",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 3,
+   "emoji": "♨️",
+   "es": "El atún se cuece antes de enlatarlo.",
+   "ar": "تُطهى التونة قبل تعليبها.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "Revisa que las latas no tengan golpes ni estén hinchadas.",
+   "ar": "تحقّق أن العلب ليست مصدومة ولا منتفخة.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧼",
+   "es": "Lávate las manos cada vez que entres en la sala de producción.",
+   "ar": "اغسل يديك كلّ مرة تدخل فيها قاعة الإنتاج.",
+   "section": "مصنع المصبّرات"
+  },
+  {
+   "level": 3,
+   "emoji": "📻",
+   "es": "Mantén la radio encendida en el canal de emergencia.",
+   "ar": "أبقِ جهاز اللاسلكي مشغّلاً على قناة الطوارئ.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🆘",
+   "es": "Si alguien cae al agua, grita y no lo pierdas de vista.",
+   "ar": "إذا سقط شخص في الماء، اصرخ ولا تفقده من نظرك.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🎓",
+   "es": "Para trabajar a bordo te pedirán la formación básica en seguridad marítima.",
+   "ar": "للعمل على متن السفينة سيُطلب منك التكوين الأساسي في السلامة البحرية.",
+   "section": "السلامة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la red»?",
+   "options": [
+    "الصنّارة",
+    "الشبكة",
+    "المرساة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la red»؟",
+   "ar_exp": "«la red» هي الشبكة التي يُصطاد بها السمك."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la lonja»?",
+   "options": [
+    "سوق السمك",
+    "مصنع المصبّرات",
+    "سفينة الصيد"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la lonja»؟",
+   "ar_exp": "«la lonja» هي سوق السمك في الميناء حيث يُباع بالمزاد."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la lata»?",
+   "options": [
+    "الصندوق",
+    "الثلج",
+    "العلبة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la lata»؟",
+   "ar_exp": "«la lata» هي العلبة المعدنية التي يُحفظ فيها السمك."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el chaleco salvavidas»?",
+   "options": [
+    "سترة النجاة",
+    "الأحذية المطاطية",
+    "القفازات"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el chaleco salvavidas»؟",
+   "ar_exp": "«el chaleco salvavidas» هي السترة التي تُبقيك طافياً فوق الماء."
+  },
+  {
+   "level": 2,
+   "q": "¿Para qué se pone hielo en las cajas?",
+   "options": [
+    "Para que pese más.",
+    "Para que el pescado se conserve fresco.",
+    "Para limpiar el pescado."
+   ],
+   "answer": 1,
+   "ar_q": "لماذا يوضع الثلج في الصناديق؟",
+   "ar_exp": "الثلج يُبقي السمك بارداً وطازجاً."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Quítale las espinas»?",
+   "options": [
+    "انزع عنه الحسك",
+    "ضع عليه الملح",
+    "قطّعه نصفين"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Quítale las espinas»؟",
+   "ar_exp": "«las espinas» هي حسك السمك أي عظامه الرفيعة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Hoy hay mucho oleaje»?",
+   "options": [
+    "البحر هادئ اليوم",
+    "الجو مشمس اليوم",
+    "البحر هائج كثيراً اليوم"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «Hoy hay mucho oleaje»؟",
+   "ar_exp": "«el oleaje» يعني الأمواج القوية."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «la talla mínima»?",
+   "options": [
+    "أصغر حجم مسموح بصيده",
+    "أكبر وزن للصندوق",
+    "أقلّ عدد من العمّال"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la talla mínima»؟",
+   "ar_exp": "«la talla mínima» هي أصغر حجم يُسمح بصيد السمكة عنده، وما دونه ممنوع."
+  },
+  {
+   "level": 3,
+   "q": "Una lata está hinchada. ¿Qué haces?",
+   "options": [
+    "Le pongo la etiqueta.",
+    "La aparto y aviso, porque puede estar en mal estado.",
+    "La vendo más barata."
+   ],
+   "answer": 1,
+   "ar_q": "علبة منتفخة. ماذا تفعل؟",
+   "ar_exp": "العلبة المنتفخة قد تكون فاسدة، فتُبعَد ويُبلَّغ المسؤول."
+  },
+  {
+   "level": 3,
+   "q": "¿Para qué sirve el autoclave?",
+   "options": [
+    "لتقطيع السمك",
+    "لوزن العلب",
+    "لتعقيم العلب"
+   ],
+   "answer": 2,
+   "ar_q": "ما فائدة «el autoclave»؟",
+   "ar_exp": "«el autoclave» جهاز يعقّم العلب بالحرارة والضغط."
+  }
+ ]
+}

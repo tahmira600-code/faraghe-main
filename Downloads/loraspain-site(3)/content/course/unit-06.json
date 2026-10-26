@@ -1,0 +1,353 @@
+{
+  "unit": 6,
+  "level": 2,
+  "title_ar": "المدينة والمواصلات",
+  "title_es": "La ciudad y el transporte",
+  "emoji": "🏙️",
+  "lessons": [
+    {
+      "id": "u06-l1",
+      "title_ar": "أماكن في المدينة",
+      "title_es": "Lugares de la ciudad",
+      "emoji": "🏛️",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء الأماكن المهمة في المدينة، والفرق بين hay وestá / están.",
+      "explain": [
+        {
+          "h": "hay = يوجد",
+          "p": "نستعمل hay لنقول إن شيئًا موجود دون تحديده. يأتي بعدها un/una أو عدد أو اسم بدون أداة. ولا تتغير hay مع المفرد والجمع.",
+          "ex": [
+            ["En mi barrio hay un supermercado.", "في حيّي يوجد سوبرماركت."],
+            ["Hay dos farmacias en esta calle.", "توجد صيدليتان في هذا الشارع."]
+          ]
+        },
+        {
+          "h": "está / están = يقع",
+          "p": "نستعمل estar لنحدد مكان شيء معروف، مع el/la/los/las أو مع اسم علم. está للمفرد وestán للجمع.",
+          "ex": [
+            ["El banco está en la plaza.", "البنك يقع في الساحة."],
+            ["Los servicios están al fondo.", "دورات المياه في الداخل (في آخر المكان)."]
+          ]
+        },
+        {
+          "h": "السؤال عن الأماكن",
+          "p": "¿Hay un/una ... por aquí? = هل يوجد ... قريبًا من هنا؟ و¿Dónde está el/la ...? = أين يقع ...؟",
+          "ex": [
+            ["Perdone, ¿hay un cajero por aquí?", "عفوًا، هل يوجد صرّاف آلي قريبًا من هنا؟"],
+            ["¿Dónde está la estación de tren?", "أين تقع محطة القطار؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el ayuntamiento", "ar": "البلدية", "e": "🏛️" },
+        { "es": "el banco", "ar": "البنك", "e": "🏦" },
+        { "es": "la farmacia", "ar": "الصيدلية", "e": "💊" },
+        { "es": "el hospital", "ar": "المستشفى", "e": "🏥" },
+        { "es": "el centro de salud", "ar": "المركز الصحي", "e": "🩺" },
+        { "es": "la estación", "ar": "المحطة", "e": "🚉" },
+        { "es": "el mercado", "ar": "السوق", "e": "🧺" },
+        { "es": "la plaza", "ar": "الساحة", "e": "⛲" },
+        { "es": "la calle", "ar": "الشارع", "e": "🛣️" },
+        { "es": "el cajero", "ar": "الصرّاف الآلي", "e": "🏧" },
+        { "es": "la comisaría", "ar": "مركز الشرطة", "e": "🚓" },
+        { "es": "la oficina de correos", "ar": "مكتب البريد", "e": "📮" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Perdone, ¿hay una farmacia por aquí?", "ar": "عفوًا، هل توجد صيدلية قريبًا من هنا؟" },
+        { "who": "B", "es": "Sí, hay una en la calle Mayor.", "ar": "نعم، توجد واحدة في الشارع الرئيسي." },
+        { "who": "A", "es": "¿Y dónde está el centro de salud?", "ar": "وأين يقع المركز الصحي؟" },
+        { "who": "B", "es": "Está en la plaza, al lado del ayuntamiento.", "ar": "يقع في الساحة، بجانب البلدية." },
+        { "who": "A", "es": "Muchas gracias.", "ar": "شكرًا جزيلًا." },
+        { "who": "B", "es": "De nada.", "ar": "عفوًا." }
+      ],
+      "quiz": [
+        { "q": "En mi calle ___ dos bares.", "o": ["hay", "está", "están"], "a": 0, "why": "نقول إن شيئًا موجود بدون أداة تعريف، فنستعمل hay." },
+        { "q": "¿Dónde ___ el banco?", "o": ["hay", "está", "es"], "a": 1, "why": "لمكان شيء محدد (el banco) نستعمل está." },
+        { "q": "ما معنى el ayuntamiento؟", "o": ["المستشفى", "مركز الشرطة", "البلدية"], "a": 2, "why": "el ayuntamiento = البلدية." },
+        { "q": "اختر الجملة الصحيحة:", "o": ["Hay el hospital cerca.", "Hay un hospital cerca.", "Está un hospital cerca."], "a": 1, "why": "بعد hay نستعمل un/una وليس el/la." },
+        { "q": "كيف تسأل: هل يوجد صراف آلي قريبًا من هنا؟", "o": ["¿Hay un cajero por aquí?", "¿Está un cajero por aquí?", "¿Dónde hay el cajero?"], "a": 0, "why": "نستعمل ¿Hay un ... por aquí? للسؤال عن وجود شيء." }
+      ]
+    },
+    {
+      "id": "u06-l2",
+      "title_ar": "حروف الجر للمكان",
+      "title_es": "Las preposiciones de lugar",
+      "emoji": "📍",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تحدد مكان الأشياء باستعمال cerca de وal lado de وenfrente de وغيرها.",
+      "explain": [
+        {
+          "h": "قريب وبعيد",
+          "p": "cerca de = قريب من، lejos de = بعيد عن. وعندما تأتي el بعد de نجمعهما: de + el = del.",
+          "ex": [
+            ["El mercado está cerca de mi casa.", "السوق قريب من بيتي."],
+            ["La estación está lejos del centro.", "المحطة بعيدة عن وسط المدينة."]
+          ]
+        },
+        {
+          "h": "بجانب وأمام وخلف",
+          "p": "al lado de = بجانب، enfrente de = مقابل، delante de = أمام، detrás de = خلف.",
+          "ex": [
+            ["La farmacia está al lado del banco.", "الصيدلية بجانب البنك."],
+            ["El parque está detrás de la escuela.", "الحديقة خلف المدرسة."],
+            ["Hay una parada enfrente del hospital.", "توجد محطة حافلات مقابل المستشفى."]
+          ]
+        },
+        {
+          "h": "بين وفوق وتحت",
+          "p": "entre ... y ... = بين ... و...، encima de = فوق، debajo de = تحت، dentro de = داخل، en = في أو على.",
+          "ex": [
+            ["El bar está entre la panadería y el banco.", "المقهى بين المخبز والبنك."],
+            ["Las llaves están encima de la mesa.", "المفاتيح فوق الطاولة."]
+          ]
+        },
+        {
+          "h": "اليمين واليسار",
+          "p": "a la derecha de = على يمين، a la izquierda de = على يسار، en la esquina = في الزاوية (ناصية الشارع).",
+          "ex": [
+            ["El ascensor está a la derecha.", "المصعد على اليمين."],
+            ["El estanco está en la esquina.", "محل التبغ في ناصية الشارع."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "cerca de", "ar": "قريب من", "e": "👣" },
+        { "es": "lejos de", "ar": "بعيد عن", "e": "🗺️" },
+        { "es": "al lado de", "ar": "بجانب", "e": "" },
+        { "es": "enfrente de", "ar": "مقابل", "e": "" },
+        { "es": "delante de", "ar": "أمام", "e": "" },
+        { "es": "detrás de", "ar": "خلف", "e": "" },
+        { "es": "entre", "ar": "بين", "e": "" },
+        { "es": "encima de", "ar": "فوق", "e": "⬆️" },
+        { "es": "debajo de", "ar": "تحت", "e": "⬇️" },
+        { "es": "a la derecha", "ar": "على اليمين", "e": "➡️" },
+        { "es": "a la izquierda", "ar": "على اليسار", "e": "⬅️" },
+        { "es": "la esquina", "ar": "الزاوية / ناصية الشارع", "e": "📐" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Oye, ¿la panadería está lejos?", "ar": "اسمع، هل المخبز بعيد؟" },
+        { "who": "B", "es": "No, está muy cerca, al lado del supermercado.", "ar": "لا، إنه قريب جدًا، بجانب السوبرماركت." },
+        { "who": "A", "es": "¿Y dónde está el supermercado?", "ar": "وأين يقع السوبرماركت؟" },
+        { "who": "B", "es": "Enfrente de la escuela, en la esquina.", "ar": "مقابل المدرسة، في ناصية الشارع." },
+        { "who": "A", "es": "¿Hay un cajero cerca de allí?", "ar": "هل يوجد صراف آلي قريب من هناك؟" },
+        { "who": "B", "es": "Sí, hay uno entre el supermercado y la farmacia.", "ar": "نعم، يوجد واحد بين السوبرماركت والصيدلية." }
+      ],
+      "quiz": [
+        { "q": "La farmacia está al lado ___ banco.", "o": ["de el", "del", "al"], "a": 1, "why": "de + el = del." },
+        { "q": "ما معنى detrás de؟", "o": ["أمام", "بجانب", "خلف"], "a": 2, "why": "detrás de = خلف." },
+        { "q": "El gato está ___ la mesa. (تحت)", "o": ["debajo de", "encima de", "delante de"], "a": 0, "why": "debajo de = تحت." },
+        { "q": "El bar está ___ el banco y la farmacia.", "o": ["en", "entre", "cerca"], "a": 1, "why": "entre ... y ... = بين ... و..." },
+        { "q": "ما عكس cerca de؟", "o": ["al lado de", "enfrente de", "lejos de"], "a": 2, "why": "cerca de = قريب من، وعكسها lejos de = بعيد عن." }
+      ]
+    },
+    {
+      "id": "u06-l3",
+      "title_ar": "السؤال عن الطريق ووصفه",
+      "title_es": "Pedir y dar direcciones",
+      "emoji": "🧭",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تسأل عن الطريق بأدب، وكيف تفهم تعليمات مثل siga recto وgire a la derecha.",
+      "explain": [
+        {
+          "h": "السؤال بأدب",
+          "p": "نبدأ بـ Perdone (مع usted) أو Perdona (مع tú)، ثم نسأل: ¿Dónde está...؟ أو ¿Cómo llego a...؟ (كيف أصل إلى...؟).",
+          "ex": [
+            ["Perdone, ¿cómo llego a la estación?", "عفوًا، كيف أصل إلى المحطة؟"],
+            ["Perdona, ¿sabes dónde está el centro de salud?", "عفوًا، هل تعرف أين المركز الصحي؟"]
+          ]
+        },
+        {
+          "h": "تعليمات الطريق",
+          "p": "هذه عبارات ثابتة ستسمعها كثيرًا (بصيغة الأمر مع usted): siga recto = تابع مستقيمًا، gire a la derecha = انعطف يمينًا، cruce la calle = اعبر الشارع، tome la primera calle = خذ الشارع الأول.",
+          "ex": [
+            ["Siga recto y gire a la izquierda.", "تابع مستقيمًا ثم انعطف يسارًا."],
+            ["Cruce la plaza y tome la segunda calle a la derecha.", "اعبر الساحة وخذ الشارع الثاني على اليمين."]
+          ]
+        },
+        {
+          "h": "الأعداد الترتيبية",
+          "p": "primero / primera (الأول / الأولى)، segundo / segunda (الثاني)، tercero / tercera (الثالث). قبل اسم مذكر مفرد نقول primer وtercer.",
+          "ex": [
+            ["Es la primera calle.", "إنه الشارع الأول."],
+            ["Vivo en el tercer piso.", "أسكن في الطابق الثالث."]
+          ]
+        },
+        {
+          "h": "المسافة",
+          "p": "Está a cinco minutos = يبعد خمس دقائق. Está a doscientos metros = يبعد مئتي متر. andando أو a pie = مشيًا.",
+          "ex": [
+            ["Está a diez minutos andando.", "يبعد عشر دقائق مشيًا."],
+            ["El hospital está a dos kilómetros.", "المستشفى يبعد كيلومترين."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "Perdone", "ar": "عفوًا (بأدب)", "e": "🙏" },
+        { "es": "¿Cómo llego a...?", "ar": "كيف أصل إلى...؟", "e": "🗺️" },
+        { "es": "seguir recto", "ar": "يتابع مستقيمًا", "e": "⬆️" },
+        { "es": "girar", "ar": "ينعطف", "e": "↪️" },
+        { "es": "cruzar", "ar": "يعبر", "e": "🚸" },
+        { "es": "el semáforo", "ar": "إشارة المرور", "e": "🚦" },
+        { "es": "la rotonda", "ar": "الدوّار", "e": "🔄" },
+        { "es": "el paso de peatones", "ar": "ممر المشاة", "e": "🚶" },
+        { "es": "primero / primera", "ar": "الأول / الأولى", "e": "1️⃣" },
+        { "es": "segundo / segunda", "ar": "الثاني / الثانية", "e": "2️⃣" },
+        { "es": "andando", "ar": "مشيًا", "e": "👣" },
+        { "es": "al final de la calle", "ar": "في نهاية الشارع", "e": "🔚" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Perdone, ¿cómo llego a la oficina de correos?", "ar": "عفوًا، كيف أصل إلى مكتب البريد؟" },
+        { "who": "B", "es": "Siga recto hasta el semáforo y gire a la derecha.", "ar": "تابع مستقيمًا حتى إشارة المرور وانعطف يمينًا." },
+        { "who": "A", "es": "¿A la derecha en el semáforo?", "ar": "يمينًا عند إشارة المرور؟" },
+        { "who": "B", "es": "Sí. Luego cruce la plaza y tome la primera calle a la izquierda. Correos está al final de la calle.", "ar": "نعم. ثم اعبر الساحة وخذ الشارع الأول على اليسار. البريد في نهاية الشارع." },
+        { "who": "A", "es": "¿Está lejos?", "ar": "هل هو بعيد؟" },
+        { "who": "B", "es": "No, está a cinco minutos andando.", "ar": "لا، يبعد خمس دقائق مشيًا." },
+        { "who": "A", "es": "Muchas gracias.", "ar": "شكرًا جزيلًا." }
+      ],
+      "quiz": [
+        { "q": "ما معنى: Gire a la izquierda؟", "o": ["انعطف يسارًا", "انعطف يمينًا", "تابع مستقيمًا"], "a": 0, "why": "girar = ينعطف، وa la izquierda = إلى اليسار." },
+        { "q": "ما معنى el semáforo؟", "o": ["الدوّار", "إشارة المرور", "ممر المشاة"], "a": 1, "why": "el semáforo = إشارة المرور." },
+        { "q": "Vivo en el ___ piso. (الأول)", "o": ["primero", "primera", "primer"], "a": 2, "why": "قبل اسم مذكر مفرد نقول primer." },
+        { "q": "كيف تسأل شخصًا لا تعرفه بأدب: كيف أصل إلى المحطة؟", "o": ["Perdone, ¿cómo llego a la estación?", "Oye, ¿dónde la estación?", "Perdone, ¿cómo llegas la estación?"], "a": 0, "why": "Perdone للتأدب، و¿cómo llego a...? = كيف أصل إلى...؟" },
+        { "q": "La estación está ___ diez minutos.", "o": ["en", "a", "de"], "a": 1, "why": "للمسافة نقول está a + الوقت أو المسافة." }
+      ]
+    },
+    {
+      "id": "u06-l4",
+      "title_ar": "المواصلات العامة",
+      "title_es": "El transporte público",
+      "emoji": "🚌",
+      "goal_ar": "ستتعلم في هذا الدرس استعمال المواصلات: شراء تذكرة، والسؤال عن المواعيد، وحروف الجر en وa وdesde وhasta.",
+      "explain": [
+        {
+          "h": "وسيلة النقل: en",
+          "p": "نقول ir en autobús، en metro، en tren، en coche، en bici. لكن للمشي نقول a pie.",
+          "ex": [
+            ["Voy al trabajo en autobús.", "أذهب إلى العمل بالحافلة."],
+            ["Mi hija va a la escuela a pie.", "ابنتي تذهب إلى المدرسة مشيًا."]
+          ]
+        },
+        {
+          "h": "من وإلى",
+          "p": "de أو desde = من، a أو hasta = إلى / حتى. نستعملها للمكان وللوقت.",
+          "ex": [
+            ["El tren va de Madrid a Toledo.", "القطار يذهب من مدريد إلى طليطلة."],
+            ["Trabajo desde las ocho hasta las tres.", "أعمل من الثامنة حتى الثالثة."]
+          ]
+        },
+        {
+          "h": "أسئلة مفيدة",
+          "p": "¿A qué hora sale el próximo tren؟ (متى ينطلق القطار القادم؟) ¿Cuánto tarda؟ (كم يستغرق؟) ¿Qué autobús va al hospital؟ (أي حافلة تذهب إلى المستشفى؟)",
+          "ex": [
+            ["¿A qué hora sale el autobús para Sevilla?", "في أي ساعة تنطلق الحافلة إلى إشبيلية؟"],
+            ["El viaje tarda una hora.", "الرحلة تستغرق ساعة."]
+          ]
+        },
+        {
+          "h": "التذكرة والنزول",
+          "p": "billete de ida = تذكرة ذهاب، billete de ida y vuelta = تذكرة ذهاب وعودة. subir al autobús = يركب الحافلة، bajarse = ينزل.",
+          "ex": [
+            ["Un billete de ida y vuelta, por favor.", "تذكرة ذهاب وعودة من فضلك."],
+            ["Me bajo en la próxima parada.", "أنزل في المحطة القادمة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el autobús", "ar": "الحافلة", "e": "🚌" },
+        { "es": "el metro", "ar": "المترو", "e": "🚇" },
+        { "es": "el tren", "ar": "القطار", "e": "🚆" },
+        { "es": "el billete", "ar": "التذكرة", "e": "🎫" },
+        { "es": "la parada", "ar": "محطة الحافلة", "e": "🚏" },
+        { "es": "el andén", "ar": "رصيف المحطة", "e": "🛤️" },
+        { "es": "de ida y vuelta", "ar": "ذهاب وعودة", "e": "🔁" },
+        { "es": "salir", "ar": "ينطلق / يغادر", "e": "" },
+        { "es": "llegar", "ar": "يصل", "e": "🏁" },
+        { "es": "tardar", "ar": "يستغرق (وقتًا)", "e": "⏳" },
+        { "es": "bajarse", "ar": "ينزل (من وسيلة النقل)", "e": "" },
+        { "es": "la tarjeta de transporte", "ar": "بطاقة النقل", "e": "💳" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. Un billete para Granada, por favor.", "ar": "صباح الخير. تذكرة إلى غرناطة من فضلك." },
+        { "who": "B", "es": "¿De ida o de ida y vuelta?", "ar": "ذهاب فقط أم ذهاب وعودة؟" },
+        { "who": "A", "es": "De ida y vuelta. ¿A qué hora sale el próximo tren?", "ar": "ذهاب وعودة. في أي ساعة ينطلق القطار القادم؟" },
+        { "who": "B", "es": "Sale a las diez y cuarto, del andén tres.", "ar": "ينطلق في العاشرة والربع، من الرصيف رقم ثلاثة." },
+        { "who": "A", "es": "¿Y cuánto tarda?", "ar": "وكم يستغرق؟" },
+        { "who": "B", "es": "Tarda una hora y media. Son veinticuatro euros.", "ar": "يستغرق ساعة ونصفًا. المبلغ أربعة وعشرون يورو." }
+      ],
+      "quiz": [
+        { "q": "Voy al trabajo ___ metro.", "o": ["a", "en", "de"], "a": 1, "why": "مع وسائل النقل نستعمل en." },
+        { "q": "Mi casa está cerca, voy ___ pie.", "o": ["en", "de", "a"], "a": 2, "why": "للمشي نقول a pie." },
+        { "q": "ما معنى: ¿Cuánto tarda؟", "o": ["كم يستغرق؟", "كم ثمنه؟", "متى يصل؟"], "a": 0, "why": "tardar = يستغرق وقتًا." },
+        { "q": "Trabajo ___ las nueve ___ las cinco.", "o": ["de / en", "desde / hasta", "a / de"], "a": 1, "why": "desde ... hasta ... = من ... حتى ..." },
+        { "q": "تذكرة ذهاب وعودة:", "o": ["un billete de ida", "un billete de vuelta y ida", "un billete de ida y vuelta"], "a": 2, "why": "نقول de ida y vuelta بهذا الترتيب." }
+      ]
+    },
+    {
+      "id": "u06-l5",
+      "title_ar": "حيّي: الوصف والمقارنة",
+      "title_es": "Mi barrio: describir y comparar",
+      "emoji": "🏘️",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تصف حيّك وتقارن بين مكانين باستعمال más que وmenos que وtan como.",
+      "explain": [
+        {
+          "h": "الوصف",
+          "p": "نستعمل ser لصفات المكان: tranquilo (هادئ)، ruidoso (صاخب)، bonito (جميل)، caro (غالٍ)، barato (رخيص). والصفة تتفق مع الاسم في التذكير والجمع.",
+          "ex": [
+            ["Mi barrio es tranquilo.", "حيّي هادئ."],
+            ["Las calles son estrechas.", "الشوارع ضيقة."]
+          ]
+        },
+        {
+          "h": "أكثر وأقل",
+          "p": "más + صفة + que = أكثر ... من. menos + صفة + que = أقل ... من.",
+          "ex": [
+            ["El centro es más caro que mi barrio.", "وسط المدينة أغلى من حيّي."],
+            ["Este piso es menos caro que el otro.", "هذه الشقة أقل غلاءً من الأخرى."]
+          ]
+        },
+        {
+          "h": "مثل",
+          "p": "tan + صفة + como = ... مثل. ومع الأسماء: tanto / tanta / tantos / tantas + اسم + como.",
+          "ex": [
+            ["Mi calle es tan ruidosa como la tuya.", "شارعي صاخب مثل شارعك."],
+            ["Aquí no hay tantos parques como en el centro.", "هنا لا توجد حدائق كثيرة مثل وسط المدينة."]
+          ]
+        },
+        {
+          "h": "صيغ خاصة",
+          "p": "bueno ← mejor (أفضل)، malo ← peor (أسوأ). لا نقول más bueno أو más malo في المقارنة.",
+          "ex": [
+            ["Este barrio es mejor para los niños.", "هذا الحي أفضل للأطفال."],
+            ["El tráfico aquí es peor que en mi pueblo.", "حركة المرور هنا أسوأ منها في قريتي."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el barrio", "ar": "الحي", "e": "🏘️" },
+        { "es": "tranquilo", "ar": "هادئ", "e": "😌" },
+        { "es": "ruidoso", "ar": "صاخب", "e": "🔊" },
+        { "es": "limpio", "ar": "نظيف", "e": "✨" },
+        { "es": "sucio", "ar": "متّسخ", "e": "🗑️" },
+        { "es": "caro", "ar": "غالٍ", "e": "💰" },
+        { "es": "barato", "ar": "رخيص", "e": "🏷️" },
+        { "es": "moderno", "ar": "حديث", "e": "🏢" },
+        { "es": "antiguo", "ar": "قديم", "e": "🏚️" },
+        { "es": "mejor", "ar": "أفضل", "e": "👍" },
+        { "es": "peor", "ar": "أسوأ", "e": "👎" },
+        { "es": "el vecino", "ar": "الجار", "e": "🧑‍🤝‍🧑" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué tal tu nuevo barrio?", "ar": "كيف حال حيّك الجديد؟" },
+        { "who": "B", "es": "Muy bien. Es más tranquilo que el centro y los pisos son más baratos.", "ar": "جيد جدًا. إنه أهدأ من وسط المدينة والشقق أرخص." },
+        { "who": "A", "es": "¿Hay tiendas cerca?", "ar": "هل توجد محلات قريبة؟" },
+        { "who": "B", "es": "Sí, pero no hay tantas tiendas como en el centro.", "ar": "نعم، لكن لا توجد محلات كثيرة مثل وسط المدينة." },
+        { "who": "A", "es": "¿Y el transporte?", "ar": "والمواصلات؟" },
+        { "who": "B", "es": "Es peor. El autobús pasa cada veinte minutos. Pero los vecinos son muy amables.", "ar": "أسوأ. الحافلة تمر كل عشرين دقيقة. لكن الجيران لطفاء جدًا." }
+      ],
+      "quiz": [
+        { "q": "Madrid es ___ grande ___ Toledo.", "o": ["más / que", "más / como", "tan / que"], "a": 0, "why": "للمقارنة بالزيادة: más + صفة + que." },
+        { "q": "Este barrio es ___ que el otro. (أفضل)", "o": ["más bueno", "mejor", "bueno"], "a": 1, "why": "المقارنة من bueno هي mejor." },
+        { "q": "Mi calle es tan limpia ___ la tuya.", "o": ["que", "de", "como"], "a": 2, "why": "tan + صفة + como." },
+        { "q": "ما عكس tranquilo؟", "o": ["barato", "limpio", "ruidoso"], "a": 2, "why": "tranquilo = هادئ، وعكسه ruidoso = صاخب." },
+        { "q": "En mi pueblo no hay ___ coches como aquí.", "o": ["tantos", "tanto", "tan"], "a": 0, "why": "قبل اسم مذكر جمع نقول tantos ... como." }
+      ]
+    }
+  ]
+}

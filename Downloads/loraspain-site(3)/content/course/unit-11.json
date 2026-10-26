@@ -1,0 +1,368 @@
+{
+  "unit": 11,
+  "level": 3,
+  "title_ar": "الأمر: التعليمات في العمل",
+  "title_es": "El imperativo: instrucciones en el trabajo",
+  "emoji": "🦺",
+  "lessons": [
+    {
+      "id": "u11-l1",
+      "title_ar": "الأمر مع tú",
+      "title_es": "El imperativo con tú",
+      "emoji": "👉",
+      "goal_ar": "ستتعلم في هذا الدرس إعطاء الأوامر والتعليمات لشخص تعرفه باستخدام صيغة الأمر مع tú.",
+      "explain": [
+        {
+          "h": "الأفعال المنتظمة",
+          "p": "نستعمل الأمر لإعطاء تعليمات أو نصائح أو دعوات. مع tú، الأمر الإيجابي يشبه صيغة él في المضارع: habla، come، escribe.",
+          "ex": [
+            ["Habla más alto, por favor.", "تكلّم بصوت أعلى من فضلك."],
+            ["Come algo, que es tarde.", "كُلْ شيئًا، فالوقت متأخر."],
+            ["Abre la puerta.", "افتح الباب."]
+          ]
+        },
+        {
+          "h": "أفعال يتغير حرفها",
+          "p": "الأفعال التي يتغير حرف جذرها في المضارع تتغير أيضًا في الأمر: cerrar ← cierra، volver ← vuelve، pedir ← pide، empezar ← empieza.",
+          "ex": [
+            ["Cierra la ventana.", "أغلق النافذة."],
+            ["Vuelve mañana.", "ارجع غدًا."]
+          ]
+        },
+        {
+          "h": "ثمانية أفعال شاذة",
+          "p": "احفظ هذه الأوامر الشاذة: venir ← ven، poner ← pon، hacer ← haz، decir ← di، salir ← sal، tener ← ten، ir ← ve، ser ← sé.",
+          "ex": [
+            ["Ven aquí un momento.", "تعال هنا لحظة."],
+            ["Haz esto primero.", "افعل هذا أولًا."],
+            ["Ten cuidado.", "انتبه / خذ حذرك."]
+          ]
+        },
+        {
+          "h": "الأدب مع الأمر",
+          "p": "الأمر عادي جدًا في إسبانيا ولا يُعتبر قلة أدب، خاصة في العمل. لكن من الأفضل أن تضيف por favor، أو أن تسأل: ¿Puedes...?",
+          "ex": [
+            ["Pásame eso, por favor.", "ناولني ذلك من فضلك."],
+            ["¿Puedes cerrar la puerta?", "هل يمكنك أن تغلق الباب؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "ven", "ar": "تعال", "e": "🏃" },
+        { "es": "pon", "ar": "ضَعْ", "e": "📥" },
+        { "es": "haz", "ar": "افعلْ", "e": "🛠️" },
+        { "es": "di", "ar": "قُلْ", "e": "🗣️" },
+        { "es": "sal", "ar": "اخرجْ", "e": "🚪" },
+        { "es": "ten cuidado", "ar": "انتبه", "e": "⚠️" },
+        { "es": "ve", "ar": "اذهبْ", "e": "🚶" },
+        { "es": "coge", "ar": "خُذْ / امسكْ", "e": "✋" },
+        { "es": "mira", "ar": "انظرْ", "e": "👀" },
+        { "es": "espera", "ar": "انتظرْ", "e": "⏳" },
+        { "es": "abre", "ar": "افتحْ", "e": "📂" },
+        { "es": "cierra", "ar": "أغلقْ", "e": "🔒" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, Yusuf. Ven aquí, te explico tu trabajo.", "ar": "مرحبا يا يوسف. تعال هنا، سأشرح لك عملك." },
+        { "who": "B", "es": "Vale. ¿Qué hago primero?", "ar": "حسنًا. ماذا أفعل أولًا؟" },
+        { "who": "A", "es": "Primero coge un delantal de ese armario.", "ar": "أولًا خُذْ مريلة من تلك الخزانة." },
+        { "who": "B", "es": "¿Y luego?", "ar": "وبعد ذلك؟" },
+        { "who": "A", "es": "Luego corta las cebollas y pela las patatas. Ten cuidado con el cuchillo, está muy afilado.", "ar": "ثم قطّع البصل وقشّر البطاطس. انتبه للسكين، إنها حادة جدًا." },
+        { "who": "B", "es": "De acuerdo. ¿Dónde pongo las patatas peladas?", "ar": "موافق. أين أضع البطاطس المقشّرة؟" },
+        { "who": "A", "es": "Pon las patatas en esa caja grande. Y si tienes alguna duda, pregunta.", "ar": "ضع البطاطس في ذلك الصندوق الكبير. وإذا كان عندك أي سؤال، اسأل." }
+      ],
+      "quiz": [
+        { "q": "___ aquí un momento, por favor. (venir)", "o": ["Vienes", "Ven", "Vene"], "a": 1, "why": "venir شاذ في الأمر مع tú: ven." },
+        { "q": "صيغة الأمر (tú) من الفعل hacer:", "o": ["haz", "hace", "haces"], "a": 0, "why": "hacer شاذ في الأمر: haz." },
+        { "q": "___ cuidado con la máquina.", "o": ["Tiene", "Tienes", "Ten"], "a": 2, "why": "الأمر من tener مع tú هو ten: Ten cuidado." },
+        { "q": "صيغة الأمر (tú) من الفعل hablar:", "o": ["hablas", "habla", "hablo"], "a": 1, "why": "الأمر الإيجابي مع tú يشبه صيغة él في المضارع: habla." },
+        { "q": "ما معنى «Cierra la puerta, por favor»؟", "o": ["افتح الباب من فضلك.", "أغلقتُ الباب.", "أغلق الباب من فضلك."], "a": 2, "why": "cierra هي الأمر من cerrar (يغلق)." }
+      ]
+    },
+    {
+      "id": "u11-l2",
+      "title_ar": "الأمر مع usted وustedes",
+      "title_es": "El imperativo con usted y ustedes",
+      "emoji": "🏢",
+      "goal_ar": "ستتعلم في هذا الدرس فهم التعليمات الرسمية في المكاتب والعيادات واستعمالها مع الزبائن باستخدام الأمر مع usted وustedes.",
+      "explain": [
+        {
+          "h": "التكوين",
+          "p": "نستعمل usted مع الزبائن وكبار السن وفي الإدارات. أفعال -ar تأخذ -e، وأفعال -er و-ir تأخذ -a: hable، coma، escriba. ومع ustedes نضيف -n: hablen، coman، escriban.",
+          "ex": [
+            ["Pase, por favor.", "تفضّل بالدخول."],
+            ["Espere aquí un momento.", "انتظر هنا لحظة."],
+            ["Firmen aquí, por favor.", "وقّعوا هنا من فضلكم."]
+          ]
+        },
+        {
+          "h": "الأفعال الشاذة",
+          "p": "نبدأ من صيغة yo في المضارع: tengo ← tenga، hago ← haga، vengo ← venga، pongo ← ponga، digo ← diga، salgo ← salga. وأفعال أخرى: ir ← vaya، ser ← sea، estar ← esté، dar ← dé، saber ← sepa.",
+          "ex": [
+            ["Venga mañana a las diez.", "تعالَ غدًا في الساعة العاشرة."],
+            ["Tenga, su cambio.", "تفضّل، الباقي (الصرف)."],
+            ["Vaya a la ventanilla dos.", "اذهب إلى الشباك رقم اثنين."]
+          ]
+        },
+        {
+          "h": "تغييرات في الكتابة",
+          "p": "للمحافظة على النطق: buscar ← busque، llegar ← llegue، pagar ← pague، empezar ← empiece.",
+          "ex": [
+            ["Busque su nombre en la lista.", "ابحث عن اسمك في القائمة."],
+            ["Llegue diez minutos antes.", "تعالَ قبل الموعد بعشر دقائق."],
+            ["Pague en caja, por favor.", "ادفع في الصندوق من فضلك."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "pase", "ar": "تفضّل بالدخول", "e": "🚪" },
+        { "es": "siéntese", "ar": "اجلس (بأدب)", "e": "🪑" },
+        { "es": "espere", "ar": "انتظر (بأدب)", "e": "⏳" },
+        { "es": "firme aquí", "ar": "وقّع هنا", "e": "✍️" },
+        { "es": "rellene el formulario", "ar": "املأ الاستمارة", "e": "📝" },
+        { "es": "tenga", "ar": "تفضّل (خُذْ)", "e": "🤲" },
+        { "es": "venga mañana", "ar": "تعالَ غدًا", "e": "📅" },
+        { "es": "vaya a", "ar": "اذهب إلى", "e": "👉" },
+        { "es": "¿diga?", "ar": "نعم؟ (عند الرد على الهاتف)", "e": "☎️" },
+        { "es": "pague en caja", "ar": "ادفع في الصندوق", "e": "💳" },
+        { "es": "traiga una fotocopia", "ar": "أحضر نسخة مصوّرة", "e": "📄" },
+        { "es": "llame", "ar": "اتصل (بأدب)", "e": "📞" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. Pase, por favor. Siéntese aquí.", "ar": "صباح الخير. تفضّل بالدخول. اجلس هنا." },
+        { "who": "B", "es": "Gracias. Vengo a renovar mi tarjeta de residencia.", "ar": "شكرًا. جئتُ لأجدّد بطاقة الإقامة." },
+        { "who": "A", "es": "Muy bien. Rellene este formulario y firme abajo.", "ar": "جيد جدًا. املأ هذه الاستمارة ووقّع في الأسفل." },
+        { "who": "B", "es": "¿Necesita alguna fotocopia?", "ar": "هل تحتاج إلى نسخة مصوّرة؟" },
+        { "who": "A", "es": "Sí. Traiga una fotocopia del pasaporte y pague la tasa en el banco.", "ar": "نعم. أحضر نسخة من جواز السفر وادفع الرسوم في البنك." },
+        { "who": "B", "es": "¿Y luego?", "ar": "وبعد ذلك؟" },
+        { "who": "A", "es": "Luego vuelva aquí con el justificante de pago y espere su turno.", "ar": "بعد ذلك ارجع إلى هنا مع وصل الدفع وانتظر دورك." },
+        { "who": "B", "es": "Perfecto, muchas gracias.", "ar": "ممتاز، شكرًا جزيلًا." }
+      ],
+      "quiz": [
+        { "q": "___, por favor. Siéntese. (pasar, usted)", "o": ["Pasa", "Pase", "Pasó"], "a": 1, "why": "أفعال -ar تأخذ -e في الأمر مع usted: pase." },
+        { "q": "صيغة الأمر (usted) من الفعل tener:", "o": ["tenga", "tiene", "tena"], "a": 0, "why": "نبدأ من tengo ونغيّر -o إلى -a: tenga." },
+        { "q": "Señores, ___ aquí, por favor. (firmar, ustedes)", "o": ["firme", "firmen", "firman"], "a": 1, "why": "مع ustedes نضيف -n: firmen. وfirman هي المضارع وليس الأمر." },
+        { "q": "___ a la ventanilla número tres. (ir, usted)", "o": ["Va", "Ve", "Vaya"], "a": 2, "why": "ir شاذ مع usted: vaya. أما ve فهي الأمر مع tú." },
+        { "q": "صيغة الأمر (usted) من الفعل buscar:", "o": ["busque", "busca", "buscue"], "a": 0, "why": "نكتب qu قبل e للمحافظة على صوت الكاف: busque." }
+      ]
+    },
+    {
+      "id": "u11-l3",
+      "title_ar": "الأمر مع الضمائر",
+      "title_es": "El imperativo con pronombres",
+      "emoji": "🔗",
+      "goal_ar": "ستتعلم في هذا الدرس استعمال الأمر مع الضمائر مثل dime وayúdame وponte وأين نضع العلامة.",
+      "explain": [
+        {
+          "h": "الضمير يلتصق بالفعل",
+          "p": "في الأمر الإيجابي، نضع الضمائر (me، te، lo، la، le، nos...) في آخر الفعل ونكتبها كلمة واحدة: dime، ayúdame، llámame.",
+          "ex": [
+            ["Ayúdame con esta caja.", "ساعدني بهذا الصندوق."],
+            ["Dime la verdad.", "قل لي الحقيقة."],
+            ["Llámame luego.", "اتصل بي لاحقًا."]
+          ]
+        },
+        {
+          "h": "العلامة (la tilde)",
+          "p": "عندما نضيف ضميرًا، نحتاج غالبًا إلى علامة للمحافظة على مكان النبرة: mira ← mírame، explica ← explícame، da + me + lo ← dámelo. أما الأفعال القصيرة مثل pon وdi فلا تأخذ علامة مع ضمير واحد: ponlo، dime.",
+          "ex": [
+            ["Explícame otra vez, por favor.", "اشرح لي مرة أخرى من فضلك."],
+            ["Pásame el martillo.", "ناولني المطرقة."],
+            ["Dámelo, por favor.", "أعطني إياه من فضلك."]
+          ]
+        },
+        {
+          "h": "الأفعال الانعكاسية",
+          "p": "مع tú نضيف te، ومع usted نضيف se: lavarse ← lávate / lávese، ponerse ← ponte / póngase، sentarse ← siéntate / siéntese.",
+          "ex": [
+            ["Ponte los guantes.", "البس القفازات."],
+            ["Lávate las manos antes de comer.", "اغسل يديك قبل الأكل."],
+            ["Siéntese, por favor.", "اجلس من فضلك."]
+          ]
+        },
+        {
+          "h": "lo وla وlos وlas",
+          "p": "لكي لا نكرر الاسم، نستعمل ضمير المفعول به في آخر الأمر.",
+          "ex": [
+            ["¿Dónde pongo las cajas? —Ponlas allí.", "أين أضع الصناديق؟ —ضعها هناك."],
+            ["¿Y la escalera? —Tráela aquí.", "والسلّم؟ —أحضره إلى هنا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "dime", "ar": "قل لي", "e": "🗣️" },
+        { "es": "ayúdame", "ar": "ساعدني", "e": "🆘" },
+        { "es": "llámame", "ar": "اتصل بي", "e": "📞" },
+        { "es": "pásame la sal", "ar": "ناولني الملح", "e": "🧂" },
+        { "es": "explícame", "ar": "اشرح لي", "e": "🧑‍🏫" },
+        { "es": "ponte los guantes", "ar": "البس القفازات", "e": "🧤" },
+        { "es": "lávate las manos", "ar": "اغسل يديك", "e": "🧼" },
+        { "es": "siéntate", "ar": "اجلس", "e": "🪑" },
+        { "es": "dámelo", "ar": "أعطني إياه", "e": "🎁" },
+        { "es": "tráelo", "ar": "أحضره", "e": "📦" },
+        { "es": "quítate los zapatos", "ar": "اخلع حذاءك", "e": "👟" },
+        { "es": "espérame", "ar": "انتظرني", "e": "⏳" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Mustafa, ayúdame con esta escalera, por favor.", "ar": "يا مصطفى، ساعدني بهذا السلّم من فضلك." },
+        { "who": "B", "es": "Claro. ¿Dónde la pongo?", "ar": "طبعًا. أين أضعه؟" },
+        { "who": "A", "es": "Ponla junto a la pared. Y ponte el casco.", "ar": "ضعه بجانب الحائط. والبس الخوذة." },
+        { "who": "B", "es": "Vale. ¿Qué hago ahora? Explícamelo otra vez, por favor.", "ar": "حسنًا. ماذا أفعل الآن؟ اشرحه لي مرة أخرى من فضلك." },
+        { "who": "A", "es": "Sube despacio y espérame arriba. Yo te paso las herramientas.", "ar": "اصعد ببطء وانتظرني في الأعلى. أنا سأناولك الأدوات." },
+        { "who": "B", "es": "De acuerdo. Pásame primero el taladro.", "ar": "موافق. ناولني المثقاب أولًا." }
+      ],
+      "quiz": [
+        { "q": "___ con esta caja, por favor. (ayudar + me)", "o": ["Ayudame", "Ayúdame", "Me ayuda"], "a": 1, "why": "الضمير يلتصق بالأمر ونضيف علامة للمحافظة على النبرة: ayúdame." },
+        { "q": "Antes de comer, ___ las manos. (lavarse, tú)", "o": ["lávate", "lavate", "te lavas"], "a": 0, "why": "مع tú نضيف te في آخر الأمر ونضع علامة: lávate." },
+        { "q": "¿Dónde pongo las cajas? —___ allí.", "o": ["Las pon", "Pónlas", "Ponlas"], "a": 2, "why": "الضمير يلتصق بالأمر: ponlas، بدون علامة لأن النبرة تبقى على pon." },
+        { "q": "صيغة الأمر (usted) من sentarse:", "o": ["siéntese", "siéntate", "se sienta"], "a": 0, "why": "مع usted نقول siéntese، أما siéntate فهي مع tú." },
+        { "q": "ما معنى «Dímelo mañana»؟", "o": ["قلتُه لك غدًا.", "قله لي غدًا.", "سأقوله لك غدًا."], "a": 1, "why": "di (قل) + me (لي) + lo (إياه) = dímelo." }
+      ]
+    },
+    {
+      "id": "u11-l4",
+      "title_ar": "النهي: لا تفعل",
+      "title_es": "El imperativo negativo",
+      "emoji": "🚫",
+      "goal_ar": "ستتعلم في هذا الدرس النهي (لا تفعل...) لتفهم قواعد السلامة والممنوعات في العمل وتستعملها.",
+      "explain": [
+        {
+          "h": "النهي مع tú",
+          "p": "النهي له شكل مختلف عن الأمر الإيجابي. أفعال -ar: no + جذر + -es (no hables). أفعال -er و-ir: no + جذر + -as (no comas، no abras).",
+          "ex": [
+            ["No toques esa máquina.", "لا تلمس تلك الآلة."],
+            ["No corras en el almacén.", "لا تركض في المستودع."],
+            ["No bebas alcohol en el trabajo.", "لا تشرب الكحول في العمل."]
+          ]
+        },
+        {
+          "h": "الأفعال الشاذة",
+          "p": "نبدأ من صيغة yo في المضارع: hago ← no hagas، pongo ← no pongas، digo ← no digas، salgo ← no salgas، tengo ← no tengas. وأيضًا: ir ← no vayas، ser ← no seas.",
+          "ex": [
+            ["No hagas eso.", "لا تفعل ذلك."],
+            ["No vayas solo.", "لا تذهب وحدك."],
+            ["No digas nada.", "لا تقل شيئًا."]
+          ]
+        },
+        {
+          "h": "النهي مع usted",
+          "p": "مع usted نضع no قبل صيغة الأمر نفسها: no fume، no toque، no aparque.",
+          "ex": [
+            ["No fume aquí, por favor.", "لا تدخّن هنا من فضلك."],
+            ["No aparque delante de la puerta.", "لا تركن السيارة أمام الباب."]
+          ]
+        },
+        {
+          "h": "الضمائر قبل الفعل",
+          "p": "في النهي، الضمائر لا تلتصق بالفعل، بل تأتي قبله بعد no: tócalo ← no lo toques، siéntate ← no te sientes.",
+          "ex": [
+            ["No lo toques.", "لا تلمسه."],
+            ["No te preocupes.", "لا تقلق."],
+            ["No te sientes ahí.", "لا تجلس هناك."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "no toques", "ar": "لا تلمس", "e": "✋" },
+        { "es": "no corras", "ar": "لا تركض", "e": "🏃" },
+        { "es": "no fumes", "ar": "لا تدخّن", "e": "🚭" },
+        { "es": "no te preocupes", "ar": "لا تقلق", "e": "😌" },
+        { "es": "no lo hagas", "ar": "لا تفعله", "e": "🙅" },
+        { "es": "no uses el móvil", "ar": "لا تستعمل الهاتف", "e": "📵" },
+        { "es": "no olvides", "ar": "لا تنسَ", "e": "🧠" },
+        { "es": "prohibido", "ar": "ممنوع", "e": "🚫" },
+        { "es": "peligro", "ar": "خطر", "e": "⚠️" },
+        { "es": "la carretilla", "ar": "الرافعة الشوكية", "e": "🚜" },
+        { "es": "el suelo mojado", "ar": "الأرض المبللة", "e": "💧" },
+        { "es": "la salida de emergencia", "ar": "مخرج الطوارئ", "e": "🚨" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Ahmed, no corras por el almacén. Es peligroso.", "ar": "يا أحمد، لا تركض في المستودع. هذا خطير." },
+        { "who": "B", "es": "Perdón, es que llego tarde a la carga del camión.", "ar": "آسف، السبب أني متأخر على تحميل الشاحنة." },
+        { "who": "A", "es": "No te preocupes por eso. Y no uses el móvil mientras conduces la carretilla.", "ar": "لا تقلق من ذلك. ولا تستعمل الهاتف وأنت تقود الرافعة الشوكية." },
+        { "who": "B", "es": "Entendido. ¿Puedo dejar estas cajas aquí?", "ar": "مفهوم. هل يمكنني أن أترك هذه الصناديق هنا؟" },
+        { "who": "A", "es": "No, no las dejes delante de la salida de emergencia. Ponlas en la estantería.", "ar": "لا، لا تتركها أمام مخرج الطوارئ. ضعها على الرفوف." },
+        { "who": "B", "es": "Vale, ahora mismo las quito.", "ar": "حسنًا، سأزيلها الآن فورًا." }
+      ],
+      "quiz": [
+        { "q": "___ esa máquina, es peligrosa. (tocar, tú)", "o": ["No toca", "No toques", "No tocas"], "a": 1, "why": "النهي مع tú لأفعال -ar ينتهي بـ -es، وc تصبح qu: no toques." },
+        { "q": "صيغة النهي (tú) من الفعل hacer:", "o": ["no hagas", "no haz", "no haces"], "a": 0, "why": "نبدأ من hago: no hagas. أما haz فهي للأمر الإيجابي فقط." },
+        { "q": "Señor, ___ aquí, por favor. (fumar, usted)", "o": ["no fuma", "no fumes", "no fume"], "a": 2, "why": "مع usted نقول no fume. أما no fumes فهي مع tú." },
+        { "q": "أي جملة صحيحة؟", "o": ["No preocúpate.", "No te preocupes.", "Preocupes no te."], "a": 1, "why": "في النهي يأتي الضمير قبل الفعل: No te preocupes." },
+        { "q": "ما معنى «No vayas solo»؟", "o": ["اذهب وحدك.", "لن أذهب وحدي.", "لا تذهب وحدك."], "a": 2, "why": "no vayas هو النهي من ir مع tú." }
+      ]
+    },
+    {
+      "id": "u11-l5",
+      "title_ar": "السلامة والتعليمات في العمل",
+      "title_es": "Seguridad e instrucciones en el trabajo",
+      "emoji": "⛑️",
+      "goal_ar": "ستتعلم في هذا الدرس مفردات معدات الوقاية، والأمر مع vosotros، وكيف تتأكد أنك فهمت التعليمات في العمل.",
+      "explain": [
+        {
+          "h": "معدات الوقاية (EPI)",
+          "p": "في كثير من الأعمال يجب لبس معدات الوقاية الفردية (EPI): el casco، los guantes، el chaleco reflectante، las botas de seguridad. نقول: Es obligatorio llevar... أو Hay que usar...",
+          "ex": [
+            ["Es obligatorio llevar casco.", "لبس الخوذة إجباري."],
+            ["Hay que usar guantes.", "يجب استعمال القفازات."]
+          ]
+        },
+        {
+          "h": "الأمر مع vosotros",
+          "p": "في إسبانيا، عندما يتكلم المسؤول مع مجموعة زملاء يستعمل vosotros: نحذف r من المصدر ونضع d: hablad، comed، venid. مع الأفعال الانعكاسية نحذف d: poneos، sentaos. والنهي: no habléis، no comáis، no toquéis.",
+          "ex": [
+            ["Venid aquí todos.", "تعالوا هنا جميعًا."],
+            ["Poneos los chalecos.", "البسوا السترات."],
+            ["No toquéis los cables.", "لا تلمسوا الأسلاك."]
+          ]
+        },
+        {
+          "h": "التأكد من الفهم",
+          "p": "إذا لم تفهم تعليمات، اسأل دائمًا. هذا مهم لسلامتك: ¿Me lo puedes repetir? ¿Lo hago así? ¿Qué quiere decir...?",
+          "ex": [
+            ["Perdone, ¿me lo puede repetir más despacio?", "عفوًا، هل يمكنك أن تعيده ببطء أكثر؟"],
+            ["¿Lo hago así?", "هل أفعله هكذا؟"]
+          ]
+        },
+        {
+          "h": "اللافتات",
+          "p": "في أماكن العمل ترى لافتات مثل: Prohibido el paso (ممنوع المرور)، Uso obligatorio del casco (استعمال الخوذة إجباري)، Peligro: alta tensión (خطر: ضغط كهربائي عالٍ).",
+          "ex": [
+            ["Prohibido el paso a personal no autorizado.", "ممنوع المرور لغير الأشخاص المرخّص لهم."],
+            ["Uso obligatorio de gafas de protección.", "استعمال نظارات الوقاية إجباري."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el casco", "ar": "الخوذة", "e": "⛑️" },
+        { "es": "los guantes", "ar": "القفازات", "e": "🧤" },
+        { "es": "el chaleco reflectante", "ar": "السترة العاكسة", "e": "🦺" },
+        { "es": "las botas de seguridad", "ar": "أحذية السلامة", "e": "🥾" },
+        { "es": "las gafas de protección", "ar": "نظارات الوقاية", "e": "🥽" },
+        { "es": "la mascarilla", "ar": "الكمامة", "e": "😷" },
+        { "es": "el encargado", "ar": "المسؤول (رئيس العمال)", "e": "👷" },
+        { "es": "el accidente laboral", "ar": "حادث العمل", "e": "🚑" },
+        { "es": "prohibido el paso", "ar": "ممنوع المرور", "e": "⛔" },
+        { "es": "obligatorio", "ar": "إجباري", "e": "❗" },
+        { "es": "¿me lo puedes repetir?", "ar": "هل يمكنك أن تعيده لي؟", "e": "🔁" },
+        { "es": "entendido", "ar": "مفهوم", "e": "👍" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días a todos. Antes de empezar, poneos el casco y el chaleco.", "ar": "صباح الخير للجميع. قبل أن نبدأ، البسوا الخوذة والسترة." },
+        { "who": "B", "es": "Jefe, se me han roto los guantes. ¿Dónde hay otros?", "ar": "يا رئيس، تمزّقت قفازاتي. أين توجد قفازات أخرى؟" },
+        { "who": "A", "es": "Coge unos nuevos del almacén. No trabajes sin guantes.", "ar": "خُذْ قفازات جديدة من المخزن. لا تعمل بدون قفازات." },
+        { "who": "B", "es": "Vale. ¿Y hoy qué hacemos?", "ar": "حسنًا. وماذا نفعل اليوم؟" },
+        { "who": "A", "es": "Hoy descargad el camión y llevad los sacos de cemento a la planta baja. No subáis a la segunda planta: está prohibido el paso.", "ar": "اليوم أفرغوا الشاحنة واحملوا أكياس الإسمنت إلى الطابق الأرضي. لا تصعدوا إلى الطابق الثاني: المرور ممنوع." },
+        { "who": "B", "es": "Perdone, ¿me lo puede repetir más despacio?", "ar": "عفوًا، هل يمكنك أن تعيده ببطء أكثر؟" },
+        { "who": "A", "es": "Claro. Primero, descargad el camión. Después, llevad los sacos abajo. Y nadie sube a la segunda planta.", "ar": "طبعًا. أولًا، أفرغوا الشاحنة. بعد ذلك، احملوا الأكياس إلى الأسفل. ولا أحد يصعد إلى الطابق الثاني." },
+        { "who": "B", "es": "Entendido.", "ar": "مفهوم." }
+      ],
+      "quiz": [
+        { "q": "Chicos, ___ aquí todos. (venir, vosotros)", "o": ["venís", "venid", "vinid"], "a": 1, "why": "الأمر مع vosotros: نحذف r ونضع d: venid. أما venís فهي المضارع." },
+        { "q": "En la obra es obligatorio llevar ___ en la cabeza.", "o": ["el casco", "los guantes", "las botas"], "a": 0, "why": "الخوذة (el casco) تُلبس على الرأس." },
+        { "q": "ما معنى «Poneos los chalecos»؟", "o": ["لبستُ السترة.", "لا تلبسوا السترات.", "البسوا السترات."], "a": 2, "why": "poneos هي الأمر من ponerse مع vosotros." },
+        { "q": "ماذا تقول إذا لم تفهم التعليمات؟", "o": ["Entendido.", "¿Me lo puedes repetir?", "Prohibido el paso."], "a": 1, "why": "¿Me lo puedes repetir? = هل يمكنك أن تعيده لي؟" },
+        { "q": "Chicos, no ___ los cables. (tocar, vosotros)", "o": ["toquéis", "tocáis", "tocad"], "a": 0, "why": "النهي مع vosotros: no toquéis. أما tocad فهي للأمر الإيجابي فقط." }
+      ]
+    }
+  ]
+}

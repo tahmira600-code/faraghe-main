@@ -1,0 +1,1567 @@
+{
+ "topic_id": "words",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🌅",
+   "es": "Buenos días.",
+   "ar": "صباح الخير",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌇",
+   "es": "Buenas tardes.",
+   "ar": "مساء الخير (بعد الظهر)",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌙",
+   "es": "Buenas noches.",
+   "ar": "مساء الخير / تصبح على خير",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "👋",
+   "es": "Adiós.",
+   "ar": "وداعاً",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "💬",
+   "es": "Por favor.",
+   "ar": "من فضلك",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "😔",
+   "es": "Perdón.",
+   "ar": "عذراً",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "😊",
+   "es": "De nada.",
+   "ar": "عفواً (لا شكر على واجب)",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚶",
+   "es": "Hasta luego.",
+   "ar": "إلى اللقاء",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 2,
+   "emoji": "🙂",
+   "es": "¿Qué tal?",
+   "ar": "كيف الحال؟",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 2,
+   "emoji": "👍",
+   "es": "Muy bien, gracias.",
+   "ar": "بخير جداً، شكراً",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Hasta mañana.",
+   "ar": "إلى الغد",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 2,
+   "emoji": "😞",
+   "es": "Lo siento.",
+   "ar": "أنا آسف",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "Con permiso.",
+   "ar": "بعد إذنك",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "Mucho gusto.",
+   "ar": "تشرّفنا",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 3,
+   "emoji": "💐",
+   "es": "Muchas gracias por su ayuda.",
+   "ar": "شكراً جزيلاً على مساعدتك",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 3,
+   "emoji": "🤝",
+   "es": "Encantado de conocerle.",
+   "ar": "سعيد بالتعرّف عليك",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 3,
+   "emoji": "💁",
+   "es": "Buenos días, ¿en qué puedo ayudarle?",
+   "ar": "صباح الخير، كيف يمكنني مساعدتك؟",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 3,
+   "emoji": "📩",
+   "es": "Le agradezco mucho su atención.",
+   "ar": "أشكرك كثيراً على اهتمامك",
+   "section": "التحية والمجاملة"
+  },
+  {
+   "level": 1,
+   "emoji": "1️⃣",
+   "es": "uno",
+   "ar": "واحد",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "2️⃣",
+   "es": "dos",
+   "ar": "اثنان",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "3️⃣",
+   "es": "tres",
+   "ar": "ثلاثة",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "🔟",
+   "es": "diez",
+   "ar": "عشرة",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "💯",
+   "es": "cien",
+   "ar": "مئة",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el lunes",
+   "ar": "يوم الاثنين",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el martes",
+   "ar": "يوم الثلاثاء",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el miércoles",
+   "ar": "يوم الأربعاء",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el jueves",
+   "ar": "يوم الخميس",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el viernes",
+   "ar": "يوم الجمعة",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el sábado",
+   "ar": "يوم السبت",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el domingo",
+   "ar": "يوم الأحد",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "📆",
+   "es": "hoy",
+   "ar": "اليوم",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "⏪",
+   "es": "ayer",
+   "ar": "أمس",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "veinte",
+   "ar": "عشرون",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "mil",
+   "ar": "ألف",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "el mes",
+   "ar": "الشهر",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🎆",
+   "es": "el año",
+   "ar": "السنة",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "la semana",
+   "ar": "الأسبوع",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "la hora",
+   "ar": "الساعة (الوقت)",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🛋️",
+   "es": "el fin de semana",
+   "ar": "عطلة نهاية الأسبوع",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🌄",
+   "es": "la mañana",
+   "ar": "الصباح",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🌆",
+   "es": "la tarde",
+   "ar": "بعد الظهر / المساء",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 2,
+   "emoji": "🌃",
+   "es": "la noche",
+   "ar": "الليل",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 3,
+   "emoji": "🕣",
+   "es": "Son las ocho y media.",
+   "ar": "الساعة الثامنة والنصف",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 3,
+   "emoji": "📆",
+   "es": "¿Qué día es hoy?",
+   "ar": "ما هو اليوم؟",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 3,
+   "emoji": "🕙",
+   "es": "Mi cita es el martes a las diez de la mañana.",
+   "ar": "موعدي يوم الثلاثاء في الساعة العاشرة صباحاً",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "Trabajo de lunes a viernes, de ocho a tres.",
+   "ar": "أعمل من الاثنين إلى الجمعة، من الثامنة إلى الثالثة",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "El contrato empieza el uno de septiembre.",
+   "ar": "يبدأ العقد في الأول من سبتمبر",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 3,
+   "emoji": "🎂",
+   "es": "Mi cumpleaños es el doce de mayo.",
+   "ar": "عيد ميلادي في الثاني عشر من مايو",
+   "section": "الأرقام والوقت"
+  },
+  {
+   "level": 1,
+   "emoji": "👩",
+   "es": "la madre",
+   "ar": "الأم",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "👨",
+   "es": "el padre",
+   "ar": "الأب",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "👦",
+   "es": "el hermano",
+   "ar": "الأخ",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "👧",
+   "es": "la hermana",
+   "ar": "الأخت",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "👶",
+   "es": "el hijo",
+   "ar": "الابن",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "🎀",
+   "es": "la hija",
+   "ar": "الابنة",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "🤵",
+   "es": "el marido",
+   "ar": "الزوج",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "👰",
+   "es": "la esposa",
+   "ar": "الزوجة",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 2,
+   "emoji": "👴",
+   "es": "el abuelo",
+   "ar": "الجد",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 2,
+   "emoji": "👵",
+   "es": "la abuela",
+   "ar": "الجدة",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧔",
+   "es": "el tío",
+   "ar": "العم أو الخال",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧑",
+   "es": "el primo",
+   "ar": "ابن العم أو ابن الخال",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 2,
+   "emoji": "🫂",
+   "es": "el amigo",
+   "ar": "الصديق",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 2,
+   "emoji": "🏘️",
+   "es": "el vecino",
+   "ar": "الجار",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 3,
+   "emoji": "🧒",
+   "es": "Tengo dos hijos y una hija.",
+   "ar": "لديّ ابنان وابنة",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 3,
+   "emoji": "🏢",
+   "es": "Mi mujer y yo vivimos en un piso pequeño.",
+   "ar": "أنا وزوجتي نعيش في شقة صغيرة",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 3,
+   "emoji": "🎒",
+   "es": "Mis hijos van al colegio cerca de casa.",
+   "ar": "أبنائي يذهبون إلى المدرسة قرب البيت",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 3,
+   "emoji": "👓",
+   "es": "Mi padre está jubilado y vive con nosotros.",
+   "ar": "أبي متقاعد ويعيش معنا",
+   "section": "العائلة والناس"
+  },
+  {
+   "level": 1,
+   "emoji": "🥛",
+   "es": "la leche",
+   "ar": "الحليب",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "el café",
+   "ar": "القهوة",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🍵",
+   "es": "el té",
+   "ar": "الشاي",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🥩",
+   "es": "la carne",
+   "ar": "اللحم",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🍗",
+   "es": "el pollo",
+   "ar": "الدجاج",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🐟",
+   "es": "el pescado",
+   "ar": "السمك",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🍚",
+   "es": "el arroz",
+   "ar": "الأرز",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🍎",
+   "es": "la fruta",
+   "ar": "الفاكهة",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🍅",
+   "es": "el tomate",
+   "ar": "الطماطم",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🥔",
+   "es": "la patata",
+   "ar": "البطاطس",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🧂",
+   "es": "la sal",
+   "ar": "الملح",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🫒",
+   "es": "el aceite de oliva",
+   "ar": "زيت الزيتون",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🧃",
+   "es": "el zumo",
+   "ar": "العصير",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🥦",
+   "es": "las verduras",
+   "ar": "الخضروات",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🧀",
+   "es": "el queso",
+   "ar": "الجبن",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🧅",
+   "es": "la cebolla",
+   "ar": "البصل",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🥐",
+   "es": "el desayuno",
+   "ar": "الفطور",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🍲",
+   "es": "la comida",
+   "ar": "الطعام / وجبة الغداء",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 2,
+   "emoji": "🍝",
+   "es": "la cena",
+   "ar": "العشاء",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 3,
+   "emoji": "🍅",
+   "es": "Quisiera un kilo de tomates, por favor.",
+   "ar": "أريد كيلوغراماً من الطماطم من فضلك",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 3,
+   "emoji": "🍞",
+   "es": "Para desayunar tomo café con leche y tostadas.",
+   "ar": "في الفطور أتناول القهوة بالحليب والخبز المحمّص",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 3,
+   "emoji": "🍖",
+   "es": "¿Este plato lleva carne de cerdo?",
+   "ar": "هل يحتوي هذا الطبق على لحم الخنزير؟",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 3,
+   "emoji": "🧺",
+   "es": "Compramos fruta y verdura en el mercado del sábado.",
+   "ar": "نشتري الفاكهة والخضار من سوق يوم السبت",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 3,
+   "emoji": "😋",
+   "es": "El pollo con arroz está muy rico.",
+   "ar": "الدجاج بالأرز لذيذ جداً",
+   "section": "الطعام والشراب"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "el piso",
+   "ar": "الشقة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "la habitación",
+   "ar": "الغرفة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🍳",
+   "es": "la cocina",
+   "ar": "المطبخ",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "el baño",
+   "ar": "الحمّام",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "la cama",
+   "ar": "السرير",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "la ventana",
+   "ar": "النافذة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🔑",
+   "es": "la llave",
+   "ar": "المفتاح",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "la camisa",
+   "ar": "القميص",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👖",
+   "es": "los pantalones",
+   "ar": "البنطال",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👞",
+   "es": "los zapatos",
+   "ar": "الحذاء",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧊",
+   "es": "la nevera",
+   "ar": "الثلاجة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🫧",
+   "es": "la lavadora",
+   "ar": "الغسالة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🛋️",
+   "es": "el sofá",
+   "ar": "الأريكة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "💡",
+   "es": "la luz",
+   "ar": "الضوء / الكهرباء",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧦",
+   "es": "los calcetines",
+   "ar": "الجوارب",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧢",
+   "es": "la gorra",
+   "ar": "القبعة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🥾",
+   "es": "las botas",
+   "ar": "الأحذية الطويلة (الجزمة)",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "la ropa",
+   "ar": "الملابس",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🏠",
+   "es": "El piso tiene dos habitaciones y un baño.",
+   "ar": "الشقة فيها غرفتان وحمّام واحد",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "Necesito ropa de trabajo y botas de seguridad.",
+   "ar": "أحتاج إلى ملابس عمل وأحذية سلامة",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🥶",
+   "es": "La calefacción no funciona.",
+   "ar": "التدفئة لا تعمل",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🧥",
+   "es": "Hace frío, ponte el abrigo.",
+   "ar": "الجو بارد، البس المعطف",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🧺",
+   "es": "La lavadora está en la cocina.",
+   "ar": "الغسالة في المطبخ",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🗝️",
+   "es": "He perdido la llave de la puerta.",
+   "ar": "أضعت مفتاح الباب",
+   "section": "البيت والملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👤",
+   "es": "la cabeza",
+   "ar": "الرأس",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "✋",
+   "es": "la mano",
+   "ar": "اليد",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦶",
+   "es": "el pie",
+   "ar": "القدم",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "👁️",
+   "es": "el ojo",
+   "ar": "العين",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦷",
+   "es": "el diente",
+   "ar": "السن",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧍",
+   "es": "la espalda",
+   "ar": "الظهر",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "💪",
+   "es": "el brazo",
+   "ar": "الذراع",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦵",
+   "es": "la pierna",
+   "ar": "الساق",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 2,
+   "emoji": "🤢",
+   "es": "el estómago",
+   "ar": "المعدة",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 2,
+   "emoji": "🤕",
+   "es": "el dolor",
+   "ar": "الألم",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 2,
+   "emoji": "🤒",
+   "es": "la fiebre",
+   "ar": "الحمّى",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 2,
+   "emoji": "🫀",
+   "es": "el corazón",
+   "ar": "القلب",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "la medicina",
+   "ar": "الدواء",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 3,
+   "emoji": "😣",
+   "es": "Me duele mucho la espalda.",
+   "ar": "ظهري يؤلمني كثيراً",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 3,
+   "emoji": "🌡️",
+   "es": "Tengo fiebre desde ayer.",
+   "ar": "عندي حمّى منذ أمس",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "El médico me ha recetado esta medicina.",
+   "ar": "وصف لي الطبيب هذا الدواء",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 3,
+   "emoji": "🩹",
+   "es": "Me he cortado la mano en el trabajo.",
+   "ar": "جرحتُ يدي في العمل",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 3,
+   "emoji": "🪥",
+   "es": "Tengo que ir al dentista porque me duele una muela.",
+   "ar": "يجب أن أذهب إلى طبيب الأسنان لأن ضرسي يؤلمني",
+   "section": "الجسم والصحة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "la calle",
+   "ar": "الشارع",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏦",
+   "es": "el banco",
+   "ar": "البنك",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏥",
+   "es": "el hospital",
+   "ar": "المستشفى",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "⚕️",
+   "es": "la farmacia",
+   "ar": "الصيدلية",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🏪",
+   "es": "la tienda",
+   "ar": "المتجر",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🍉",
+   "es": "el mercado",
+   "ar": "السوق",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🌳",
+   "es": "el parque",
+   "ar": "الحديقة العامة",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🚉",
+   "es": "la estación",
+   "ar": "المحطة",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🚌",
+   "es": "el autobús",
+   "ar": "الحافلة",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🏛️",
+   "es": "el ayuntamiento",
+   "ar": "البلدية",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🚓",
+   "es": "la comisaría",
+   "ar": "مركز الشرطة",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🩺",
+   "es": "el centro de salud",
+   "ar": "المركز الصحي",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "📮",
+   "es": "la oficina de Correos",
+   "ar": "مكتب البريد",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "✈️",
+   "es": "el aeropuerto",
+   "ar": "المطار",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🏡",
+   "es": "el pueblo",
+   "ar": "القرية / البلدة",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 2,
+   "emoji": "🥖",
+   "es": "la panadería",
+   "ar": "المخبز",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "💉",
+   "es": "El centro de salud está al lado de la farmacia.",
+   "ar": "المركز الصحي بجانب الصيدلية",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "⛲",
+   "es": "El ayuntamiento está en la plaza mayor.",
+   "ar": "البلدية في الساحة الرئيسية",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "🌾",
+   "es": "Vivo en un pueblo cerca de la ciudad.",
+   "ar": "أعيش في قرية قرب المدينة",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "Tengo que ir al banco antes de las dos.",
+   "ar": "يجب أن أذهب إلى البنك قبل الساعة الثانية",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "🌛",
+   "es": "La farmacia de guardia está abierta toda la noche.",
+   "ar": "الصيدلية المناوِبة مفتوحة طوال الليل",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 3,
+   "emoji": "🚏",
+   "es": "El autobús para delante del hospital.",
+   "ar": "الحافلة تتوقف أمام المستشفى",
+   "section": "المدينة والأماكن"
+  },
+  {
+   "level": 1,
+   "emoji": "🐘",
+   "es": "grande",
+   "ar": "كبير",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "🐭",
+   "es": "pequeño",
+   "ar": "صغير",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "👍",
+   "es": "bueno",
+   "ar": "جيد",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "caliente",
+   "ar": "ساخن",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "❄️",
+   "es": "frío",
+   "ar": "بارد",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "comer",
+   "ar": "يأكل",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥤",
+   "es": "beber",
+   "ar": "يشرب",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "👷",
+   "es": "trabajar",
+   "ar": "يعمل",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 1,
+   "emoji": "😴",
+   "es": "dormir",
+   "ar": "ينام",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎒",
+   "es": "tener",
+   "ar": "يملك (عنده)",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎯",
+   "es": "querer",
+   "ar": "يريد",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏋️",
+   "es": "poder",
+   "ar": "يستطيع",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🆘",
+   "es": "necesitar",
+   "ar": "يحتاج",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "comprar",
+   "ar": "يشتري",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "pagar",
+   "ar": "يدفع",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏠",
+   "es": "vivir",
+   "ar": "يسكن / يعيش",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔓",
+   "es": "abierto",
+   "ar": "مفتوح",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔒",
+   "es": "cerrado",
+   "ar": "مغلق",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "barato",
+   "ar": "رخيص",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "💰",
+   "es": "caro",
+   "ar": "غالٍ",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 2,
+   "emoji": "🥱",
+   "es": "cansado",
+   "ar": "متعب",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Necesito trabajar para pagar el alquiler.",
+   "ar": "أحتاج إلى العمل لأدفع الإيجار",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "La tienda está cerrada los domingos.",
+   "ar": "المتجر مغلق أيام الأحد",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 3,
+   "emoji": "😩",
+   "es": "Estoy muy cansado porque he trabajado diez horas.",
+   "ar": "أنا متعب جداً لأنني عملت عشر ساعات",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 3,
+   "emoji": "📱",
+   "es": "Este móvil es barato, pero aquel es mejor.",
+   "ar": "هذا الهاتف المحمول رخيص، لكن ذلك أفضل",
+   "section": "الأفعال والصفات"
+  },
+  {
+   "level": 3,
+   "emoji": "🗣️",
+   "es": "Mi compañero habla árabe y español.",
+   "ar": "زميلي يتكلم العربية والإسبانية",
+   "section": "الأفعال والصفات"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué día va después del lunes?",
+   "options": [
+    "el domingo",
+    "el martes",
+    "el jueves"
+   ],
+   "answer": 1,
+   "ar_q": "أي يوم يأتي بعد الاثنين؟",
+   "ar_exp": "بعد الاثنين (el lunes) يأتي الثلاثاء (el martes)."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué dices por la mañana cuando saludas a alguien?",
+   "options": [
+    "Buenos días.",
+    "Buenas noches.",
+    "Adiós."
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تقول في الصباح عندما تحيّي شخصاً؟",
+   "ar_exp": "في الصباح نقول Buenos días، أي صباح الخير."
+  },
+  {
+   "level": 1,
+   "q": "Alguien te dice «Gracias». ¿Qué respondes?",
+   "options": [
+    "Perdón.",
+    "Hasta luego.",
+    "De nada."
+   ],
+   "answer": 2,
+   "ar_q": "شخص يقول لك «شكراً». بماذا تردّ؟",
+   "ar_exp": "نردّ على الشكر بـ De nada، أي عفواً."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué usas para abrir la puerta?",
+   "options": [
+    "la cama",
+    "la llave",
+    "la ventana"
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تستخدم لفتح الباب؟",
+   "ar_exp": "نفتح الباب بالمفتاح، أي la llave."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué número es «diez»?",
+   "options": [
+    "10",
+    "2",
+    "100"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو الرقم «diez»؟",
+   "ar_exp": "diez تعني عشرة (10)."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué bebida es blanca y sale de la vaca?",
+   "options": [
+    "el café",
+    "el zumo",
+    "la leche"
+   ],
+   "answer": 2,
+   "ar_q": "أي مشروب أبيض ويأتي من البقرة؟",
+   "ar_exp": "الحليب أبيض ويأتي من البقرة، وهو la leche."
+  },
+  {
+   "level": 1,
+   "q": "¿Con qué parte del cuerpo ves?",
+   "options": [
+    "con los ojos",
+    "con la mano",
+    "con el pie"
+   ],
+   "answer": 0,
+   "ar_q": "بأي جزء من الجسم ترى؟",
+   "ar_exp": "نرى بالعينين، أي los ojos."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde compras medicinas?",
+   "options": [
+    "en la panadería",
+    "en la farmacia",
+    "en el parque"
+   ],
+   "answer": 1,
+   "ar_q": "أين تشتري الأدوية؟",
+   "ar_exp": "نشتري الأدوية من الصيدلية، أي la farmacia."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es lo contrario de «grande»?",
+   "options": [
+    "caliente",
+    "bueno",
+    "pequeño"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو عكس «grande» (كبير)؟",
+   "ar_exp": "عكس grande هو pequeño، أي صغير."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién es la madre de tu padre?",
+   "options": [
+    "tu abuela",
+    "tu hermana",
+    "tu tía"
+   ],
+   "answer": 0,
+   "ar_q": "من هي أم أبيك؟",
+   "ar_exp": "أم الأب هي الجدة، أي la abuela."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué día va antes del domingo?",
+   "options": [
+    "el lunes",
+    "el sábado",
+    "el viernes"
+   ],
+   "answer": 1,
+   "ar_q": "أي يوم يأتي قبل الأحد؟",
+   "ar_exp": "قبل الأحد يأتي السبت، أي el sábado."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «el fin de semana»?",
+   "options": [
+    "el sábado y el domingo",
+    "de lunes a viernes",
+    "un mes"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تعني «el fin de semana»؟",
+   "ar_exp": "el fin de semana هو عطلة نهاية الأسبوع: السبت والأحد."
+  },
+  {
+   "level": 2,
+   "q": "¿Dónde guardas la comida fría en casa?",
+   "options": [
+    "en la lavadora",
+    "en el sofá",
+    "en la nevera"
+   ],
+   "answer": 2,
+   "ar_q": "أين تحفظ الطعام البارد في البيت؟",
+   "ar_exp": "نحفظ الطعام في الثلاجة، أي la nevera."
+  },
+  {
+   "level": 2,
+   "q": "Quieres pasar entre dos personas. ¿Qué dices?",
+   "options": [
+    "Con permiso.",
+    "Mucho gusto.",
+    "Hasta mañana."
+   ],
+   "answer": 0,
+   "ar_q": "تريد أن تمرّ بين شخصين. ماذا تقول؟",
+   "ar_exp": "نقول Con permiso، أي بعد إذنك، لنطلب المرور بأدب."
+  },
+  {
+   "level": 2,
+   "q": "¿Adónde vas para hacer trámites del municipio, como el padrón?",
+   "options": [
+    "a la comisaría",
+    "al ayuntamiento",
+    "al aeropuerto"
+   ],
+   "answer": 1,
+   "ar_q": "إلى أين تذهب لإجراء معاملات البلدية مثل التسجيل في سجل السكان؟",
+   "ar_exp": "معاملات البلدية مثل التسجيل في سجل السكان تُجرى في البلدية، أي el ayuntamiento."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es lo contrario de «abierto»?",
+   "options": [
+    "barato",
+    "cansado",
+    "cerrado"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو عكس «abierto» (مفتوح)؟",
+   "ar_exp": "عكس abierto هو cerrado، أي مغلق."
+  },
+  {
+   "level": 2,
+   "q": "Si algo cuesta mucho dinero, es…",
+   "options": [
+    "caro",
+    "barato",
+    "frío"
+   ],
+   "answer": 0,
+   "ar_q": "إذا كان الشيء يكلّف مالاً كثيراً فهو…",
+   "ar_exp": "الشيء الذي يكلّف كثيراً يُوصف بأنه caro، أي غالٍ."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué comida tomas por la noche?",
+   "options": [
+    "el desayuno",
+    "la cena",
+    "el zumo"
+   ],
+   "answer": 1,
+   "ar_q": "أي وجبة تتناولها في الليل؟",
+   "ar_exp": "وجبة الليل هي العشاء، أي la cena."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué verbo usas para decir que te hace falta algo?",
+   "options": [
+    "comprar",
+    "dormir",
+    "necesitar"
+   ],
+   "answer": 2,
+   "ar_q": "أي فعل تستخدم لتقول إنك تحتاج إلى شيء؟",
+   "ar_exp": "الفعل necesitar يعني يحتاج، مثل: Necesito ayuda."
+  },
+  {
+   "level": 3,
+   "q": "Escuchas: «Mi cita es el martes a las diez de la mañana». ¿Cuándo es la cita?",
+   "options": [
+    "el martes por la mañana",
+    "el martes por la noche",
+    "el jueves a las diez"
+   ],
+   "answer": 0,
+   "ar_q": "تسمع: «موعدي يوم الثلاثاء في العاشرة صباحاً». متى الموعد؟",
+   "ar_exp": "الجملة تقول el martes a las diez de la mañana، أي يوم الثلاثاء صباحاً."
+  },
+  {
+   "level": 3,
+   "q": "«Son las ocho y media». ¿Qué hora es?",
+   "options": [
+    "8:15",
+    "8:30",
+    "7:30"
+   ],
+   "answer": 1,
+   "ar_q": "«Son las ocho y media». كم الساعة؟",
+   "ar_exp": "y media تعني والنصف، فالساعة الثامنة والنصف (8:30)."
+  },
+  {
+   "level": 3,
+   "q": "«La farmacia de guardia está abierta toda la noche». ¿Qué significa «de guardia»?",
+   "options": [
+    "que está cerrada",
+    "que es muy cara",
+    "que está de servicio fuera del horario normal"
+   ],
+   "answer": 2,
+   "ar_q": "«الصيدلية المناوبة مفتوحة طوال الليل». ماذا تعني «de guardia»؟",
+   "ar_exp": "farmacia de guardia هي الصيدلية المناوبة التي تعمل خارج الأوقات العادية، مثل الليل."
+  },
+  {
+   "level": 3,
+   "q": "Tu jefe dice: «Trabajamos de lunes a viernes». ¿Qué días no trabajas?",
+   "options": [
+    "el sábado y el domingo",
+    "el lunes y el martes",
+    "el viernes y el sábado"
+   ],
+   "answer": 0,
+   "ar_q": "يقول مديرك: «نعمل من الاثنين إلى الجمعة». ما الأيام التي لا تعمل فيها؟",
+   "ar_exp": "العمل من الاثنين إلى الجمعة، إذن لا عمل يومي السبت والأحد."
+  },
+  {
+   "level": 3,
+   "q": "Le dices al médico: «Me duele una muela». ¿Qué te pasa?",
+   "options": [
+    "Te duele el estómago.",
+    "Te duele un diente.",
+    "Te duele la pierna."
+   ],
+   "answer": 1,
+   "ar_q": "تقول للطبيب: «Me duele una muela». ما مشكلتك؟",
+   "ar_exp": "la muela هي الضرس، أي سن من الأسنان، فأنت تشعر بألم في سنّك."
+  },
+  {
+   "level": 3,
+   "q": "«El piso tiene dos habitaciones y un baño». ¿Cuántos baños tiene?",
+   "options": [
+    "dos",
+    "tres",
+    "uno"
+   ],
+   "answer": 2,
+   "ar_q": "«الشقة فيها غرفتان وحمّام واحد». كم حمّاماً فيها؟",
+   "ar_exp": "الجملة تقول un baño، أي حمّام واحد."
+  }
+ ]
+}

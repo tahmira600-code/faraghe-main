@@ -1,0 +1,817 @@
+{
+ "topic_id": "construction",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🏗️",
+   "es": "el andamio",
+   "ar": "السقالة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌀",
+   "es": "la hormigonera",
+   "ar": "خلاطة الخرسانة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧰",
+   "es": "la paleta",
+   "ar": "المالج (مسطرين البناء)",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛒",
+   "es": "la carretilla",
+   "ar": "عربة اليد",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "📏",
+   "es": "el nivel",
+   "ar": "ميزان الماء",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪛",
+   "es": "el taladro",
+   "ar": "المثقاب",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔨",
+   "es": "el martillo",
+   "ar": "المطرقة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪚",
+   "es": "la sierra",
+   "ar": "المنشار",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪜",
+   "es": "la escalera",
+   "ar": "السلم",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪣",
+   "es": "el cubo",
+   "ar": "الدلو",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "⛏️",
+   "es": "el pico",
+   "ar": "المعول",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧱",
+   "es": "el ladrillo",
+   "ar": "الطوب",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🏭",
+   "es": "el cemento",
+   "ar": "الإسمنت",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "⚪",
+   "es": "el yeso",
+   "ar": "الجبس",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🔲",
+   "es": "el azulejo",
+   "ar": "البلاط الحائطي (الزليج)",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🏖️",
+   "es": "la arena",
+   "ar": "الرمل",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "el agua",
+   "ar": "الماء",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪵",
+   "es": "la madera",
+   "ar": "الخشب",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🔩",
+   "es": "el hierro",
+   "ar": "الحديد",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪨",
+   "es": "la grava",
+   "ar": "الحصى",
+   "section": "المواد"
+  },
+  {
+   "level": 1,
+   "emoji": "⛑️",
+   "es": "el casco",
+   "ar": "الخوذة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el chaleco reflectante",
+   "ar": "السترة العاكسة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥾",
+   "es": "las botas de seguridad",
+   "ar": "أحذية السلامة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥽",
+   "es": "las gafas de protección",
+   "ar": "نظارات الحماية",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪢",
+   "es": "el arnés",
+   "ar": "حزام الأمان (الحزام الواقي من السقوط)",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "⚠️",
+   "es": "¡Cuidado!",
+   "ar": "انتبه!",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "👷",
+   "es": "el encargado",
+   "ar": "المسؤول (رئيس العمال)",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "✋",
+   "es": "¡Para!",
+   "ar": "توقف!",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "⬆️",
+   "es": "¡Sube!",
+   "ar": "اصعد!",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "⬇️",
+   "es": "¡Baja!",
+   "ar": "انزل!",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "🏃",
+   "es": "¡Rápido!",
+   "ar": "بسرعة!",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 1,
+   "emoji": "📐",
+   "es": "el metro",
+   "ar": "المتر (أداة القياس)",
+   "section": "القياسات"
+  },
+  {
+   "level": 1,
+   "emoji": "↔️",
+   "es": "el ancho",
+   "ar": "العرض",
+   "section": "القياسات"
+  },
+  {
+   "level": 1,
+   "emoji": "↕️",
+   "es": "el alto",
+   "ar": "الارتفاع",
+   "section": "القياسات"
+  },
+  {
+   "level": 1,
+   "emoji": "📏",
+   "es": "el largo",
+   "ar": "الطول",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "🌀",
+   "es": "Pon en marcha la hormigonera.",
+   "ar": "شغّل خلاطة الخرسانة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "Lleva la carretilla llena de arena.",
+   "ar": "خذ عربة اليد المملوءة بالرمل.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🪛",
+   "es": "Pásame el taladro, por favor.",
+   "ar": "ناولني المثقاب من فضلك.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Comprueba la pared con el nivel.",
+   "ar": "تحقق من الجدار بميزان الماء.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏗️",
+   "es": "Hay que montar el andamio.",
+   "ar": "يجب تركيب السقالة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Recoge las herramientas al terminar.",
+   "ar": "اجمع الأدوات عند الانتهاء.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏭",
+   "es": "Necesitamos tres sacos de cemento.",
+   "ar": "نحتاج إلى ثلاثة أكياس من الإسمنت.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🪣",
+   "es": "Haz la mezcla de cemento y arena.",
+   "ar": "حضّر خليط الإسمنت والرمل.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧱",
+   "es": "Coloca los ladrillos en fila.",
+   "ar": "ضع الطوب في صف.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "🔲",
+   "es": "Hoy vamos a poner azulejos en el baño.",
+   "ar": "اليوم سنضع البلاط في الحمام.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "⚪",
+   "es": "El yeso se seca muy rápido.",
+   "ar": "الجبس يجف بسرعة كبيرة.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "Echa más agua a la mezcla.",
+   "ar": "أضف المزيد من الماء إلى الخليط.",
+   "section": "المواد"
+  },
+  {
+   "level": 2,
+   "emoji": "⛑️",
+   "es": "Ponte el casco antes de entrar en la obra.",
+   "ar": "ضع الخوذة قبل دخول ورشة البناء.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🪢",
+   "es": "Engánchate el arnés en el andamio.",
+   "ar": "اربط حزام الأمان بالسقالة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🦺",
+   "es": "Tienes que llevar el EPI siempre.",
+   "ar": "يجب أن ترتدي معدات الحماية الفردية دائمًا.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚧",
+   "es": "No pases por esa zona.",
+   "ar": "لا تمر من تلك المنطقة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🩹",
+   "es": "Me he hecho daño en la mano.",
+   "ar": "لقد أصبت يدي.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧯",
+   "es": "¿Dónde está el extintor?",
+   "ar": "أين طفاية الحريق؟",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "👷",
+   "es": "¿Qué hago ahora, jefe?",
+   "ar": "ماذا أفعل الآن يا رئيس؟",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "Mañana empezamos a las siete.",
+   "ar": "غدًا نبدأ في الساعة السابعة.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "Ayuda a tu compañero a descargar el camión.",
+   "ar": "ساعد زميلك في تفريغ الشاحنة.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "🧱",
+   "es": "Termina esta pared antes de comer.",
+   "ar": "أنهِ هذا الجدار قبل الغداء.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "🔁",
+   "es": "Repítelo, no está bien hecho.",
+   "ar": "أعده، ليس منجزًا بشكل جيد.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "❓",
+   "es": "No he entendido, ¿puede repetirlo?",
+   "ar": "لم أفهم، هل يمكنك أن تعيد؟",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Mide la pared de arriba abajo.",
+   "ar": "قِس الجدار من الأعلى إلى الأسفل.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "📐",
+   "es": "La ventana mide un metro de ancho.",
+   "ar": "عرض النافذة متر واحد.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "✂️",
+   "es": "Corta la tabla a cincuenta centímetros.",
+   "ar": "اقطع اللوح على خمسين سنتيمترًا.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "⬜",
+   "es": "La habitación tiene veinte metros cuadrados.",
+   "ar": "مساحة الغرفة عشرون مترًا مربعًا.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Deja dos centímetros entre los azulejos.",
+   "ar": "اترك سنتيمترين بين قطع البلاط.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "Cada saco pesa veinticinco kilos.",
+   "ar": "كل كيس يزن خمسة وعشرين كيلوغرامًا.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "📐",
+   "es": "Esta pared no está recta.",
+   "ar": "هذا الجدار ليس مستقيمًا.",
+   "section": "القياسات"
+  },
+  {
+   "level": 2,
+   "emoji": "📝",
+   "es": "Apunta las medidas en el papel.",
+   "ar": "سجّل القياسات على الورقة.",
+   "section": "القياسات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔌",
+   "es": "Antes de cambiar la broca, desenchufa el taladro.",
+   "ar": "قبل تغيير رأس المثقاب، افصل المثقاب عن الكهرباء.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🌀",
+   "es": "Limpia bien la hormigonera al final del día para que no se endurezca el hormigón.",
+   "ar": "نظّف خلاطة الخرسانة جيدًا في نهاية اليوم حتى لا تتصلب الخرسانة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🏗️",
+   "es": "No se puede subir al andamio hasta que lo revise el encargado.",
+   "ar": "لا يُسمح بالصعود إلى السقالة حتى يفحصها المسؤول.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🛠️",
+   "es": "Si una herramienta está rota, avisa y no la utilices.",
+   "ar": "إذا كانت أداة مكسورة، أبلغ ولا تستعملها.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧱",
+   "es": "Hay que dejar fraguar el cemento antes de seguir levantando la pared.",
+   "ar": "يجب ترك الإسمنت يتماسك قبل مواصلة رفع الجدار.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🚚",
+   "es": "Cuando llegue el camión, revisa que el material coincida con el albarán.",
+   "ar": "عندما تصل الشاحنة، تحقق من أن المواد تطابق وصل التسليم.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🌧️",
+   "es": "Tapa los sacos de cemento para que no se mojen con la lluvia.",
+   "ar": "غطِّ أكياس الإسمنت حتى لا تبتل بالمطر.",
+   "section": "المواد"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "El uso de los equipos de protección individual es obligatorio en toda la obra.",
+   "ar": "استعمال معدات الحماية الفردية إلزامي في كامل ورشة البناء.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🪢",
+   "es": "Por encima de dos metros de altura, tienes que llevar el arnés atado a un punto seguro.",
+   "ar": "فوق ارتفاع مترين، يجب أن تلبس حزام الأمان مربوطًا بنقطة آمنة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚑",
+   "es": "Si hay un accidente, no muevas al herido y llama al 112.",
+   "ar": "إذا وقع حادث، لا تحرّك المصاب واتصل بالرقم 112.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Antes de empezar en la obra, tienes que hacer el curso de prevención de riesgos laborales.",
+   "ar": "قبل البدء في ورشة البناء، يجب أن تقوم بدورة الوقاية من المخاطر المهنية.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "⚡",
+   "es": "No toques los cables eléctricos sin permiso del encargado.",
+   "ar": "لا تلمس الأسلاك الكهربائية دون إذن المسؤول.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "Esta semana tenemos que terminar la planta baja.",
+   "ar": "هذا الأسبوع يجب أن ننهي الطابق الأرضي.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "👷",
+   "es": "Cuando termines aquí, ve a ayudar al oficial de la segunda planta.",
+   "ar": "عندما تنتهي هنا، اذهب لمساعدة العامل المحترف في الطابق الثاني.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "📢",
+   "es": "Si no sabes hacer algo, pregunta antes de empezar.",
+   "ar": "إذا كنت لا تعرف كيف تقوم بشيء، اسأل قبل أن تبدأ.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "⏱️",
+   "es": "Hoy tenemos que quedarnos una hora más para terminar el forjado.",
+   "ar": "اليوم يجب أن نبقى ساعة إضافية لإنهاء السقف الخرساني.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "🧹",
+   "es": "Deja la zona de trabajo limpia y ordenada antes de irte.",
+   "ar": "اترك منطقة العمل نظيفة ومرتبة قبل أن تغادر.",
+   "section": "أوامر المسؤول"
+  },
+  {
+   "level": 3,
+   "emoji": "📐",
+   "es": "Comprueba que las esquinas estén a escuadra.",
+   "ar": "تحقق من أن الزوايا قائمة (بزاوية تسعين درجة).",
+   "section": "القياسات"
+  },
+  {
+   "level": 3,
+   "emoji": "📏",
+   "es": "La puerta tiene que medir dos metros de alto por ochenta centímetros de ancho.",
+   "ar": "يجب أن يكون ارتفاع الباب مترين وعرضه ثمانين سنتيمترًا.",
+   "section": "القياسات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧮",
+   "es": "Calcula cuántos azulejos necesitamos para cubrir toda la pared.",
+   "ar": "احسب كم قطعة بلاط نحتاج لتغطية الجدار كله.",
+   "section": "القياسات"
+  },
+  {
+   "level": 3,
+   "emoji": "📏",
+   "es": "Marca con el lápiz a un metro del suelo.",
+   "ar": "ضع علامة بالقلم على ارتفاع متر من الأرض.",
+   "section": "القياسات"
+  },
+  {
+   "level": 3,
+   "emoji": "⚖️",
+   "es": "Pon una parte de cemento por tres de arena.",
+   "ar": "ضع جزءًا من الإسمنت مقابل ثلاثة أجزاء من الرمل.",
+   "section": "القياسات"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el casco\"?",
+   "options": [
+    "القفازات",
+    "الخوذة",
+    "الحذاء"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"el casco\"؟",
+   "ar_exp": "\"el casco\" هي الخوذة التي تحمي الرأس."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la carretilla\"?",
+   "options": [
+    "عربة اليد",
+    "السلم",
+    "المطرقة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"la carretilla\"؟",
+   "ar_exp": "\"la carretilla\" هي عربة اليد لنقل المواد."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el ladrillo\"?",
+   "options": [
+    "الرمل",
+    "الخشب",
+    "الطوب"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"el ladrillo\"؟",
+   "ar_exp": "\"el ladrillo\" هو الطوب الذي تُبنى به الجدران."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué herramienta usas para comprobar si una pared está recta?",
+   "options": [
+    "el martillo",
+    "el nivel",
+    "el cubo"
+   ],
+   "answer": 1,
+   "ar_q": "أي أداة تستعمل للتحقق من استقامة الجدار؟",
+   "ar_exp": "ميزان الماء \"el nivel\" يبين إذا كان السطح مستقيمًا."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el andamio\"?",
+   "options": [
+    "السقالة",
+    "الخلاطة",
+    "المثقاب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el andamio\"؟",
+   "ar_exp": "\"el andamio\" هي السقالة التي نعمل فوقها في الأماكن المرتفعة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"¡Para!\"?",
+   "options": [
+    "اصعد!",
+    "بسرعة!",
+    "توقف!"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"¡Para!\"؟",
+   "ar_exp": "\"¡Para!\" تعني توقف."
+  },
+  {
+   "level": 2,
+   "q": "El encargado dice: \"Pásame el taladro\". ¿Qué tienes que hacer?",
+   "options": [
+    "ناوله المثقاب",
+    "ناوله المطرقة",
+    "ناوله الدلو"
+   ],
+   "answer": 0,
+   "ar_q": "يقول المسؤول: \"Pásame el taladro\". ماذا يجب أن تفعل؟",
+   "ar_exp": "\"el taladro\" هو المثقاب، و\"pásame\" تعني ناولني."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"EPI\"?",
+   "options": [
+    "معدات الحماية الفردية",
+    "عقد العمل",
+    "رئيس العمال"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"EPI\"؟",
+   "ar_exp": "EPI اختصار لـ \"equipo de protección individual\" أي معدات الحماية الفردية."
+  },
+  {
+   "level": 2,
+   "q": "No entiendes una orden del encargado. ¿Qué dices?",
+   "options": [
+    "¿Qué hora es?",
+    "No he entendido, ¿puede repetirlo?",
+    "Ya he terminado."
+   ],
+   "answer": 1,
+   "ar_q": "لم تفهم أمرًا من المسؤول. ماذا تقول؟",
+   "ar_exp": "نقول \"لم أفهم، هل يمكنك أن تعيد؟\"."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"Haz la mezcla de cemento y arena\"?",
+   "options": [
+    "حضّر خليط الإسمنت والرمل",
+    "نظّف الإسمنت والرمل",
+    "اشترِ الإسمنت والرمل"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"Haz la mezcla de cemento y arena\"؟",
+   "ar_exp": "\"la mezcla\" تعني الخليط و\"haz\" تعني افعل/حضّر."
+  },
+  {
+   "level": 2,
+   "q": "\"La ventana mide un metro de ancho\". ¿Qué significa?",
+   "options": [
+    "ارتفاع النافذة متر",
+    "عرض النافذة متر",
+    "النافذة على بعد متر"
+   ],
+   "answer": 1,
+   "ar_q": "\"La ventana mide un metro de ancho\". ما معناها؟",
+   "ar_exp": "\"de ancho\" تعني العرض."
+  },
+  {
+   "level": 2,
+   "q": "Vas a trabajar encima del andamio, a mucha altura. ¿Qué te pones?",
+   "options": [
+    "el arnés",
+    "el delantal",
+    "la gorra"
+   ],
+   "answer": 0,
+   "ar_q": "ستعمل فوق السقالة على ارتفاع كبير. ماذا تلبس؟",
+   "ar_exp": "حزام الأمان \"el arnés\" يحميك من السقوط."
+  },
+  {
+   "level": 3,
+   "q": "\"Hay que dejar fraguar el cemento.\" ¿Qué significa?",
+   "options": [
+    "يجب خلط الإسمنت",
+    "يجب ترك الإسمنت يتماسك",
+    "يجب رمي الإسمنت"
+   ],
+   "answer": 1,
+   "ar_q": "\"Hay que dejar fraguar el cemento.\" ما معناها؟",
+   "ar_exp": "\"fraguar\" تعني أن يتصلب الإسمنت ويتماسك."
+  },
+  {
+   "level": 3,
+   "q": "Un compañero se cae y está herido. ¿Qué haces?",
+   "options": [
+    "Lo muevo rápido a la calle.",
+    "No lo muevo y llamo al 112.",
+    "Sigo trabajando."
+   ],
+   "answer": 1,
+   "ar_q": "سقط زميل وأصيب. ماذا تفعل؟",
+   "ar_exp": "لا نحرّك المصاب ونتصل برقم الطوارئ 112."
+  },
+  {
+   "level": 3,
+   "q": "\"Pon una parte de cemento por tres de arena.\" ¿Qué significa?",
+   "options": [
+    "جزء إسمنت مقابل ثلاثة أجزاء رمل",
+    "ثلاثة أجزاء إسمنت مقابل جزء رمل",
+    "جزء إسمنت فقط"
+   ],
+   "answer": 0,
+   "ar_q": "\"Pon una parte de cemento por tres de arena.\" ما معناها؟",
+   "ar_exp": "\"una parte ... por tres\" تعني جزءًا واحدًا مقابل ثلاثة أجزاء."
+  }
+ ]
+}

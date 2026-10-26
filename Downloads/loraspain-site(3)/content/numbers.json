@@ -1,0 +1,641 @@
+{
+ "topic_id": "numbers",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "0️⃣",
+   "es": "cero",
+   "ar": "صفر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "1️⃣",
+   "es": "uno",
+   "ar": "واحد",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "2️⃣",
+   "es": "dos",
+   "ar": "اثنان",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "3️⃣",
+   "es": "tres",
+   "ar": "ثلاثة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "4️⃣",
+   "es": "cuatro",
+   "ar": "أربعة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "5️⃣",
+   "es": "cinco",
+   "ar": "خمسة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "6️⃣",
+   "es": "seis",
+   "ar": "ستة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "7️⃣",
+   "es": "siete",
+   "ar": "سبعة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "8️⃣",
+   "es": "ocho",
+   "ar": "ثمانية",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "9️⃣",
+   "es": "nueve",
+   "ar": "تسعة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔟",
+   "es": "diez",
+   "ar": "عشرة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "once",
+   "ar": "أحد عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "doce",
+   "ar": "اثنا عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "trece",
+   "ar": "ثلاثة عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "catorce",
+   "ar": "أربعة عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "quince",
+   "ar": "خمسة عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "dieciséis",
+   "ar": "ستة عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "diecisiete",
+   "ar": "سبعة عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "dieciocho",
+   "ar": "ثمانية عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "diecinueve",
+   "ar": "تسعة عشر",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "veinte",
+   "ar": "عشرون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "💯",
+   "es": "cien",
+   "ar": "مئة",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "treinta",
+   "ar": "ثلاثون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "cuarenta",
+   "ar": "أربعون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "cincuenta",
+   "ar": "خمسون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "sesenta",
+   "ar": "ستون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "setenta",
+   "ar": "سبعون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "ochenta",
+   "ar": "ثمانون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "noventa",
+   "ar": "تسعون",
+   "section": "الأرقام"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "mil",
+   "ar": "ألف",
+   "section": "الأرقام"
+  },
+  {
+   "level": 1,
+   "emoji": "🕐",
+   "es": "la hora",
+   "ar": "الساعة (الوقت)",
+   "section": "الساعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🕒",
+   "es": "Son las tres.",
+   "ar": "الساعة الثالثة.",
+   "section": "الساعة"
+  },
+  {
+   "level": 1,
+   "emoji": "⌚",
+   "es": "¿Qué hora es?",
+   "ar": "كم الساعة؟",
+   "section": "الساعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕞",
+   "es": "Son las tres y media.",
+   "ar": "الساعة الثالثة والنصف.",
+   "section": "الساعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕓",
+   "es": "Son las cuatro y cuarto.",
+   "ar": "الساعة الرابعة والربع.",
+   "section": "الساعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕖",
+   "es": "Son las siete menos cuarto.",
+   "ar": "الساعة السابعة إلا ربعا.",
+   "section": "الساعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕗",
+   "es": "a las ocho de la mañana",
+   "ar": "في الساعة الثامنة صباحا",
+   "section": "الساعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕛",
+   "es": "el mediodía",
+   "ar": "منتصف النهار",
+   "section": "الساعة"
+  },
+  {
+   "level": 2,
+   "emoji": "⏳",
+   "es": "media hora",
+   "ar": "نصف ساعة",
+   "section": "الساعة"
+  },
+  {
+   "level": 3,
+   "emoji": "⏰",
+   "es": "Entro a trabajar a las siete y salgo a las tres.",
+   "ar": "أبدأ العمل في السابعة وأخرج في الثالثة.",
+   "section": "الساعة"
+  },
+  {
+   "level": 3,
+   "emoji": "🕔",
+   "es": "La cita es a las cinco y diez.",
+   "ar": "الموعد في الساعة الخامسة وعشر دقائق.",
+   "section": "الساعة"
+  },
+  {
+   "level": 3,
+   "emoji": "⌛",
+   "es": "Has llegado con un cuarto de hora de retraso.",
+   "ar": "وصلت متأخرا ربع ساعة.",
+   "section": "الساعة"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el lunes",
+   "ar": "الاثنين",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el martes",
+   "ar": "الثلاثاء",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el miércoles",
+   "ar": "الأربعاء",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el jueves",
+   "ar": "الخميس",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el viernes",
+   "ar": "الجمعة",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el sábado",
+   "ar": "السبت",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "el domingo",
+   "ar": "الأحد",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "🗓️",
+   "es": "la semana",
+   "ar": "الأسبوع",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "el mes",
+   "ar": "الشهر",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "el año",
+   "ar": "السنة",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "🎂",
+   "es": "el cumpleaños",
+   "ar": "عيد الميلاد",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "🏖️",
+   "es": "el fin de semana",
+   "ar": "عطلة نهاية الأسبوع",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Hoy es lunes.",
+   "ar": "اليوم هو الاثنين.",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "¿Qué día es hoy?",
+   "ar": "ما هو اليوم؟",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 2,
+   "emoji": "📆",
+   "es": "Hoy es quince de marzo.",
+   "ar": "اليوم هو الخامس عشر من مارس.",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 3,
+   "emoji": "📆",
+   "es": "Los meses del año son enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre.",
+   "ar": "أشهر السنة هي: يناير، فبراير، مارس، أبريل، مايو، يونيو، يوليو، أغسطس، سبتمبر، أكتوبر، نوفمبر، ديسمبر.",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 3,
+   "emoji": "🎂",
+   "es": "Nací el doce de enero de mil novecientos noventa.",
+   "ar": "ولدت في الثاني عشر من يناير سنة ألف وتسعمئة وتسعين.",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "La cita es el martes que viene, a las diez.",
+   "ar": "الموعد يوم الثلاثاء القادم في الساعة العاشرة.",
+   "section": "الأيام والشهور"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el euro",
+   "ar": "اليورو",
+   "section": "المال"
+  },
+  {
+   "level": 1,
+   "emoji": "🪙",
+   "es": "el céntimo",
+   "ar": "السنت",
+   "section": "المال"
+  },
+  {
+   "level": 1,
+   "emoji": "🪙",
+   "es": "la moneda",
+   "ar": "القطعة النقدية",
+   "section": "المال"
+  },
+  {
+   "level": 1,
+   "emoji": "💳",
+   "es": "la tarjeta",
+   "ar": "البطاقة البنكية",
+   "section": "المال"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "cinco euros con cincuenta",
+   "ar": "خمسة يوروهات وخمسون سنتا",
+   "section": "المال"
+  },
+  {
+   "level": 2,
+   "emoji": "💵",
+   "es": "el billete de veinte euros",
+   "ar": "ورقة نقدية من عشرين يورو",
+   "section": "المال"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Pago en efectivo.",
+   "ar": "أدفع نقدا.",
+   "section": "المال"
+  },
+  {
+   "level": 2,
+   "emoji": "🪙",
+   "es": "Aquí tiene la vuelta.",
+   "ar": "تفضل الباقي.",
+   "section": "المال"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Son doce euros con noventa y cinco céntimos.",
+   "ar": "المبلغ اثنا عشر يورو وخمسة وتسعون سنتا.",
+   "section": "المال"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "¿Tiene cambio de cincuenta euros?",
+   "ar": "هل لديك صرف لخمسين يورو؟",
+   "section": "المال"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué número es \"siete\"?",
+   "options": [
+    "6",
+    "7",
+    "8"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو الرقم \"siete\"؟",
+   "ar_exp": "\"siete\" تعني سبعة (7)."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué número es \"quince\"?",
+   "options": [
+    "15",
+    "50",
+    "5"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو الرقم \"quince\"؟",
+   "ar_exp": "\"quince\" تعني خمسة عشر (15)."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"20\" en español?",
+   "options": [
+    "doce",
+    "dos",
+    "veinte"
+   ],
+   "answer": 2,
+   "ar_q": "كيف نقول \"20\" بالإسبانية؟",
+   "ar_exp": "\"veinte\" تعني عشرين."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué día es \"el viernes\"?",
+   "options": [
+    "الخميس",
+    "الجمعة",
+    "السبت"
+   ],
+   "answer": 1,
+   "ar_q": "أي يوم هو \"el viernes\"؟",
+   "ar_exp": "\"el viernes\" هو يوم الجمعة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué número es \"cien\"?",
+   "options": [
+    "100",
+    "1000",
+    "10"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو الرقم \"cien\"؟",
+   "ar_exp": "\"cien\" تعني مئة (100)، و\"mil\" تعني ألف."
+  },
+  {
+   "level": 2,
+   "q": "\"Son las tres y media.\" ¿Qué hora es?",
+   "options": [
+    "3:15",
+    "3:45",
+    "3:30"
+   ],
+   "answer": 2,
+   "ar_q": "\"Son las tres y media.\" كم الساعة؟",
+   "ar_exp": "\"y media\" تعني والنصف، فهي 3:30."
+  },
+  {
+   "level": 2,
+   "q": "\"Son las siete menos cuarto.\" ¿Qué hora es?",
+   "options": [
+    "6:45",
+    "7:15",
+    "7:45"
+   ],
+   "answer": 0,
+   "ar_q": "\"Son las siete menos cuarto.\" كم الساعة؟",
+   "ar_exp": "\"menos cuarto\" تعني إلا ربعا، فهي 6:45."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué número es \"cincuenta\"?",
+   "options": [
+    "15",
+    "50",
+    "5"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو الرقم \"cincuenta\"؟",
+   "ar_exp": "\"cincuenta\" تعني خمسين، و\"quince\" تعني خمسة عشر."
+  },
+  {
+   "level": 2,
+   "q": "\"Cinco euros con cincuenta.\" ¿Cuánto es?",
+   "options": [
+    "5,15 €",
+    "15,50 €",
+    "5,50 €"
+   ],
+   "answer": 2,
+   "ar_q": "\"Cinco euros con cincuenta.\" كم المبلغ؟",
+   "ar_exp": "خمسة يوروهات وخمسون سنتا = 5,50 €."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber la hora. ¿Qué preguntas?",
+   "options": [
+    "¿Qué hora es?",
+    "¿Qué día es hoy?",
+    "¿Cuánto cuesta?"
+   ],
+   "answer": 0,
+   "ar_q": "تريد أن تعرف الساعة. ماذا تسأل؟",
+   "ar_exp": "\"¿Qué hora es?\" تعني \"كم الساعة؟\"."
+  },
+  {
+   "level": 3,
+   "q": "\"La cita es el martes que viene.\" ¿Cuándo es la cita?",
+   "options": [
+    "الثلاثاء الماضي",
+    "الثلاثاء القادم",
+    "كل ثلاثاء"
+   ],
+   "answer": 1,
+   "ar_q": "\"La cita es el martes que viene.\" متى الموعد؟",
+   "ar_exp": "\"que viene\" تعني القادم."
+  },
+  {
+   "level": 3,
+   "q": "\"¿Tiene cambio de cincuenta euros?\" ¿Qué quieres?",
+   "options": [
+    "أن تدفع بالبطاقة",
+    "أن تعرف السعر",
+    "أن تصرف ورقة الخمسين يورو إلى نقود أصغر"
+   ],
+   "answer": 2,
+   "ar_q": "\"¿Tiene cambio de cincuenta euros?\" ماذا تريد؟",
+   "ar_exp": "\"cambio\" هنا تعني نقودا أصغر مقابل الورقة الكبيرة."
+  }
+ ]
+}

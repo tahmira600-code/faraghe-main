@@ -1,0 +1,1287 @@
+{
+ "topic_id": "hospital",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🏥",
+   "es": "el centro de salud",
+   "ar": "المركز الصحي",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🩺",
+   "es": "el médico de cabecera",
+   "ar": "طبيب الأسرة",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "💉",
+   "es": "la enfermera",
+   "ar": "الممرضة",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "la cita",
+   "ar": "الموعد",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🪑",
+   "es": "la sala de espera",
+   "ar": "قاعة الانتظار",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "la consulta",
+   "ar": "غرفة الطبيب (العيادة)",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🏥",
+   "es": "el hospital",
+   "ar": "المستشفى",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🏛️",
+   "es": "la Seguridad Social",
+   "ar": "الضمان الاجتماعي",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "👨",
+   "es": "el especialista",
+   "ar": "الطبيب المختص",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🦷",
+   "es": "el dentista",
+   "ar": "طبيب الأسنان",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "la baja médica",
+   "ar": "الإجازة المرضية",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 1,
+   "emoji": "🤕",
+   "es": "el dolor",
+   "ar": "الألم",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🤒",
+   "es": "la fiebre",
+   "ar": "الحمى",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🤧",
+   "es": "el resfriado",
+   "ar": "الزكام",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "😷",
+   "es": "la tos",
+   "ar": "السعال",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🤢",
+   "es": "las náuseas",
+   "ar": "الغثيان",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🤮",
+   "es": "los vómitos",
+   "ar": "القيء",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🚽",
+   "es": "la diarrea",
+   "ar": "الإسهال",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "😵",
+   "es": "el mareo",
+   "ar": "الدوخة",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🦠",
+   "es": "la gripe",
+   "ar": "الإنفلونزا",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🌼",
+   "es": "la alergia",
+   "ar": "الحساسية",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🥶",
+   "es": "los escalofríos",
+   "ar": "القشعريرة",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "la quemadura",
+   "ar": "الحرق",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "🩹",
+   "es": "la herida",
+   "ar": "الجرح",
+   "section": "الأعراض"
+  },
+  {
+   "level": 1,
+   "emoji": "👤",
+   "es": "la cabeza",
+   "ar": "الرأس",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "👀",
+   "es": "los ojos",
+   "ar": "العينان",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "👂",
+   "es": "el oído",
+   "ar": "الأذن",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "👃",
+   "es": "la nariz",
+   "ar": "الأنف",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "👄",
+   "es": "la boca",
+   "ar": "الفم",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🗣️",
+   "es": "la garganta",
+   "ar": "الحلق",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🧣",
+   "es": "el cuello",
+   "ar": "الرقبة",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "💪",
+   "es": "el brazo",
+   "ar": "الذراع",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "✋",
+   "es": "la mano",
+   "ar": "اليد",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🦵",
+   "es": "la pierna",
+   "ar": "الرِّجل",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🦶",
+   "es": "el pie",
+   "ar": "القدم",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🫀",
+   "es": "el corazón",
+   "ar": "القلب",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🫁",
+   "es": "los pulmones",
+   "ar": "الرئتان",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "el estómago",
+   "ar": "المعدة",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🧍",
+   "es": "la espalda",
+   "ar": "الظهر",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🦴",
+   "es": "el hueso",
+   "ar": "العظم",
+   "section": "أجزاء الجسم"
+  },
+  {
+   "level": 1,
+   "emoji": "🚑",
+   "es": "la ambulancia",
+   "ar": "سيارة الإسعاف",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "☎️",
+   "es": "el 112",
+   "ar": "رقم الطوارئ 112",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🆘",
+   "es": "¡Socorro!",
+   "ar": "النجدة!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "💥",
+   "es": "el accidente",
+   "ar": "الحادث",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🩼",
+   "es": "la fractura",
+   "ar": "الكسر",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🩸",
+   "es": "la sangre",
+   "ar": "الدم",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "💊",
+   "es": "la farmacia",
+   "ar": "الصيدلية",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "💊",
+   "es": "el medicamento",
+   "ar": "الدواء",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "⚪",
+   "es": "la pastilla",
+   "ar": "الحبة",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "el jarabe",
+   "ar": "الشراب (دواء سائل)",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "💉",
+   "es": "la inyección",
+   "ar": "الحقنة",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🧪",
+   "es": "el análisis de sangre",
+   "ar": "تحليل الدم",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🩻",
+   "es": "la radiografía",
+   "ar": "صورة الأشعة",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🌡️",
+   "es": "el termómetro",
+   "ar": "ميزان الحرارة",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 1,
+   "emoji": "🤰",
+   "es": "el embarazo",
+   "ar": "الحمل",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 1,
+   "emoji": "👶",
+   "es": "el pediatra",
+   "ar": "طبيب الأطفال",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Quiero pedir cita para hoy.",
+   "ar": "أريد أن أحجز موعدًا لليوم.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "🕙",
+   "es": "Tengo cita a las diez.",
+   "ar": "عندي موعد في الساعة العاشرة.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "🪪",
+   "es": "No tengo tarjeta sanitaria todavía.",
+   "ar": "ليست لديّ بطاقة صحية بعد.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "🕗",
+   "es": "¿A qué hora abre el centro de salud?",
+   "ar": "في أي ساعة يفتح المركز الصحي؟",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "🗣️",
+   "es": "Necesito un intérprete.",
+   "ar": "أحتاج إلى مترجم.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "🐢",
+   "es": "¿Puede hablar más despacio, por favor?",
+   "ar": "هل يمكنك أن تتكلم ببطء أكثر، من فضلك؟",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "Necesito un justificante para el trabajo.",
+   "ar": "أحتاج إلى شهادة حضور من أجل العمل.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 2,
+   "emoji": "🗣️",
+   "es": "Me duele la garganta.",
+   "ar": "حلقي يؤلمني.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🧍",
+   "es": "Me duele la espalda.",
+   "ar": "ظهري يؤلمني.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🦷",
+   "es": "Me duele mucho la muela.",
+   "ar": "ضرسي يؤلمني كثيرًا.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "😷",
+   "es": "Tengo tos desde hace tres días.",
+   "ar": "عندي سعال منذ ثلاثة أيام.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "😵",
+   "es": "Estoy mareado.",
+   "ar": "أشعر بالدوخة.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🤢",
+   "es": "Tengo ganas de vomitar.",
+   "ar": "أشعر بأنني سأتقيأ.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "No puedo dormir.",
+   "ar": "لا أستطيع النوم.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🔪",
+   "es": "Me he cortado el dedo.",
+   "ar": "جرحت إصبعي.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🪜",
+   "es": "Me he caído de la escalera.",
+   "ar": "سقطت من السلم.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🫁",
+   "es": "Me duele al respirar.",
+   "ar": "أشعر بألم عندما أتنفس.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🤒",
+   "es": "Me encuentro mal.",
+   "ar": "أشعر بتوعك.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🦶",
+   "es": "Tengo el tobillo hinchado.",
+   "ar": "كاحلي متورم.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "👂",
+   "es": "Me duele el oído.",
+   "ar": "أذني تؤلمني.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🩺",
+   "es": "Tengo la tensión alta.",
+   "ar": "عندي ضغط دم مرتفع.",
+   "section": "الأعراض"
+  },
+  {
+   "level": 2,
+   "emoji": "🚑",
+   "es": "¡Llame a una ambulancia!",
+   "ar": "اتصل بسيارة إسعاف!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "💥",
+   "es": "Ha habido un accidente.",
+   "ar": "وقع حادث.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🩸",
+   "es": "Está sangrando mucho.",
+   "ar": "إنه ينزف كثيرًا.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "😵",
+   "es": "Se ha desmayado.",
+   "ar": "لقد أُغمي عليه.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🏥",
+   "es": "Tengo que ir a urgencias.",
+   "ar": "يجب أن أذهب إلى قسم الطوارئ.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Llama al 112.",
+   "ar": "اتصل بالرقم 112.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "¿Necesito receta para este medicamento?",
+   "ar": "هل أحتاج إلى وصفة طبية لهذا الدواء؟",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🕐",
+   "es": "¿Cuántas veces al día tengo que tomarlo?",
+   "ar": "كم مرة في اليوم يجب أن آخذه؟",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "¿Tiene algo para el dolor de cabeza?",
+   "ar": "هل عندك شيء لألم الرأس؟",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🍽️",
+   "es": "Tómelo después de comer.",
+   "ar": "خذه بعد الأكل.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🌙",
+   "es": "¿Dónde hay una farmacia de guardia?",
+   "ar": "أين توجد صيدلية مناوبة؟",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "Estoy tomando otro medicamento.",
+   "ar": "أتناول دواءً آخر.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🌼",
+   "es": "Tengo alergia al polen.",
+   "ar": "عندي حساسية من حبوب اللقاح.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 2,
+   "emoji": "🤰",
+   "es": "Estoy embarazada.",
+   "ar": "أنا حامل.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 2,
+   "emoji": "🤒",
+   "es": "Mi hijo tiene fiebre.",
+   "ar": "ابني عنده حمى.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 2,
+   "emoji": "🥣",
+   "es": "Mi hija no quiere comer.",
+   "ar": "ابنتي لا تريد أن تأكل.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 2,
+   "emoji": "💉",
+   "es": "¿Cuándo le toca la próxima vacuna?",
+   "ar": "متى موعد اللقاح القادم؟",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 2,
+   "emoji": "😢",
+   "es": "El bebé llora mucho.",
+   "ar": "الرضيع يبكي كثيرًا.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 2,
+   "emoji": "🩺",
+   "es": "¿Qué le pasa?",
+   "ar": "ما بك؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "👉",
+   "es": "¿Dónde le duele?",
+   "ar": "أين يؤلمك؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "⏳",
+   "es": "¿Desde cuándo le duele?",
+   "ar": "منذ متى يؤلمك؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "🫁",
+   "es": "Respire hondo.",
+   "ar": "خذ نفسًا عميقًا.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "👄",
+   "es": "Abra la boca.",
+   "ar": "افتح فمك.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Túmbese en la camilla.",
+   "ar": "استلقِ على سرير الفحص.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "Quítese la camiseta.",
+   "ar": "اخلع قميصك.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "🌡️",
+   "es": "¿Ha tenido fiebre?",
+   "ar": "هل أصابتك الحمى؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "💊",
+   "es": "¿Es alérgico a algún medicamento?",
+   "ar": "هل عندك حساسية من أي دواء؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 2,
+   "emoji": "👍",
+   "es": "No es nada grave.",
+   "ar": "ليس شيئًا خطيرًا.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🔢",
+   "es": "Del uno al diez, ¿cuánto le duele?",
+   "ar": "من واحد إلى عشرة، ما درجة ألمك؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "¿El dolor es constante o va y viene?",
+   "ar": "هل الألم مستمر أم يأتي ويذهب؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "💊",
+   "es": "¿Toma alguna medicación de forma habitual?",
+   "ar": "هل تتناول أي دواء بشكل منتظم؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🏥",
+   "es": "¿Le han operado alguna vez?",
+   "ar": "هل أُجريت لك عملية جراحية من قبل؟",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🩺",
+   "es": "Le voy a tomar la tensión.",
+   "ar": "سأقيس ضغط دمك.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🧪",
+   "es": "Le voy a pedir unos análisis de sangre.",
+   "ar": "سأطلب لك بعض تحاليل الدم.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "⏰",
+   "es": "Para el análisis tiene que venir en ayunas.",
+   "ar": "للتحليل يجب أن تأتي صائمًا دون أكل.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🩻",
+   "es": "Le voy a hacer una radiografía del pecho.",
+   "ar": "سأجري لك صورة أشعة للصدر.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Le voy a derivar al especialista.",
+   "ar": "سأحيلك إلى الطبيب المختص.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Le doy la baja durante una semana.",
+   "ar": "أعطيك إجازة مرضية لمدة أسبوع.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🔙",
+   "es": "Vuelva si no mejora en tres días.",
+   "ar": "عد إذا لم تتحسن خلال ثلاثة أيام.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🛏️",
+   "es": "Tiene que guardar reposo unos días.",
+   "ar": "يجب أن تلزم الراحة بضعة أيام.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "💧",
+   "es": "Beba mucha agua y descanse.",
+   "ar": "اشرب الكثير من الماء وارتح.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "Los resultados tardarán unos días.",
+   "ar": "ستستغرق النتائج بضعة أيام.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🦠",
+   "es": "Tiene una infección y necesita antibiótico.",
+   "ar": "عندك عدوى وتحتاج إلى مضاد حيوي.",
+   "section": "كلام الطبيب"
+  },
+  {
+   "level": 3,
+   "emoji": "🕗",
+   "es": "Tome una pastilla cada ocho horas.",
+   "ar": "خذ حبة كل ثماني ساعات.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "No tome alcohol mientras siga este tratamiento.",
+   "ar": "لا تشرب الكحول ما دمت تتبع هذا العلاج.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "💊",
+   "es": "Termine el tratamiento aunque se encuentre mejor.",
+   "ar": "أكمل العلاج حتى لو شعرت بتحسن.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "Lea el prospecto antes de tomar el medicamento.",
+   "ar": "اقرأ النشرة الداخلية قبل تناول الدواء.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Este medicamento solo se vende con receta médica.",
+   "ar": "هذا الدواء لا يُباع إلا بوصفة طبية.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "Tiene la receta electrónica en su tarjeta sanitaria.",
+   "ar": "وصفتك الإلكترونية مسجلة في بطاقتك الصحية.",
+   "section": "الصيدلية والدواء"
+  },
+  {
+   "level": 3,
+   "emoji": "🚑",
+   "es": "Mantenga la calma y no mueva al herido.",
+   "ar": "حافظ على هدوئك ولا تحرك المصاب.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "🏥",
+   "es": "Le van a ingresar en el hospital.",
+   "ar": "سيُدخلونك إلى المستشفى.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "🚦",
+   "es": "En urgencias se atiende por orden de gravedad, no de llegada.",
+   "ar": "في الطوارئ يُعالج المرضى حسب خطورة الحالة، لا حسب ترتيب الوصول.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "✍️",
+   "es": "Tiene que firmar el consentimiento informado.",
+   "ar": "يجب أن توقّع على وثيقة الموافقة المستنيرة.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "📱",
+   "es": "Para pedir cita puede llamar por teléfono o usar la aplicación.",
+   "ar": "لحجز موعد يمكنك الاتصال بالهاتف أو استعمال التطبيق.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 3,
+   "emoji": "🩺",
+   "es": "Le han asignado un médico de cabecera en este centro.",
+   "ar": "عُيِّن لك طبيب أسرة في هذا المركز.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 3,
+   "emoji": "❌",
+   "es": "Si no puede venir, anule la cita.",
+   "ar": "إذا لم تستطع الحضور، فألغِ الموعد.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 3,
+   "emoji": "🖥️",
+   "es": "Le haremos una ecografía en el primer trimestre.",
+   "ar": "سنجري لك تصويرًا بالموجات فوق الصوتية في الأشهر الثلاثة الأولى.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 3,
+   "emoji": "📒",
+   "es": "Traiga la cartilla de vacunación del niño.",
+   "ar": "أحضر دفتر لقاحات الطفل.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "¿Cuándo fue su última regla?",
+   "ar": "متى كانت آخر دورة شهرية لديك؟",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 3,
+   "emoji": "💧",
+   "es": "Si rompe aguas, vaya al hospital.",
+   "ar": "إذا نزل ماء الولادة، فاذهبي إلى المستشفى.",
+   "section": "الحمل والأطفال"
+  },
+  {
+   "level": 3,
+   "emoji": "🦷",
+   "es": "Tiene una caries y hay que empastar la muela.",
+   "ar": "عندك تسوس ويجب حشو الضرس.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Con este volante puede pedir cita en el especialista.",
+   "ar": "بهذه الورقة يمكنك حجز موعد عند الطبيب المختص.",
+   "section": "في المركز الصحي"
+  },
+  {
+   "level": 3,
+   "emoji": "🤧",
+   "es": "¿Ha tenido contacto con alguien enfermo?",
+   "ar": "هل خالطت شخصًا مريضًا؟",
+   "section": "كلام الطبيب"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la fiebre»?",
+   "options": [
+    "الحمى",
+    "السعال",
+    "الدوخة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la fiebre»؟",
+   "ar_exp": "«la fiebre» تعني ارتفاع حرارة الجسم، أي الحمى."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la receta»?",
+   "options": [
+    "الموعد",
+    "الوصفة الطبية",
+    "الصيدلية"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la receta»؟",
+   "ar_exp": "«la receta» هي الوصفة الطبية التي يكتبها الطبيب."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es el número de emergencias en España?",
+   "options": [
+    "091",
+    "100",
+    "112"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو رقم الطوارئ في إسبانيا؟",
+   "ar_exp": "الرقم 112 هو رقم الطوارئ العام في إسبانيا وفي كل الاتحاد الأوروبي."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la espalda»?",
+   "options": [
+    "الصدر",
+    "الظهر",
+    "الرقبة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la espalda»؟",
+   "ar_exp": "«la espalda» تعني الظهر."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el médico de cabecera»?",
+   "options": [
+    "طبيب الأسرة",
+    "طبيب الأسنان",
+    "طبيب الأطفال"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el médico de cabecera»؟",
+   "ar_exp": "طبيب الأسرة هو الطبيب العام المخصص لك في المركز الصحي."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde compras medicamentos?",
+   "options": [
+    "En la sala de espera",
+    "En la consulta",
+    "En la farmacia"
+   ],
+   "answer": 2,
+   "ar_q": "أين تشتري الأدوية؟",
+   "ar_exp": "تُشترى الأدوية من الصيدلية (la farmacia)."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la tos»?",
+   "options": [
+    "الزكام",
+    "السعال",
+    "القيء"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la tos»؟",
+   "ar_exp": "«la tos» تعني السعال."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién es el médico de los niños?",
+   "options": [
+    "El pediatra",
+    "El dentista",
+    "La enfermera"
+   ],
+   "answer": 0,
+   "ar_q": "من هو طبيب الأطفال؟",
+   "ar_exp": "«el pediatra» هو الطبيب المختص بالأطفال."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la ambulancia»?",
+   "options": [
+    "الصيدلية",
+    "المستشفى",
+    "سيارة الإسعاف"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la ambulancia»؟",
+   "ar_exp": "«la ambulancia» هي سيارة الإسعاف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «las muelas»?",
+   "options": [
+    "الأضراس",
+    "العينان",
+    "الأذنان"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «las muelas»؟",
+   "ar_exp": "«las muelas» هي الأضراس."
+  },
+  {
+   "level": 2,
+   "q": "El médico dice: «Respire hondo». ¿Qué tienes que hacer?",
+   "options": [
+    "Abrir la boca",
+    "Tomar aire profundamente",
+    "Tumbarte en la camilla"
+   ],
+   "answer": 1,
+   "ar_q": "الطبيب يقول: «Respire hondo». ماذا يجب أن تفعل؟",
+   "ar_exp": "«Respire hondo» تعني خذ نفسًا عميقًا."
+  },
+  {
+   "level": 2,
+   "q": "El médico pregunta: «¿Desde cuándo le duele?». ¿Qué quiere saber?",
+   "options": [
+    "Dónde te duele",
+    "Cuánto tiempo hace que te duele",
+    "Si tomas medicamentos"
+   ],
+   "answer": 1,
+   "ar_q": "الطبيب يسأل: «¿Desde cuándo le duele?». ماذا يريد أن يعرف؟",
+   "ar_exp": "يريد أن يعرف منذ متى بدأ الألم."
+  },
+  {
+   "level": 2,
+   "q": "Te duele una muela. ¿A quién vas?",
+   "options": [
+    "Al dentista",
+    "Al pediatra",
+    "A la matrona"
+   ],
+   "answer": 0,
+   "ar_q": "يؤلمك ضرسك. إلى من تذهب؟",
+   "ar_exp": "ألم الأسنان يعالجه طبيب الأسنان (el dentista)."
+  },
+  {
+   "level": 2,
+   "q": "Quieres ver al médico. ¿Qué dices en el centro de salud?",
+   "options": [
+    "Quiero pedir cita.",
+    "Quiero comprar una pastilla.",
+    "Quiero una ambulancia."
+   ],
+   "answer": 0,
+   "ar_q": "تريد رؤية الطبيب. ماذا تقول في المركز الصحي؟",
+   "ar_exp": "لرؤية الطبيب يجب حجز موعد: «Quiero pedir cita»."
+  },
+  {
+   "level": 2,
+   "q": "Un compañero se ha desmayado y no responde. ¿Qué haces?",
+   "options": [
+    "Le doy un jarabe",
+    "Llamo al 112",
+    "Pido cita para mañana"
+   ],
+   "answer": 1,
+   "ar_q": "زميل لك أُغمي عليه ولا يستجيب. ماذا تفعل؟",
+   "ar_exp": "في حالة طارئة خطيرة يجب الاتصال فورًا بالرقم 112."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Estoy mareado»?",
+   "options": [
+    "أشعر بالدوخة",
+    "أشعر بالبرد",
+    "أنا جائع"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Estoy mareado»؟",
+   "ar_exp": "«Estoy mareado» تعني أشعر بالدوخة."
+  },
+  {
+   "level": 2,
+   "q": "El médico dice: «Túmbese en la camilla». ¿Qué haces?",
+   "options": [
+    "Me siento en la silla",
+    "Me acuesto en la camilla",
+    "Salgo de la consulta"
+   ],
+   "answer": 1,
+   "ar_q": "الطبيب يقول: «Túmbese en la camilla». ماذا تفعل؟",
+   "ar_exp": "«Túmbese» تعني استلقِ، أي تستلقي على سرير الفحص."
+  },
+  {
+   "level": 2,
+   "q": "Es domingo por la noche y necesitas un medicamento. ¿Dónde vas?",
+   "options": [
+    "A la farmacia de guardia",
+    "Al médico de cabecera",
+    "A la Seguridad Social"
+   ],
+   "answer": 0,
+   "ar_q": "إنه مساء الأحد وتحتاج إلى دواء. إلى أين تذهب؟",
+   "ar_exp": "صيدلية المناوبة (la farmacia de guardia) تبقى مفتوحة خارج الأوقات العادية."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Me he cortado el dedo»?",
+   "options": [
+    "كسرت يدي",
+    "جرحت إصبعي",
+    "حرقت إصبعي"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «Me he cortado el dedo»؟",
+   "ar_exp": "«Me he cortado el dedo» تعني جرحت إصبعي."
+  },
+  {
+   "level": 3,
+   "q": "El médico dice: «Tiene que venir en ayunas». ¿Qué significa?",
+   "options": [
+    "Venir sin comer nada antes",
+    "Venir con un familiar",
+    "Venir por la tarde"
+   ],
+   "answer": 0,
+   "ar_q": "الطبيب يقول: «Tiene que venir en ayunas». ماذا يعني؟",
+   "ar_exp": "«en ayunas» تعني دون أن تأكل شيئًا قبل الموعد، وهذا ضروري لبعض تحاليل الدم."
+  },
+  {
+   "level": 3,
+   "q": "El médico dice: «Le voy a derivar al especialista». ¿Qué significa?",
+   "options": [
+    "Te da el alta",
+    "Te envía a otro médico experto",
+    "Te pone una inyección"
+   ],
+   "answer": 1,
+   "ar_q": "الطبيب يقول: «Le voy a derivar al especialista». ماذا يعني؟",
+   "ar_exp": "يعني أنه سيحيلك إلى طبيب مختص."
+  },
+  {
+   "level": 3,
+   "q": "«Termine el tratamiento aunque se encuentre mejor». ¿Qué debes hacer?",
+   "options": [
+    "Dejar las pastillas cuando estés mejor",
+    "Tomar el doble",
+    "Tomar todas las pastillas hasta el final"
+   ],
+   "answer": 2,
+   "ar_q": "«Termine el tratamiento aunque se encuentre mejor». ماذا يجب أن تفعل؟",
+   "ar_exp": "يجب أن تكمل العلاج حتى النهاية حتى لو شعرت بتحسن."
+  },
+  {
+   "level": 3,
+   "q": "En urgencias, ¿quién pasa primero?",
+   "options": [
+    "El que llega primero",
+    "El paciente más grave",
+    "El paciente más joven"
+   ],
+   "answer": 1,
+   "ar_q": "في قسم الطوارئ، من يدخل أولًا؟",
+   "ar_exp": "في الطوارئ يُعالج المرضى حسب خطورة حالتهم، لا حسب ترتيب الوصول."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es «el prospecto»?",
+   "options": [
+    "El papel con información dentro de la caja del medicamento",
+    "La tarjeta sanitaria",
+    "El resultado del análisis"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو «el prospecto»؟",
+   "ar_exp": "«el prospecto» هو النشرة الموجودة داخل علبة الدواء وفيها طريقة الاستعمال."
+  },
+  {
+   "level": 3,
+   "q": "El médico dice: «Le doy la baja». ¿Qué significa?",
+   "options": [
+    "Puedes volver al trabajo hoy",
+    "Te da un permiso médico para no trabajar",
+    "Tienes que pagar la consulta"
+   ],
+   "answer": 1,
+   "ar_q": "الطبيب يقول: «Le doy la baja». ماذا يعني؟",
+   "ar_exp": "«la baja médica» هي إجازة مرضية تسمح لك بعدم العمل أثناء المرض."
+  }
+ ]
+}

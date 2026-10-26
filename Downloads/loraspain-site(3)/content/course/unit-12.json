@@ -1,0 +1,370 @@
+{
+  "unit": 12,
+  "level": 3,
+  "title_ar": "صيغة subjuntivo ومواقف من الحياة الحقيقية",
+  "title_es": "El subjuntivo y situaciones reales",
+  "emoji": "🤝",
+  "lessons": [
+    {
+      "id": "u12-l1",
+      "title_ar": "subjuntivo مع quiero que",
+      "title_es": "El presente de subjuntivo: quiero que",
+      "emoji": "💭",
+      "goal_ar": "ستتعلم في هذا الدرس تكوين المضارع في صيغة subjuntivo واستعماله بعد quiero que وnecesito que للتعبير عما تريده من شخص آخر.",
+      "explain": [
+        {
+          "h": "ما هو subjuntivo؟",
+          "p": "subjuntivo صيغة للفعل نستعملها للتعبير عن الرغبة أو الحاجة أو الطلب من شخص آخر. أنت تعرف أشكاله من قبل، لأن الأمر مع usted والنهي يستعملان الشكل نفسه: hable، no hables.",
+          "ex": [
+            ["Quiero que hables con el jefe.", "أريد أن تتكلم مع المدير."],
+            ["Necesito que me ayudes.", "أحتاج أن تساعدني."]
+          ]
+        },
+        {
+          "h": "التكوين",
+          "p": "أفعال -ar تأخذ e: hable، hables، hable، hablemos، habléis، hablen. أفعال -er و-ir تأخذ a: coma، comas، coma، comamos، comáis، coman.",
+          "ex": [
+            ["Mi madre quiere que yo coma bien.", "أمي تريد أن آكل جيدًا."],
+            ["Queremos que ustedes vivan cerca.", "نريد أن تعيشوا قريبًا."]
+          ]
+        },
+        {
+          "h": "مصدر أم que + subjuntivo؟",
+          "p": "إذا كان الشخص نفسه، نستعمل المصدر: Quiero trabajar. إذا كان شخصًا آخر، نستعمل que + subjuntivo: Quiero que tú trabajes.",
+          "ex": [
+            ["Quiero trabajar.", "أريد أن أعمل."],
+            ["Quiero que tú trabajes.", "أريد أن تعمل أنت."],
+            ["El jefe quiere que lleguemos a las siete.", "المدير يريد أن نصل في الساعة السابعة."]
+          ]
+        },
+        {
+          "h": "الأفعال الشاذة",
+          "p": "نبدأ من صيغة yo في المضارع: tengo ← tenga، hago ← haga، vengo ← venga، digo ← diga، pongo ← ponga، salgo ← salga. وأفعال أخرى: ser ← sea، ir ← vaya، estar ← esté، dar ← dé، saber ← sepa، haber ← haya.",
+          "ex": [
+            ["Quiero que vengas a mi casa.", "أريد أن تأتي إلى بيتي."],
+            ["Necesito que me digas la verdad.", "أحتاج أن تقول لي الحقيقة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "quiero que", "ar": "أريد أن (شخص آخر)", "e": "💭" },
+        { "es": "necesito que", "ar": "أحتاج أن", "e": "📌" },
+        { "es": "prefiero que", "ar": "أفضّل أن", "e": "⚖️" },
+        { "es": "te pido que", "ar": "أطلب منك أن", "e": "🙏" },
+        { "es": "que vengas", "ar": "أن تأتي", "e": "🏃" },
+        { "es": "que hagas", "ar": "أن تفعل", "e": "🛠️" },
+        { "es": "que tengas", "ar": "أن يكون عندك", "e": "🤲" },
+        { "es": "que vayas", "ar": "أن تذهب", "e": "🚶" },
+        { "es": "que sea", "ar": "أن يكون", "e": "✨" },
+        { "es": "que estés", "ar": "أن تكون (في مكان أو حالة)", "e": "📍" },
+        { "es": "el pedido", "ar": "الطلبية", "e": "📦" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Karima, mañana quiero que vengas a las siete, no a las ocho.", "ar": "يا كريمة، غدًا أريد أن تأتي في الساعة السابعة، وليس في الثامنة." },
+        { "who": "B", "es": "¿Por qué? ¿Pasa algo?", "ar": "لماذا؟ هل هناك شيء؟" },
+        { "who": "A", "es": "Llega un pedido grande y necesito que lo prepares antes de las nueve.", "ar": "تصل طلبية كبيرة وأحتاج أن تحضّريها قبل الساعة التاسعة." },
+        { "who": "B", "es": "Vale. ¿Quieres que llame también a Fátima?", "ar": "حسنًا. هل تريد أن أتصل أيضًا بفاطمة؟" },
+        { "who": "A", "es": "Sí, prefiero que estéis las dos. Y dile que traiga el chaleco.", "ar": "نعم، أفضّل أن تكونا أنتما الاثنتين. وقولي لها أن تُحضر السترة." },
+        { "who": "B", "es": "De acuerdo, se lo digo esta tarde.", "ar": "موافقة، سأقول لها ذلك هذا المساء." }
+      ],
+      "quiz": [
+        { "q": "Quiero que tú ___ con el jefe.", "o": ["hablas", "hables", "hablar"], "a": 1, "why": "بعد quiero que وشخص آخر نستعمل subjuntivo: hables." },
+        { "q": "Yo quiero ___ en una fábrica. (أنا نفسي)", "o": ["trabaje", "que trabajo", "trabajar"], "a": 2, "why": "إذا كان الشخص نفسه نستعمل المصدر: Quiero trabajar." },
+        { "q": "صيغة tú من الفعل venir في subjuntivo:", "o": ["vengas", "vienes", "venas"], "a": 0, "why": "نبدأ من vengo: vengas." },
+        { "q": "El médico quiere que nosotros ___ más agua. (beber)", "o": ["bebemos", "bebamos", "bebimos"], "a": 1, "why": "أفعال -er تأخذ a في subjuntivo: bebamos." },
+        { "q": "ما معنى «Necesito que me digas la verdad»؟", "o": ["أحتاج أن تقول لي الحقيقة.", "قلتَ لي الحقيقة.", "أحتاج أن أقول لك الحقيقة."], "a": 0, "why": "digas من decir مع tú، وme = لي." }
+      ]
+    },
+    {
+      "id": "u12-l2",
+      "title_ar": "es importante que والأمنيات",
+      "title_es": "Es importante que, espero que, ojalá",
+      "emoji": "🍀",
+      "goal_ar": "ستتعلم في هذا الدرس استعمال subjuntivo بعد es importante que وespero que وojalá وpara que، وعبارات التمنّي اليومية.",
+      "explain": [
+        {
+          "h": "es importante que / es necesario que",
+          "p": "إذا كان الكلام عامًا، نستعمل المصدر: Es importante llegar puntual. إذا كان عن شخص محدد، نستعمل que + subjuntivo: Es importante que llegues puntual. ومثلها es necesario que وes mejor que.",
+          "ex": [
+            ["Es importante llegar puntual.", "من المهم الوصول في الموعد."],
+            ["Es importante que llegues puntual.", "من المهم أن تصل في الموعد."],
+            ["Es necesario que traiga su pasaporte.", "من الضروري أن تُحضر جواز سفرك."]
+          ]
+        },
+        {
+          "h": "التمنّي: espero que وojalá",
+          "p": "بعد espero que (أتمنى أن) وojalá (يا ليت / إن شاء الله يحدث) نستعمل subjuntivo.",
+          "ex": [
+            ["Espero que te vaya bien.", "أتمنى أن تكون أمورك بخير."],
+            ["Ojalá encuentre trabajo pronto.", "يا ليتني أجد عملًا قريبًا."]
+          ]
+        },
+        {
+          "h": "para que",
+          "p": "para + مصدر للهدف عندما يكون الشخص نفسه. para que + subjuntivo عندما يكون شخصًا آخر.",
+          "ex": [
+            ["Te lo explico para que lo entiendas.", "أشرحه لك لكي تفهمه."],
+            ["Habla despacio para que te entiendan.", "تكلم ببطء لكي يفهموك."]
+          ]
+        },
+        {
+          "h": "عبارات يومية",
+          "p": "عبارات شائعة جدًا تبدأ بـ que + subjuntivo: ¡Que te mejores! (للمريض)، ¡Que aproveche! (قبل الأكل)، ¡Que tengas suerte!، ¡Que lo pases bien!",
+          "ex": [
+            ["¡Que te mejores pronto!", "أتمنى لك الشفاء العاجل!"],
+            ["¡Que lo pases bien en la boda!", "أتمنى لك وقتًا ممتعًا في العرس!"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "es importante que", "ar": "من المهم أن", "e": "❗" },
+        { "es": "es necesario que", "ar": "من الضروري أن", "e": "📋" },
+        { "es": "es mejor que", "ar": "من الأفضل أن", "e": "👍" },
+        { "es": "espero que", "ar": "أتمنى أن", "e": "🤞" },
+        { "es": "ojalá", "ar": "يا ليت", "e": "🌠" },
+        { "es": "para que", "ar": "لكي", "e": "🎯" },
+        { "es": "¡que te mejores!", "ar": "أتمنى لك الشفاء!", "e": "🤒" },
+        { "es": "¡que aproveche!", "ar": "بالهناء والشفاء!", "e": "🍽️" },
+        { "es": "¡que tengas suerte!", "ar": "حظًا سعيدًا!", "e": "🍀" },
+        { "es": "¡que lo pases bien!", "ar": "أتمنى لك وقتًا ممتعًا!", "e": "🎉" },
+        { "es": "puntual", "ar": "في الموعد / دقيق في المواعيد", "e": "⏰" },
+        { "es": "nervioso", "ar": "متوتر", "e": "😬" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Mañana tengo una entrevista de trabajo y estoy nervioso.", "ar": "غدًا عندي مقابلة عمل وأنا متوتر." },
+        { "who": "B", "es": "Es normal. Es importante que llegues un poco antes.", "ar": "هذا طبيعي. من المهم أن تصل قبل الموعد بقليل." },
+        { "who": "A", "es": "Sí, y es mejor que lleve el currículum impreso, ¿verdad?", "ar": "نعم، ومن الأفضل أن آخذ السيرة الذاتية مطبوعة، أليس كذلك؟" },
+        { "who": "B", "es": "Claro. Y habla despacio para que te entiendan bien.", "ar": "طبعًا. وتكلم ببطء لكي يفهموك جيدًا." },
+        { "who": "A", "es": "Gracias. ¡Ojalá me den el puesto!", "ar": "شكرًا. يا ليتهم يعطونني الوظيفة!" },
+        { "who": "B", "es": "Seguro que sí. ¡Que tengas mucha suerte!", "ar": "بالتأكيد. حظًا سعيدًا جدًا!" }
+      ],
+      "quiz": [
+        { "q": "Es importante que tú ___ puntual.", "o": ["eres", "seas", "ser"], "a": 1, "why": "بعد es importante que وشخص محدد نستعمل subjuntivo: seas." },
+        { "q": "Ojalá ___ trabajo pronto. (yo, encontrar)", "o": ["encuentre", "encuentro", "encontré"], "a": 0, "why": "بعد ojalá نستعمل subjuntivo: encuentre." },
+        { "q": "ماذا تقول لشخص مريض؟", "o": ["¡Que aproveche!", "¡Que lo pases bien!", "¡Que te mejores!"], "a": 2, "why": "¡Que te mejores! = أتمنى لك الشفاء." },
+        { "q": "Es importante ___ los documentos. (كلام عام بدون شخص محدد)", "o": ["que traigas", "traer", "traiga"], "a": 1, "why": "إذا كان الكلام عامًا نستعمل المصدر: Es importante traer." },
+        { "q": "Te lo explico para que lo ___.", "o": ["entiendas", "entiendes", "entender"], "a": 0, "why": "بعد para que نستعمل subjuntivo: entiendas." }
+      ]
+    },
+    {
+      "id": "u12-l3",
+      "title_ar": "استئجار شقة",
+      "title_es": "Alquilar un piso",
+      "emoji": "🔑",
+      "goal_ar": "ستتعلم في هذا الدرس فهم إعلانات الإيجار وطرح الأسئلة المهمة على المؤجِّر عند استئجار شقة.",
+      "explain": [
+        {
+          "h": "فهم الإعلان",
+          "p": "في إعلانات الإيجار نقرأ عبارات مثل: Se alquila (للإيجار)، amueblado (مفروش)، gastos incluidos (المصاريف مشمولة)، fianza de un mes (ضمان شهر واحد).",
+          "ex": [
+            ["Se alquila piso de dos habitaciones, amueblado.", "شقة من غرفتين للإيجار، مفروشة."],
+            ["El alquiler son 650 euros, gastos no incluidos.", "الإيجار 650 يورو، المصاريف غير مشمولة."]
+          ]
+        },
+        {
+          "h": "أسئلة مهمة",
+          "p": "قبل أن توقّع، اسأل عن السعر والضمان والمصاريف وإمكانية التسجيل في السجل البلدي (empadronarse)، لأنك تحتاجه لأوراق كثيرة.",
+          "ex": [
+            ["¿Cuánto es la fianza?", "كم مبلغ الضمان؟"],
+            ["¿Los gastos están incluidos?", "هل المصاريف مشمولة؟"],
+            ["¿Puedo empadronarme en el piso?", "هل يمكنني التسجيل في السجل البلدي بعنوان الشقة؟"]
+          ]
+        },
+        {
+          "h": "الشرطي وsubjuntivo في الإيجار",
+          "p": "استعمل الشرطي لتطلب بأدب، وستسمع subjuntivo عندما يطلب المؤجِّر شيئًا منك.",
+          "ex": [
+            ["Me gustaría ver el piso.", "أودّ أن أرى الشقة."],
+            ["El casero quiere que firmemos un contrato de un año.", "المؤجِّر يريد أن نوقّع عقدًا لمدة سنة."]
+          ]
+        },
+        {
+          "h": "احمِ نفسك",
+          "p": "اطلب دائمًا عقدًا مكتوبًا وإيصالًا بكل مبلغ تدفعه، خاصة الضمان.",
+          "ex": [
+            ["¿Me puede dar un recibo, por favor?", "هل يمكنك أن تعطيني إيصالًا من فضلك؟"],
+            ["Prefiero que lo pongamos por escrito.", "أفضّل أن نكتبه في ورقة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el piso", "ar": "الشقة", "e": "🏢" },
+        { "es": "el alquiler", "ar": "الإيجار", "e": "💶" },
+        { "es": "el casero", "ar": "المؤجِّر (صاحب الشقة)", "e": "🔑" },
+        { "es": "la fianza", "ar": "مبلغ الضمان", "e": "💰" },
+        { "es": "los gastos", "ar": "المصاريف (الماء والكهرباء...)", "e": "💡" },
+        { "es": "amueblado", "ar": "مفروش", "e": "🛋️" },
+        { "es": "la habitación", "ar": "الغرفة", "e": "🛏️" },
+        { "es": "el contrato", "ar": "العقد", "e": "📄" },
+        { "es": "la nómina", "ar": "كشف الراتب", "e": "🧾" },
+        { "es": "empadronarse", "ar": "يسجّل في السجل البلدي", "e": "🏛️" },
+        { "es": "el recibo", "ar": "الإيصال", "e": "📃" },
+        { "es": "compartir piso", "ar": "يتقاسم شقة", "e": "👥" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, buenas tardes. Llamo por el anuncio del piso de la calle Mayor. ¿Sigue disponible?", "ar": "مرحبا، مساء الخير. أتصل بخصوص إعلان الشقة في شارع مايور. هل ما زالت متاحة؟" },
+        { "who": "B", "es": "Sí, todavía está libre. Tiene dos habitaciones y está amueblado.", "ar": "نعم، ما زالت فارغة. فيها غرفتان وهي مفروشة." },
+        { "who": "A", "es": "¿Cuánto es el alquiler?", "ar": "كم الإيجار؟" },
+        { "who": "B", "es": "Seiscientos euros al mes, más gastos. La fianza es de un mes.", "ar": "ستمئة يورو في الشهر، بالإضافة إلى المصاريف. والضمان إيجار شهر واحد." },
+        { "who": "A", "es": "¿Podría empadronarme en el piso?", "ar": "هل يمكنني التسجيل في السجل البلدي بعنوان الشقة؟" },
+        { "who": "B", "es": "Sí, claro. Pero quiero que me presente una nómina y su contrato de trabajo.", "ar": "نعم، طبعًا. لكن أريد أن تقدّم لي كشف راتب وعقد عملك." },
+        { "who": "A", "es": "No hay problema. ¿Cuándo podría verlo?", "ar": "لا مشكلة. متى يمكنني أن أراها؟" },
+        { "who": "B", "es": "Mañana a las seis, si le viene bien.", "ar": "غدًا في الساعة السادسة، إذا كان ذلك مناسبًا لك." }
+      ],
+      "quiz": [
+        { "q": "ما معنى «la fianza»؟", "o": ["الفاتورة", "مبلغ الضمان", "المؤجِّر"], "a": 1, "why": "la fianza هي المبلغ الذي تدفعه ضمانًا ويُرجع لك في نهاية العقد إذا لم تكن هناك أضرار." },
+        { "q": "«Gastos incluidos» تعني:", "o": ["يجب دفع ثلاثة أشهر مقدمًا.", "المصاريف غير مشمولة.", "المصاريف مشمولة في سعر الإيجار."], "a": 2, "why": "incluidos = مشمولة." },
+        { "q": "El casero quiere que yo ___ una nómina.", "o": ["presente", "presento", "presentar"], "a": 0, "why": "بعد quiere que وشخص آخر نستعمل subjuntivo: presente." },
+        { "q": "أي سؤال مهذب لطلب رؤية الشقة؟", "o": ["¿Me gustaría ver el piso?", "¿Podría ver el piso mañana?", "¿Puede veo el piso?"], "a": 1, "why": "¿Podría + مصدر؟ طريقة مهذبة وصحيحة للطلب." },
+        { "q": "«Se alquila piso amueblado» تعني:", "o": ["شقة مفروشة للإيجار.", "شقة غير مفروشة للبيع.", "شقة مفروشة للبيع."], "a": 0, "why": "se alquila = للإيجار، وamueblado = مفروش." }
+      ]
+    },
+    {
+      "id": "u12-l4",
+      "title_ar": "مقابلة العمل",
+      "title_es": "La entrevista de trabajo",
+      "emoji": "💼",
+      "goal_ar": "ستتعلم في هذا الدرس الحديث عن خبرتك ونقاط قوتك وطرح الأسئلة المناسبة في مقابلة عمل.",
+      "explain": [
+        {
+          "h": "الحديث عن خبرتك",
+          "p": "استعمل الماضي البسيط لما فعلته في مدة محددة، والماضي الناقص لوصف مهامك المعتادة: Trabajé tres años... / Me encargaba de...",
+          "ex": [
+            ["Trabajé tres años como camarero.", "عملتُ ثلاث سنوات نادلًا."],
+            ["En mi último trabajo me encargaba de los pedidos.", "في عملي الأخير كنتُ مسؤولًا عن الطلبيات."],
+            ["Tengo experiencia en la construcción.", "عندي خبرة في البناء."]
+          ]
+        },
+        {
+          "h": "الاستعداد والتفضيلات",
+          "p": "سيسألونك عن وقتك: هل تستطيع العمل بالتناوب (por turnos)، أو في عطلة نهاية الأسبوع، أو بدوام كامل.",
+          "ex": [
+            ["Tengo disponibilidad inmediata.", "أستطيع البدء فورًا."],
+            ["Puedo trabajar por turnos y los fines de semana.", "أستطيع العمل بالتناوب وفي عطل نهاية الأسبوع."],
+            ["Me gustaría trabajar a jornada completa.", "أودّ أن أعمل بدوام كامل."]
+          ]
+        },
+        {
+          "h": "نقاط قوتك",
+          "p": "تكلّم عن صفاتك بجمل قصيرة وواضحة.",
+          "ex": [
+            ["Soy responsable y puntual.", "أنا مسؤول ودقيق في المواعيد."],
+            ["Aprendo rápido y me gusta trabajar en equipo.", "أتعلم بسرعة ويعجبني العمل ضمن فريق."]
+          ]
+        },
+        {
+          "h": "أسئلتك في النهاية",
+          "p": "في نهاية المقابلة من الجيد أن تسأل بأدب باستخدام الشرطي.",
+          "ex": [
+            ["¿Cuál sería el horario?", "ما سيكون مواعيد العمل؟"],
+            ["¿Qué tipo de contrato sería?", "ما نوع العقد الذي سيكون؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "la entrevista", "ar": "المقابلة", "e": "🤝" },
+        { "es": "el currículum", "ar": "السيرة الذاتية", "e": "📄" },
+        { "es": "la experiencia", "ar": "الخبرة", "e": "🧰" },
+        { "es": "la disponibilidad", "ar": "الاستعداد (الوقت المتاح)", "e": "📅" },
+        { "es": "el turno", "ar": "النوبة (فترة العمل)", "e": "🔄" },
+        { "es": "la jornada completa", "ar": "الدوام الكامل", "e": "⏰" },
+        { "es": "media jornada", "ar": "نصف الدوام", "e": "🕐" },
+        { "es": "el sueldo", "ar": "الراتب", "e": "💶" },
+        { "es": "el contrato indefinido", "ar": "العقد الدائم", "e": "📃" },
+        { "es": "el contrato temporal", "ar": "العقد المؤقت", "e": "⏳" },
+        { "es": "trabajar en equipo", "ar": "العمل ضمن فريق", "e": "👥" },
+        { "es": "responsable", "ar": "مسؤول (جادّ)", "e": "✅" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. Siéntese, por favor. Cuénteme un poco sobre su experiencia.", "ar": "صباح الخير. اجلس من فضلك. حدّثني قليلًا عن خبرتك." },
+        { "who": "B", "es": "Buenos días. Trabajé cuatro años en un almacén de fruta en Huelva. Me encargaba de preparar los pedidos.", "ar": "صباح الخير. عملتُ أربع سنوات في مستودع فاكهة في ولبة. كنتُ مسؤولًا عن تحضير الطلبيات." },
+        { "who": "A", "es": "¿Por qué dejó ese trabajo?", "ar": "لماذا تركتَ ذلك العمل؟" },
+        { "who": "B", "es": "Porque tenía un contrato temporal y terminó la campaña.", "ar": "لأنه كان عندي عقد مؤقت وانتهى الموسم." },
+        { "who": "A", "es": "Aquí necesitamos a alguien para el turno de noche. ¿Tendría disponibilidad?", "ar": "هنا نحتاج شخصًا لنوبة الليل. هل أنت مستعد؟" },
+        { "who": "B", "es": "Sí, tengo disponibilidad inmediata. ¿Qué tipo de contrato sería?", "ar": "نعم، أستطيع البدء فورًا. ما نوع العقد الذي سيكون؟" },
+        { "who": "A", "es": "Al principio, un contrato de seis meses. Es importante que tenga el carné de carretillero.", "ar": "في البداية، عقد لستة أشهر. من المهم أن تكون عندك رخصة قيادة الرافعة الشوكية." },
+        { "who": "B", "es": "Lo tengo. Lo saqué el año pasado.", "ar": "عندي. حصلتُ عليها في السنة الماضية." }
+      ],
+      "quiz": [
+        { "q": "En mi último trabajo, yo me ___ de preparar pedidos. (مهمة معتادة في الماضي)", "o": ["encargaba", "encargo", "encargaré"], "a": 0, "why": "لوصف مهمة معتادة في الماضي نستعمل الماضي الناقص: me encargaba." },
+        { "q": "ما معنى «disponibilidad inmediata»؟", "o": ["أعمل نصف دوام.", "أستطيع البدء فورًا.", "أبحث عن عمل مؤقت."], "a": 1, "why": "inmediata = فورية، أي تستطيع البدء في العمل مباشرة." },
+        { "q": "أي سؤال مهذب وصحيح عن مواعيد العمل؟", "o": ["¿Cuál será horario yo?", "¿Qué horario tuvo?", "¿Cuál sería el horario?"], "a": 2, "why": "¿Cuál sería el horario? سؤال مهذب بالشرطي." },
+        { "q": "ما عكس «la jornada completa»؟", "o": ["media jornada", "el turno de noche", "el sueldo"], "a": 0, "why": "media jornada = نصف الدوام، عكس الدوام الكامل." },
+        { "q": "___ cuatro años en un almacén. (عمل انتهى في الماضي)", "o": ["Trabaje", "Trabajé", "Trabajaré"], "a": 1, "why": "لعمل انتهى في مدة محددة نستعمل الماضي البسيط: Trabajé." }
+      ]
+    },
+    {
+      "id": "u12-l5",
+      "title_ar": "في البنك وتقديم شكوى",
+      "title_es": "En el banco y poner una reclamación",
+      "emoji": "🏦",
+      "goal_ar": "ستتعلم في هذا الدرس التعامل مع البنك، وشرح مشكلة في محل، وتقديم شكوى رسمية وطلب حل.",
+      "explain": [
+        {
+          "h": "في البنك",
+          "p": "عبارات مفيدة: abrir una cuenta (فتح حساب)، hacer una transferencia (تحويل مالي)، sacar dinero del cajero (سحب المال من الصراف). لطلب شيء بأدب نقول Quería... (الماضي الناقص هنا للأدب، وليس للماضي).",
+          "ex": [
+            ["Quería abrir una cuenta, por favor.", "أريد أن أفتح حسابًا من فضلك."],
+            ["¿Cobran alguna comisión?", "هل تأخذون أي عمولة؟"],
+            ["Quería hacer una transferencia a este número de cuenta.", "أريد أن أقوم بتحويل إلى رقم الحساب هذا."]
+          ]
+        },
+        {
+          "h": "شرح المشكلة",
+          "p": "اشرح ما حدث بالماضي البسيط، وصِف الحالة بالماضي الناقص أو المضارع.",
+          "ex": [
+            ["Compré esta lavadora hace una semana y no funciona.", "اشتريتُ هذه الغسالة قبل أسبوع ولا تعمل."],
+            ["Me cobraron dos veces.", "أخذوا مني المبلغ مرتين."]
+          ]
+        },
+        {
+          "h": "الشكوى الرسمية",
+          "p": "في إسبانيا يجب أن تكون عند المحلات والشركات استمارة الشكاوى الرسمية (hoja de reclamaciones). يمكنك أن تطلبها إذا لم يحلّوا مشكلتك.",
+          "ex": [
+            ["Quiero poner una reclamación.", "أريد أن أقدّم شكوى."],
+            ["¿Me da la hoja de reclamaciones, por favor?", "هل تعطيني استمارة الشكاوى من فضلك؟"]
+          ]
+        },
+        {
+          "h": "طلب حل (subjuntivo)",
+          "p": "لتطلب ما تريده من الشركة أو المحل، استعمل quiero que وespero que + subjuntivo.",
+          "ex": [
+            ["Quiero que me devuelvan el dinero.", "أريد أن يُرجعوا لي المال."],
+            ["Espero que lo solucionen pronto.", "أتمنى أن يحلّوها قريبًا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el banco", "ar": "البنك", "e": "🏦" },
+        { "es": "la cuenta", "ar": "الحساب (البنكي)", "e": "📒" },
+        { "es": "la tarjeta", "ar": "البطاقة", "e": "💳" },
+        { "es": "el cajero automático", "ar": "الصراف الآلي", "e": "🏧" },
+        { "es": "la transferencia", "ar": "التحويل المالي", "e": "💸" },
+        { "es": "la comisión", "ar": "العمولة", "e": "💲" },
+        { "es": "la reclamación", "ar": "الشكوى", "e": "📝" },
+        { "es": "la hoja de reclamaciones", "ar": "استمارة الشكاوى", "e": "📋" },
+        { "es": "el ticket", "ar": "إيصال الشراء", "e": "🧾" },
+        { "es": "la garantía", "ar": "الضمان (للمنتج)", "e": "🛡️" },
+        { "es": "devolver el dinero", "ar": "يُرجع المال", "e": "💰" },
+        { "es": "no funciona", "ar": "لا يعمل", "e": "❌" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenas tardes. ¿En qué puedo ayudarle?", "ar": "مساء الخير. كيف يمكنني مساعدتك؟" },
+        { "who": "B", "es": "Hola. Compré este móvil aquí hace diez días y ya no funciona. Aquí tiene el ticket.", "ar": "مرحبا. اشتريتُ هذا الهاتف من هنا قبل عشرة أيام ولم يعد يعمل. تفضّل إيصال الشراء." },
+        { "who": "A", "es": "Vamos a ver... Sí, está en garantía. Podemos enviarlo al servicio técnico.", "ar": "دعنا نرى... نعم، هو في فترة الضمان. يمكننا إرساله إلى خدمة الصيانة." },
+        { "who": "B", "es": "Prefiero que me lo cambien por otro nuevo o que me devuelvan el dinero.", "ar": "أفضّل أن تبدلوه لي بهاتف جديد أو أن تُرجعوا لي المال." },
+        { "who": "A", "es": "Lo siento, eso no es posible. Tiene que ir al servicio técnico.", "ar": "آسف، هذا غير ممكن. يجب أن يذهب إلى خدمة الصيانة." },
+        { "who": "B", "es": "Entonces quiero poner una reclamación. ¿Me da la hoja de reclamaciones, por favor?", "ar": "إذن أريد أن أقدّم شكوى. هل تعطيني استمارة الشكاوى من فضلك؟" },
+        { "who": "A", "es": "Sí, claro. Aquí la tiene. Rellénela y le damos una copia.", "ar": "نعم، طبعًا. تفضّل. املأها وسنعطيك نسخة." },
+        { "who": "B", "es": "Gracias. Espero que lo solucionen pronto.", "ar": "شكرًا. أتمنى أن تحلّوا المشكلة قريبًا." }
+      ],
+      "quiz": [
+        { "q": "في البنك، كيف تطلب فتح حساب بأدب؟", "o": ["Abro una cuenta.", "Quería abrir una cuenta, por favor.", "Abrí una cuenta, por favor."], "a": 1, "why": "Quería + مصدر طريقة مهذبة للطلب في البنك والمحلات." },
+        { "q": "ما معنى «el cajero automático»؟", "o": ["الصراف الآلي", "موظف البنك", "العمولة"], "a": 0, "why": "el cajero automático هو الآلة التي نسحب منها المال." },
+        { "q": "Quiero que me ___ el dinero.", "o": ["devolver", "devuelven", "devuelvan"], "a": 2, "why": "بعد quiero que وشخص آخر نستعمل subjuntivo: devuelvan." },
+        { "q": "ماذا تطلب في المحل لتقديم شكوى رسمية؟", "o": ["la hoja de reclamaciones", "el cajero", "la transferencia"], "a": 0, "why": "la hoja de reclamaciones هي استمارة الشكاوى الرسمية." },
+        { "q": "ما معنى «¿Cobran alguna comisión?»؟", "o": ["هل تدفعون فائدة؟", "هل تأخذون أي عمولة؟", "هل عندكم صراف آلي؟"], "a": 1, "why": "cobrar = يأخذ مالًا (يتقاضى)، وla comisión = العمولة." }
+      ]
+    }
+  ]
+}

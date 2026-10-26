@@ -1,0 +1,2059 @@
+{
+ "topic_id": "dgt",
+ "title_es": "Permiso de conducir B – normas oficiales DGT",
+ "title_ar": "رخصة السياقة B – القواعد الرسمية لـ DGT",
+ "updated": "2026-10-20",
+ "note": "La DGT no publica su banco de preguntas. Preguntas elaboradas a partir de la normativa vigente (incluida la reforma del RGC por RD 518/2026, en vigor desde 1-10-2026) y de las páginas oficiales de dgt.es; cada pregunta cita su artículo o fuente en 'ref'.",
+ "source": [
+  "https://www.dgt.es/comunicacion/notas-de-prensa/20260930-reforma-del-reglamento-de-circulacion-usuarios-vulnerables/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/consejos-extranjeros/normas-basicas-de-circulacion/",
+  "https://www.dgt.es/nuestros-servicios/multas-y-sanciones/conoce-los-tipos-de-infracciones-y-sanciones/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/consumo-de-alcohol/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-sin-cinturon-de-seguridad/",
+  "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/distracciones-al-conducir/",
+  "https://www.dgt.es/muevete-con-seguridad/tecnologia-e-innovacion-en-carretera/Dispositivos-de-presenalizacion-V16/",
+  "https://www.dgt.es/muevete-con-seguridad/que-hacer-ante-un-accidente-de-trafico/",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/comunicacion_noticias_20241030-autopistas-y-autovias-las-normas-para-conducir-seguro_/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/tus-puntos-y-tus-permisos/como-funciona-el-permiso-por-puntos/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/tus-puntos-y-tus-permisos/recupera-tus-puntos/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/clases-de-permisos-de-conducir/",
+  "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/obtener-un-nuevo-permiso-de-conducir/requisitos-preparacion-y-presentacion-a-examen/",
+  "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/a-pie/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/en-bicicleta",
+  "https://www.dgt.es/nuestros-servicios/tu-vehiculo/documentacion-de-un-vehiculo/que-documentacion-debes-llevar-en-tu-vehiculo/",
+  "https://www.dgt.es/nuestros-servicios/multas-y-sanciones/quien-puede-multarte/",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/consejos-tuneles/",
+  "https://www.dgt.es/comunicacion/noticias/glorietas-como-circular-de-forma-segura",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-eficiente/",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/como-ahorrar-combustible/",
+  "https://www.dgt.es/comunicacion/noticias/20260602-flechas-en-senales-1",
+  "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/emergencias-en-carretera/",
+  "https://www.dgt.es/muevete-con-seguridad/viaja-seguro/consejos-extranjeros/otros-aspectos-de-interes/",
+  "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+  "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Cuál es la tasa máxima de alcohol en aire espirado para un conductor en general?",
+   "options": [
+    "0,25 mg/l",
+    "0,15 mg/l",
+    "0,50 mg/l",
+    "0,60 mg/l"
+   ],
+   "answer": 0,
+   "ar_q": "ما الحد الأقصى لنسبة الكحول في هواء الزفير للسائق العادي؟",
+   "ar_options": [
+    "0,25 ملغ/لتر",
+    "0,15 ملغ/لتر",
+    "0,50 ملغ/لتر",
+    "0,60 ملغ/لتر"
+   ],
+   "ar_exp": "الحد العام 0,5 غ/لتر في الدم أو 0,25 ملغ/لتر في هواء الزفير (المادة 20 من النظام العام للسير RGC).",
+   "ref": "RGC art. 20"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la tasa máxima de alcohol en sangre para un conductor en general?",
+   "options": [
+    "0,3 g/l",
+    "0,5 g/l",
+    "0,8 g/l",
+    "1,2 g/l"
+   ],
+   "answer": 1,
+   "ar_q": "ما الحد الأقصى لنسبة الكحول في الدم للسائق العادي؟",
+   "ar_options": [
+    "0,3 غ/لتر",
+    "0,5 غ/لتر",
+    "0,8 غ/لتر",
+    "1,2 غ/لتر"
+   ],
+   "ar_exp": "المادة 20 من RGC: 0,5 غ/لتر في الدم للسائقين عمومًا.",
+   "ref": "RGC art. 20"
+  },
+  {
+   "level": 2,
+   "q": "Un conductor novel (menos de 2 años de permiso) no puede superar en aire espirado:",
+   "options": [
+    "0,25 mg/l",
+    "0,30 mg/l",
+    "0,15 mg/l",
+    "0,00 mg/l"
+   ],
+   "answer": 2,
+   "ar_q": "السائق المبتدئ (أقل من سنتين على رخصته) لا يجوز أن يتجاوز في هواء الزفير:",
+   "ar_options": [
+    "0,25 ملغ/لتر",
+    "0,30 ملغ/لتر",
+    "0,15 ملغ/لتر",
+    "0,00 ملغ/لتر"
+   ],
+   "ar_exp": "المادة 20 من RGC: المبتدئون والمحترفون 0,3 غ/لتر في الدم أو 0,15 ملغ/لتر في الهواء.",
+   "ref": "RGC art. 20"
+  },
+  {
+   "level": 2,
+   "q": "¿Qué tasa máxima de alcohol en sangre tienen los conductores profesionales?",
+   "options": [
+    "0,5 g/l",
+    "0,15 g/l",
+    "0,25 g/l",
+    "0,3 g/l"
+   ],
+   "answer": 3,
+   "ar_q": "ما الحد الأقصى للكحول في الدم للسائقين المحترفين؟",
+   "ar_options": [
+    "0,5 غ/لتر",
+    "0,15 غ/لتر",
+    "0,25 غ/لتر",
+    "0,3 غ/لتر"
+   ],
+   "ar_exp": "المادة 20 من RGC تطبق على المحترفين نفس حد المبتدئين: 0,3 غ/لتر في الدم.",
+   "ref": "RGC art. 20"
+  },
+  {
+   "level": 3,
+   "q": "Conducir con una tasa de alcohol en aire espirado superior a 0,60 mg/l es:",
+   "options": [
+    "Un delito",
+    "Una infracción leve",
+    "Una infracción grave sin pérdida de puntos",
+    "Legal si se conduce despacio"
+   ],
+   "answer": 0,
+   "ar_q": "القيادة بنسبة كحول في هواء الزفير تفوق 0,60 ملغ/لتر تُعدّ:",
+   "ar_options": [
+    "جريمة جنائية",
+    "مخالفة بسيطة",
+    "مخالفة خطيرة دون خصم نقاط",
+    "مسموحة إذا كانت السرعة منخفضة"
+   ],
+   "ar_exp": "المادة 379.2 من القانون الجنائي: تجاوز 0,60 ملغ/لتر في الهواء أو 1,2 غ/لتر في الدم جريمة.",
+   "ref": "Código Penal art. 379.2"
+  },
+  {
+   "level": 2,
+   "q": "¿Está permitido conducir con presencia de drogas en el organismo?",
+   "options": [
+    "Sí, si la cantidad es pequeña",
+    "No, cualquier presencia de drogas es sancionable",
+    "Sí, si no se nota en la conducción",
+    "Solo está prohibido de noche"
+   ],
+   "answer": 1,
+   "ar_q": "هل يُسمح بالقيادة مع وجود مخدرات في الجسم؟",
+   "ar_options": [
+    "نعم، إذا كانت الكمية صغيرة",
+    "لا، أي وجود للمخدرات في الجسم يعاقب عليه",
+    "نعم، إذا لم يؤثر ذلك على القيادة",
+    "يُمنع ليلًا فقط"
+   ],
+   "ar_exp": "المادة 14 من قانون السير LSV: يُمنع القيادة مع وجود مخدرات في الجسم، وتُخصم 6 نقاط وغرامة 1000 يورو.",
+   "ref": "LSV (RDL 6/2015) art. 14"
+  },
+  {
+   "level": 1,
+   "q": "¿Tomar un café o dormir un rato reduce la tasa de alcohol?",
+   "options": [
+    "Sí, el café la reduce a la mitad",
+    "Sí, dormir 30 minutos la elimina",
+    "No, solo el tiempo elimina el alcohol",
+    "Sí, beber mucha agua la elimina"
+   ],
+   "answer": 2,
+   "ar_q": "هل يخفّض شرب القهوة أو النوم قليلًا نسبة الكحول؟",
+   "ar_options": [
+    "نعم، القهوة تخفضها إلى النصف",
+    "نعم، النوم 30 دقيقة يزيلها",
+    "لا، الوقت وحده يزيل الكحول",
+    "نعم، شرب الكثير من الماء يزيلها"
+   ],
+   "ar_exp": "حسب DGT: لا القهوة ولا الشاي ولا الاستحمام ولا النوم يخفض الكحول؛ الكبد يتخلص من 8 إلى 10 غ في الساعة فقط.",
+   "ref": "DGT – Consumo de alcohol"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la velocidad máxima de un turismo en autopista o autovía?",
+   "options": [
+    "100 km/h",
+    "130 km/h",
+    "90 km/h",
+    "120 km/h"
+   ],
+   "answer": 3,
+   "ar_q": "ما السرعة القصوى للسيارة السياحية في الطريق السريع (autopista/autovía)؟",
+   "ar_options": [
+    "100 كم/س",
+    "130 كم/س",
+    "90 كم/س",
+    "120 كم/س"
+   ],
+   "ar_exp": "المادة 48 من RGC: 120 كم/س للسيارات السياحية والدراجات النارية في الطرق السريعة.",
+   "ref": "RGC art. 48"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la velocidad máxima de un turismo en una carretera convencional?",
+   "options": [
+    "90 km/h",
+    "100 km/h",
+    "80 km/h",
+    "120 km/h"
+   ],
+   "answer": 0,
+   "ar_q": "ما السرعة القصوى للسيارة السياحية في الطريق العادي (carretera convencional)؟",
+   "ar_options": [
+    "90 كم/س",
+    "100 كم/س",
+    "80 كم/س",
+    "120 كم/س"
+   ],
+   "ar_exp": "المادة 48 من RGC (منذ تعديل 2019): 90 كم/س للسيارات والدراجات النارية في الطرق العادية.",
+   "ref": "RGC art. 48"
+  },
+  {
+   "level": 1,
+   "q": "En una calle urbana con un único carril por sentido, la velocidad máxima genérica es:",
+   "options": [
+    "50 km/h",
+    "30 km/h",
+    "20 km/h",
+    "40 km/h"
+   ],
+   "answer": 1,
+   "ar_q": "في شارع داخل المدينة بممر واحد في كل اتجاه، السرعة القصوى العامة هي:",
+   "ar_options": [
+    "50 كم/س",
+    "30 كم/س",
+    "20 كم/س",
+    "40 كم/س"
+   ],
+   "ar_exp": "المادة 50 من RGC: 30 كم/س في الطرق الحضرية ذات ممر واحد لكل اتجاه.",
+   "ref": "RGC art. 50"
+  },
+  {
+   "level": 2,
+   "q": "En vías urbanas con dos o más carriles por sentido, el límite genérico es:",
+   "options": [
+    "30 km/h",
+    "60 km/h",
+    "50 km/h",
+    "70 km/h"
+   ],
+   "answer": 2,
+   "ar_q": "في الطرق الحضرية ذات ممرين أو أكثر في كل اتجاه، الحد العام للسرعة هو:",
+   "ar_options": [
+    "30 كم/س",
+    "60 كم/س",
+    "50 كم/س",
+    "70 كم/س"
+   ],
+   "ar_exp": "المادة 50 من RGC: 50 كم/س عند وجود ممرين أو أكثر في كل اتجاه.",
+   "ref": "RGC art. 50"
+  },
+  {
+   "level": 2,
+   "q": "En calles de plataforma única (calzada y acera al mismo nivel), la velocidad máxima es:",
+   "options": [
+    "30 km/h",
+    "10 km/h",
+    "40 km/h",
+    "20 km/h"
+   ],
+   "answer": 3,
+   "ar_q": "في الشوارع ذات المستوى الواحد (الرصيف والطريق في نفس المستوى)، السرعة القصوى هي:",
+   "ar_options": [
+    "30 كم/س",
+    "10 كم/س",
+    "40 كم/س",
+    "20 كم/س"
+   ],
+   "ar_exp": "المادة 50 من RGC: 20 كم/س في الشوارع ذات المنصة الواحدة.",
+   "ref": "RGC art. 50"
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la velocidad máxima de un camión en autopista?",
+   "options": [
+    "90 km/h",
+    "100 km/h",
+    "80 km/h",
+    "120 km/h"
+   ],
+   "answer": 0,
+   "ar_q": "ما السرعة القصوى للشاحنة في الطريق السريع؟",
+   "ar_options": [
+    "90 كم/س",
+    "100 كم/س",
+    "80 كم/س",
+    "120 كم/س"
+   ],
+   "ar_exp": "المادة 48 من RGC: الشاحنات 90 كم/س والحافلات 100 كم/س في الطرق السريعة.",
+   "ref": "RGC art. 48"
+  },
+  {
+   "level": 3,
+   "q": "Es delito superar la velocidad máxima permitida en vía interurbana en más de:",
+   "options": [
+    "50 km/h",
+    "80 km/h",
+    "60 km/h",
+    "40 km/h"
+   ],
+   "answer": 1,
+   "ar_q": "يُعدّ جريمة تجاوز السرعة القصوى المسموح بها في الطريق خارج المدن بأكثر من:",
+   "ar_options": [
+    "50 كم/س",
+    "80 كم/س",
+    "60 كم/س",
+    "40 كم/س"
+   ],
+   "ar_exp": "المادة 379.1 من القانون الجنائي: تجاوز السرعة بـ 60 كم/س داخل المدينة أو 80 كم/س خارجها جريمة.",
+   "ref": "Código Penal art. 379.1"
+  },
+  {
+   "level": 3,
+   "q": "Es delito superar la velocidad permitida en vía urbana en más de:",
+   "options": [
+    "30 km/h",
+    "50 km/h",
+    "60 km/h",
+    "80 km/h"
+   ],
+   "answer": 2,
+   "ar_q": "يُعدّ جريمة تجاوز السرعة المسموح بها داخل المدينة بأكثر من:",
+   "ar_options": [
+    "30 كم/س",
+    "50 كم/س",
+    "60 كم/س",
+    "80 كم/س"
+   ],
+   "ar_exp": "المادة 379.1 من القانون الجنائي: 60 كم/س فوق الحد في الطرق الحضرية.",
+   "ref": "Código Penal art. 379.1"
+  },
+  {
+   "level": 2,
+   "q": "Con un tiempo de reacción normal de 0,75 segundos, a 50 km/h se recorren antes de frenar unos:",
+   "options": [
+    "2 metros",
+    "25 metros",
+    "50 metros",
+    "10 metros"
+   ],
+   "answer": 3,
+   "ar_q": "بزمن رد فعل عادي يبلغ 0,75 ثانية، بسرعة 50 كم/س تقطع السيارة قبل بدء الفرملة حوالي:",
+   "ar_options": [
+    "2 متر",
+    "25 مترًا",
+    "50 مترًا",
+    "10 أمتار"
+   ],
+   "ar_exp": "حسب DGT: زمن رد الفعل الطبيعي 0,75 ثانية، أي حوالي 10 أمتار بسرعة 50 كم/س و25 مترًا بسرعة 120 كم/س.",
+   "ref": "DGT – Exceso de velocidad"
+  },
+  {
+   "level": 2,
+   "q": "La distancia de detención es igual a:",
+   "options": [
+    "Distancia de reacción + distancia de frenado",
+    "Solo la distancia de frenado",
+    "La distancia de seguridad dividida por dos",
+    "La velocidad multiplicada por tres"
+   ],
+   "answer": 0,
+   "ar_q": "مسافة التوقف تساوي:",
+   "ar_options": [
+    "مسافة رد الفعل + مسافة الفرملة",
+    "مسافة الفرملة فقط",
+    "مسافة الأمان مقسومة على اثنين",
+    "السرعة مضروبة في ثلاثة"
+   ],
+   "ar_exp": "حسب DGT: مسافة التوقف = المسافة المقطوعة أثناء رد الفعل + المسافة المقطوعة أثناء الفرملة.",
+   "ref": "DGT – Exceso de velocidad"
+  },
+  {
+   "level": 1,
+   "q": "Si un peatón es atropellado a 30 km/h, la probabilidad de que fallezca es aproximadamente:",
+   "options": [
+    "50 %",
+    "5 %",
+    "90 %",
+    "25 %"
+   ],
+   "answer": 1,
+   "ar_q": "إذا صُدم أحد المشاة بسرعة 30 كم/س، فإن احتمال وفاته تقريبًا:",
+   "ar_options": [
+    "50 %",
+    "5 %",
+    "90 %",
+    "25 %"
+   ],
+   "ar_exp": "حسب DGT: 5 % بسرعة 30 كم/س، وحوالي 50 % بسرعة 50 كم/س، وشبه مؤكدة فوق 80 كم/س.",
+   "ref": "DGT – Exceso de velocidad"
+  },
+  {
+   "level": 2,
+   "q": "En autopistas y autovías, la maniobra de marcha atrás:",
+   "options": [
+    "Está permitida si te pasas la salida",
+    "Está permitida por el arcén",
+    "Está prohibida",
+    "Está permitida de noche con poco tráfico"
+   ],
+   "answer": 2,
+   "ar_q": "في الطرق السريعة (autopistas y autovías)، الرجوع إلى الخلف:",
+   "ar_options": [
+    "مسموح إذا فاتك المخرج",
+    "مسموح على حافة الطريق",
+    "ممنوع",
+    "مسموح ليلًا مع حركة خفيفة"
+   ],
+   "ar_exp": "المادة 80 من RGC تمنع الرجوع إلى الخلف في الطرق السريعة؛ وإذا فاتك المخرج فخذ المخرج التالي (DGT).",
+   "ref": "RGC art. 80"
+  },
+  {
+   "level": 2,
+   "q": "¿Pueden circular bicicletas por una autovía?",
+   "options": [
+    "Nunca",
+    "Sí, por el carril derecho",
+    "Solo de noche",
+    "Sí, por el arcén, si no lo prohíbe una señal y son mayores de 14 años"
+   ],
+   "answer": 3,
+   "ar_q": "هل يمكن للدراجات الهوائية السير في autovía؟",
+   "ar_options": [
+    "أبدًا",
+    "نعم، في الممر الأيمن",
+    "ليلًا فقط",
+    "نعم، على حافة الطريق إن لم تمنعه إشارة وكان راكبها فوق 14 سنة"
+   ],
+   "ar_exp": "المادة 38 من RGC: الدراجات ممنوعة في autopista، ويُسمح لها في autovía على الحافة (arcén) لمن تجاوز 14 سنة ما لم توجد إشارة منع.",
+   "ref": "RGC art. 38"
+  },
+  {
+   "level": 2,
+   "q": "Si una emergencia te obliga a circular a menos de 60 km/h en autopista, debes:",
+   "options": [
+    "Abandonarla por la primera salida",
+    "Seguir por el carril izquierdo",
+    "Parar en el carril derecho",
+    "Circular marcha atrás hasta la salida anterior"
+   ],
+   "answer": 0,
+   "ar_q": "إذا أجبرتك حالة طارئة على السير بأقل من 60 كم/س في طريق سريع، يجب:",
+   "ar_options": [
+    "مغادرته من أول مخرج",
+    "الاستمرار في الممر الأيسر",
+    "التوقف في الممر الأيمن",
+    "الرجوع إلى الخلف حتى المخرج السابق"
+   ],
+   "ar_exp": "حسب DGT: من لا يستطيع السير بأكثر من 60 كم/س يغادر الطريق السريع من أول مخرج حتى لا يشكل خطرًا.",
+   "ref": "DGT – Autopistas y autovías"
+  },
+  {
+   "level": 1,
+   "q": "La distancia de seguridad con el vehículo de delante debe permitir:",
+   "options": [
+    "Leer su matrícula",
+    "Detenerse sin chocar si frena bruscamente",
+    "Adelantarle en cualquier momento",
+    "Ver sus luces de freno solamente"
+   ],
+   "answer": 1,
+   "ar_q": "يجب أن تسمح مسافة الأمان مع السيارة التي أمامك بـ:",
+   "ar_options": [
+    "قراءة لوحة ترقيمها",
+    "التوقف دون اصطدام إذا فرملت فجأة",
+    "تجاوزها في أي لحظة",
+    "رؤية أضواء فراملها فقط"
+   ],
+   "ar_exp": "المادة 54 من RGC: مسافة تسمح بالتوقف دون اصطدام عند الفرملة المفاجئة، وتزيد مع السرعة وسوء الطقس.",
+   "ref": "RGC art. 54"
+  },
+  {
+   "level": 1,
+   "q": "¿En qué plazas es obligatorio el cinturón de seguridad?",
+   "options": [
+    "Solo en las delanteras",
+    "Solo en autopista",
+    "En todas las plazas, delanteras y traseras",
+    "Solo para el conductor"
+   ],
+   "answer": 2,
+   "ar_q": "في أي مقاعد يكون حزام الأمان إلزاميًا؟",
+   "ar_options": [
+    "في المقاعد الأمامية فقط",
+    "في الطريق السريع فقط",
+    "في جميع المقاعد، الأمامية والخلفية",
+    "للسائق فقط"
+   ],
+   "ar_exp": "المادة 117 من RGC: الحزام إلزامي في كل المقاعد؛ ومخالفته غرامة 200 يورو وخصم 4 نقاط.",
+   "ref": "RGC art. 117"
+  },
+  {
+   "level": 2,
+   "q": "Desde el 1 de octubre de 2026, los conductores de taxi:",
+   "options": [
+    "Están exentos del cinturón en ciudad",
+    "Solo usan cinturón en autopista",
+    "Pueden elegir si lo usan",
+    "Deben usar siempre el cinturón de seguridad"
+   ],
+   "answer": 3,
+   "ar_q": "منذ 1 أكتوبر 2026، سائقو سيارات الأجرة (التاكسي):",
+   "ar_options": [
+    "معفون من الحزام داخل المدينة",
+    "يضعون الحزام في الطريق السريع فقط",
+    "لهم حرية الاختيار",
+    "يجب أن يضعوا حزام الأمان دائمًا"
+   ],
+   "ar_exp": "إصلاح RD 518/2026 ألغى الإعفاءات: الحزام إلزامي دائمًا لسائقي التاكسي والبضائع ومدارس السياقة.",
+   "ref": "RGC art. 117 (RD 518/2026)"
+  },
+  {
+   "level": 1,
+   "q": "Los menores deben usar un sistema de retención infantil (SRI) hasta que su altura supere:",
+   "options": [
+    "135 cm",
+    "120 cm",
+    "150 cm",
+    "100 cm"
+   ],
+   "answer": 0,
+   "ar_q": "يجب أن يستعمل الأطفال مقعد الأمان الخاص بهم (SRI) إلى أن يتجاوز طولهم:",
+   "ar_options": [
+    "135 سم",
+    "120 سم",
+    "150 سم",
+    "100 سم"
+   ],
+   "ar_exp": "المادة 117.2 من RGC: SRI إلزامي حتى تجاوز 135 سم، ويُركَّب في المقاعد الخلفية مع استثناءات محددة.",
+   "ref": "RGC art. 117.2"
+  },
+  {
+   "level": 2,
+   "q": "Como regla general, ¿dónde debe ir instalado el sistema de retención infantil?",
+   "options": [
+    "En el asiento del copiloto",
+    "En los asientos traseros",
+    "Donde prefiera el conductor",
+    "En el maletero"
+   ],
+   "answer": 1,
+   "ar_q": "كقاعدة عامة، أين يجب تركيب مقعد أمان الطفل؟",
+   "ar_options": [
+    "في مقعد الراكب الأمامي",
+    "في المقاعد الخلفية",
+    "حيث يفضّل السائق",
+    "في صندوق السيارة"
+   ],
+   "ar_exp": "المادة 117.2 من RGC: في المقاعد الخلفية، إلا إذا لم توجد أو امتلأت أو تعذّر التركيب فيها.",
+   "ref": "RGC art. 117.2"
+  },
+  {
+   "level": 3,
+   "q": "Si un niño viaja sin sistema de retención infantil, el responsable de la infracción es:",
+   "options": [
+    "El niño",
+    "El propietario del vehículo siempre",
+    "El conductor",
+    "Nadie, no es infracción"
+   ],
+   "answer": 2,
+   "ar_q": "إذا سافر طفل بدون مقعد أمان، فالمسؤول عن المخالفة هو:",
+   "ar_options": [
+    "الطفل",
+    "مالك السيارة دائمًا",
+    "السائق",
+    "لا أحد، فهي ليست مخالفة"
+   ],
+   "ar_exp": "المادة 82 من LSV وDGT: السائق مسؤول عن عدم استعمال SRI، مع خصم النقاط.",
+   "ref": "LSV art. 82"
+  },
+  {
+   "level": 2,
+   "q": "Poner una toalla en el asiento puede provocar en un choque el llamado:",
+   "options": [
+    "Efecto túnel",
+    "Efecto rebote",
+    "Aquaplaning",
+    "Efecto submarino"
+   ],
+   "answer": 3,
+   "ar_q": "وضع منشفة على المقعد قد يسبب عند الاصطدام ما يسمى:",
+   "ar_options": [
+    "تأثير النفق",
+    "تأثير الارتداد",
+    "الانزلاق المائي",
+    "تأثير الغواصة (الانزلاق تحت الحزام)"
+   ],
+   "ar_exp": "حسب DGT: المنشفة أو الأغطية تجعل الجسم ينزلق تحت الجزء البطني من الحزام (efecto submarino).",
+   "ref": "DGT – Cinturón de seguridad"
+  },
+  {
+   "level": 1,
+   "q": "¿Deben usar cinturón las mujeres embarazadas?",
+   "options": [
+    "Sí, siempre, sin que la banda pase sobre el feto",
+    "No, están exentas",
+    "Solo en autopista",
+    "Solo si conducen"
+   ],
+   "answer": 0,
+   "ar_q": "هل يجب على النساء الحوامل وضع حزام الأمان؟",
+   "ar_options": [
+    "نعم دائمًا، مع إبعاد الحزام عن منطقة الجنين",
+    "لا، هن معفيات",
+    "في الطريق السريع فقط",
+    "فقط إذا كنّ يقدن"
+   ],
+   "ar_exp": "المادة 117 من RGC وDGT: الحزام إلزامي للحوامل مع وضعه بحيث لا يمر فوق منطقة الجنين.",
+   "ref": "RGC art. 117"
+  },
+  {
+   "level": 1,
+   "q": "El casco para conductores de motocicleta es obligatorio:",
+   "options": [
+    "Solo en vías interurbanas",
+    "En todo tipo de vías",
+    "Solo si se superan 50 km/h",
+    "Solo para el pasajero"
+   ],
+   "answer": 1,
+   "ar_q": "خوذة سائق الدراجة النارية إلزامية:",
+   "ar_options": [
+    "في الطرق خارج المدن فقط",
+    "في جميع أنواع الطرق",
+    "فقط فوق 50 كم/س",
+    "للراكب فقط"
+   ],
+   "ar_exp": "المادة 118 من RGC: الخوذة إلزامية للسائق والراكب في الدراجات النارية في كل الطرق.",
+   "ref": "RGC art. 118"
+  },
+  {
+   "level": 2,
+   "q": "Desde el 1 de octubre de 2026, en vías interurbanas el casco es obligatorio para:",
+   "options": [
+    "Solo los menores de 16 años",
+    "Solo en subidas prolongadas",
+    "Todos los ciclistas, sin excepciones",
+    "Nadie"
+   ],
+   "answer": 2,
+   "ar_q": "منذ 1 أكتوبر 2026، الخوذة إلزامية في الطرق خارج المدن لـ:",
+   "ar_options": [
+    "من هم دون 16 سنة فقط",
+    "في الصعود الطويل فقط",
+    "جميع راكبي الدراجات الهوائية دون استثناء",
+    "لا أحد"
+   ],
+   "ar_exp": "إصلاح RD 518/2026 ألغى الإعفاءات السابقة (الحرارة، الصعود الطويل): الخوذة إلزامية لكل الدراجين خارج المدن.",
+   "ref": "RGC art. 118 (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "En vías urbanas, ¿quién debe llevar casco cuando va en bicicleta?",
+   "options": [
+    "Todos los ciclistas",
+    "Solo los mayores de 65 años",
+    "Nadie",
+    "Los menores de 16 años"
+   ],
+   "answer": 3,
+   "ar_q": "داخل المدن، من يجب عليه وضع الخوذة عند ركوب الدراجة الهوائية؟",
+   "ar_options": [
+    "جميع الدراجين",
+    "من تجاوزوا 65 سنة فقط",
+    "لا أحد",
+    "من هم دون 16 سنة"
+   ],
+   "ar_exp": "المادة 118 من RGC وDGT: في المدينة الخوذة إلزامية للدراجين دون 16 سنة (والمحترفين/riders دائمًا منذ 2026).",
+   "ref": "RGC art. 118"
+  },
+  {
+   "level": 2,
+   "q": "Conducir sujetando el teléfono móvil con la mano supone:",
+   "options": [
+    "200 € y pérdida de 6 puntos",
+    "100 € sin puntos",
+    "500 € y 2 puntos",
+    "Solo una advertencia"
+   ],
+   "answer": 0,
+   "ar_q": "القيادة مع إمساك الهاتف المحمول باليد تؤدي إلى:",
+   "ar_options": [
+    "غرامة 200 يورو وخصم 6 نقاط",
+    "غرامة 100 يورو دون خصم نقاط",
+    "غرامة 500 يورو وخصم نقطتين",
+    "تنبيه فقط"
+   ],
+   "ar_exp": "المادة 76 والملحق II من LSV: إمساك الهاتف أثناء القيادة 200 يورو و6 نقاط؛ استعماله دون إمساكه 3 نقاط.",
+   "ref": "LSV art. 76 y Anexo II"
+  },
+  {
+   "level": 2,
+   "q": "¿Se pueden usar auriculares conectados a un reproductor mientras se conduce?",
+   "options": [
+    "Sí, en un solo oído",
+    "No, está prohibido",
+    "Sí, a volumen bajo",
+    "Sí, en autopista"
+   ],
+   "answer": 1,
+   "ar_q": "هل يجوز استعمال سماعات الأذن الموصولة بجهاز صوت أثناء القيادة؟",
+   "ar_options": [
+    "نعم، في أذن واحدة",
+    "لا، ممنوع",
+    "نعم، بصوت منخفض",
+    "نعم، في الطريق السريع"
+   ],
+   "ar_exp": "المادة 18.2 من RGC: يُمنع استعمال السماعات وأجهزة الاتصال باليد؛ يُسمح فقط بنظام اليدين الحرتين دون سماعات.",
+   "ref": "RGC art. 18.2"
+  },
+  {
+   "level": 1,
+   "q": "Desde el 1 de enero de 2026, para señalizar un vehículo inmovilizado en la calzada se usa:",
+   "options": [
+    "Dos triángulos",
+    "Una linterna",
+    "La baliza V-16 conectada",
+    "El claxon"
+   ],
+   "answer": 2,
+   "ar_q": "منذ 1 يناير 2026، لتنبيه الآخرين إلى سيارة متوقفة اضطراريًا على الطريق يُستعمل:",
+   "ar_options": [
+    "مثلثان عاكسان",
+    "مصباح يدوي",
+    "جهاز الإشارة V-16 المتصل",
+    "المنبه (الكلاكسون)"
+   ],
+   "ar_exp": "المادة 130 والملحق XI من RGC: V-16 المتصل هو الوسيلة القانونية الوحيدة منذ 1-1-2026 ويعوّض المثلثات.",
+   "ref": "RGC art. 130 y Anexo XI"
+  },
+  {
+   "level": 2,
+   "q": "Además de la baliza V-16, cuando el vehículo queda inmovilizado es obligatorio:",
+   "options": [
+    "Abrir el capó",
+    "Tocar el claxon cada minuto",
+    "Apagar todas las luces",
+    "Encender la luz de emergencia"
+   ],
+   "answer": 3,
+   "ar_q": "بالإضافة إلى جهاز V-16، عند توقف السيارة اضطراريًا يجب:",
+   "ar_options": [
+    "فتح غطاء المحرك",
+    "استعمال المنبه كل دقيقة",
+    "إطفاء كل الأضواء",
+    "تشغيل أضواء الطوارئ"
+   ],
+   "ar_exp": "حسب DGT والمادة 130.4 من RGC: تشغيل أضواء الطوارئ، وعند الحاجة أضواء الوضع.",
+   "ref": "DGT – Dispositivos V16"
+  },
+  {
+   "level": 1,
+   "q": "En una intersección sin señalizar, tiene preferencia de paso:",
+   "options": [
+    "El vehículo que se acerca por la derecha",
+    "El vehículo que va más rápido",
+    "El vehículo más grande",
+    "El que llega por la izquierda"
+   ],
+   "answer": 0,
+   "ar_q": "في تقاطع بلا إشارات، تكون الأولوية لـ:",
+   "ar_options": [
+    "السيارة القادمة من اليمين",
+    "السيارة الأسرع",
+    "المركبة الأكبر",
+    "القادمة من اليسار"
+   ],
+   "ar_exp": "المادة 57 من RGC: في غياب الإشارات، الأولوية للقادم من اليمين.",
+   "ref": "RGC art. 57"
+  },
+  {
+   "level": 1,
+   "q": "En una glorieta (rotonda), tienen preferencia:",
+   "options": [
+    "Los que van a entrar",
+    "Los vehículos que ya circulan dentro de la glorieta",
+    "Los que vienen por la derecha",
+    "Los camiones"
+   ],
+   "answer": 1,
+   "ar_q": "في الدوّار (glorieta)، الأولوية لـ:",
+   "ar_options": [
+    "المركبات التي تريد الدخول",
+    "المركبات التي تسير داخل الدوار",
+    "القادمين من اليمين",
+    "الشاحنات"
+   ],
+   "ar_exp": "المادة 57.1.c من RGC: من يسير داخل الدوار له الأولوية على من يريد الدخول.",
+   "ref": "RGC art. 57.1.c"
+  },
+  {
+   "level": 2,
+   "q": "Dentro de una glorieta, para facilitar la salida se debe circular:",
+   "options": [
+    "Siempre por el carril interior",
+    "Por el centro",
+    "Por el carril más exterior",
+    "Por el arcén"
+   ],
+   "answer": 2,
+   "ar_q": "داخل الدوار، لتسهيل الخروج يجب السير:",
+   "ar_options": [
+    "دائمًا في الممر الداخلي",
+    "في الوسط",
+    "في الممر الخارجي",
+    "على الحافة"
+   ],
+   "ar_exp": "حسب DGT: يُستعمل الممر الخارجي للخروج مع الإشارة، والممرات الداخلية للاستمرار في الدوران.",
+   "ref": "DGT – Normas básicas"
+  },
+  {
+   "level": 1,
+   "q": "Ante una señal de STOP debes:",
+   "options": [
+    "Reducir la velocidad solamente",
+    "Parar solo si viene alguien",
+    "Tocar el claxon y seguir",
+    "Detenerte siempre, aunque no venga nadie"
+   ],
+   "answer": 3,
+   "ar_q": "أمام إشارة STOP يجب عليك:",
+   "ar_options": [
+    "تخفيف السرعة فقط",
+    "التوقف فقط إذا جاء أحد",
+    "استعمال المنبه والاستمرار",
+    "التوقف دائمًا حتى لو لم يأت أحد"
+   ],
+   "ar_exp": "المادة 151 من RGC (الإشارة R-2): التوقف التام إلزامي؛ عدم احترامها 200 يورو و4 نقاط (LSV الملحق II).",
+   "ref": "RGC art. 151 (R-2) y LSV Anexo II"
+  },
+  {
+   "level": 2,
+   "q": "Saltarse un semáforo en rojo se sanciona con:",
+   "options": [
+    "200 € y 4 puntos",
+    "100 € sin puntos",
+    "500 € y 6 puntos",
+    "50 €"
+   ],
+   "answer": 0,
+   "ar_q": "تجاوز الإشارة الضوئية الحمراء يعاقب عليه بـ:",
+   "ar_options": [
+    "200 يورو و4 نقاط",
+    "100 يورو دون نقاط",
+    "500 يورو و6 نقاط",
+    "50 يورو"
+   ],
+   "ar_exp": "حسب DGT والملحق II من LSV: 200 يورو وخصم 4 نقاط.",
+   "ref": "LSV Anexo II"
+  },
+  {
+   "level": 2,
+   "q": "Como norma general desde octubre de 2026, en un paso de peatones con semáforo:",
+   "options": [
+    "Los coches siempre pasan primero",
+    "No coincide el ámbar intermitente para vehículos con el verde fijo para peatones",
+    "El ámbar intermitente obliga a acelerar",
+    "Los peatones no tienen semáforo"
+   ],
+   "answer": 1,
+   "ar_q": "كقاعدة عامة منذ أكتوبر 2026، في ممر المشاة ذي الإشارة الضوئية:",
+   "ar_options": [
+    "السيارات تمر أولًا دائمًا",
+    "لا يتزامن الضوء البرتقالي الوامض للسيارات مع الأخضر الثابت للمشاة",
+    "البرتقالي الوامض يُلزم بالإسراع",
+    "لا توجد إشارة للمشاة"
+   ],
+   "ar_exp": "إصلاح RD 518/2026 والتعليمة MOV 2026/28: القاعدة العامة عدم التزامن، مع استثناءات مبررة بتقرير تقني بلدي.",
+   "ref": "RGC (RD 518/2026) – Instrucción MOV 2026/28"
+  },
+  {
+   "level": 1,
+   "q": "Para adelantar a un ciclista en vía interurbana debes dejar una separación lateral mínima de:",
+   "options": [
+    "0,5 metros",
+    "1 metro",
+    "1,5 metros",
+    "3 metros"
+   ],
+   "answer": 2,
+   "ar_q": "لتجاوز راكب دراجة هوائية في طريق خارج المدينة يجب ترك مسافة جانبية لا تقل عن:",
+   "ar_options": [
+    "0,5 متر",
+    "1 متر",
+    "1,5 متر",
+    "3 أمتار"
+   ],
+   "ar_exp": "المادة 85 من RGC بعد إصلاح RD 518/2026: 1,5 متر على الأقل، مع تخفيض السرعة 20 كم/س على الأقل.",
+   "ref": "RGC art. 85 (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "Al adelantar a un ciclista en vía interurbana, además de la separación lateral, debes:",
+   "options": [
+    "Tocar el claxon",
+    "Acelerar para terminar antes",
+    "Encender las luces largas",
+    "Reducir la velocidad al menos 20 km/h respecto al límite de la vía"
+   ],
+   "answer": 3,
+   "ar_q": "عند تجاوز دراج في طريق خارج المدينة، بالإضافة إلى المسافة الجانبية يجب:",
+   "ar_options": [
+    "استعمال المنبه",
+    "الإسراع لإنهاء التجاوز",
+    "تشغيل الأضواء العالية",
+    "تخفيض السرعة 20 كم/س على الأقل عن حد الطريق"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: تخفيض السرعة 20 كم/س على الأقل، وتغيير الممر كليًا إذا كان للطريق أكثر من ممر في الاتجاه.",
+   "ref": "RGC art. 85 (RD 518/2026)"
+  },
+  {
+   "level": 3,
+   "q": "Si la calzada tiene más de un carril por sentido, para adelantar a un ciclista debes:",
+   "options": [
+    "Cambiar completamente de carril",
+    "Quedarte en el mismo carril",
+    "Pasar por el arcén",
+    "Adelantar por la derecha"
+   ],
+   "answer": 0,
+   "ar_q": "إذا كان للطريق أكثر من ممر في كل اتجاه، لتجاوز دراج يجب:",
+   "ar_options": [
+    "الانتقال بالكامل إلى الممر الآخر",
+    "البقاء في نفس الممر",
+    "المرور من الحافة",
+    "التجاوز من اليمين"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: تغيير الممر بالكامل عند وجود أكثر من ممر في الاتجاه.",
+   "ref": "RGC art. 85 (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "En vía urbana, ¿qué distancia mínima debe guardar un vehículo a motor detrás de un ciclista en el mismo carril?",
+   "options": [
+    "1 metro",
+    "5 metros",
+    "2 metros",
+    "10 metros"
+   ],
+   "answer": 1,
+   "ar_q": "داخل المدينة، ما المسافة الدنيا التي يجب أن تحافظ عليها مركبة ذات محرك خلف دراج في نفس الممر؟",
+   "ar_options": [
+    "متر واحد",
+    "5 أمتار",
+    "متران",
+    "10 أمتار"
+   ],
+   "ar_exp": "الباب السادس من RGC المضاف بـ RD 518/2026: مسافة أمان لا تقل عن 5 أمتار.",
+   "ref": "RGC Título VI (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "En vías urbanas, los ciclistas circularán preferentemente:",
+   "options": [
+    "Pegados a los coches aparcados",
+    "Por la acera",
+    "Por el centro del carril",
+    "Por el carril contrario"
+   ],
+   "answer": 2,
+   "ar_q": "داخل المدن، يسير الدراجون بالأفضلية:",
+   "ar_options": [
+    "بمحاذاة السيارات المتوقفة",
+    "على الرصيف",
+    "في وسط الممر",
+    "في الممر المعاكس"
+   ],
+   "ar_exp": "الباب السادس من RGC (RD 518/2026): الدراجون يسيرون بالأفضلية في وسط الممر.",
+   "ref": "RGC Título VI (RD 518/2026)"
+  },
+  {
+   "level": 3,
+   "q": "En calles de un único carril con límite de 30 km/h, las bicicletas pueden circular en ambos sentidos:",
+   "options": [
+    "Siempre",
+    "Nunca",
+    "Solo de noche",
+    "Cuando la señalización lo autorice"
+   ],
+   "answer": 3,
+   "ar_q": "في الشوارع ذات الممر الواحد والحد 30 كم/س، يمكن للدراجات السير في الاتجاهين:",
+   "ar_options": [
+    "دائمًا",
+    "أبدًا",
+    "ليلًا فقط",
+    "عندما تسمح بذلك الإشارات"
+   ],
+   "ar_exp": "RD 518/2026: يُسمح بذلك فقط حيث توجد إشارة تجيزه.",
+   "ref": "RGC Título VI (RD 518/2026)"
+  },
+  {
+   "level": 1,
+   "q": "En las calles de plataforma única, ¿quién tiene prioridad?",
+   "options": [
+    "Los peatones",
+    "Los coches",
+    "Las motos",
+    "Los autobuses"
+   ],
+   "answer": 0,
+   "ar_q": "في الشوارع ذات المستوى الواحد، لمن الأولوية؟",
+   "ar_options": [
+    "للمشاة",
+    "للسيارات",
+    "للدراجات النارية",
+    "للحافلات"
+   ],
+   "ar_exp": "الباب السادس من RGC (RD 518/2026): المشاة لهم الأولوية في الشوارع ذات المنصة الواحدة.",
+   "ref": "RGC Título VI (RD 518/2026)"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la edad mínima para conducir un patinete eléctrico (VMP)?",
+   "options": [
+    "12 años",
+    "15 años",
+    "16 años",
+    "18 años"
+   ],
+   "answer": 1,
+   "ar_q": "ما السن الأدنى لقيادة السكوتر الكهربائي (VMP)؟",
+   "ar_options": [
+    "12 سنة",
+    "15 سنة",
+    "16 سنة",
+    "18 سنة"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: السن الأدنى 15 سنة، مع خوذة إلزامية.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "Para los usuarios de patinete eléctrico (VMP), es obligatorio:",
+   "options": [
+    "Solo el chaleco de día",
+    "Nada",
+    "El casco, y el chaleco reflectante de noche o con poca visibilidad",
+    "Solo guantes"
+   ],
+   "answer": 2,
+   "ar_q": "بالنسبة لمستعملي السكوتر الكهربائي (VMP)، يجب:",
+   "ar_options": [
+    "السترة نهارًا فقط",
+    "لا شيء",
+    "الخوذة، والسترة العاكسة ليلًا أو عند ضعف الرؤية",
+    "القفازات فقط"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: الخوذة إلزامية، والسترة العاكسة ليلًا أو في ضعف الرؤية، والأضواء دائمًا ابتداءً من 1-10-2027.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "Quien usa bicicleta, VMP, ciclomotor o moto para trabajar (repartidor o «rider») debe llevar:",
+   "options": [
+    "Solo casco de noche",
+    "Solo chaleco en ciudad",
+    "Nada especial",
+    "Casco y chaleco reflectante en todo momento"
+   ],
+   "answer": 3,
+   "ar_q": "من يستعمل دراجة أو سكوتر أو دراجة نارية للعمل (موزع/rider) يجب أن يرتدي:",
+   "ar_options": [
+    "الخوذة ليلًا فقط",
+    "السترة داخل المدينة فقط",
+    "لا شيء خاص",
+    "الخوذة والسترة العاكسة في كل الأوقات"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: الاستعمال المهني يفرض الخوذة والسترة العاكسة دائمًا.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "Desde octubre de 2026, los motoristas deben llevar guantes de protección:",
+   "options": [
+    "En vías interurbanas",
+    "Solo en ciudad",
+    "Solo en invierno",
+    "Nunca es obligatorio"
+   ],
+   "answer": 0,
+   "ar_q": "منذ أكتوبر 2026، يجب على سائقي الدراجات النارية ارتداء قفازات الحماية:",
+   "ar_options": [
+    "في الطرق خارج المدن",
+    "داخل المدينة فقط",
+    "في الشتاء فقط",
+    "ليست إلزامية أبدًا"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: القفازات إلزامية خارج المدن، والحذاء المغلق في كل الطرق.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 3,
+   "q": "No llevar calzado cerrado o guantes en moto, ¿quita puntos?",
+   "options": [
+    "Sí, 4 puntos",
+    "No, se multa pero sin detracción de puntos",
+    "Sí, 6 puntos",
+    "Sí, 2 puntos"
+   ],
+   "answer": 1,
+   "ar_q": "عدم ارتداء حذاء مغلق أو قفازات على الدراجة النارية، هل يخصم نقاطًا؟",
+   "ar_options": [
+    "نعم، 4 نقاط",
+    "لا، فيه غرامة لكن دون خصم نقاط",
+    "نعم، 6 نقاط",
+    "نعم، نقطتان"
+   ],
+   "ar_exp": "التعليمة SANC 2026/25 من DGT: هاتان المخالفتان لا تؤديان إلى خصم نقاط.",
+   "ref": "Instrucción DGT SANC 2026/25"
+  },
+  {
+   "level": 3,
+   "q": "En situación de congestión, un motorista puede circular por el arcén derecho:",
+   "options": [
+    "A cualquier velocidad",
+    "Nunca",
+    "A un máximo de 30 km/h y solo en tramos señalizados",
+    "A 60 km/h"
+   ],
+   "answer": 2,
+   "ar_q": "في حالة الازدحام، يمكن لسائق الدراجة النارية السير على الحافة اليمنى:",
+   "ar_options": [
+    "بأي سرعة",
+    "أبدًا",
+    "بسرعة لا تتجاوز 30 كم/س وفي المقاطع المشار إليها فقط",
+    "بسرعة 60 كم/س"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: يُسمح بذلك عند الازدحام دون تجاوز 30 كم/س وبعد وجود إشارة للمقطع.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "En autopistas y autovías, cuando la circulación esté dificultada por la nieve:",
+   "options": [
+    "Se puede adelantar por la derecha",
+    "Hay que circular por el carril izquierdo",
+    "Se permite parar en el carril central",
+    "Está prohibido adelantar y hay que dejar libre el carril izquierdo"
+   ],
+   "answer": 3,
+   "ar_q": "في الطرق السريعة، عندما تكون الحركة صعبة بسبب الثلج:",
+   "ar_options": [
+    "يمكن التجاوز من اليمين",
+    "يجب السير في الممر الأيسر",
+    "يُسمح بالتوقف في الممر الأوسط",
+    "يُمنع التجاوز ويجب ترك الممر الأيسر فارغًا"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: يُترك الممر الأيسر لسيارات الطوارئ وكاسحات الثلج ويُمنع التجاوز.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 3,
+   "q": "En una retención en vía de dos carriles por sentido, para formar el carril de emergencia:",
+   "options": [
+    "Los vehículos se orillan a ambos lados dejando libre el centro",
+    "Todos se van a la derecha",
+    "Todos se van a la izquierda",
+    "Se usa el arcén"
+   ],
+   "answer": 0,
+   "ar_q": "في ازدحام على طريق بممرين في كل اتجاه، لتكوين ممر الطوارئ:",
+   "ar_options": [
+    "تتنحى السيارات إلى الجانبين تاركة الوسط فارغًا",
+    "يتجه الجميع إلى اليمين",
+    "يتجه الجميع إلى اليسار",
+    "تُستعمل الحافة"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: في طريق بممرين، الأيسر يتنحى يسارًا والأيمن يمينًا ويبقى الوسط فارغًا.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 3,
+   "q": "En una retención en vía de tres carriles por sentido, el carril de emergencia se abre:",
+   "options": [
+    "Entre el central y el derecho",
+    "Entre el carril izquierdo y el central",
+    "Por el arcén derecho",
+    "Por el carril izquierdo"
+   ],
+   "answer": 1,
+   "ar_q": "في ازدحام على طريق بثلاثة ممرات في كل اتجاه، يُفتح ممر الطوارئ:",
+   "ar_options": [
+    "بين الأوسط والأيمن",
+    "بين الممر الأيسر والأوسط",
+    "على الحافة اليمنى",
+    "في الممر الأيسر"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: الأيسر يتنحى يسارًا، والأوسط والأيمن يتنحيان يمينًا.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 2,
+   "q": "Al rebasar un vehículo inmovilizado por avería o accidente debes:",
+   "options": [
+    "Tocar el claxon",
+    "Pasar lo más rápido posible",
+    "Dejar 1,5 m de separación y reducir al menos 20 km/h",
+    "Pararte detrás siempre"
+   ],
+   "answer": 2,
+   "ar_q": "عند تجاوز مركبة متوقفة بسبب عطل أو حادث يجب:",
+   "ar_options": [
+    "استعمال المنبه",
+    "المرور بأسرع ما يمكن",
+    "ترك 1,5 متر وتخفيض السرعة 20 كم/س على الأقل",
+    "التوقف خلفها دائمًا"
+   ],
+   "ar_exp": "إصلاح RD 518/2026: نفس قاعدة الدراجين، 1,5 متر وتخفيض 20 كم/س عن حد الطريق.",
+   "ref": "RGC (RD 518/2026)"
+  },
+  {
+   "level": 1,
+   "q": "¿Con cuántos puntos empieza un conductor novel?",
+   "options": [
+    "12 puntos",
+    "15 puntos",
+    "6 puntos",
+    "8 puntos"
+   ],
+   "answer": 3,
+   "ar_q": "بكم نقطة يبدأ السائق المبتدئ؟",
+   "ar_options": [
+    "12 نقطة",
+    "15 نقطة",
+    "6 نقاط",
+    "8 نقاط"
+   ],
+   "ar_exp": "المادة 63 من LSV وDGT: المبتدئ يبدأ بـ 8 نقاط، ويصل إلى 12 بعد سنتين بلا مخالفات تخصم نقاطًا.",
+   "ref": "LSV art. 63"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es el saldo general de puntos de un conductor con experiencia?",
+   "options": [
+    "12 puntos",
+    "8 puntos",
+    "10 puntos",
+    "20 puntos"
+   ],
+   "answer": 0,
+   "ar_q": "ما الرصيد العام للنقاط لدى سائق ذي خبرة؟",
+   "ar_options": [
+    "12 نقطة",
+    "8 نقاط",
+    "10 نقاط",
+    "20 نقطة"
+   ],
+   "ar_exp": "المادة 63 من LSV: الرصيد العام 12 نقطة.",
+   "ref": "LSV art. 63"
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es el máximo de puntos que puede llegar a tener un conductor?",
+   "options": [
+    "12 puntos",
+    "15 puntos",
+    "14 puntos",
+    "20 puntos"
+   ],
+   "answer": 1,
+   "ar_q": "ما أقصى عدد من النقاط يمكن أن يصل إليه السائق؟",
+   "ar_options": [
+    "12 نقطة",
+    "15 نقطة",
+    "14 نقطة",
+    "20 نقطة"
+   ],
+   "ar_exp": "حسب DGT: +2 بعد 3 سنوات بلا مخالفات (14) ثم +1 بعد 3 سنوات أخرى (15).",
+   "ref": "LSV art. 63"
+  },
+  {
+   "level": 3,
+   "q": "Como regla general, ¿cuántos puntos se pueden perder como máximo en un mismo día?",
+   "options": [
+    "6 puntos",
+    "12 puntos",
+    "8 puntos",
+    "4 puntos"
+   ],
+   "answer": 2,
+   "ar_q": "كقاعدة عامة، ما أقصى عدد من النقاط يمكن فقدانه في يوم واحد؟",
+   "ar_options": [
+    "6 نقاط",
+    "12 نقطة",
+    "8 نقاط",
+    "4 نقاط"
+   ],
+   "ar_exp": "حسب DGT: 8 نقاط كحد أقصى، باستثناء مخالفات خطيرة جدًا كالكحول والمخدرات وتجاوز السرعة بأكثر من 50 %.",
+   "ref": "LSV art. 63"
+  },
+  {
+   "level": 2,
+   "q": "Si pierdes algunos puntos, ¿cuándo recuperas el saldo inicial sin hacer cursos?",
+   "options": [
+    "Tras 6 meses",
+    "Tras 1 mes",
+    "Nunca",
+    "Tras 2 años sin ser sancionado con pérdida de puntos"
+   ],
+   "answer": 3,
+   "ar_q": "إذا فقدت بعض النقاط، متى تسترجع رصيدك الأصلي دون دورات؟",
+   "ar_options": [
+    "بعد 6 أشهر",
+    "بعد شهر",
+    "أبدًا",
+    "بعد سنتين دون عقوبة تخصم نقاطًا"
+   ],
+   "ar_exp": "حسب DGT: بعد سنتين دون عقوبة نهائية تخصم نقاطًا يعود الرصيد إلى 12.",
+   "ref": "LSV art. 63"
+  },
+  {
+   "level": 2,
+   "q": "Un curso de recuperación parcial de puntos permite recuperar como máximo:",
+   "options": [
+    "4 puntos",
+    "2 puntos",
+    "6 puntos",
+    "12 puntos"
+   ],
+   "answer": 0,
+   "ar_q": "دورة الاسترجاع الجزئي للنقاط تسمح باسترجاع حد أقصى قدره:",
+   "ar_options": [
+    "4 نقاط",
+    "نقطتان",
+    "6 نقاط",
+    "12 نقطة"
+   ],
+   "ar_exp": "حسب DGT: دورة 10 ساعات تعيد حتى 4 نقاط، مرة كل سنتين (ومرة كل سنة للمحترفين).",
+   "ref": "LSV art. 63 – Orden INT/914/2024"
+  },
+  {
+   "level": 3,
+   "q": "Tras perder la vigencia del permiso por pérdida total de puntos (primera vez), un conductor no profesional debe esperar:",
+   "options": [
+    "1 mes",
+    "6 meses",
+    "2 años",
+    "12 meses"
+   ],
+   "answer": 1,
+   "ar_q": "بعد فقدان صلاحية الرخصة بسبب فقدان كل النقاط (أول مرة)، يجب على السائق غير المحترف الانتظار:",
+   "ar_options": [
+    "شهرًا واحدًا",
+    "6 أشهر",
+    "سنتين",
+    "12 شهرًا"
+   ],
+   "ar_exp": "حسب DGT: 6 أشهر (3 للمحترفين)، و12 شهرًا (6 للمحترفين) في حالة التكرار، ثم دورة 20 ساعة وامتحان نظري.",
+   "ref": "LSV art. 63"
+  },
+  {
+   "level": 3,
+   "q": "Conducir después de que te hayan notificado la pérdida de vigencia del permiso por puntos es:",
+   "options": [
+    "Una infracción leve",
+    "Legal durante 3 meses",
+    "Un delito",
+    "Solo una multa de 100 €"
+   ],
+   "answer": 2,
+   "ar_q": "القيادة بعد إشعارك بفقدان صلاحية الرخصة بسبب النقاط تُعدّ:",
+   "ar_options": [
+    "مخالفة بسيطة",
+    "قانونية لمدة 3 أشهر",
+    "جريمة جنائية",
+    "غرامة 100 يورو فقط"
+   ],
+   "ar_exp": "المادة 384 من القانون الجنائي: السجن من 3 إلى 6 أشهر أو غرامة من 12 إلى 24 شهرًا أو عمل لصالح المجتمع.",
+   "ref": "Código Penal art. 384"
+  },
+  {
+   "level": 2,
+   "q": "Según la Ley de Tráfico, una infracción grave se sanciona con una multa de:",
+   "options": [
+    "Hasta 100 €",
+    "500 €",
+    "1.000 €",
+    "200 €"
+   ],
+   "answer": 3,
+   "ar_q": "حسب قانون السير، تُعاقب المخالفة الخطيرة بغرامة قدرها:",
+   "ar_options": [
+    "حتى 100 يورو",
+    "500 يورو",
+    "1000 يورو",
+    "200 يورو"
+   ],
+   "ar_exp": "المادة 80 من LSV: البسيطة حتى 100 يورو، الخطيرة 200 يورو، الخطيرة جدًا 500 يورو.",
+   "ref": "LSV art. 80"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la edad mínima para obtener el permiso B?",
+   "options": [
+    "18 años",
+    "17 años",
+    "16 años",
+    "21 años"
+   ],
+   "answer": 0,
+   "ar_q": "ما السن الأدنى للحصول على رخصة السياقة B؟",
+   "ar_options": [
+    "18 سنة",
+    "17 سنة",
+    "16 سنة",
+    "21 سنة"
+   ],
+   "ar_exp": "المادة 4 من النظام العام للسائقين: 18 سنة لرخصة B.",
+   "ref": "RGCond (RD 818/2009) art. 4"
+  },
+  {
+   "level": 2,
+   "q": "¿Qué edad mínima se exige para el permiso A1 (motos hasta 125 cm³)?",
+   "options": [
+    "15 años",
+    "16 años",
+    "18 años",
+    "20 años"
+   ],
+   "answer": 1,
+   "ar_q": "ما السن الأدنى لرخصة A1 (دراجات نارية حتى 125 سم³)؟",
+   "ar_options": [
+    "15 سنة",
+    "16 سنة",
+    "18 سنة",
+    "20 سنة"
+   ],
+   "ar_exp": "المادة 4 من RGCond: AM 15 سنة، A1 16 سنة، A2 18 سنة، A 20 سنة.",
+   "ref": "RGCond (RD 818/2009) art. 4"
+  },
+  {
+   "level": 2,
+   "q": "Con el permiso B, ¿qué remolque puedes llevar sin necesitar el B+E?",
+   "options": [
+    "Cualquier remolque",
+    "Ninguno",
+    "Uno de masa máxima autorizada no superior a 750 kg",
+    "Uno de hasta 3.500 kg siempre"
+   ],
+   "answer": 2,
+   "ar_q": "برخصة B، أي مقطورة يمكنك جرّها دون الحاجة إلى رخصة B+E؟",
+   "ar_options": [
+    "أي مقطورة",
+    "لا شيء",
+    "مقطورة لا تتجاوز كتلتها القصوى المرخصة 750 كغ",
+    "مقطورة حتى 3500 كغ دائمًا"
+   ],
+   "ar_exp": "المادة 4 من RGCond وDGT: حتى 750 كغ برخصة B، وما فوق ذلك بشروط أو برخصة B+E.",
+   "ref": "RGCond (RD 818/2009) art. 4"
+  },
+  {
+   "level": 2,
+   "q": "¿Cada cuánto se renueva el permiso B antes de cumplir 65 años?",
+   "options": [
+    "Cada 5 años",
+    "Cada 2 años",
+    "Nunca",
+    "Cada 10 años"
+   ],
+   "answer": 3,
+   "ar_q": "كل كم سنة تُجدَّد رخصة B قبل بلوغ 65 سنة؟",
+   "ar_options": [
+    "كل 5 سنوات",
+    "كل سنتين",
+    "لا تُجدَّد",
+    "كل 10 سنوات"
+   ],
+   "ar_exp": "المادة 12 من RGCond وDGT: كل 10 سنوات حتى 65، ثم كل 5 سنوات.",
+   "ref": "RGCond (RD 818/2009) art. 12"
+  },
+  {
+   "level": 2,
+   "q": "Después de aprobar el último examen, el permiso provisional te permite conducir:",
+   "options": [
+    "3 meses y solo en España",
+    "1 año en toda Europa",
+    "Sin límite",
+    "Solo con un acompañante"
+   ],
+   "answer": 0,
+   "ar_q": "بعد النجاح في آخر امتحان، تسمح لك الرخصة المؤقتة بالقيادة:",
+   "ar_options": [
+    "3 أشهر وداخل إسبانيا فقط",
+    "سنة في كل أوروبا",
+    "بلا حدود",
+    "مع مرافق فقط"
+   ],
+   "ar_exp": "حسب DGT: الرخصة المؤقتة صالحة 3 أشهر داخل إسبانيا فقط.",
+   "ref": "DGT – Requisitos y presentación a examen"
+  },
+  {
+   "level": 3,
+   "q": "Un examen teórico aprobado mantiene su validez durante:",
+   "options": [
+    "6 meses",
+    "2 años",
+    "1 año",
+    "5 años"
+   ],
+   "answer": 1,
+   "ar_q": "يبقى الامتحان النظري الناجح صالحًا لمدة:",
+   "ar_options": [
+    "6 أشهر",
+    "سنتين",
+    "سنة",
+    "5 سنوات"
+   ],
+   "ar_exp": "حسب DGT: يُحتفظ بالنجاح سنتين، والرسوم تمنح حق محاولتين.",
+   "ref": "DGT – Requisitos y presentación a examen"
+  },
+  {
+   "level": 3,
+   "q": "El informe de aptitud psicofísica para examinarse tiene una validez de:",
+   "options": [
+    "1 año",
+    "30 días",
+    "90 días",
+    "2 años"
+   ],
+   "answer": 2,
+   "ar_q": "تقرير الأهلية النفسية والجسدية للتقدم للامتحان صالح لمدة:",
+   "ar_options": [
+    "سنة",
+    "30 يومًا",
+    "90 يومًا",
+    "سنتين"
+   ],
+   "ar_exp": "حسب DGT: صالح 90 يومًا ويجب تقديم الطلب قبل انتهائه.",
+   "ref": "DGT – Requisitos y presentación a examen"
+  },
+  {
+   "level": 1,
+   "q": "La conducta PAS ante un accidente significa:",
+   "options": [
+    "Parar, Andar, Salir",
+    "Prevenir, Ayudar, Sanar",
+    "Preguntar, Avisar, Seguir",
+    "Proteger, Avisar, Socorrer"
+   ],
+   "answer": 3,
+   "ar_q": "سلوك PAS عند وقوع حادث يعني:",
+   "ar_options": [
+    "توقف، مشي، خروج",
+    "وقاية، مساعدة، علاج",
+    "سؤال، إبلاغ، متابعة",
+    "حماية، إبلاغ، إسعاف"
+   ],
+   "ar_exp": "حسب DGT: أولًا الحماية، ثم إبلاغ الطوارئ (112)، ثم الإسعاف إن كانت لديك المعرفة.",
+   "ref": "DGT – Qué hacer ante un accidente"
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es el teléfono europeo de emergencias?",
+   "options": [
+    "112",
+    "091",
+    "061",
+    "012"
+   ],
+   "answer": 0,
+   "ar_q": "ما رقم هاتف الطوارئ الأوروبي؟",
+   "ar_options": [
+    "112",
+    "091",
+    "061",
+    "012"
+   ],
+   "ar_exp": "حسب DGT: الرقم الأوروبي الموحد للطوارئ هو 112.",
+   "ref": "DGT – Qué hacer ante un accidente"
+  },
+  {
+   "level": 2,
+   "q": "Si el herido es un motorista, ¿qué no debes hacer?",
+   "options": [
+    "Llamar al 112",
+    "Quitarle el casco",
+    "Protegerle del frío",
+    "Señalizar el lugar"
+   ],
+   "answer": 1,
+   "ar_q": "إذا كان المصاب سائق دراجة نارية، ما الذي يجب ألا تفعله؟",
+   "ar_options": [
+    "الاتصال بـ 112",
+    "نزع خوذته",
+    "حمايته من البرد",
+    "تأمين مكان الحادث بالإشارات"
+   ],
+   "ar_exp": "حسب DGT: لا تنزع خوذة الدراج المصاب، ولا تعطِ المصابين أكلًا ولا شربًا.",
+   "ref": "DGT – Qué hacer ante un accidente"
+  },
+  {
+   "level": 2,
+   "q": "¿Quién es responsable de circular con la ITV caducada?",
+   "options": [
+    "El último conductor siempre",
+    "El taller",
+    "El titular del vehículo",
+    "Nadie"
+   ],
+   "answer": 2,
+   "ar_q": "من المسؤول عن السير بفحص تقني (ITV) منتهي الصلاحية؟",
+   "ar_options": [
+    "آخر سائق دائمًا",
+    "الورشة",
+    "مالك السيارة (صاحبها المسجل)",
+    "لا أحد"
+   ],
+   "ar_exp": "المادة 82 من LSV وDGT: الوثائق والتأمين والفحص الدوري ITV من مسؤولية مالك السيارة أو المستأجر.",
+   "ref": "LSV art. 82"
+  },
+  {
+   "level": 1,
+   "q": "Para usar el GPS de forma segura debes:",
+   "options": [
+    "Manejarlo en los semáforos",
+    "Programarlo en marcha si vas despacio",
+    "Mirarlo continuamente",
+    "Programarlo antes de salir y con el vehículo parado"
+   ],
+   "answer": 3,
+   "ar_q": "لاستعمال جهاز GPS بأمان يجب:",
+   "ar_options": [
+    "استعماله عند الإشارات الضوئية",
+    "برمجته أثناء السير إذا كانت السرعة بطيئة",
+    "النظر إليه باستمرار",
+    "برمجته قبل الانطلاق والسيارة متوقفة"
+   ],
+   "ar_exp": "حسب DGT: يُبرمج قبل بدء الرحلة والمركبة متوقفة، ويُفضَّل استعماله بالصوت.",
+   "ref": "DGT – Distracciones"
+  },
+  {
+   "level": 2,
+   "q": "En viajes largos se recomienda parar a descansar:",
+   "options": [
+    "Cada 2 horas aproximadamente",
+    "Cada 6 horas",
+    "Solo al llegar",
+    "Cada 30 minutos"
+   ],
+   "answer": 0,
+   "ar_q": "في الرحلات الطويلة يُنصح بالتوقف للراحة:",
+   "ar_options": [
+    "كل ساعتين تقريبًا",
+    "كل 6 ساعات",
+    "عند الوصول فقط",
+    "كل 30 دقيقة"
+   ],
+   "ar_exp": "حسب DGT: الإرهاق مرتبط بـ 20 إلى 30 % من الحوادث، ويُنصح في الرحلات الطويلة بالتوقف كل ساعتين.",
+   "ref": "DGT – Distracciones al volante"
+  },
+  {
+   "level": 1,
+   "q": "Si un agente te ordena pasar y el semáforo está en rojo, debes:",
+   "options": [
+    "Obedecer al semáforo",
+    "Obedecer al agente",
+    "Tocar el claxon",
+    "Esperar a que el agente se vaya"
+   ],
+   "answer": 1,
+   "ar_q": "إذا أمرك شرطي المرور بالمرور والإشارة الضوئية حمراء، يجب أن:",
+   "ar_options": [
+    "تطيع الإشارة الضوئية",
+    "تطيع الشرطي",
+    "تستعمل المنبه",
+    "تنتظر حتى يغادر الشرطي"
+   ],
+   "ar_exp": "حسب DGT: أوامر الأعوان تتقدم كقاعدة عامة على كل الإشارات الأخرى حتى لو تعارضت معها.",
+   "ref": "DGT – Viaja seguro a pie"
+  },
+  {
+   "level": 2,
+   "q": "Un agente con el brazo levantado verticalmente obliga a:",
+   "options": [
+    "Acelerar",
+    "Girar a la derecha",
+    "Detenerse a todos los usuarios que se acerquen a él",
+    "Solo a los peatones a detenerse"
+   ],
+   "answer": 2,
+   "ar_q": "شرطي المرور الذي يرفع ذراعه عموديًا يُلزم بـ:",
+   "ar_options": [
+    "الإسراع",
+    "الانعطاف يمينًا",
+    "توقف كل مستعملي الطريق القادمين نحوه",
+    "توقف المشاة فقط"
+   ],
+   "ar_exp": "حسب DGT: الذراع المرفوعة عموديًا تعني توقف جميع القادمين نحو العون.",
+   "ref": "DGT – Viaja seguro en bicicleta"
+  },
+  {
+   "level": 3,
+   "q": "Un agente con los brazos extendidos horizontalmente obliga a detenerse a:",
+   "options": [
+    "Todos los vehículos sin excepción",
+    "Solo a los que vienen por detrás de él",
+    "Nadie, es un saludo",
+    "Quienes se acerquen desde direcciones que corten la indicada por sus brazos"
+   ],
+   "answer": 3,
+   "ar_q": "شرطي المرور الذي يمد ذراعيه أفقيًا يُلزم بالتوقف:",
+   "ar_options": [
+    "كل المركبات دون استثناء",
+    "القادمين من خلفه فقط",
+    "لا أحد، إنها تحية",
+    "القادمين من اتجاهات تقطع الاتجاه الذي تشير إليه ذراعاه"
+   ],
+   "ar_exp": "حسب DGT: يتوقف القادمون من اتجاهات تتقاطع مع اتجاه الذراعين، وتبقى الإشارة سارية ولو أنزل ذراعيه ما لم يغير وضعه.",
+   "ref": "DGT – Viaja seguro en bicicleta"
+  },
+  {
+   "level": 2,
+   "q": "Ante un semáforo en ámbar no intermitente, puedes continuar solo si:",
+   "options": [
+    "Estás tan cerca que no puedes detenerte con seguridad",
+    "No viene nadie",
+    "Llevas prisa",
+    "Es de noche"
+   ],
+   "answer": 0,
+   "ar_q": "أمام إشارة برتقالية ثابتة (غير وامضة)، يمكنك الاستمرار فقط إذا:",
+   "ar_options": [
+    "كنت قريبًا جدًا بحيث لا يمكنك التوقف بأمان",
+    "لم يأت أحد",
+    "كنت مستعجلًا",
+    "كان الوقت ليلًا"
+   ],
+   "ar_exp": "حسب DGT: الأحمر والبرتقالي الثابت يُلزمان بالتوقف، إلا إذا كنت قريبًا جدًا ولا تستطيع التوقف بأمان.",
+   "ref": "DGT – Viaja seguro en bicicleta"
+  },
+  {
+   "level": 1,
+   "q": "¿Qué tres documentos debes llevar siempre al conducir?",
+   "options": [
+    "Pasaporte, póliza del seguro y recibo",
+    "Permiso de conducir, permiso de circulación y tarjeta ITV",
+    "Solo el permiso de conducir",
+    "Factura de compra, ITV y DNI"
+   ],
+   "answer": 1,
+   "ar_q": "ما الوثائق الثلاث التي يجب أن تحملها دائمًا عند القيادة؟",
+   "ar_options": [
+    "جواز السفر، عقد التأمين والوصل",
+    "رخصة السياقة، ورخصة سير المركبة (البطاقة الرمادية)، وبطاقة الفحص التقني ITV",
+    "رخصة السياقة فقط",
+    "فاتورة الشراء، ITV وبطاقة الهوية"
+   ],
+   "ar_exp": "حسب DGT: هذه الوثائق الثلاث إلزامية؛ ومنذ 2008 لم يعد إلزاميًا حمل عقد التأمين ولا وصل الدفع.",
+   "ref": "DGT – Qué documentación debes llevar"
+  },
+  {
+   "level": 2,
+   "q": "El permiso de conducir y el de circulación en la app miDGT:",
+   "options": [
+    "No tienen validez",
+    "Solo valen fuera de España",
+    "Tienen la misma validez legal que los físicos para circular en España",
+    "Solo valen para motos"
+   ],
+   "answer": 2,
+   "ar_q": "رخصة السياقة ورخصة السير في تطبيق miDGT:",
+   "ar_options": [
+    "لا قيمة لهما",
+    "صالحتان خارج إسبانيا فقط",
+    "لهما نفس القيمة القانونية للوثائق الورقية داخل إسبانيا",
+    "صالحتان للدراجات النارية فقط"
+   ],
+   "ar_exp": "حسب DGT: الوثائق في تطبيق miDGT لها نفس الصلاحية القانونية داخل التراب الإسباني.",
+   "ref": "DGT – Qué documentación debes llevar"
+  },
+  {
+   "level": 2,
+   "q": "En las vías interurbanas (fuera de Cataluña, País Vasco y Navarra), vigila y denuncia el tráfico:",
+   "options": [
+    "La policía local",
+    "Los bomberos",
+    "Protección Civil",
+    "La Agrupación de Tráfico de la Guardia Civil"
+   ],
+   "answer": 3,
+   "ar_q": "في الطرق خارج المدن (خارج كتالونيا والباسك ونافارا)، من يراقب حركة السير ويحرر المخالفات؟",
+   "ar_options": [
+    "الشرطة المحلية",
+    "رجال الإطفاء",
+    "الحماية المدنية",
+    "فرقة المرور التابعة للحرس المدني (Guardia Civil)"
+   ],
+   "ar_exp": "حسب DGT: الحرس المدني خارج المدن، وMossos في كتالونيا، وErtzaintza في الباسك، والشرطة الفورالية في نافارا، والشرطة المحلية داخل المدن.",
+   "ref": "DGT – ¿Quién puede multarte?"
+  },
+  {
+   "level": 2,
+   "q": "Si pagas una multa de la DGT en los primeros 20 días naturales:",
+   "options": [
+    "Tienes una reducción del 50 %",
+    "Pagas el doble",
+    "No hay ninguna reducción",
+    "Pierdes más puntos"
+   ],
+   "answer": 0,
+   "ar_q": "إذا دفعت غرامة DGT خلال أول 20 يومًا:",
+   "ar_options": [
+    "تحصل على تخفيض 50 %",
+    "تدفع الضعف",
+    "لا يوجد أي تخفيض",
+    "تخسر نقاطًا أكثر"
+   ],
+   "ar_exp": "حسب DGT: لديك 20 يومًا طبيعيًا للدفع مع تخفيض 50 %.",
+   "ref": "DGT – ¿Quién puede multarte?"
+  },
+  {
+   "level": 2,
+   "q": "En un túnel señalizado con la señal S-5, ¿cuándo se puede adelantar?",
+   "options": [
+    "Siempre que no venga nadie",
+    "Solo si hay más de un carril para tu sentido",
+    "Nunca, en ningún caso",
+    "Solo a ciclistas"
+   ],
+   "answer": 1,
+   "ar_q": "في نفق تشير إليه العلامة S-5، متى يمكن التجاوز؟",
+   "ar_options": [
+    "دائمًا إذا لم يأت أحد",
+    "فقط إذا كان هناك أكثر من ممر في اتجاهك",
+    "أبدًا في أي حال",
+    "الدراجين فقط"
+   ],
+   "ar_exp": "حسب DGT: في الأنفاق يُسمح بالتجاوز فقط عند وجود أكثر من ممر في اتجاه السير، ويُمنع التوقف والوقوف والرجوع والدوران.",
+   "ref": "DGT – Consejos para conducir en túneles"
+  },
+  {
+   "level": 1,
+   "q": "Antes de entrar en un túnel, aunque sea corto, debes:",
+   "options": [
+    "Apagar las luces",
+    "Acelerar",
+    "Encender las luces y quitarte las gafas de sol",
+    "Tocar el claxon"
+   ],
+   "answer": 2,
+   "ar_q": "قبل دخول نفق، ولو كان قصيرًا، يجب:",
+   "ar_options": [
+    "إطفاء الأضواء",
+    "الإسراع",
+    "تشغيل الأضواء ونزع النظارات الشمسية",
+    "استعمال المنبه"
+   ],
+   "ar_exp": "حسب DGT: تشغيل الأضواء ضروري لترى وتُرى، ونزع النظارات الشمسية عند الدخول ووضعها عند الخروج.",
+   "ref": "DGT – Consejos para conducir en túneles"
+  },
+  {
+   "level": 2,
+   "q": "¿Está permitido salir de una glorieta desde un carril interior?",
+   "options": [
+    "Sí, siempre",
+    "Sí, si señalizas",
+    "Solo de noche",
+    "No, como norma general se sale desde el carril exterior derecho"
+   ],
+   "answer": 3,
+   "ar_q": "هل يُسمح بالخروج من الدوار انطلاقًا من ممر داخلي؟",
+   "ar_options": [
+    "نعم دائمًا",
+    "نعم إذا أشرت بالضوء",
+    "ليلًا فقط",
+    "لا، كقاعدة عامة يكون الخروج من الممر الخارجي الأيمن"
+   ],
+   "ar_exp": "حسب DGT: الخروج يكون من الممر الخارجي؛ وإن تعذر الوصول إليه فالأسلم القيام بدورة أخرى.",
+   "ref": "DGT – Glorietas"
+  },
+  {
+   "level": 1,
+   "q": "Al acercarte a una glorieta debes mirar especialmente hacia:",
+   "options": [
+    "La izquierda, por donde vienen los que ya circulan dentro",
+    "La derecha",
+    "Atrás",
+    "Arriba"
+   ],
+   "answer": 0,
+   "ar_q": "عند الاقتراب من الدوار يجب أن تنظر خاصة نحو:",
+   "ar_options": [
+    "اليسار، حيث يأتي من يسيرون داخل الدوار",
+    "اليمين",
+    "الخلف",
+    "الأعلى"
+   ],
+   "ar_exp": "حسب DGT: لاحظ اليسار، خفف السرعة، وأعطِ الأولوية لمن هم داخل الدوار ولو اضطررت للتوقف.",
+   "ref": "DGT – Glorietas"
+  },
+  {
+   "level": 2,
+   "q": "Para una conducción eficiente se recomienda circular:",
+   "options": [
+    "En marchas cortas y altas revoluciones",
+    "En la marcha más larga posible y a bajas revoluciones",
+    "Siempre en punto muerto en las bajadas",
+    "Acelerando y frenando a menudo"
+   ],
+   "answer": 1,
+   "ar_q": "للسياقة الاقتصادية (الفعالة) يُنصح بالسير:",
+   "ar_options": [
+    "بغيارات قصيرة ودورات عالية",
+    "بأعلى غيار ممكن وبدورات محرك منخفضة",
+    "دائمًا على المحايد في المنحدرات",
+    "مع التسريع والفرملة كثيرًا"
+   ],
+   "ar_exp": "حسب DGT: الغيارات الطويلة والدورات المنخفضة تقلل الاستهلاك، والنزول على المحايد خطير ويزيد الاستهلاك.",
+   "ref": "DGT – Conducción eficiente"
+  },
+  {
+   "level": 3,
+   "q": "Como referencia de conducción eficiente, antes de llegar a 50 km/h deberías llevar engranada:",
+   "options": [
+    "La 1ª marcha",
+    "La 2ª marcha",
+    "La 4ª o 5ª marcha",
+    "La marcha atrás"
+   ],
+   "answer": 2,
+   "ar_q": "كمرجع للسياقة الاقتصادية، قبل الوصول إلى 50 كم/س يجب أن تكون على:",
+   "ar_options": [
+    "الغيار الأول",
+    "الغيار الثاني",
+    "الغيار الرابع أو الخامس",
+    "غيار الرجوع"
+   ],
+   "ar_exp": "حسب DGT: قبل 50 كم/س ينبغي أن تكون على الغيار الرابع أو الخامس.",
+   "ref": "DGT – Cómo ahorrar combustible"
+  },
+  {
+   "level": 2,
+   "q": "¿A qué temperatura se recomienda el aire acondicionado para ahorrar combustible?",
+   "options": [
+    "Entre 16 y 17 ºC",
+    "Entre 26 y 28 ºC",
+    "Al mínimo posible",
+    "Entre 21 y 22 ºC"
+   ],
+   "answer": 3,
+   "ar_q": "ما درجة الحرارة الموصى بها للمكيف لتوفير الوقود؟",
+   "ar_options": [
+    "بين 16 و17 درجة",
+    "بين 26 و28 درجة",
+    "أدنى درجة ممكنة",
+    "بين 21 و22 درجة"
+   ],
+   "ar_exp": "حسب DGT: المكيف من أكثر الأجهزة استهلاكًا؛ يُنصح بـ 21–22 درجة.",
+   "ref": "DGT – Conducción eficiente"
+  },
+  {
+   "level": 2,
+   "q": "La «flecha de retorno» pintada en la calzada indica que:",
+   "options": [
+    "Se acerca una línea continua y debes volver al carril derecho",
+    "Puedes adelantar",
+    "Debes dar la vuelta",
+    "Hay una salida"
+   ],
+   "answer": 0,
+   "ar_q": "«سهم العودة» المرسوم على الطريق يعني أن:",
+   "ar_options": [
+    "خطًا متصلًا يقترب ويجب الرجوع إلى الممر الأيمن",
+    "يمكنك التجاوز",
+    "يجب أن تستدير",
+    "هناك مخرج"
+   ],
+   "ar_exp": "حسب DGT: سهم العودة يسبق بداية الخط المتصل الذي يُمنع بعده التجاوز، فيجب العودة إلى اليمين قبله.",
+   "ref": "DGT – Flechas en señales"
+  },
+  {
+   "level": 2,
+   "q": "En un semáforo de carril, un aspa roja significa:",
+   "options": [
+    "El carril va a cerrarse pronto",
+    "Prohibido circular por ese carril",
+    "Paso permitido",
+    "Carril para autobuses"
+   ],
+   "answer": 1,
+   "ar_q": "في إشارة الممر الضوئية، علامة X الحمراء تعني:",
+   "ar_options": [
+    "الممر سيغلق قريبًا",
+    "يُمنع السير في ذلك الممر",
+    "المرور مسموح",
+    "ممر للحافلات"
+   ],
+   "ar_exp": "حسب DGT: السهم الأخضر يسمح، والـ X الحمراء تمنع، والسهم الأصفر المائل ينذر بإغلاق الممر.",
+   "ref": "DGT – Flechas en señales"
+  },
+  {
+   "level": 1,
+   "q": "Fuera de poblado, un peatón que va solo por la carretera debe circular como norma general por:",
+   "options": [
+    "La derecha",
+    "El centro de la calzada",
+    "La izquierda",
+    "Cualquier lado"
+   ],
+   "answer": 2,
+   "ar_q": "خارج المدن، الراجل الذي يمشي وحده على الطريق يجب أن يسير كقاعدة عامة على:",
+   "ar_options": [
+    "اليمين",
+    "وسط الطريق",
+    "اليسار",
+    "أي جانب"
+   ],
+   "ar_exp": "حسب DGT: على اليسار ليرى السيارات القادمة أمامه، ويرتدي عنصرًا عاكسًا ليلًا أو عند ضعف الرؤية.",
+   "ref": "DGT – Viaja seguro a pie"
+  },
+  {
+   "level": 3,
+   "q": "Si quedas atrapado por una nevada en plena carretera, Protección Civil recomienda:",
+   "options": [
+    "Salir a caminar para buscar ayuda",
+    "Dormir con el motor en marcha y las ventanillas cerradas",
+    "Abandonar el coche en el carril",
+    "Permanecer en el coche con calefacción, renovar el aire y llamar al 112"
+   ],
+   "answer": 3,
+   "ar_q": "إذا علقت بسبب الثلج وسط الطريق، توصي الحماية المدنية بـ:",
+   "ar_options": [
+    "الخروج والمشي لطلب المساعدة",
+    "النوم والمحرك يعمل والنوافذ مغلقة",
+    "ترك السيارة في الممر",
+    "البقاء في السيارة مع التدفئة، وتجديد الهواء، والاتصال بـ 112"
+   ],
+   "ar_exp": "حسب DGT والحماية المدنية: ابقَ داخل السيارة، جدد الهواء، اتصل بـ 112، وتجنب النوم والمحرك يعمل، وتأكد أن العادم غير مسدود.",
+   "ref": "DGT – Emergencias en carretera"
+  },
+  {
+   "level": 3,
+   "q": "Si la carga sobresale y ocupa todo el ancho del vehículo, debes llevar:",
+   "options": [
+    "Dos señales V-20 formando una «V» invertida",
+    "Una sola señal V-20",
+    "Un triángulo",
+    "Nada"
+   ],
+   "answer": 0,
+   "ar_q": "إذا كانت الحمولة بارزة وتشغل عرض المركبة بالكامل، يجب وضع:",
+   "ar_options": [
+    "علامتين V-20 على شكل «V» مقلوبة",
+    "علامة V-20 واحدة",
+    "مثلث",
+    "لا شيء"
+   ],
+   "ar_exp": "حسب DGT: حمولة أقل من العرض = علامة V-20 واحدة، تشغل كامل العرض = علامتان، وأعرض من المركبة = ممنوعة.",
+   "ref": "DGT – Otros aspectos de interés"
+  }
+ ]
+}
