@@ -1,0 +1,477 @@
+{
+ "topic_id": "weather",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "☀️",
+   "es": "el sol",
+   "ar": "الشمس",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🌧️",
+   "es": "la lluvia",
+   "ar": "المطر",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "❄️",
+   "es": "la nieve",
+   "ar": "الثلج",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "💨",
+   "es": "el viento",
+   "ar": "الريح",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "☁️",
+   "es": "la nube",
+   "ar": "السحابة",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🌫️",
+   "es": "la niebla",
+   "ar": "الضباب",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "⛈️",
+   "es": "la tormenta",
+   "ar": "العاصفة",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🌡️",
+   "es": "la temperatura",
+   "ar": "درجة الحرارة",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🥵",
+   "es": "el calor",
+   "ar": "الحر",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🥶",
+   "es": "el frío",
+   "ar": "البرد",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🌈",
+   "es": "el arcoíris",
+   "ar": "قوس قزح",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "☀️",
+   "es": "Hace sol.",
+   "ar": "الجو مشمس.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "🌧️",
+   "es": "Está lloviendo.",
+   "ar": "إنها تمطر.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "🥶",
+   "es": "Hace mucho frío.",
+   "ar": "الجو بارد جدا.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "🥵",
+   "es": "Hace calor.",
+   "ar": "الجو حار.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "💨",
+   "es": "Hace viento.",
+   "ar": "هناك رياح.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "☂️",
+   "es": "Coge el paraguas, va a llover.",
+   "ar": "خذ المظلة، ستمطر.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "🌡️",
+   "es": "Estamos a treinta grados.",
+   "ar": "درجة الحرارة ثلاثون درجة.",
+   "section": "الطقس"
+  },
+  {
+   "level": 2,
+   "emoji": "🌤️",
+   "es": "¿Qué tiempo hace hoy?",
+   "ar": "كيف الطقس اليوم؟",
+   "section": "الطقس"
+  },
+  {
+   "level": 3,
+   "emoji": "🥵",
+   "es": "Con este calor, bebe mucha agua y descansa a la sombra.",
+   "ar": "مع هذا الحر، اشرب الكثير من الماء واسترح في الظل.",
+   "section": "الطقس"
+  },
+  {
+   "level": 3,
+   "emoji": "🌧️",
+   "es": "Mañana se esperan lluvias fuertes en el norte.",
+   "ar": "يُتوقع غدا هطول أمطار غزيرة في الشمال.",
+   "section": "الطقس"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Hay alerta naranja por altas temperaturas.",
+   "ar": "هناك إنذار برتقالي بسبب درجات الحرارة المرتفعة.",
+   "section": "الطقس"
+  },
+  {
+   "level": 1,
+   "emoji": "🌸",
+   "es": "la primavera",
+   "ar": "الربيع",
+   "section": "الفصول"
+  },
+  {
+   "level": 1,
+   "emoji": "🏖️",
+   "es": "el verano",
+   "ar": "الصيف",
+   "section": "الفصول"
+  },
+  {
+   "level": 1,
+   "emoji": "🍂",
+   "es": "el otoño",
+   "ar": "الخريف",
+   "section": "الفصول"
+  },
+  {
+   "level": 1,
+   "emoji": "⛄",
+   "es": "el invierno",
+   "ar": "الشتاء",
+   "section": "الفصول"
+  },
+  {
+   "level": 2,
+   "emoji": "🗓️",
+   "es": "las estaciones del año",
+   "ar": "فصول السنة",
+   "section": "الفصول"
+  },
+  {
+   "level": 2,
+   "emoji": "🌷",
+   "es": "En primavera hay muchas flores.",
+   "ar": "في الربيع هناك الكثير من الأزهار.",
+   "section": "الفصول"
+  },
+  {
+   "level": 2,
+   "emoji": "🍁",
+   "es": "En otoño caen las hojas.",
+   "ar": "في الخريف تتساقط الأوراق.",
+   "section": "الفصول"
+  },
+  {
+   "level": 2,
+   "emoji": "👙",
+   "es": "En verano vamos a la playa.",
+   "ar": "في الصيف نذهب إلى الشاطئ.",
+   "section": "الفصول"
+  },
+  {
+   "level": 2,
+   "emoji": "🏔️",
+   "es": "En invierno nieva en la montaña.",
+   "ar": "في الشتاء يتساقط الثلج في الجبل.",
+   "section": "الفصول"
+  },
+  {
+   "level": 3,
+   "emoji": "🍊",
+   "es": "En muchas zonas de España, la recogida de la naranja se hace en invierno.",
+   "ar": "في مناطق كثيرة من إسبانيا يُجنى البرتقال في الشتاء.",
+   "section": "الفصول"
+  },
+  {
+   "level": 3,
+   "emoji": "🍇",
+   "es": "La vendimia se hace al final del verano y en otoño.",
+   "ar": "قطاف العنب يكون في آخر الصيف وفي الخريف.",
+   "section": "الفصول"
+  },
+  {
+   "level": 3,
+   "emoji": "☀️",
+   "es": "En el sur de España los veranos son muy calurosos.",
+   "ar": "في جنوب إسبانيا يكون الصيف حارا جدا.",
+   "section": "الفصول"
+  },
+  {
+   "level": 1,
+   "emoji": "🌊",
+   "es": "el mar",
+   "ar": "البحر",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "⛰️",
+   "es": "la montaña",
+   "ar": "الجبل",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌳",
+   "es": "el árbol",
+   "ar": "الشجرة",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🏞️",
+   "es": "el río",
+   "ar": "النهر",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌼",
+   "es": "la flor",
+   "ar": "الزهرة",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🏝️",
+   "es": "la playa",
+   "ar": "الشاطئ",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌲",
+   "es": "el bosque",
+   "ar": "الغابة",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌕",
+   "es": "la luna",
+   "ar": "القمر",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🍃",
+   "es": "la hoja",
+   "ar": "ورقة الشجر",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🪨",
+   "es": "la piedra",
+   "ar": "الحجر",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌾",
+   "es": "el campo",
+   "ar": "الحقل",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏝️",
+   "es": "la isla",
+   "ar": "الجزيرة",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌌",
+   "es": "el cielo",
+   "ar": "السماء",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 3,
+   "emoji": "🌳",
+   "es": "Los árboles dan sombra y limpian el aire.",
+   "ar": "الأشجار تعطي الظل وتنظف الهواء.",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 3,
+   "emoji": "⭐",
+   "es": "Por la noche se ven la luna y las estrellas.",
+   "ar": "في الليل نرى القمر والنجوم.",
+   "section": "الطبيعة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏜️",
+   "es": "En el desierto llueve muy poco.",
+   "ar": "في الصحراء يقل المطر كثيرا.",
+   "section": "الطبيعة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la lluvia\"?",
+   "options": [
+    "الثلج",
+    "المطر",
+    "الريح"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la lluvia\"؟",
+   "ar_exp": "\"la lluvia\" هي المطر."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el sol\"?",
+   "options": [
+    "الشمس",
+    "القمر",
+    "السحابة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el sol\"؟",
+   "ar_exp": "\"el sol\" هي الشمس."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"الشتاء\" en español?",
+   "options": [
+    "el verano",
+    "el otoño",
+    "el invierno"
+   ],
+   "answer": 2,
+   "ar_q": "كيف نقول \"الشتاء\" بالإسبانية؟",
+   "ar_exp": "\"el invierno\" هو الشتاء، و\"el verano\" هو الصيف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el árbol\"?",
+   "options": [
+    "الشجرة",
+    "الزهرة",
+    "الحجر"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el árbol\"؟",
+   "ar_exp": "\"el árbol\" هي الشجرة."
+  },
+  {
+   "level": 2,
+   "q": "\"Hace mucho frío.\" ¿Qué tiempo hace?",
+   "options": [
+    "الجو حار جدا",
+    "الجو بارد جدا",
+    "الجو ممطر"
+   ],
+   "answer": 1,
+   "ar_q": "\"Hace mucho frío.\" كيف الطقس؟",
+   "ar_exp": "\"frío\" تعني البرد، فالجو بارد جدا."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber el tiempo de hoy. ¿Qué preguntas?",
+   "options": [
+    "¿Qué hora es hoy?",
+    "¿Qué día es hoy?",
+    "¿Qué tiempo hace hoy?"
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تعرف حالة الطقس اليوم. ماذا تسأل؟",
+   "ar_exp": "\"¿Qué tiempo hace?\" سؤال عن الطقس، أما \"¿Qué hora es?\" فسؤال عن الساعة."
+  },
+  {
+   "level": 2,
+   "q": "\"Coge el paraguas, va a llover.\" ¿Por qué necesitas el paraguas?",
+   "options": [
+    "لأنها ستمطر",
+    "لأن الجو حار",
+    "لأن هناك ثلجا"
+   ],
+   "answer": 0,
+   "ar_q": "\"Coge el paraguas, va a llover.\" لماذا تحتاج المظلة؟",
+   "ar_exp": "\"va a llover\" تعني \"ستمطر\"."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué estación caen las hojas de los árboles?",
+   "options": [
+    "en primavera",
+    "en otoño",
+    "en verano"
+   ],
+   "answer": 1,
+   "ar_q": "في أي فصل تتساقط أوراق الأشجار؟",
+   "ar_exp": "في الخريف \"en otoño\" تتساقط الأوراق."
+  },
+  {
+   "level": 3,
+   "q": "\"Con este calor, bebe mucha agua y descansa a la sombra.\" ¿Qué te aconsejan?",
+   "options": [
+    "أن تعمل أكثر تحت الشمس",
+    "أن تلبس معطفا",
+    "أن تشرب الماء كثيرا وتستريح في الظل"
+   ],
+   "answer": 2,
+   "ar_q": "\"Con este calor, bebe mucha agua y descansa a la sombra.\" بماذا ينصحونك؟",
+   "ar_exp": "\"la sombra\" هي الظل، والنصيحة هي شرب الماء والراحة في الظل بسبب الحر."
+  },
+  {
+   "level": 3,
+   "q": "\"Hay alerta naranja por altas temperaturas.\" ¿Qué significa?",
+   "options": [
+    "هناك إنذار بسبب الحرارة المرتفعة",
+    "هناك موسم البرتقال",
+    "هناك أمطار قليلة"
+   ],
+   "answer": 0,
+   "ar_q": "\"Hay alerta naranja por altas temperaturas.\" ما معناها؟",
+   "ar_exp": "\"alerta naranja\" إنذار من درجة خطر عالية، و\"altas temperaturas\" درجات حرارة مرتفعة."
+  }
+ ]
+}

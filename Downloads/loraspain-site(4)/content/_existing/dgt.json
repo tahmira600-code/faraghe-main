@@ -1,0 +1,233 @@
+{
+ "topic": {
+  "id": "dgt",
+  "kind": "package",
+  "name": "رخصة السياقة",
+  "name_es": "Carné de conducir (DGT)",
+  "emoji": "🚦",
+  "color": "c5",
+  "tier": "paid",
+  "price_cents": 400,
+  "blurb": "مفردات وأسئلة تدريبية على امتحان DGT",
+  "sort": 5,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "emoji": "🚥",
+   "es": "el semáforo",
+   "tr": {
+    "ar": "إشارة المرور الضوئية"
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "emoji": "🚸",
+   "es": "el paso de peatones",
+   "tr": {
+    "ar": "ممرّ الراجلين"
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "emoji": "🛑",
+   "es": "ceder el paso",
+   "tr": {
+    "ar": "إعطاء الأولوية"
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "emoji": "🔄",
+   "es": "la rotonda",
+   "tr": {
+    "ar": "الدوّار"
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "dgt",
+   "level": 2,
+   "emoji": "↔️",
+   "es": "el carril",
+   "tr": {
+    "ar": "المسار / الممر"
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "dgt",
+   "level": 2,
+   "emoji": "🏎️",
+   "es": "adelantar",
+   "tr": {
+    "ar": "التجاوز"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "dgt",
+   "level": 2,
+   "emoji": "🪪",
+   "es": "el permiso de conducir",
+   "tr": {
+    "ar": "رخصة السياقة"
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "dgt",
+   "level": 3,
+   "emoji": "➖",
+   "es": "los puntos del carné",
+   "tr": {
+    "ar": "نقاط الرخصة"
+   },
+   "section": "",
+   "sort": 7
+  }
+ ],
+ "questions": [
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "¿Cuál es la velocidad máxima genérica de un turismo en autopista?",
+   "options": [
+    "100 km/h",
+    "120 km/h",
+    "130 km/h"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "ما هي السرعة القصوى العامة للسيارة السياحية في الطريق السيار؟",
+     "exp": "السرعة القصوى العامة للسيارة السياحية في الطريق السيار والطريق السريع هي 120 كم/س، إلا إذا أشارت علامة إلى سرعة أقل."
+    }
+   },
+   "sort": 0
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "¿Qué indica una línea longitudinal continua en la calzada?",
+   "options": [
+    "Que se puede adelantar con precaución",
+    "Que está prohibido cruzarla o circular sobre ella",
+    "Que se puede aparcar al lado"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "ماذا يعني الخط الطولي المتصل على الطريق؟",
+     "exp": "الخط المتصل لا يجوز عبوره ولا السير فوقه، ولذلك يُمنع التجاوز الذي يتطلب عبوره."
+    }
+   },
+   "sort": 1
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "En una glorieta, ¿quién tiene preferencia por norma general?",
+   "options": [
+    "Los vehículos que ya circulan dentro",
+    "Los vehículos que van a entrar",
+    "El vehículo más grande"
+   ],
+   "answer": 0,
+   "tr": {
+    "ar": {
+     "q": "في الدوّار، من له الأولوية عادة؟",
+     "exp": "الأولوية للمركبات التي تسير داخل الدوّار، ومن يريد الدخول يجب أن يعطيها الأولوية."
+    }
+   },
+   "sort": 2
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "¿Cuál es la tasa máxima de alcohol en aire espirado para un conductor novel?",
+   "options": [
+    "0,15 mg/l",
+    "0,25 mg/l",
+    "0,50 mg/l"
+   ],
+   "answer": 0,
+   "tr": {
+    "ar": {
+     "q": "ما هي النسبة القصوى للكحول في هواء الزفير للسائق المبتدئ؟",
+     "exp": "السائق المبتدئ (أقل من سنتين من الرخصة) والسائق المهني حدّهما 0,15 ملغ/لتر في هواء الزفير، أما الباقون فـ 0,25."
+    }
+   },
+   "sort": 3
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "¿Es obligatorio usar el cinturón de seguridad en los asientos traseros?",
+   "options": [
+    "Sí, siempre",
+    "Solo en autopista",
+    "No, solo en los delanteros"
+   ],
+   "answer": 0,
+   "tr": {
+    "ar": {
+     "q": "هل حزام الأمان إجباري في المقاعد الخلفية؟",
+     "exp": "نعم، حزام الأمان إجباري لجميع الركاب في المقاعد الأمامية والخلفية وفي جميع الطرق."
+    }
+   },
+   "sort": 4
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "Ante una señal de STOP, el conductor debe…",
+   "options": [
+    "Reducir la velocidad y pasar si no viene nadie",
+    "Detenerse por completo y ceder el paso",
+    "Detenerse solo de noche"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "أمام علامة «قف»، يجب على السائق أن…",
+     "exp": "علامة STOP تفرض التوقف الكامل دائما حتى لو لم تأت أي سيارة، ثم إعطاء الأولوية."
+    }
+   },
+   "sort": 5
+  },
+  {
+   "topic_id": "dgt",
+   "level": 1,
+   "q": "En una vía urbana con un único carril por sentido, la velocidad máxima es…",
+   "options": [
+    "20 km/h",
+    "30 km/h",
+    "50 km/h"
+   ],
+   "answer": 1,
+   "tr": {
+    "ar": {
+     "q": "في طريق داخل المدينة بمسار واحد في كل اتجاه، السرعة القصوى هي…",
+     "exp": "منذ 2021 السرعة القصوى في الطرق الحضرية ذات المسار الواحد لكل اتجاه هي 30 كم/س."
+    }
+   },
+   "sort": 6
+  }
+ ]
+}

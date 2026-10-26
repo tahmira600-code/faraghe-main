@@ -1,0 +1,365 @@
+{
+  "unit": 7,
+  "level": 2,
+  "title_ar": "العمل",
+  "title_es": "El trabajo",
+  "emoji": "💼",
+  "lessons": [
+    {
+      "id": "u07-l1",
+      "title_ar": "المهن وأماكن العمل",
+      "title_es": "Profesiones y lugares de trabajo",
+      "emoji": "👷",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء المهن، وكيف تسأل عن عمل شخص وتجيب عن عملك.",
+      "explain": [
+        {
+          "h": "السؤال عن العمل",
+          "p": "¿A qué te dedicas؟ أو ¿En qué trabajas؟ = ما عملك؟ ومع usted نقول: ¿A qué se dedica؟",
+          "ex": [
+            ["—¿A qué te dedicas? —Soy camarero.", "— ما عملك؟ — أنا نادل."],
+            ["¿En qué trabaja usted?", "ما عملك؟ (بأدب)"]
+          ]
+        },
+        {
+          "h": "Soy + مهنة",
+          "p": "نقول Soy + المهنة بدون un/una: Soy albañil. ونقول trabajo de أو trabajo como + مهنة، وtrabajo en + مكان.",
+          "ex": [
+            ["Trabajo de cocinero en un hotel.", "أعمل طباخًا في فندق."],
+            ["Mi mujer trabaja como limpiadora en una oficina.", "زوجتي تعمل منظِّفة في مكتب."]
+          ]
+        },
+        {
+          "h": "المذكر والمؤنث",
+          "p": "كثير من المهن تتغير: camarero / camarera، cocinero / cocinera، enfermero / enfermera. والمهن المنتهية بـ -ista لا تتغير: el electricista / la electricista.",
+          "ex": [
+            ["Ella es enfermera.", "هي ممرضة."],
+            ["Mi hermana es recepcionista en un hotel.", "أختي موظفة استقبال في فندق."]
+          ]
+        },
+        {
+          "h": "البحث عن عمل",
+          "p": "estar en paro = عاطل عن العمل. buscar trabajo = يبحث عن عمل. ser autónomo = يعمل لحسابه الخاص.",
+          "ex": [
+            ["Estoy en paro y busco trabajo.", "أنا عاطل عن العمل وأبحث عن عمل."],
+            ["Mi hermano es autónomo: tiene una frutería.", "أخي يعمل لحسابه الخاص: عنده محل فواكه."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el camarero", "ar": "النادل", "e": "🍽️" },
+        { "es": "el cocinero", "ar": "الطباخ", "e": "👨‍🍳" },
+        { "es": "el albañil", "ar": "عامل البناء", "e": "🧱" },
+        { "es": "el agricultor", "ar": "المزارع", "e": "🚜" },
+        { "es": "el jornalero", "ar": "العامل باليومية", "e": "🌾" },
+        { "es": "el conductor", "ar": "السائق", "e": "🚚" },
+        { "es": "la limpiadora", "ar": "عاملة النظافة", "e": "🧹" },
+        { "es": "el enfermero", "ar": "الممرض", "e": "🧑‍⚕️" },
+        { "es": "el mecánico", "ar": "الميكانيكي", "e": "🔧" },
+        { "es": "el electricista", "ar": "الكهربائي", "e": "💡" },
+        { "es": "la empresa", "ar": "الشركة", "e": "🏢" },
+        { "es": "estar en paro", "ar": "عاطل عن العمل", "e": "" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿A qué te dedicas, Karim?", "ar": "ما عملك يا كريم؟" },
+        { "who": "B", "es": "Soy albañil. Trabajo en una empresa de construcción. ¿Y tú?", "ar": "أنا عامل بناء. أعمل في شركة بناء. وأنتِ؟" },
+        { "who": "A", "es": "Yo trabajo de camarera en un restaurante del centro.", "ar": "أنا أعمل نادلة في مطعم في وسط المدينة." },
+        { "who": "B", "es": "¿Y tu marido?", "ar": "وزوجك؟" },
+        { "who": "A", "es": "Ahora está en paro. Busca trabajo de conductor.", "ar": "هو الآن عاطل عن العمل. يبحث عن عمل سائقًا." },
+        { "who": "B", "es": "En mi empresa necesitan conductores. Puede enviar su currículum.", "ar": "في شركتي يحتاجون سائقين. يمكنه أن يرسل سيرته الذاتية." }
+      ],
+      "quiz": [
+        { "q": "ما معنى: ¿A qué te dedicas؟", "o": ["أين تسكن؟", "ما عملك؟", "كم عمرك؟"], "a": 1, "why": "¿A qué te dedicas? سؤال عن المهنة." },
+        { "q": "اختر الجملة الصحيحة:", "o": ["Estoy camarero.", "Soy de camarero.", "Soy camarero."], "a": 2, "why": "مع المهنة نستعمل ser بدون أداة: Soy camarero." },
+        { "q": "Trabajo ___ cocinero ___ un hotel.", "o": ["de / en", "en / de", "a / en"], "a": 0, "why": "trabajo de + مهنة، وen + مكان." },
+        { "q": "المؤنث من enfermero:", "o": ["la enfermero", "enfermera", "enfermeresa"], "a": 1, "why": "نغيّر -o إلى -a: enfermera." },
+        { "q": "ما معنى: Estoy en paro؟", "o": ["أنا في إجازة", "أنا متعب", "أنا عاطل عن العمل"], "a": 2, "why": "estar en paro = عاطل عن العمل." }
+      ]
+    },
+    {
+      "id": "u07-l2",
+      "title_ar": "الفعل gustar",
+      "title_es": "Me gusta mi trabajo",
+      "emoji": "❤️",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تعبّر عما تحب وما لا تحب باستعمال gustar وencantar.",
+      "explain": [
+        {
+          "h": "كيف يعمل gustar؟",
+          "p": "gustar معناه «يُعجِب». الشيء المحبوب هو الفاعل، والشخص يأتي بضمير قبل الفعل: me، te، le، nos، os، les.",
+          "ex": [
+            ["Me gusta mi trabajo.", "يعجبني عملي."],
+            ["¿Te gusta el café?", "هل تحب القهوة؟"]
+          ]
+        },
+        {
+          "h": "gusta أم gustan؟",
+          "p": "مع اسم مفرد أو مع مصدر نقول gusta، ومع اسم جمع نقول gustan.",
+          "ex": [
+            ["Me gusta trabajar en equipo.", "أحب العمل ضمن فريق."],
+            ["No me gustan los turnos de noche.", "لا أحب نوبات الليل."]
+          ]
+        },
+        {
+          "h": "a mí، a él...",
+          "p": "للتوضيح أو التأكيد نضيف a mí، a ti، a él / ella / usted، a nosotros... وهذا مهم مع le وles لأنهما غير واضحين.",
+          "ex": [
+            ["A mi jefe le gusta la puntualidad.", "مديري يحب الالتزام بالمواعيد."],
+            ["A ellos les gusta el fútbol.", "هم يحبون كرة القدم."]
+          ]
+        },
+        {
+          "h": "también وtampoco وencantar",
+          "p": "للموافقة: A mí también (وأنا أيضًا) بعد جملة مثبتة، وA mí tampoco (ولا أنا) بعد جملة منفية. encantar = يحب كثيرًا، ويعمل مثل gustar.",
+          "ex": [
+            ["—Me gusta el campo. —A mí también.", "— أحب الريف. — وأنا أيضًا."],
+            ["—No me gusta el frío. —A mí tampoco.", "— لا أحب البرد. — ولا أنا."],
+            ["Me encanta cocinar.", "أحب الطبخ كثيرًا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "gustar", "ar": "يُعجِب", "e": "❤️" },
+        { "es": "encantar", "ar": "يُعجِب كثيرًا", "e": "😍" },
+        { "es": "no me gusta nada", "ar": "لا يعجبني أبدًا", "e": "👎" },
+        { "es": "también", "ar": "أيضًا", "e": "➕" },
+        { "es": "tampoco", "ar": "ولا ... أيضًا (في النفي)", "e": "➖" },
+        { "es": "el turno de noche", "ar": "نوبة الليل", "e": "🌙" },
+        { "es": "el turno de mañana", "ar": "نوبة الصباح", "e": "🌅" },
+        { "es": "trabajar en equipo", "ar": "العمل ضمن فريق", "e": "🤝" },
+        { "es": "el compañero", "ar": "الزميل", "e": "👥" },
+        { "es": "el jefe", "ar": "المدير / الرئيس", "e": "👔" },
+        { "es": "el ambiente", "ar": "الجو (في العمل)", "e": "😊" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Te gusta tu nuevo trabajo en el almacén?", "ar": "هل يعجبك عملك الجديد في المستودع؟" },
+        { "who": "B", "es": "Sí, me gusta mucho. Los compañeros son muy simpáticos.", "ar": "نعم، يعجبني كثيرًا. الزملاء لطفاء جدًا." },
+        { "who": "A", "es": "¿Y el horario?", "ar": "والدوام؟" },
+        { "who": "B", "es": "No me gustan los turnos de noche, pero me encanta el ambiente.", "ar": "لا أحب نوبات الليل، لكن الجو يعجبني كثيرًا." },
+        { "who": "A", "es": "A mí tampoco me gustan los turnos de noche.", "ar": "ولا أنا أحب نوبات الليل." },
+        { "who": "B", "es": "¿Y a tu jefe le gusta tu trabajo?", "ar": "وهل يعجب مديرك عملك؟" },
+        { "who": "A", "es": "Creo que sí. Siempre llego puntual.", "ar": "أظن ذلك. أصل دائمًا في الموعد." }
+      ],
+      "quiz": [
+        { "q": "Me ___ los tomates.", "o": ["gusta", "gustan", "gusto"], "a": 1, "why": "los tomates جمع، لذلك gustan." },
+        { "q": "A mi madre ___ gusta cocinar.", "o": ["le", "me", "les"], "a": 0, "why": "mi madre شخص واحد (هي)، فنستعمل le." },
+        { "q": "— No me gusta el frío. — A mí ___.", "o": ["también", "sí", "tampoco"], "a": 2, "why": "بعد جملة منفية نوافق بـ tampoco." },
+        { "q": "Nos ___ trabajar en el campo.", "o": ["gusta", "gustamos", "gustan"], "a": 0, "why": "مع المصدر (trabajar) نستعمل gusta." },
+        { "q": "ما معنى: Me encanta este trabajo؟", "o": ["لا أحب هذا العمل", "أحب هذا العمل كثيرًا", "أبحث عن هذا العمل"], "a": 1, "why": "encantar = يُعجِب كثيرًا." }
+      ]
+    },
+    {
+      "id": "u07-l3",
+      "title_ar": "الالتزام: tener que وhay que",
+      "title_es": "Tener que y hay que",
+      "emoji": "📋",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تعبّر عن الواجبات وقواعد العمل باستعمال tener que وhay que وno se puede.",
+      "explain": [
+        {
+          "h": "tener que + مصدر",
+          "p": "tener que = يجب عليّ أن. نصرّف tener حسب الشخص، ثم que، ثم الفعل في صيغة المصدر.",
+          "ex": [
+            ["Tengo que llegar a las siete.", "يجب أن أصل في الساعة السابعة."],
+            ["¿Tienes que trabajar el domingo?", "هل يجب أن تعمل يوم الأحد؟"]
+          ]
+        },
+        {
+          "h": "hay que + مصدر",
+          "p": "hay que = يجب (بشكل عام، على الجميع). لا يتغير ولا يذكر شخصًا معيّنًا، وهو مفيد لقواعد العمل.",
+          "ex": [
+            ["Hay que llevar casco.", "يجب ارتداء الخوذة."],
+            ["Hay que lavarse las manos.", "يجب غسل اليدين."]
+          ]
+        },
+        {
+          "h": "ليس ضروريًا أم ممنوع؟",
+          "p": "no tener que = ليس ضروريًا. أما المنع فنقول no se puede أو está prohibido.",
+          "ex": [
+            ["Mañana no tengo que trabajar.", "غدًا لست مضطرًا للعمل."],
+            ["Aquí no se puede fumar.", "لا يُسمح بالتدخين هنا."],
+            ["Está prohibido usar el móvil en la máquina.", "ممنوع استعمال الهاتف عند الآلة."]
+          ]
+        },
+        {
+          "h": "necesitar وdeber",
+          "p": "necesitar + مصدر = يحتاج أن. deber + مصدر = ينبغي أن (للواجب والنصيحة).",
+          "ex": [
+            ["Necesito hablar con el encargado.", "أحتاج أن أتحدث مع المسؤول."],
+            ["Debes descansar más.", "ينبغي أن ترتاح أكثر."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "tener que", "ar": "يجب عليه أن", "e": "📌" },
+        { "es": "hay que", "ar": "يجب (على الجميع)", "e": "📋" },
+        { "es": "el casco", "ar": "الخوذة", "e": "⛑️" },
+        { "es": "los guantes", "ar": "القفازات", "e": "🧤" },
+        { "es": "las botas de seguridad", "ar": "أحذية السلامة", "e": "🥾" },
+        { "es": "el chaleco", "ar": "السترة العاكسة", "e": "🦺" },
+        { "es": "el encargado", "ar": "المسؤول / المشرف", "e": "🧑‍💼" },
+        { "es": "está prohibido", "ar": "ممنوع", "e": "🚫" },
+        { "es": "fumar", "ar": "يدخّن", "e": "🚬" },
+        { "es": "la seguridad", "ar": "السلامة", "e": "🛡️" },
+        { "es": "fichar", "ar": "يسجّل الحضور", "e": "🕘" },
+        { "es": "necesitar", "ar": "يحتاج", "e": "" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, soy el encargado. Hoy es tu primer día, ¿verdad?", "ar": "مرحبًا، أنا المسؤول. اليوم يومك الأول، أليس كذلك؟" },
+        { "who": "B", "es": "Sí. ¿Qué tengo que hacer?", "ar": "نعم. ماذا يجب أن أفعل؟" },
+        { "who": "A", "es": "Primero tienes que fichar en la entrada. Aquí hay que llevar siempre casco, guantes y chaleco.", "ar": "أولًا يجب أن تسجّل حضورك عند المدخل. هنا يجب ارتداء الخوذة والقفازات والسترة دائمًا." },
+        { "who": "B", "es": "Vale. ¿Puedo usar el móvil?", "ar": "حسنًا. هل يمكنني استعمال الهاتف؟" },
+        { "who": "A", "es": "No, está prohibido usar el móvil en la zona de trabajo. Y no se puede fumar dentro.", "ar": "لا، ممنوع استعمال الهاتف في منطقة العمل. ولا يُسمح بالتدخين في الداخل." },
+        { "who": "B", "es": "Entendido. ¿A qué hora tengo que venir mañana?", "ar": "مفهوم. في أي ساعة يجب أن آتي غدًا؟" },
+        { "who": "A", "es": "Mañana tienes que estar aquí a las siete en punto.", "ar": "غدًا يجب أن تكون هنا في السابعة تمامًا." }
+      ],
+      "quiz": [
+        { "q": "Yo ___ que trabajar el sábado.", "o": ["tengo", "hay", "tiene"], "a": 0, "why": "مع yo نقول tengo que." },
+        { "q": "قاعدة عامة لكل العمال: ___ que llevar casco.", "o": ["Está", "Hay", "Es"], "a": 1, "why": "للقاعدة العامة نقول hay que + مصدر." },
+        { "q": "ما معنى: No tengo que trabajar mañana؟", "o": ["لا أريد أن أعمل غدًا", "لا أستطيع العمل غدًا", "لست مضطرًا للعمل غدًا"], "a": 2, "why": "no tener que = ليس ضروريًا." },
+        { "q": "Nosotros tenemos ___ empezar pronto.", "o": ["que", "a", "de"], "a": 0, "why": "التركيب هو tener que + مصدر." },
+        { "q": "كيف تقول: ممنوع التدخين هنا؟", "o": ["Aquí tiene que fumar.", "Aquí está prohibido fumar.", "Aquí hay fumar."], "a": 1, "why": "está prohibido + مصدر = ممنوع." }
+      ]
+    },
+    {
+      "id": "u07-l4",
+      "title_ar": "الخطط: ir a + المصدر",
+      "title_es": "Planes: ir a + infinitivo",
+      "emoji": "🗓️",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تتحدث عن خططك في المستقبل القريب باستعمال ir a + المصدر.",
+      "explain": [
+        {
+          "h": "التركيب",
+          "p": "ir (مصرّف) + a + مصدر = سوف أفعل (خطة أو نيّة): voy a، vas a، va a، vamos a، vais a، van a.",
+          "ex": [
+            ["Voy a buscar otro trabajo.", "سأبحث عن عمل آخر."],
+            ["Mañana vamos a firmar el contrato.", "غدًا سنوقّع العقد."]
+          ]
+        },
+        {
+          "h": "كلمات الزمن",
+          "p": "mañana (غدًا)، pasado mañana (بعد غد)، esta tarde (بعد الظهر اليوم)، esta noche (الليلة)، la semana que viene (الأسبوع القادم)، el mes que viene أو el próximo mes (الشهر القادم).",
+          "ex": [
+            ["Esta tarde voy a llamar a la empresa.", "بعد الظهر سأتصل بالشركة."],
+            ["El mes que viene van a abrir una fábrica nueva.", "الشهر القادم سيفتحون مصنعًا جديدًا."]
+          ]
+        },
+        {
+          "h": "السؤال والنفي",
+          "p": "للسؤال نقول ¿Qué vas a hacer...؟ وللنفي نضع no قبل الفعل ir.",
+          "ex": [
+            ["¿Qué vas a hacer el fin de semana?", "ماذا ستفعل في عطلة نهاية الأسبوع؟"],
+            ["No voy a trabajar en agosto.", "لن أعمل في شهر أغسطس."]
+          ]
+        },
+        {
+          "h": "مع الأفعال الانعكاسية",
+          "p": "الضمير يأتي قبل ir أو يلتصق بآخر المصدر، والمعنى واحد.",
+          "ex": [
+            ["Me voy a levantar pronto.", "سأنهض باكرًا."],
+            ["Voy a levantarme pronto.", "سأنهض باكرًا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "mañana", "ar": "غدًا", "e": "🌅" },
+        { "es": "pasado mañana", "ar": "بعد غد", "e": "" },
+        { "es": "esta noche", "ar": "الليلة", "e": "🌙" },
+        { "es": "la semana que viene", "ar": "الأسبوع القادم", "e": "📆" },
+        { "es": "el próximo mes", "ar": "الشهر القادم", "e": "🗓️" },
+        { "es": "el plan", "ar": "الخطة", "e": "📝" },
+        { "es": "firmar", "ar": "يوقّع", "e": "✍️" },
+        { "es": "el contrato", "ar": "العقد", "e": "📄" },
+        { "es": "cambiar de trabajo", "ar": "يغيّر عمله", "e": "🔄" },
+        { "es": "ahorrar", "ar": "يدّخر", "e": "🐷" },
+        { "es": "las vacaciones", "ar": "العطلة", "e": "🏖️" },
+        { "es": "la temporada", "ar": "الموسم", "e": "🍓" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué vas a hacer después de la temporada de la fresa?", "ar": "ماذا ستفعل بعد موسم الفراولة؟" },
+        { "who": "B", "es": "Voy a buscar trabajo en la construcción.", "ar": "سأبحث عن عمل في البناء." },
+        { "who": "A", "es": "¿Ya tienes algo?", "ar": "هل وجدت شيئًا؟" },
+        { "who": "B", "es": "Sí, la semana que viene voy a hablar con una empresa. ¿Y tú?", "ar": "نعم، الأسبوع القادم سأتحدث مع شركة. وأنت؟" },
+        { "who": "A", "es": "Yo voy a hacer un curso de carretillero.", "ar": "أنا سأتابع دورة لقيادة الرافعة الشوكية." },
+        { "who": "B", "es": "¡Qué bien! Así vas a encontrar trabajo más fácilmente.", "ar": "رائع! هكذا ستجد عملًا بسهولة أكبر." },
+        { "who": "A", "es": "Eso espero. Y en agosto voy a ir de vacaciones con mi familia.", "ar": "أتمنى ذلك. وفي أغسطس سأذهب في عطلة مع عائلتي." }
+      ],
+      "quiz": [
+        { "q": "Mañana (yo) ___ a trabajar en el almacén.", "o": ["voy", "vas", "va"], "a": 0, "why": "ir مع yo: voy a + مصدر." },
+        { "q": "¿Qué ___ a hacer vosotros esta noche?", "o": ["vamos", "vais", "van"], "a": 1, "why": "ir مع vosotros: vais." },
+        { "q": "Ellos van ___ firmar el contrato.", "o": ["de", "que", "a"], "a": 2, "why": "التركيب هو ir a + مصدر." },
+        { "q": "ما معنى: la semana que viene؟", "o": ["الأسبوع الماضي", "الأسبوع القادم", "هذا الأسبوع"], "a": 1, "why": "que viene = القادم." },
+        { "q": "اختر الجملة الصحيحة:", "o": ["Voy no a trabajar mañana.", "Voy a no trabajo mañana.", "No voy a trabajar mañana."], "a": 2, "why": "نضع no قبل ir، والفعل الثاني يبقى مصدرًا." }
+      ]
+    },
+    {
+      "id": "u07-l5",
+      "title_ar": "ظروف العمل",
+      "title_es": "Las condiciones de trabajo",
+      "emoji": "💶",
+      "goal_ar": "ستتعلم في هذا الدرس مفردات العقد والراتب وساعات العمل، وكيف تسأل عنها بأدب.",
+      "explain": [
+        {
+          "h": "العقد",
+          "p": "contrato temporal = عقد مؤقت، contrato indefinido = عقد دائم (غير محدد المدة). dar de alta en la Seguridad Social = التسجيل في الضمان الاجتماعي.",
+          "ex": [
+            ["Tengo un contrato temporal de seis meses.", "عندي عقد مؤقت لمدة ستة أشهر."],
+            ["¿Me van a dar de alta en la Seguridad Social?", "هل ستسجّلونني في الضمان الاجتماعي؟"]
+          ]
+        },
+        {
+          "h": "الراتب",
+          "p": "el sueldo أو el salario = الراتب. la nómina = كشف الراتب الشهري. cobrar = يتقاضى. al mes = في الشهر، por hora = للساعة.",
+          "ex": [
+            ["Cobro mil cuatrocientos euros al mes.", "أتقاضى ألفًا وأربعمئة يورو في الشهر."],
+            ["¿Cuánto pagan por hora?", "كم يدفعون للساعة؟"]
+          ]
+        },
+        {
+          "h": "الوقت والراحة",
+          "p": "la jornada completa = دوام كامل، media jornada = نصف دوام، las horas extra = الساعات الإضافية، el día libre = يوم الراحة.",
+          "ex": [
+            ["Trabajo media jornada, de nueve a una.", "أعمل نصف دوام، من التاسعة إلى الواحدة."],
+            ["El domingo es mi día libre.", "يوم الأحد هو يوم راحتي."]
+          ]
+        },
+        {
+          "h": "السؤال بأدب",
+          "p": "استعمل usted مع صاحب العمل في البداية، وابدأ بـ Perdone أو بـ Quería saber... (أردت أن أعرف...) لتسأل بلطف.",
+          "ex": [
+            ["Perdone, ¿cuál es el horario?", "عفوًا، ما هو جدول الدوام؟"],
+            ["Quería saber cuándo cobramos.", "أردت أن أعرف متى نتقاضى الراتب."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el contrato", "ar": "العقد", "e": "📄" },
+        { "es": "temporal", "ar": "مؤقت", "e": "⏳" },
+        { "es": "indefinido", "ar": "دائم (غير محدد المدة)", "e": "♾️" },
+        { "es": "el sueldo", "ar": "الراتب", "e": "💶" },
+        { "es": "la nómina", "ar": "كشف الراتب", "e": "🧾" },
+        { "es": "cobrar", "ar": "يتقاضى (المال)", "e": "💵" },
+        { "es": "las horas extra", "ar": "الساعات الإضافية", "e": "⏰" },
+        { "es": "la jornada completa", "ar": "الدوام الكامل", "e": "🕗" },
+        { "es": "media jornada", "ar": "نصف دوام", "e": "🕐" },
+        { "es": "el día libre", "ar": "يوم الراحة", "e": "😴" },
+        { "es": "la Seguridad Social", "ar": "الضمان الاجتماعي", "e": "🏛️" },
+        { "es": "el despido", "ar": "الفصل من العمل", "e": "🚪" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. Vengo por la oferta de trabajo de mozo de almacén.", "ar": "صباح الخير. جئت بخصوص عرض العمل لعامل مستودع." },
+        { "who": "B", "es": "Buenos días. Es un contrato temporal de tres meses, a jornada completa.", "ar": "صباح الخير. إنه عقد مؤقت لثلاثة أشهر، بدوام كامل." },
+        { "who": "A", "es": "¿Y cuál es el horario?", "ar": "وما هو جدول الدوام؟" },
+        { "who": "B", "es": "De lunes a viernes, de siete a tres. A veces hay horas extra.", "ar": "من الإثنين إلى الجمعة، من السابعة إلى الثالثة. أحيانًا توجد ساعات إضافية." },
+        { "who": "A", "es": "Perdone, ¿cuánto es el sueldo?", "ar": "عفوًا، كم الراتب؟" },
+        { "who": "B", "es": "Mil trescientos euros al mes, y las horas extra se pagan aparte.", "ar": "ألف وثلاثمئة يورو في الشهر، والساعات الإضافية تُدفع على حدة." },
+        { "who": "A", "es": "Muy bien. ¿Me van a dar de alta en la Seguridad Social?", "ar": "جيد جدًا. هل ستسجّلونني في الضمان الاجتماعي؟" },
+        { "who": "B", "es": "Sí, claro, desde el primer día.", "ar": "نعم طبعًا، من اليوم الأول." }
+      ],
+      "quiz": [
+        { "q": "ما معنى el sueldo؟", "o": ["العقد", "الراتب", "الدوام"], "a": 1, "why": "el sueldo = الراتب." },
+        { "q": "عقد دائم:", "o": ["contrato indefinido", "contrato temporal", "contrato libre"], "a": 0, "why": "indefinido = غير محدد المدة، أي دائم." },
+        { "q": "Trabajo cuatro horas al día: trabajo ___.", "o": ["jornada completa", "horas extra", "media jornada"], "a": 2, "why": "أربع ساعات في اليوم = نصف دوام (media jornada)." },
+        { "q": "ما معنى: ¿Cuánto pagan por hora؟", "o": ["كم ساعة تعمل؟", "كم يدفعون للساعة؟", "متى يدفعون؟"], "a": 1, "why": "por hora = للساعة، وpagan = يدفعون." },
+        { "q": "اليوم الذي لا تعمل فيه:", "o": ["el día libre", "la nómina", "el despido"], "a": 0, "why": "el día libre = يوم الراحة." }
+      ]
+    }
+  ]
+}

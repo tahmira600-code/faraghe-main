@@ -1,0 +1,463 @@
+{
+  "unit": 2,
+  "level": 1,
+  "title_ar": "الحروف والأرقام والوقت",
+  "title_es": "El alfabeto, los números y la hora",
+  "emoji": "🔢",
+  "lessons": [
+    {
+      "id": "u02-l1",
+      "title_ar": "الحروف والنطق",
+      "title_es": "El alfabeto",
+      "emoji": "🔤",
+      "goal_ar": "ستتعلم في هذا الدرس الحروف الإسبانية وكيف تتهجّى اسمك.",
+      "explain": [
+        {
+          "h": "الأبجدية",
+          "p": "في الإسبانية 27 حرفًا، منها حرف خاص هو «ñ» ويُنطق «نْيـ» كما في «España». أغلب الكلمات تُقرأ كما تُكتب، وهذا يسهّل التعلم.",
+          "ex": [
+            ["España, mañana, niño", "إسبانيا، غدًا، طفل"]
+          ]
+        },
+        {
+          "h": "حروف تحتاج انتباهًا",
+          "p": "h لا تُنطق. j تُنطق مثل الخاء. g قبل e و i تُنطق خاءً أيضًا، وقبل a و o و u تُنطق صوتًا صلبًا كما في «gato» (قطّ). ll تُنطق مثل الياء. وحرفا b و v يُنطقان بنفس الطريقة تقريبًا (مثل الباء).",
+          "ex": [
+            ["hotel, trabajo, gente", "فندق، عمل، ناس"],
+            ["calle, vaso, bueno", "شارع، كأس، جيد"]
+          ]
+        },
+        {
+          "h": "c و z و qu",
+          "p": "في إسبانيا تُنطق z، وكذلك c قبل e و i، مثل الثاء العربية. وفي غير ذلك تُنطق c مثل الكاف. أما qu قبل e و i فتُنطق كافًا دون صوت u.",
+          "ex": [
+            ["cero, cinco, zapato", "صفر، خمسة، حذاء"],
+            ["casa, queso, aquí", "بيت، جبن، هنا"]
+          ]
+        },
+        {
+          "h": "التهجئة",
+          "p": "في الإدارات يطلبون منك تهجئة اسمك: «¿Cómo se escribe?». تُذكر الحروف بأسمائها: a, be, ce, de, e, efe, ge, hache, i, jota, ka, ele, eme, ene, eñe, o, pe, cu, erre, ese, te, u, uve, uve doble, equis, i griega, zeta.",
+          "ex": [
+            ["—¿Cómo se escribe? —A, ele, i.", "—كيف يُكتب؟ —A, L, I."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el alfabeto", "ar": "الأبجدية", "e": "🔤" },
+        { "es": "la letra", "ar": "الحرف", "e": "🅰️" },
+        { "es": "¿cómo se escribe?", "ar": "كيف يُكتب؟", "e": "✍️" },
+        { "es": "deletrear", "ar": "يتهجّى", "e": "🗣️" },
+        { "es": "la palabra", "ar": "الكلمة", "e": "💬" },
+        { "es": "España", "ar": "إسبانيا", "e": "🇪🇸" },
+        { "es": "la calle", "ar": "الشارع", "e": "🛣️" },
+        { "es": "el trabajo", "ar": "العمل", "e": "👷" },
+        { "es": "el hotel", "ar": "الفندق", "e": "🏨" },
+        { "es": "la casa", "ar": "البيت", "e": "🏠" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. ¿Su nombre, por favor?", "ar": "صباح الخير. اسمك من فضلك؟" },
+        { "who": "B", "es": "Hamid Ouazzani.", "ar": "حميد الوزاني." },
+        { "who": "A", "es": "¿Cómo se escribe el apellido?", "ar": "كيف يُكتب اللقب؟" },
+        { "who": "B", "es": "O, u, a, zeta, zeta, a, ene, i.", "ar": "O, U, A, Z, Z, A, N, I." },
+        { "who": "A", "es": "¿Con dos zetas?", "ar": "بحرفي Z؟" },
+        { "who": "B", "es": "Sí, con dos zetas.", "ar": "نعم، بحرفي Z." }
+      ],
+      "quiz": [
+        {
+          "q": "كيف يُنطق حرف j في كلمة «trabajo»؟",
+          "o": ["مثل الخاء", "مثل الجيم", "لا يُنطق"],
+          "a": 0,
+          "why": "حرف j في الإسبانية يُنطق دائمًا مثل الخاء."
+        },
+        {
+          "q": "كيف يُنطق ll في كلمة «calle»؟",
+          "o": ["مثل اللام المشددة", "مثل الياء", "مثل الجيم"],
+          "a": 1,
+          "why": "ll تُنطق مثل الياء في الإسبانية."
+        },
+        {
+          "q": "ما الحرف الخاص بالإسبانية في كلمة «España»؟",
+          "o": ["s", "p", "ñ"],
+          "a": 2,
+          "why": "حرف ñ (eñe) خاص بالإسبانية ويُنطق «نْيـ»."
+        },
+        {
+          "q": "كيف تسأل «كيف يُكتب؟»",
+          "o": ["¿Cómo te llamas?", "¿Cómo se escribe?", "¿Qué tal?"],
+          "a": 1,
+          "why": "«escribir» تعني يكتب، و«¿Cómo se escribe?» = كيف يُكتب؟"
+        },
+        {
+          "q": "في إسبانيا، كيف يُنطق حرف z في كلمة «zapato»؟",
+          "o": ["مثل الزاي", "مثل الصاد", "مثل الثاء"],
+          "a": 2,
+          "why": "في إسبانيا تُنطق z مثل الثاء العربية."
+        }
+      ]
+    },
+    {
+      "id": "u02-l2",
+      "title_ar": "الأرقام من 0 إلى 20",
+      "title_es": "Los números del 0 al 20",
+      "emoji": "🔢",
+      "goal_ar": "ستتعلم في هذا الدرس الأرقام من صفر إلى عشرين وكيف تسأل «كم؟».",
+      "explain": [
+        {
+          "h": "من 0 إلى 10",
+          "p": "cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez. احفظها جيدًا لأن باقي الأرقام تُبنى عليها.",
+          "ex": [
+            ["Tengo dos hijos.", "عندي ولدان."],
+            ["Habitación cinco.", "الغرفة رقم خمسة."]
+          ]
+        },
+        {
+          "h": "من 11 إلى 20",
+          "p": "once, doce, trece, catorce, quince لها أسماء خاصة. ثم dieciséis, diecisiete, dieciocho, diecinueve (أي عشرة وستة...)، ثم veinte. لاحظ العلامة على dieciséis.",
+          "ex": [
+            ["quince euros", "خمسة عشر يورو"],
+            ["dieciocho años", "ثمانية عشر عامًا"]
+          ]
+        },
+        {
+          "h": "uno و un و una",
+          "p": "عند العدّ نقول «uno». لكن قبل اسم مذكر نقول «un»، وقبل اسم مؤنث نقول «una».",
+          "ex": [
+            ["un euro, una hora", "يورو واحد، ساعة واحدة"]
+          ]
+        },
+        {
+          "h": "كم؟",
+          "p": "«¿Cuántos?» مع الأسماء المذكرة و«¿Cuántas?» مع المؤنثة. و«¿Cuánto es?» لنسأل عن المبلغ المطلوب.",
+          "ex": [
+            ["¿Cuántos hijos tienes?", "كم ولدًا عندك؟"],
+            ["¿Cuánto es? —Son doce euros.", "كم المبلغ؟ —اثنا عشر يورو."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "cero", "ar": "صفر", "e": "0️⃣" },
+        { "es": "uno", "ar": "واحد", "e": "1️⃣" },
+        { "es": "dos", "ar": "اثنان", "e": "2️⃣" },
+        { "es": "tres", "ar": "ثلاثة", "e": "3️⃣" },
+        { "es": "cinco", "ar": "خمسة", "e": "5️⃣" },
+        { "es": "diez", "ar": "عشرة", "e": "🔟" },
+        { "es": "doce", "ar": "اثنا عشر", "e": "" },
+        { "es": "quince", "ar": "خمسة عشر", "e": "" },
+        { "es": "veinte", "ar": "عشرون", "e": "" },
+        { "es": "el número", "ar": "الرقم", "e": "🔢" },
+        { "es": "¿cuánto es?", "ar": "كم المبلغ؟", "e": "💶" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, dos barras de pan, por favor.", "ar": "مرحبا، خبزتان من فضلك." },
+        { "who": "B", "es": "Aquí tiene. ¿Algo más?", "ar": "تفضل. شيء آخر؟" },
+        { "who": "A", "es": "Sí, seis huevos. ¿Cuánto es?", "ar": "نعم، ست بيضات. كم المبلغ؟" },
+        { "who": "B", "es": "Son tres euros.", "ar": "ثلاثة يوروهات." },
+        { "who": "A", "es": "Tome. Gracias.", "ar": "تفضل. شكرًا." },
+        { "who": "B", "es": "A usted. ¡Hasta luego!", "ar": "الشكر لك. إلى اللقاء!" }
+      ],
+      "quiz": [
+        {
+          "q": "ما هو الرقم «siete»؟",
+          "o": ["6", "7", "17"],
+          "a": 1,
+          "why": "siete = 7، و seis = 6، و diecisiete = 17."
+        },
+        {
+          "q": "كيف تكتب الرقم 15؟",
+          "o": ["cincuenta", "cinco", "quince"],
+          "a": 2,
+          "why": "15 = quince."
+        },
+        {
+          "q": "أكمل: «___ hora»",
+          "o": ["una", "uno", "un"],
+          "a": 0,
+          "why": "«hora» اسم مؤنث، فنقول «una hora»."
+        },
+        {
+          "q": "كيف تسأل عن المبلغ في المتجر؟",
+          "o": ["¿Cuántos años?", "¿Cuánto es?", "¿Cómo se escribe?"],
+          "a": 1,
+          "why": "«¿Cuánto es?» = كم المبلغ؟"
+        },
+        {
+          "q": "أي كتابة صحيحة للرقم 16؟",
+          "o": ["dieciséis", "diezyseis", "diecises"],
+          "a": 0,
+          "why": "16 = dieciséis، وتُكتب بعلامة على é."
+        }
+      ]
+    },
+    {
+      "id": "u02-l3",
+      "title_ar": "الأرقام حتى 100 والعمر",
+      "title_es": "Los números hasta 100 y la edad",
+      "emoji": "💯",
+      "goal_ar": "ستتعلم في هذا الدرس الأرقام حتى مئة، وكيف تقول عمرك ورقم هاتفك.",
+      "explain": [
+        {
+          "h": "من 21 إلى 29",
+          "p": "تُكتب كلمة واحدة: veintiuno, veintidós, veintitrés, veinticuatro, veinticinco, veintiséis, veintisiete, veintiocho, veintinueve.",
+          "ex": [
+            ["veintidós euros", "اثنان وعشرون يورو"]
+          ]
+        },
+        {
+          "h": "العشرات",
+          "p": "treinta (30)، cuarenta (40)، cincuenta (50)، sesenta (60)، setenta (70)، ochenta (80)، noventa (90)، cien (100). ومن 31 فما فوق نضيف «y» بين العشرات والآحاد ونكتبها منفصلة.",
+          "ex": [
+            ["treinta y cinco", "خمسة وثلاثون"],
+            ["cuarenta y ocho", "ثمانية وأربعون"]
+          ]
+        },
+        {
+          "h": "العمر",
+          "p": "في الإسبانية نستعمل فعل «tener» (يملك) للعمر، وليس «ser». نقول: «Tengo 30 años» أي «عمري 30 سنة» (حرفيًا: أملك 30 سنة).",
+          "ex": [
+            ["—¿Cuántos años tienes? —Tengo veintinueve años.", "—كم عمرك؟ —عمري تسع وعشرون سنة."],
+            ["Mi hija tiene cinco años.", "ابنتي عمرها خمس سنوات."]
+          ]
+        },
+        {
+          "h": "رقم الهاتف",
+          "p": "أرقام الهواتف في إسبانيا من تسعة أرقام، وتُقرأ غالبًا رقمًا رقمًا أو مجموعات من رقمين.",
+          "ex": [
+            ["Mi número de teléfono es el seis, uno, dos...", "رقم هاتفي هو ستة، واحد، اثنان..."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "veintiuno", "ar": "واحد وعشرون", "e": "" },
+        { "es": "treinta", "ar": "ثلاثون", "e": "" },
+        { "es": "cuarenta", "ar": "أربعون", "e": "" },
+        { "es": "cincuenta", "ar": "خمسون", "e": "" },
+        { "es": "cien", "ar": "مئة", "e": "💯" },
+        { "es": "la edad", "ar": "العمر", "e": "🎂" },
+        { "es": "el año", "ar": "السنة", "e": "📆" },
+        { "es": "tengo … años", "ar": "عمري … سنة", "e": "🧓" },
+        { "es": "el teléfono", "ar": "الهاتف", "e": "📱" },
+        { "es": "el móvil", "ar": "الهاتف المحمول", "e": "📲" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Vamos a rellenar la ficha. ¿Cuántos años tiene?", "ar": "سنملأ الاستمارة. كم عمرك؟" },
+        { "who": "B", "es": "Tengo treinta y cuatro años.", "ar": "عمري أربع وثلاثون سنة." },
+        { "who": "A", "es": "¿Y su número de móvil?", "ar": "ورقم هاتفك المحمول؟" },
+        { "who": "B", "es": "Seis, cuatro, cinco, veinte, treinta y uno, noventa.", "ar": "ستة، أربعة، خمسة، عشرون، واحد وثلاثون، تسعون." },
+        { "who": "A", "es": "Perfecto, gracias.", "ar": "ممتاز، شكرًا." }
+      ],
+      "quiz": [
+        {
+          "q": "كيف تقول «عمري 25 سنة»؟",
+          "o": ["Soy veinticinco años.", "Tengo veinticinco años.", "Estoy veinticinco años."],
+          "a": 1,
+          "why": "نستعمل فعل «tener» للتعبير عن العمر."
+        },
+        {
+          "q": "ما هو الرقم «cuarenta y siete»؟",
+          "o": ["47", "74", "17"],
+          "a": 0,
+          "why": "cuarenta = 40 و siete = 7."
+        },
+        {
+          "q": "كيف تكتب الرقم 60؟",
+          "o": ["setenta", "seis", "sesenta"],
+          "a": 2,
+          "why": "60 = sesenta، أما setenta فهي 70."
+        },
+        {
+          "q": "أي كتابة صحيحة للرقم 22؟",
+          "o": ["veinte y dos", "veintidós", "veintedos"],
+          "a": 1,
+          "why": "الأرقام من 21 إلى 29 تُكتب كلمة واحدة: veintidós."
+        },
+        {
+          "q": "ما معنى «¿Cuántos años tienes?»",
+          "o": ["كم ولدًا عندك؟", "كم الساعة؟", "كم عمرك؟"],
+          "a": 2,
+          "why": "«años» تعني سنوات، والسؤال عن العمر."
+        }
+      ]
+    },
+    {
+      "id": "u02-l4",
+      "title_ar": "الساعة",
+      "title_es": "¿Qué hora es?",
+      "emoji": "🕒",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تسأل عن الساعة وتقولها، وكيف تحدد موعدًا.",
+      "explain": [
+        {
+          "h": "السؤال عن الساعة",
+          "p": "نسأل: «¿Qué hora es?». ونجيب بـ«Es la una» للساعة الواحدة فقط، وبـ«Son las…» لباقي الساعات، لأنها جمع.",
+          "ex": [
+            ["Es la una.", "الساعة الواحدة."],
+            ["Son las ocho.", "الساعة الثامنة."]
+          ]
+        },
+        {
+          "h": "الدقائق",
+          "p": "بعد الساعة نقول «y» ثم الدقائق: «y cuarto» (والربع)، «y media» (والنصف). وبعد النصف نقول «menos»: «menos cuarto» (إلا ربعًا).",
+          "ex": [
+            ["Son las tres y media.", "الساعة الثالثة والنصف."],
+            ["Son las nueve menos cuarto.", "الساعة التاسعة إلا ربعًا."],
+            ["Son las dos y diez.", "الساعة الثانية وعشر دقائق."]
+          ]
+        },
+        {
+          "h": "في أي ساعة؟",
+          "p": "للسؤال عن موعد شيء نقول «¿A qué hora…?» ونجيب بـ«A las…». ونضيف «de la mañana» (صباحًا)، «de la tarde» (بعد الظهر)، «de la noche» (ليلًا).",
+          "ex": [
+            ["—¿A qué hora empiezas? —A las siete de la mañana.", "—في أي ساعة تبدأ؟ —في السابعة صباحًا."],
+            ["La cita es a las cinco de la tarde.", "الموعد في الخامسة مساءً."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "la hora", "ar": "الساعة (الوقت)", "e": "🕐" },
+        { "es": "¿qué hora es?", "ar": "كم الساعة؟", "e": "⌚" },
+        { "es": "y cuarto", "ar": "والربع", "e": "🕒" },
+        { "es": "y media", "ar": "والنصف", "e": "🕧" },
+        { "es": "menos cuarto", "ar": "إلا ربعًا", "e": "🕘" },
+        { "es": "el minuto", "ar": "الدقيقة", "e": "⏱️" },
+        { "es": "de la mañana", "ar": "صباحًا", "e": "🌅" },
+        { "es": "de la tarde", "ar": "بعد الظهر / مساءً", "e": "🌇" },
+        { "es": "de la noche", "ar": "ليلًا", "e": "🌙" },
+        { "es": "la cita", "ar": "الموعد", "e": "📋" },
+        { "es": "el reloj", "ar": "الساعة (الجهاز)", "e": "⏰" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Perdona, ¿qué hora es?", "ar": "عفوًا، كم الساعة؟" },
+        { "who": "B", "es": "Son las diez y cuarto.", "ar": "الساعة العاشرة والربع." },
+        { "who": "A", "es": "¡Uf! Tengo una cita a las diez y media.", "ar": "أوه! عندي موعد في العاشرة والنصف." },
+        { "who": "B", "es": "¿Dónde?", "ar": "أين؟" },
+        { "who": "A", "es": "En el centro de salud.", "ar": "في المركز الصحي." },
+        { "who": "B", "es": "Está cerca. Tienes tiempo.", "ar": "إنه قريب. عندك وقت." }
+      ],
+      "quiz": [
+        {
+          "q": "كيف تقول «الساعة الواحدة»؟",
+          "o": ["Son las una.", "Es la una.", "Es las uno."],
+          "a": 1,
+          "why": "مع الواحدة نستعمل المفرد: «Es la una»."
+        },
+        {
+          "q": "ما معنى «Son las cuatro y media»؟",
+          "o": ["الرابعة والنصف", "الرابعة والربع", "الرابعة إلا ربعًا"],
+          "a": 0,
+          "why": "«y media» تعني والنصف."
+        },
+        {
+          "q": "الساعة 6:45. كيف تقولها؟",
+          "o": ["Son las seis y cuarto.", "Son las seis menos cuarto.", "Son las siete menos cuarto."],
+          "a": 2,
+          "why": "6:45 = السابعة إلا ربعًا: «las siete menos cuarto»."
+        },
+        {
+          "q": "كيف تسأل «في أي ساعة الموعد؟»",
+          "o": ["¿A qué hora es la cita?", "¿Qué hora es la cita?", "¿Cuánto es la cita?"],
+          "a": 0,
+          "why": "للسؤال عن موعد شيء نقول «¿A qué hora…?»."
+        },
+        {
+          "q": "أكمل: «Trabajo a las tres de la ___» (بعد الظهر)",
+          "o": ["mañana", "noche", "tarde"],
+          "a": 2,
+          "why": "«de la tarde» تعني بعد الظهر."
+        }
+      ]
+    },
+    {
+      "id": "u02-l5",
+      "title_ar": "الأيام والشهور والتاريخ",
+      "title_es": "Los días, los meses y la fecha",
+      "emoji": "📅",
+      "goal_ar": "ستتعلم في هذا الدرس أيام الأسبوع وأشهر السنة وكيف تقول التاريخ.",
+      "explain": [
+        {
+          "h": "أيام الأسبوع",
+          "p": "lunes (الاثنين)، martes (الثلاثاء)، miércoles (الأربعاء)، jueves (الخميس)، viernes (الجمعة)، sábado (السبت)، domingo (الأحد). الأسبوع في إسبانيا يبدأ يوم الاثنين، والأيام تُكتب بحرف صغير.",
+          "ex": [
+            ["Hoy es lunes.", "اليوم هو الاثنين."],
+            ["El sábado no trabajo.", "يوم السبت لا أعمل."]
+          ]
+        },
+        {
+          "h": "el lunes و los lunes",
+          "p": "«el lunes» تعني يوم الاثنين القادم (مرة واحدة)، و«los lunes» تعني كل يوم اثنين (عادة).",
+          "ex": [
+            ["Tengo una cita el martes.", "عندي موعد يوم الثلاثاء."],
+            ["Los domingos descanso.", "أستريح أيام الأحد."]
+          ]
+        },
+        {
+          "h": "الشهور",
+          "p": "enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre. وتُكتب أيضًا بحرف صغير.",
+          "ex": [
+            ["En agosto hace mucho calor.", "في أغسطس يكون الجو حارًا جدًا."]
+          ]
+        },
+        {
+          "h": "التاريخ",
+          "p": "نقول: el + اليوم + de + الشهر. للسؤال: «¿Qué día es hoy?». وأول يوم في الشهر يُقال «el uno» أو «el primero».",
+          "ex": [
+            ["Hoy es el doce de octubre.", "اليوم هو الثاني عشر من أكتوبر."],
+            ["Mi cumpleaños es el tres de mayo.", "عيد ميلادي في الثالث من مايو."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el lunes", "ar": "الاثنين", "e": "" },
+        { "es": "el viernes", "ar": "الجمعة", "e": "" },
+        { "es": "el sábado", "ar": "السبت", "e": "" },
+        { "es": "el domingo", "ar": "الأحد", "e": "" },
+        { "es": "la semana", "ar": "الأسبوع", "e": "🗓️" },
+        { "es": "el mes", "ar": "الشهر", "e": "📅" },
+        { "es": "la fecha", "ar": "التاريخ", "e": "📆" },
+        { "es": "hoy", "ar": "اليوم", "e": "☀️" },
+        { "es": "mañana", "ar": "غدًا", "e": "➡️" },
+        { "es": "ayer", "ar": "أمس", "e": "⬅️" },
+        { "es": "el cumpleaños", "ar": "عيد الميلاد", "e": "🎂" },
+        { "es": "el fin de semana", "ar": "عطلة نهاية الأسبوع", "e": "🛋️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. Quiero pedir una cita, por favor.", "ar": "صباح الخير. أريد أن أطلب موعدًا من فضلك." },
+        { "who": "B", "es": "¿Le va bien el jueves?", "ar": "هل يناسبك يوم الخميس؟" },
+        { "who": "A", "es": "No, el jueves trabajo. ¿Y el viernes?", "ar": "لا، يوم الخميس أعمل. ويوم الجمعة؟" },
+        { "who": "B", "es": "Sí. El viernes, veinte de noviembre, a las nueve.", "ar": "نعم. يوم الجمعة، العشرين من نوفمبر، في التاسعة." },
+        { "who": "A", "es": "Perfecto. Muchas gracias.", "ar": "ممتاز. شكرًا جزيلًا." }
+      ],
+      "quiz": [
+        {
+          "q": "ما هو «miércoles»؟",
+          "o": ["الثلاثاء", "الأربعاء", "الخميس"],
+          "a": 1,
+          "why": "miércoles = الأربعاء."
+        },
+        {
+          "q": "ماذا تعني «Los sábados no trabajo»؟",
+          "o": ["لا أعمل أيام السبت عادةً", "لا أعمل هذا السبت فقط", "أعمل أيام السبت"],
+          "a": 0,
+          "why": "«los sábados» بالجمع تعني كل يوم سبت."
+        },
+        {
+          "q": "كيف تقول «الخامس من مارس»؟",
+          "o": ["el marzo de cinco", "cinco marzo", "el cinco de marzo"],
+          "a": 2,
+          "why": "التاريخ: el + الرقم + de + الشهر."
+        },
+        {
+          "q": "ما الشهر الثامن من السنة؟",
+          "o": ["agosto", "octubre", "abril"],
+          "a": 0,
+          "why": "agosto = أغسطس، الشهر الثامن."
+        },
+        {
+          "q": "أي كتابة صحيحة داخل جملة؟",
+          "o": ["Hoy es Lunes.", "Hoy es lunes.", "Hoy es LUNES."],
+          "a": 1,
+          "why": "أيام الأسبوع والشهور تُكتب بحرف صغير في الإسبانية."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+ "topic_id": "house",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "el dormitorio",
+   "ar": "غرفة النوم",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🍳",
+   "es": "la cocina",
+   "ar": "المطبخ",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🛁",
+   "es": "el baño",
+   "ar": "الحمّام",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🛋️",
+   "es": "el salón",
+   "ar": "غرفة الجلوس",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "la puerta",
+   "ar": "الباب",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "la ventana",
+   "ar": "النافذة",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🧱",
+   "es": "la pared",
+   "ar": "الجدار",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "el piso",
+   "ar": "الشقة",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🪜",
+   "es": "la escalera",
+   "ar": "الدرج",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🛗",
+   "es": "el ascensor",
+   "ar": "المصعد",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🚿",
+   "es": "la ducha",
+   "ar": "الدُّش",
+   "section": "الغرف"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "la habitación",
+   "ar": "الغرفة",
+   "section": "الغرف"
+  },
+  {
+   "level": 3,
+   "emoji": "🏢",
+   "es": "El piso tiene tres habitaciones, un baño y una cocina pequeña.",
+   "ar": "الشقة فيها ثلاث غرف وحمام ومطبخ صغير.",
+   "section": "الغرف"
+  },
+  {
+   "level": 3,
+   "emoji": "🛗",
+   "es": "El ascensor no funciona; hay que subir por la escalera.",
+   "ar": "المصعد لا يعمل؛ يجب الصعود عبر الدرج.",
+   "section": "الغرف"
+  },
+  {
+   "level": 1,
+   "emoji": "🛏️",
+   "es": "la cama",
+   "ar": "السرير",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "🪑",
+   "es": "la silla",
+   "ar": "الكرسي",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "🛋️",
+   "es": "el sofá",
+   "ar": "الأريكة",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "🚽",
+   "es": "el váter",
+   "ar": "المرحاض",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "🪞",
+   "es": "el espejo",
+   "ar": "المرآة",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "🛁",
+   "es": "la bañera",
+   "ar": "حوض الاستحمام",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "🪴",
+   "es": "la planta",
+   "ar": "النبتة",
+   "section": "الأثاث"
+  },
+  {
+   "level": 2,
+   "emoji": "🧺",
+   "es": "el cesto de la ropa",
+   "ar": "سلة الملابس",
+   "section": "الأثاث"
+  },
+  {
+   "level": 2,
+   "emoji": "🖼️",
+   "es": "el cuadro",
+   "ar": "اللوحة",
+   "section": "الأثاث"
+  },
+  {
+   "level": 2,
+   "emoji": "🕰️",
+   "es": "el reloj de pared",
+   "ar": "ساعة الحائط",
+   "section": "الأثاث"
+  },
+  {
+   "level": 2,
+   "emoji": "🚰",
+   "es": "el grifo",
+   "ar": "الصنبور",
+   "section": "الأثاث"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "la escoba",
+   "ar": "المكنسة",
+   "section": "الأثاث"
+  },
+  {
+   "level": 2,
+   "emoji": "🗑️",
+   "es": "el cubo de la basura",
+   "ar": "سلة المهملات",
+   "section": "الأثاث"
+  },
+  {
+   "level": 3,
+   "emoji": "🛋️",
+   "es": "El piso se alquila amueblado, con sofá, camas y armarios.",
+   "ar": "الشقة تُؤجَّر مفروشة، فيها أريكة وأسرّة وخزائن.",
+   "section": "الأثاث"
+  },
+  {
+   "level": 3,
+   "emoji": "🚰",
+   "es": "El grifo de la cocina gotea; hay que llamar al fontanero.",
+   "ar": "صنبور المطبخ يقطر؛ يجب الاتصال بالسبّاك.",
+   "section": "الأثاث"
+  },
+  {
+   "level": 3,
+   "emoji": "🛏️",
+   "es": "Necesito una cama nueva y un colchón para el dormitorio.",
+   "ar": "أحتاج سريرا جديدا وفراشا لغرفة النوم.",
+   "section": "الأثاث"
+  },
+  {
+   "level": 1,
+   "emoji": "📺",
+   "es": "la televisión",
+   "ar": "التلفاز",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 1,
+   "emoji": "📱",
+   "es": "el móvil",
+   "ar": "الهاتف المحمول",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 1,
+   "emoji": "💻",
+   "es": "el ordenador",
+   "ar": "الحاسوب",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔌",
+   "es": "el enchufe",
+   "ar": "المقبس الكهربائي",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 1,
+   "emoji": "💡",
+   "es": "la bombilla",
+   "ar": "المصباح الكهربائي",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 1,
+   "emoji": "🍳",
+   "es": "la sartén",
+   "ar": "المقلاة",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔋",
+   "es": "la pila",
+   "ar": "البطارية",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔦",
+   "es": "la linterna",
+   "ar": "المصباح اليدوي",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧯",
+   "es": "el extintor",
+   "ar": "مطفأة الحريق",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "el despertador",
+   "ar": "المنبّه",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔌",
+   "es": "el cargador del móvil",
+   "ar": "شاحن الهاتف",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 2,
+   "emoji": "📶",
+   "es": "¿Cuál es la contraseña del wifi?",
+   "ar": "ما كلمة سر الواي فاي؟",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔌",
+   "es": "No conectes muchos aparatos al mismo enchufe.",
+   "ar": "لا توصل أجهزة كثيرة بالمقبس نفسه.",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 3,
+   "emoji": "💡",
+   "es": "Se ha fundido la bombilla del pasillo.",
+   "ar": "احترق مصباح الممر.",
+   "section": "الأجهزة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔑",
+   "es": "la llave",
+   "ar": "المفتاح",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 1,
+   "emoji": "📬",
+   "es": "el buzón",
+   "ar": "صندوق البريد",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 1,
+   "emoji": "🔔",
+   "es": "el timbre",
+   "ar": "جرس الباب",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 1,
+   "emoji": "🏷️",
+   "es": "Se alquila.",
+   "ar": "للكراء.",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "💡",
+   "es": "la factura de la luz",
+   "ar": "فاتورة الكهرباء",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "🚰",
+   "es": "la factura del agua",
+   "ar": "فاتورة الماء",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "el contrato de alquiler",
+   "ar": "عقد الكراء",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "la fianza",
+   "ar": "مبلغ الضمان",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "🔥",
+   "es": "la factura del gas",
+   "ar": "فاتورة الغاز",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Pago el alquiler cada mes.",
+   "ar": "أدفع الكراء كل شهر.",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 2,
+   "emoji": "🛋️",
+   "es": "un piso amueblado",
+   "ar": "شقة مفروشة",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "Tiene que firmar el contrato y pagar un mes de fianza.",
+   "ar": "يجب عليك توقيع العقد ودفع شهر واحد كضمان.",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 3,
+   "emoji": "🏦",
+   "es": "El alquiler se paga por transferencia bancaria antes del día cinco.",
+   "ar": "يُدفع الكراء بتحويل بنكي قبل اليوم الخامس من الشهر.",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 3,
+   "emoji": "🔧",
+   "es": "El propietario tiene que arreglar la caldera.",
+   "ar": "يجب على المالك إصلاح سخان الماء والتدفئة.",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "¿Están incluidos el agua y la luz en el alquiler?",
+   "ar": "هل الماء والكهرباء مشمولان في الكراء؟",
+   "section": "الكراء والفواتير"
+  },
+  {
+   "level": 3,
+   "emoji": "🔌",
+   "es": "Me han cortado la luz porque no pagué la factura.",
+   "ar": "قطعوا عني الكهرباء لأنني لم أدفع الفاتورة.",
+   "section": "الكراء والفواتير"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la llave\"?",
+   "options": [
+    "الباب",
+    "المفتاح",
+    "النافذة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la llave\"؟",
+   "ar_exp": "\"la llave\" هي المفتاح الذي تفتح به الباب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la cocina\"?",
+   "options": [
+    "المطبخ",
+    "الحمّام",
+    "غرفة النوم"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"la cocina\"؟",
+   "ar_exp": "\"la cocina\" هي المطبخ حيث نطبخ الطعام."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"السرير\" en español?",
+   "options": [
+    "la silla",
+    "el sofá",
+    "la cama"
+   ],
+   "answer": 2,
+   "ar_q": "كيف نقول \"السرير\" بالإسبانية؟",
+   "ar_exp": "\"la cama\" هي السرير."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el piso\"?",
+   "options": [
+    "الشقة",
+    "الحديقة",
+    "السقف"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el piso\"؟",
+   "ar_exp": "في إسبانيا \"el piso\" تعني الشقة في عمارة."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde te duchas?",
+   "options": [
+    "en el salón",
+    "en el baño",
+    "en el dormitorio"
+   ],
+   "answer": 1,
+   "ar_q": "أين تستحم؟",
+   "ar_exp": "نستحم في \"el baño\" أي الحمّام."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es \"la factura de la luz\"?",
+   "options": [
+    "فاتورة الماء",
+    "عقد الكراء",
+    "فاتورة الكهرباء"
+   ],
+   "answer": 2,
+   "ar_q": "ما هي \"la factura de la luz\"؟",
+   "ar_exp": "\"la luz\" هنا تعني الكهرباء، فهي فاتورة الكهرباء."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es \"la fianza\"?",
+   "options": [
+    "مبلغ الضمان الذي تدفعه عند كراء الشقة",
+    "ثمن الكهرباء",
+    "الكراء الشهري"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي \"la fianza\"؟",
+   "ar_exp": "\"la fianza\" مال تدفعه في بداية الكراء كضمان ويُرجع إليك عادة عند المغادرة إذا كانت الشقة سليمة."
+  },
+  {
+   "level": 2,
+   "q": "Ves un cartel en un balcón: \"Se alquila\". ¿Qué significa?",
+   "options": [
+    "للبيع",
+    "للكراء",
+    "ممنوع الدخول"
+   ],
+   "answer": 1,
+   "ar_q": "ترى لافتة على شرفة: \"Se alquila\". ما معناها؟",
+   "ar_exp": "\"Se alquila\" تعني أن المكان معروض للكراء."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"un piso amueblado\"?",
+   "options": [
+    "شقة فارغة",
+    "شقة كبيرة",
+    "شقة مفروشة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"un piso amueblado\"؟",
+   "ar_exp": "\"amueblado\" يعني أن فيه أثاثا."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"el ascensor\"?",
+   "options": [
+    "المصعد",
+    "الدرج",
+    "الباب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el ascensor\"؟",
+   "ar_exp": "\"el ascensor\" هو المصعد، و\"la escalera\" هي الدرج."
+  },
+  {
+   "level": 3,
+   "q": "\"El grifo gotea.\" ¿A quién llamas?",
+   "options": [
+    "al electricista",
+    "al fontanero",
+    "al médico"
+   ],
+   "answer": 1,
+   "ar_q": "\"El grifo gotea.\" بمن تتصل؟",
+   "ar_exp": "الصنبور يقطر ماء، لذلك نتصل بالسبّاك \"el fontanero\"."
+  },
+  {
+   "level": 3,
+   "q": "\"¿Están incluidos el agua y la luz en el alquiler?\" ¿Qué preguntas?",
+   "options": [
+    "هل يمكنني دفع الكراء نقدا؟",
+    "متى أدفع الكراء؟",
+    "هل ثمن الماء والكهرباء داخل في الكراء؟"
+   ],
+   "answer": 2,
+   "ar_q": "\"¿Están incluidos el agua y la luz en el alquiler?\" ماذا تسأل؟",
+   "ar_exp": "\"incluidos\" تعني مشمولين، أي هل ثمنهما داخل في مبلغ الكراء."
+  }
+ ]
+}

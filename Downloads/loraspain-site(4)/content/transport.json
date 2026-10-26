@@ -1,0 +1,641 @@
+{
+ "topic_id": "transport",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🚚",
+   "es": "el camión",
+   "ar": "الشاحنة",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚐",
+   "es": "la furgoneta",
+   "ar": "الشاحنة الصغيرة (الفان)",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚛",
+   "es": "el remolque",
+   "ar": "المقطورة",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛞",
+   "es": "la rueda",
+   "ar": "العجلة",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "⛽",
+   "es": "el gasóleo",
+   "ar": "الديزل",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛑",
+   "es": "el freno",
+   "ar": "المكبح",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪞",
+   "es": "el retrovisor",
+   "ar": "المرآة الجانبية",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "⚙️",
+   "es": "el motor",
+   "ar": "المحرك",
+   "section": "المركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "el reparto",
+   "ar": "التوزيع",
+   "section": "التوصيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "el paquete",
+   "ar": "الطرد",
+   "section": "التوصيل"
+  },
+  {
+   "level": 1,
+   "emoji": "🤝",
+   "es": "el cliente",
+   "ar": "الزبون",
+   "section": "التوصيل"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "la dirección",
+   "ar": "العنوان",
+   "section": "التوصيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📬",
+   "es": "la entrega",
+   "ar": "التسليم",
+   "section": "التوصيل"
+  },
+  {
+   "level": 1,
+   "emoji": "✍️",
+   "es": "la firma",
+   "ar": "التوقيع",
+   "section": "التوصيل"
+  },
+  {
+   "level": 1,
+   "emoji": "🗺️",
+   "es": "la ruta",
+   "ar": "المسار",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛰️",
+   "es": "el GPS",
+   "ar": "جهاز تحديد المواقع",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "la autopista",
+   "ar": "الطريق السيار",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el peaje",
+   "ar": "رسوم الطريق",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "⛽",
+   "es": "la gasolinera",
+   "ar": "محطة الوقود",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚗",
+   "es": "el atasco",
+   "ar": "الازدحام المروري",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🔄",
+   "es": "la rotonda",
+   "ar": "الدوّار",
+   "section": "الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el albarán",
+   "ar": "وصل التسليم",
+   "section": "الوثائق"
+  },
+  {
+   "level": 1,
+   "emoji": "⏱️",
+   "es": "el tacógrafo",
+   "ar": "جهاز تسجيل القيادة (التاكوغراف)",
+   "section": "الوثائق"
+  },
+  {
+   "level": 1,
+   "emoji": "🪪",
+   "es": "el permiso de conducir",
+   "ar": "رخصة السياقة",
+   "section": "الوثائق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚛",
+   "es": "el permiso C",
+   "ar": "رخصة السياقة صنف C",
+   "section": "الوثائق"
+  },
+  {
+   "level": 1,
+   "emoji": "📜",
+   "es": "el CAP",
+   "ar": "شهادة الكفاءة المهنية للسائق",
+   "section": "الوثائق"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "el descanso",
+   "ar": "الراحة",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 1,
+   "emoji": "🅿️",
+   "es": "el área de servicio",
+   "ar": "محطة الاستراحة",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 2,
+   "emoji": "🛞",
+   "es": "Revisa la presión de los neumáticos.",
+   "ar": "افحص ضغط الإطارات.",
+   "section": "المركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "⛽",
+   "es": "La furgoneta necesita gasóleo.",
+   "ar": "الفان يحتاج إلى ديزل.",
+   "section": "المركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚨",
+   "es": "Se ha encendido una luz en el salpicadero.",
+   "ar": "اشتعل ضوء في لوحة القيادة.",
+   "section": "المركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔧",
+   "es": "Hay que llevar el camión al taller.",
+   "ar": "يجب أخذ الشاحنة إلى الورشة.",
+   "section": "المركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🪢",
+   "es": "La carga está bien sujeta.",
+   "ar": "الحمولة مثبتة جيداً.",
+   "section": "المركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "📦",
+   "es": "Hoy tengo cuarenta entregas.",
+   "ar": "اليوم عندي أربعون عملية تسليم.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🏠",
+   "es": "El cliente no está en casa.",
+   "ar": "الزبون ليس في البيت.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 2,
+   "emoji": "✍️",
+   "es": "¿Me firma aquí, por favor?",
+   "ar": "هل توقّع هنا من فضلك؟",
+   "section": "التوصيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🏪",
+   "es": "Dejo el paquete en el punto de recogida.",
+   "ar": "أترك الطرد في نقطة الاستلام.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 2,
+   "emoji": "❓",
+   "es": "¿Dónde puedo descargar?",
+   "ar": "أين يمكنني التفريغ؟",
+   "section": "التوصيل"
+  },
+  {
+   "level": 2,
+   "emoji": "📱",
+   "es": "Llego en diez minutos.",
+   "ar": "أصل بعد عشر دقائق.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "Hay un atasco en la autovía.",
+   "ar": "هناك ازدحام في الطريق السريع.",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🛰️",
+   "es": "El GPS dice que gire a la derecha.",
+   "ar": "جهاز تحديد المواقع يقول أن أنعطف إلى اليمين.",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "⛽",
+   "es": "Voy a repostar en la próxima gasolinera.",
+   "ar": "سأملأ الخزان في محطة الوقود القادمة.",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚧",
+   "es": "Hay obras y han cortado la carretera.",
+   "ar": "هناك أشغال وقد أغلقوا الطريق.",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "¿Se puede pagar el peaje con tarjeta?",
+   "ar": "هل يمكن دفع رسوم الطريق بالبطاقة؟",
+   "section": "الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "📁",
+   "es": "¿Llevas la documentación del vehículo?",
+   "ar": "هل معك وثائق المركبة؟",
+   "section": "الوثائق"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "Mete la tarjeta de conductor en el tacógrafo.",
+   "ar": "أدخل بطاقة السائق في التاكوغراف.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "El albarán tiene que ir firmado.",
+   "ar": "يجب أن يكون وصل التسليم موقَّعاً.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚛",
+   "es": "Necesitas el permiso C para conducir este camión.",
+   "ar": "تحتاج إلى رخصة الصنف C لقيادة هذه الشاحنة.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 2,
+   "emoji": "🅿️",
+   "es": "Paro a descansar en el área de servicio.",
+   "ar": "أتوقف للراحة في محطة الاستراحة.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 2,
+   "emoji": "⏱️",
+   "es": "Llevo cuatro horas y media conduciendo; tengo que parar.",
+   "ar": "أقود منذ أربع ساعات ونصف؛ يجب أن أتوقف.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Esta noche duermo en la cabina.",
+   "ar": "الليلة أنام في مقصورة الشاحنة.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 2,
+   "emoji": "📵",
+   "es": "No uses el móvil mientras conduces.",
+   "ar": "لا تستعمل الهاتف أثناء القيادة.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 2,
+   "emoji": "🔒",
+   "es": "Ponte el cinturón de seguridad.",
+   "ar": "اربط حزام الأمان.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 3,
+   "emoji": "🪢",
+   "es": "Antes de salir, comprueba que la carga está bien repartida y sujeta.",
+   "ar": "قبل الانطلاق، تأكد من أن الحمولة موزعة ومثبتة جيداً.",
+   "section": "المركبة"
+  },
+  {
+   "level": 3,
+   "emoji": "↩️",
+   "es": "Si el cliente rechaza la mercancía, anota el motivo en el albarán.",
+   "ar": "إذا رفض الزبون البضاعة، سجّل السبب في وصل التسليم.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 3,
+   "emoji": "🕒",
+   "es": "En la ruta de hoy hay entregas con franja horaria; no puedes llegar tarde.",
+   "ar": "في مسار اليوم توجد عمليات تسليم بموعد محدد؛ لا يمكنك التأخر.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 3,
+   "emoji": "📞",
+   "es": "Avisa a la empresa si vas a llegar con retraso.",
+   "ar": "أخبر الشركة إذا كنت ستصل متأخراً.",
+   "section": "التوصيل"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "En caso de accidente, ponte el chaleco reflectante antes de salir del vehículo.",
+   "ar": "في حالة وقوع حادث، البس السترة العاكسة قبل النزول من المركبة.",
+   "section": "الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "🚧",
+   "es": "Usa un GPS para camiones; algunas calles tienen limitación de altura o de peso.",
+   "ar": "استعمل جهاز تحديد مواقع خاصاً بالشاحنات؛ بعض الشوارع فيها حدّ للارتفاع أو للوزن.",
+   "section": "الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "📜",
+   "es": "El CAP es obligatorio para los conductores profesionales de camiones y autobuses.",
+   "ar": "شهادة الكفاءة المهنية إلزامية لسائقي الشاحنات والحافلات المحترفين.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 3,
+   "emoji": "🎓",
+   "es": "Cada cinco años hay que renovar el CAP con un curso de formación continua.",
+   "ar": "كل خمس سنوات يجب تجديد شهادة الكفاءة المهنية بدورة تكوين مستمر.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 3,
+   "emoji": "🚐",
+   "es": "Con el permiso B puedes conducir vehículos de hasta 3.500 kilos de masa máxima autorizada.",
+   "ar": "برخصة الصنف B يمكنك قيادة مركبات تصل كتلتها القصوى المرخص بها إلى 3500 كيلوغرام.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "La tarjeta de conductor es personal y no se puede prestar a otra persona.",
+   "ar": "بطاقة السائق شخصية ولا يجوز إعارتها لشخص آخر.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 3,
+   "emoji": "⏱️",
+   "es": "El tacógrafo registra los tiempos de conducción y de descanso.",
+   "ar": "التاكوغراف يسجّل أوقات القيادة وأوقات الراحة.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Guarda los albaranes firmados; son la prueba de la entrega.",
+   "ar": "احتفظ بوصولات التسليم الموقَّعة؛ فهي دليل على التسليم.",
+   "section": "الوثائق"
+  },
+  {
+   "level": 3,
+   "emoji": "☕",
+   "es": "Después de cuatro horas y media de conducción, debes hacer una pausa de al menos cuarenta y cinco minutos.",
+   "ar": "بعد أربع ساعات ونصف من القيادة، يجب أن تأخذ استراحة لا تقل عن خمس وأربعين دقيقة.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 3,
+   "emoji": "🕘",
+   "es": "El tiempo de conducción diario no puede superar las nueve horas, ampliable a diez dos veces por semana.",
+   "ar": "لا يجوز أن تتجاوز مدة القيادة اليومية تسع ساعات، ويمكن تمديدها إلى عشر ساعات مرتين في الأسبوع.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 3,
+   "emoji": "🛏️",
+   "es": "El descanso diario normal es de al menos once horas.",
+   "ar": "الراحة اليومية العادية لا تقل عن إحدى عشرة ساعة.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 3,
+   "emoji": "📵",
+   "es": "Está prohibido conducir con el móvil en la mano.",
+   "ar": "يُمنع القيادة والهاتف في اليد.",
+   "section": "الراحة والقوانين"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "La tasa de alcohol permitida para los conductores profesionales es más baja que para los demás conductores.",
+   "ar": "نسبة الكحول المسموح بها للسائقين المحترفين أقل منها لباقي السائقين.",
+   "section": "الراحة والقوانين"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la furgoneta»?",
+   "options": [
+    "الشاحنة الصغيرة (الفان)",
+    "المقطورة",
+    "الحافلة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la furgoneta»؟",
+   "ar_exp": "«la furgoneta» مركبة صغيرة لنقل البضائع."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde pones gasóleo?",
+   "options": [
+    "En el peaje.",
+    "En la gasolinera.",
+    "En la rotonda."
+   ],
+   "answer": 1,
+   "ar_q": "أين تملأ الديزل؟",
+   "ar_exp": "نملأ الوقود في محطة الوقود «la gasolinera»."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el peaje»?",
+   "options": [
+    "رسوم الطريق",
+    "الازدحام",
+    "الدوّار"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el peaje»؟",
+   "ar_exp": "«el peaje» هو المبلغ الذي تدفعه لاستعمال بعض الطرق السيارة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué aparato registra los tiempos de conducción del camión?",
+   "options": [
+    "El retrovisor.",
+    "El GPS.",
+    "El tacógrafo."
+   ],
+   "answer": 2,
+   "ar_q": "أي جهاز يسجّل أوقات قيادة الشاحنة؟",
+   "ar_exp": "التاكوغراف «el tacógrafo» يسجّل أوقات القيادة والراحة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el atasco»?",
+   "options": [
+    "الطرد",
+    "الازدحام المروري",
+    "التسليم"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el atasco»؟",
+   "ar_exp": "«el atasco» يعني ازدحام السيارات في الطريق."
+  },
+  {
+   "level": 2,
+   "q": "El cliente no está en casa. ¿Qué puedes hacer?",
+   "options": [
+    "Dejar el paquete en la calle.",
+    "Llamar al cliente o dejar el paquete en el punto de recogida.",
+    "Abrir el paquete."
+   ],
+   "answer": 1,
+   "ar_q": "الزبون ليس في البيت. ماذا يمكنك أن تفعل؟",
+   "ar_exp": "يمكن الاتصال بالزبون أو ترك الطرد في نقطة الاستلام حسب تعليمات الشركة."
+  },
+  {
+   "level": 2,
+   "q": "Al entregar la mercancía, ¿qué le pides al cliente?",
+   "options": [
+    "Que firme el albarán.",
+    "Que conduzca el camión.",
+    "Que pague el gasóleo."
+   ],
+   "answer": 0,
+   "ar_q": "عند تسليم البضاعة، ماذا تطلب من الزبون؟",
+   "ar_exp": "نطلب من الزبون أن يوقّع وصل التسليم."
+  },
+  {
+   "level": 2,
+   "q": "Se enciende una luz roja en el salpicadero. ¿Qué haces?",
+   "options": [
+    "Sigo sin mirar.",
+    "Apago el GPS.",
+    "Paro en un lugar seguro y aviso a la empresa."
+   ],
+   "answer": 2,
+   "ar_q": "اشتعل ضوء أحمر في لوحة القيادة. ماذا تفعل؟",
+   "ar_exp": "نتوقف في مكان آمن ونُخبر الشركة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué permiso necesitas para conducir un camión de más de 3.500 kilos?",
+   "options": [
+    "El permiso B.",
+    "El permiso C.",
+    "El permiso AM."
+   ],
+   "answer": 1,
+   "ar_q": "أي رخصة تحتاج لقيادة شاحنة تزيد عن 3500 كيلوغرام؟",
+   "ar_exp": "لقيادة الشاحنات فوق 3500 كيلوغرام تحتاج إلى رخصة الصنف C."
+  },
+  {
+   "level": 3,
+   "q": "Llevas cuatro horas y media conduciendo. ¿Qué tienes que hacer?",
+   "options": [
+    "Hacer una pausa de al menos cuarenta y cinco minutos.",
+    "Conducir una hora más.",
+    "Cambiar de ruta."
+   ],
+   "answer": 0,
+   "ar_q": "تقود منذ أربع ساعات ونصف. ماذا يجب أن تفعل؟",
+   "ar_exp": "بعد أربع ساعات ونصف من القيادة، الاستراحة لا تقل عن 45 دقيقة."
+  },
+  {
+   "level": 3,
+   "q": "¿Cada cuántos años hay que renovar el CAP?",
+   "options": [
+    "Cada dos años.",
+    "Cada diez años.",
+    "Cada cinco años."
+   ],
+   "answer": 2,
+   "ar_q": "كل كم سنة يجب تجديد شهادة الكفاءة المهنية؟",
+   "ar_exp": "تُجدَّد شهادة CAP كل خمس سنوات بدورة تكوين مستمر."
+  },
+  {
+   "level": 3,
+   "q": "¿Puedes prestar tu tarjeta de conductor a un compañero?",
+   "options": [
+    "Sí, si es de la misma empresa.",
+    "No, es personal.",
+    "Sí, solo por la noche."
+   ],
+   "answer": 1,
+   "ar_q": "هل يمكنك إعارة بطاقة السائق لزميل؟",
+   "ar_exp": "بطاقة السائق شخصية ولا يجوز لأي شخص آخر استعمالها."
+  }
+ ]
+}

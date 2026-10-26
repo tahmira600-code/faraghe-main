@@ -1,0 +1,128 @@
+{
+ "topic": {
+  "id": "phrases",
+  "kind": "topic",
+  "name": "جمل يومية",
+  "name_es": "Frases del día a día",
+  "emoji": "💬",
+  "color": "c2",
+  "tier": "free",
+  "price_cents": 0,
+  "blurb": "كيف تتعرف وتسأل وتشتري",
+  "sort": 1,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "phrases",
+   "level": 1,
+   "emoji": "👋",
+   "es": "¿Cómo te llamas?",
+   "tr": {
+    "ar": "ما اسمك؟"
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "phrases",
+   "level": 1,
+   "emoji": "🪪",
+   "es": "Me llamo Ahmed.",
+   "tr": {
+    "ar": "اسمي أحمد."
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "phrases",
+   "level": 1,
+   "emoji": "🌍",
+   "es": "Soy de Marruecos.",
+   "tr": {
+    "ar": "أنا من المغرب."
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "phrases",
+   "level": 1,
+   "emoji": "💰",
+   "es": "¿Cuánto cuesta?",
+   "tr": {
+    "ar": "كم ثمنه؟"
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "phrases",
+   "level": 1,
+   "emoji": "🗣️",
+   "es": "No hablo bien español.",
+   "tr": {
+    "ar": "لا أتكلم الإسبانية جيدا."
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "phrases",
+   "level": 2,
+   "emoji": "🐢",
+   "es": "¿Puede hablar más despacio, por favor?",
+   "tr": {
+    "ar": "هل يمكنك أن تتكلم ببطء من فضلك؟"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "phrases",
+   "level": 2,
+   "emoji": "🚌",
+   "es": "¿Dónde está la parada del autobús?",
+   "tr": {
+    "ar": "أين محطة الحافلة؟"
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "phrases",
+   "level": 2,
+   "emoji": "🤝",
+   "es": "Necesito ayuda, por favor.",
+   "tr": {
+    "ar": "أحتاج مساعدة من فضلك."
+   },
+   "section": "",
+   "sort": 7
+  },
+  {
+   "topic_id": "phrases",
+   "level": 3,
+   "emoji": "⏰",
+   "es": "Me gustaría pedir una cita para mañana por la mañana.",
+   "tr": {
+    "ar": "أودّ أن أطلب موعدا لصباح الغد."
+   },
+   "section": "",
+   "sort": 8
+  },
+  {
+   "topic_id": "phrases",
+   "level": 3,
+   "emoji": "🔁",
+   "es": "¿Me lo puede repetir otra vez?",
+   "tr": {
+    "ar": "هل يمكنك أن تعيده عليّ مرة أخرى؟"
+   },
+   "section": "",
+   "sort": 9
+  }
+ ],
+ "questions": []
+}

@@ -1,0 +1,477 @@
+{
+ "topic_id": "shop",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🏪",
+   "es": "la tienda",
+   "ar": "المتجر",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "🛒",
+   "es": "el carro",
+   "ar": "عربة التسوّق",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "🧺",
+   "es": "la cesta",
+   "ar": "السلّة",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "🗄️",
+   "es": "la estantería",
+   "ar": "الرفوف",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "el escaparate",
+   "ar": "الواجهة الزجاجية",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "🪞",
+   "es": "el probador",
+   "ar": "غرفة القياس",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "la caja",
+   "ar": "الصندوق (مكان الدفع)",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 1,
+   "emoji": "💳",
+   "es": "la tarjeta",
+   "ar": "البطاقة",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 1,
+   "emoji": "💵",
+   "es": "el efectivo",
+   "ar": "النقد",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el tique de compra",
+   "ar": "وصل الشراء",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 1,
+   "emoji": "🪙",
+   "es": "las monedas",
+   "ar": "النقود المعدنية",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 1,
+   "emoji": "🏷️",
+   "es": "la etiqueta",
+   "ar": "الملصق",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 1,
+   "emoji": "🔖",
+   "es": "la oferta",
+   "ar": "العرض",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "📉",
+   "es": "las rebajas",
+   "ar": "التخفيضات",
+   "section": "في المحل"
+  },
+  {
+   "level": 1,
+   "emoji": "🙋",
+   "es": "el cliente",
+   "ar": "الزبون",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🧍",
+   "es": "el dependiente",
+   "ar": "البائع",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🔁",
+   "es": "la devolución",
+   "ar": "الإرجاع",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "el pedido",
+   "ar": "الطلبية",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 1,
+   "emoji": "🏬",
+   "es": "el almacén",
+   "ar": "المخزن",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "el código de barras",
+   "ar": "الرمز الشريطي",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 2,
+   "emoji": "👋",
+   "es": "Buenos días, ¿le puedo ayudar?",
+   "ar": "صباح الخير، هل يمكنني مساعدتك؟",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "¿Qué talla usa?",
+   "ar": "ما المقاس الذي تلبسه؟",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🪞",
+   "es": "Los probadores están al fondo.",
+   "ar": "غرف القياس في الخلف.",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "Ahora mismo no lo tenemos.",
+   "ar": "ليس متوفّراً لدينا الآن.",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "📍",
+   "es": "Está en el pasillo tres.",
+   "ar": "إنه في الممر رقم ثلاثة.",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Cómo va a pagar?",
+   "ar": "كيف ستدفع؟",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "Acerque la tarjeta al datáfono.",
+   "ar": "قرّب البطاقة من جهاز الدفع.",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "Introduzca el PIN.",
+   "ar": "أدخل الرقم السرّي.",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "¿Quiere el tique?",
+   "ar": "هل تريد الوصل؟",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 2,
+   "emoji": "🛍️",
+   "es": "¿Necesita bolsa?",
+   "ar": "هل تحتاج كيساً؟",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 2,
+   "emoji": "🪙",
+   "es": "No tengo cambio.",
+   "ar": "ليس عندي صرف.",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 2,
+   "emoji": "🥛",
+   "es": "Repón la estantería de la leche.",
+   "ar": "أعد ملء رفّ الحليب.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Pon las etiquetas de precio.",
+   "ar": "ضع ملصقات الأسعار.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Pon delante los productos que caducan antes.",
+   "ar": "ضع في الأمام المنتجات التي تنتهي صلاحيتها أولاً.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 2,
+   "emoji": "🚚",
+   "es": "Ha llegado el camión con el pedido.",
+   "ar": "وصلت الشاحنة بالطلبية.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Ordena los pasillos antes de cerrar.",
+   "ar": "رتّب الممرات قبل الإغلاق.",
+   "section": "في المحل"
+  },
+  {
+   "level": 2,
+   "emoji": "🕘",
+   "es": "Abrimos a las nueve y media.",
+   "ar": "نفتح على الساعة التاسعة والنصف.",
+   "section": "في المحل"
+  },
+  {
+   "level": 2,
+   "emoji": "🔖",
+   "es": "Este artículo está rebajado.",
+   "ar": "هذا المنتج مخفّض السعر.",
+   "section": "في المحل"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "Para hacer una devolución necesita el tique de compra.",
+   "ar": "لإرجاع منتج تحتاج إلى وصل الشراء.",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "⏳",
+   "es": "Tiene un plazo de treinta días para cambiar el artículo.",
+   "ar": "لديك مهلة ثلاثين يوماً لتبديل المنتج.",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "Le devolvemos el importe en la misma tarjeta.",
+   "ar": "نعيد لك المبلغ إلى البطاقة نفسها.",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Tenemos hojas de reclamaciones a su disposición.",
+   "ar": "لدينا استمارات الشكاوى رهن إشارتك.",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🎁",
+   "es": "¿Se lo envuelvo para regalo?",
+   "ar": "هل أغلّفه لك كهدية؟",
+   "section": "خدمة الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "Haz el arqueo de caja al final del turno.",
+   "ar": "قم بجرد الصندوق في نهاية النوبة.",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Hay un descuadre de cinco euros en la caja.",
+   "ar": "يوجد فرق خمسة يوروهات في الصندوق.",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 3,
+   "emoji": "❌",
+   "es": "La operación ha sido denegada, ¿tiene otra tarjeta?",
+   "ar": "تم رفض العملية، هل لديك بطاقة أخرى؟",
+   "section": "الصندوق والدفع"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Haz el inventario del almacén este sábado.",
+   "ar": "قم بجرد المخزن هذا السبت.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 3,
+   "emoji": "🗑️",
+   "es": "Retira los productos caducados y anótalos.",
+   "ar": "اسحب المنتجات منتهية الصلاحية وسجّلها.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "Comprueba el albarán antes de firmar la entrega.",
+   "ar": "تحقّق من وصل التسليم قبل التوقيع على الاستلام.",
+   "section": "المخزن والرفوف"
+  },
+  {
+   "level": 3,
+   "emoji": "🚨",
+   "es": "Si salta la alarma de la puerta, avisa al vigilante con educación.",
+   "ar": "إذا رنّ إنذار الباب، أخبر الحارس بأدب.",
+   "section": "في المحل"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el probador»?",
+   "options": [
+    "المخزن",
+    "غرفة القياس",
+    "الصندوق"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el probador»؟",
+   "ar_exp": "«el probador» هو الغرفة التي يجرّب فيها الزبون الملابس."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el efectivo»?",
+   "options": [
+    "النقد",
+    "البطاقة",
+    "الوصل"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el efectivo»؟",
+   "ar_exp": "«el efectivo» هو الدفع بالنقود الورقية والمعدنية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «las rebajas»?",
+   "options": [
+    "الطلبيات",
+    "الزبائن",
+    "التخفيضات"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «las rebajas»؟",
+   "ar_exp": "«las rebajas» هي فترة التخفيضات في الأسعار."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la devolución»?",
+   "options": [
+    "الإرجاع",
+    "الهدية",
+    "العرض"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la devolución»؟",
+   "ar_exp": "«la devolución» هي إرجاع منتج إلى المتجر."
+  },
+  {
+   "level": 2,
+   "q": "Un cliente busca la leche. ¿Qué le dices?",
+   "options": [
+    "¿Necesita bolsa?",
+    "Está en el pasillo tres.",
+    "Introduzca el PIN."
+   ],
+   "answer": 1,
+   "ar_q": "زبون يبحث عن الحليب. ماذا تقول له؟",
+   "ar_exp": "«Está en el pasillo tres» تعني: إنه في الممر رقم ثلاثة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Repón la estantería»?",
+   "options": [
+    "نظّف الأرض",
+    "أغلق الصندوق",
+    "أعد ملء الرف"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «Repón la estantería»؟",
+   "ar_exp": "«reponer» يعني إعادة ملء الرف بالمنتجات."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué productos pones delante en la estantería?",
+   "options": [
+    "Los que caducan antes.",
+    "Los más caros.",
+    "Los más nuevos."
+   ],
+   "answer": 0,
+   "ar_q": "أي المنتجات تضعها في مقدّمة الرف؟",
+   "ar_exp": "توضع في الأمام المنتجات التي تنتهي صلاحيتها أولاً لتُباع قبل غيرها."
+  },
+  {
+   "level": 3,
+   "q": "Un cliente quiere devolver un artículo. ¿Qué le pides normalmente?",
+   "options": [
+    "رقم هاتفه",
+    "وصل الشراء",
+    "بطاقة الإقامة"
+   ],
+   "answer": 1,
+   "ar_q": "زبون يريد إرجاع منتج. ماذا تطلب منه عادةً؟",
+   "ar_exp": "عادةً يُطلب «el tique de compra» لإتمام الإرجاع."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «hacer el arqueo de caja»?",
+   "options": [
+    "فتح المتجر",
+    "تغيير الأسعار",
+    "عدّ المال في الصندوق ومقارنته بالمبيعات"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «hacer el arqueo de caja»؟",
+   "ar_exp": "«el arqueo» هو جرد المال في الصندوق في نهاية النوبة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es «el albarán»?",
+   "options": [
+    "وصل التسليم الذي يرافق البضاعة",
+    "بطاقة الزبون",
+    "لائحة الأسعار"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو «el albarán»؟",
+   "ar_exp": "«el albarán» هو الوثيقة التي ترافق البضاعة عند التسليم."
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+  "unit": 5,
+  "level": 2,
+  "title_ar": "الأفعال الشاذة والروتين اليومي",
+  "title_es": "Verbos irregulares y la rutina",
+  "emoji": "🔄",
+  "lessons": [
+    {
+      "id": "u05-l1",
+      "title_ar": "أفعال يتغير فيها e إلى ie",
+      "title_es": "Verbos con cambio e → ie",
+      "emoji": "🔁",
+      "goal_ar": "ستتعلم في هذا الدرس تصريف أفعال مهمة يتغير فيها حرف e إلى ie في الحاضر، مثل querer وempezar وpreferir.",
+      "explain": [
+        {
+          "h": "ما هو هذا التغيير؟",
+          "p": "بعض الأفعال تغيّر حرف e في جذرها إلى ie عند التصريف في الحاضر. يحدث هذا مع yo وtú وél/ella/usted وellos/ellas/ustedes، ولا يحدث مع nosotros وvosotros.",
+          "ex": [
+            ["Yo quiero un café.", "أنا أريد قهوة."],
+            ["Nosotros queremos agua.", "نحن نريد ماءً."]
+          ]
+        },
+        {
+          "h": "تصريف querer",
+          "p": "querer معناه يريد أو يحب. تصريفه: quiero، quieres، quiere، queremos، queréis، quieren.",
+          "ex": [
+            ["¿Quieres un té?", "هل تريد شايًا؟"],
+            ["Ellos quieren trabajar aquí.", "هم يريدون العمل هنا."]
+          ]
+        },
+        {
+          "h": "أفعال أخرى مثله",
+          "p": "empezar (يبدأ)، cerrar (يغلق)، entender (يفهم)، preferir (يفضّل)، pensar (يفكر). كلها تتبع القاعدة نفسها.",
+          "ex": [
+            ["La tienda cierra a las nueve.", "المتجر يغلق في الساعة التاسعة."],
+            ["No entiendo la pregunta.", "لا أفهم السؤال."],
+            ["Prefiero el autobús.", "أفضّل الحافلة."]
+          ]
+        },
+        {
+          "h": "فعل بعده مصدر",
+          "p": "بعد querer وpreferir وpensar (بمعنى ينوي) نستعمل الفعل الثاني في صيغة المصدر بدون تصريف.",
+          "ex": [
+            ["Quiero aprender español.", "أريد أن أتعلم الإسبانية."],
+            ["Pienso buscar otro trabajo.", "أفكر في البحث عن عمل آخر."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "querer", "ar": "يريد / يحب", "e": "🙋" },
+        { "es": "empezar", "ar": "يبدأ", "e": "▶️" },
+        { "es": "comenzar", "ar": "يبدأ", "e": "🏁" },
+        { "es": "cerrar", "ar": "يغلق", "e": "🔒" },
+        { "es": "entender", "ar": "يفهم", "e": "💡" },
+        { "es": "preferir", "ar": "يفضّل", "e": "👍" },
+        { "es": "pensar", "ar": "يفكر", "e": "🤔" },
+        { "es": "perder", "ar": "يفقد / يضيّع", "e": "🔍" },
+        { "es": "la tienda", "ar": "المتجر", "e": "🏪" },
+        { "es": "el horario", "ar": "جدول المواعيد / الدوام", "e": "🕘" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, ¿qué quieres tomar?", "ar": "مرحبًا، ماذا تريد أن تشرب؟" },
+        { "who": "B", "es": "Quiero un café con leche, por favor.", "ar": "أريد قهوة بالحليب من فضلك." },
+        { "who": "A", "es": "¿Prefieres azúcar o sacarina?", "ar": "هل تفضّل السكر أم السكرين؟" },
+        { "who": "B", "es": "Prefiero azúcar. ¿A qué hora cierra el bar?", "ar": "أفضّل السكر. في أي ساعة يغلق المقهى؟" },
+        { "who": "A", "es": "Cerramos a las once. ¿Y tú, a qué hora empiezas a trabajar?", "ar": "نغلق في الساعة الحادية عشرة. وأنت، في أي ساعة تبدأ العمل؟" },
+        { "who": "B", "es": "Empiezo a las doce, en el restaurante de enfrente.", "ar": "أبدأ في الساعة الثانية عشرة، في المطعم المقابل." }
+      ],
+      "quiz": [
+        { "q": "Yo ___ un bocadillo.", "o": ["quero", "quiero", "quieremos"], "a": 1, "why": "مع yo يتغير e إلى ie: quiero." },
+        { "q": "Nosotros ___ a trabajar a las ocho.", "o": ["empezamos", "empiezamos", "empiezan"], "a": 0, "why": "مع nosotros لا يتغير الجذر: empezamos." },
+        { "q": "ما معنى: No entiendo؟", "o": ["لا أعرف", "لا أسمع", "لا أفهم"], "a": 2, "why": "entender = يفهم، وentiendo = أفهم." },
+        { "q": "La farmacia ___ a las diez de la noche.", "o": ["cierra", "cerra", "cierran"], "a": 0, "why": "la farmacia مفرد، وcerrar يتغير: cierra." },
+        { "q": "اختر الجملة الصحيحة:", "o": ["Ellos preferen el tren.", "Ellos prefieren el tren.", "Ellos prefirien el tren."], "a": 1, "why": "مع ellos يتغير e إلى ie: prefieren." }
+      ]
+    },
+    {
+      "id": "u05-l2",
+      "title_ar": "أفعال يتغير فيها o إلى ue وe إلى i",
+      "title_es": "Verbos con cambio o → ue y e → i",
+      "emoji": "🔀",
+      "goal_ar": "ستتعلم في هذا الدرس أفعالًا يتغير فيها o إلى ue مثل poder وdormir، وأفعالًا يتغير فيها e إلى i مثل pedir.",
+      "explain": [
+        {
+          "h": "التغيير o → ue",
+          "p": "في أفعال مثل poder (يستطيع) وvolver (يعود) وdormir (ينام) وcostar (يكلّف)، يتحول o إلى ue، ما عدا مع nosotros وvosotros.",
+          "ex": [
+            ["Puedo trabajar el sábado.", "أستطيع أن أعمل يوم السبت."],
+            ["Volvemos a casa a las seis.", "نعود إلى البيت في الساعة السادسة."]
+          ]
+        },
+        {
+          "h": "تصريف poder",
+          "p": "puedo، puedes، puede، podemos، podéis، pueden. بعده نستعمل المصدر، ونستعمله أيضًا لنطلب شيئًا بأدب.",
+          "ex": [
+            ["¿Puede repetir, por favor?", "هل يمكنك أن تعيد من فضلك؟"],
+            ["No puedo ir hoy.", "لا أستطيع الذهاب اليوم."]
+          ]
+        },
+        {
+          "h": "¿Cuánto cuesta?",
+          "p": "costar يُستعمل غالبًا مع الغائب: cuesta مع المفرد وcuestan مع الجمع.",
+          "ex": [
+            ["¿Cuánto cuesta el billete?", "كم ثمن التذكرة؟"],
+            ["Las naranjas cuestan dos euros el kilo.", "البرتقال بيوروين للكيلو."]
+          ]
+        },
+        {
+          "h": "التغيير e → i",
+          "p": "في أفعال مثل pedir (يطلب) وrepetir (يكرر) وservir (يقدّم)، يتحول e إلى i: pido، pides، pide، pedimos، pedís، piden.",
+          "ex": [
+            ["Pido el menú del día.", "أطلب وجبة اليوم."],
+            ["El profesor repite la frase.", "الأستاذ يكرر الجملة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "poder", "ar": "يستطيع", "e": "💪" },
+        { "es": "volver", "ar": "يعود", "e": "🔙" },
+        { "es": "dormir", "ar": "ينام", "e": "😴" },
+        { "es": "costar", "ar": "يكلّف / ثمنه", "e": "💶" },
+        { "es": "encontrar", "ar": "يجد", "e": "🔎" },
+        { "es": "contar", "ar": "يعدّ / يحكي", "e": "🔢" },
+        { "es": "pedir", "ar": "يطلب", "e": "🙋" },
+        { "es": "repetir", "ar": "يكرر / يعيد", "e": "🔁" },
+        { "es": "servir", "ar": "يقدّم (الطعام)", "e": "🍽️" },
+        { "es": "el menú del día", "ar": "وجبة اليوم", "e": "🍲" },
+        { "es": "¿Cuánto cuesta?", "ar": "كم ثمنه؟", "e": "🏷️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenas tardes. ¿Qué piden ustedes?", "ar": "مساء الخير. ماذا تطلبون؟" },
+        { "who": "B", "es": "Yo pido el menú del día. ¿Cuánto cuesta?", "ar": "أنا أطلب وجبة اليوم. كم ثمنها؟" },
+        { "who": "A", "es": "Cuesta doce euros, con bebida y postre.", "ar": "ثمنها اثنا عشر يورو، مع مشروب وتحلية." },
+        { "who": "B", "es": "Perfecto. ¿Puede repetir los primeros platos, por favor?", "ar": "ممتاز. هل يمكنك أن تعيد الأطباق الأولى من فضلك؟" },
+        { "who": "A", "es": "Claro: sopa, ensalada o lentejas.", "ar": "طبعًا: حساء، سلطة أو عدس." },
+        { "who": "B", "es": "Lentejas, por favor. Es que vuelvo al trabajo a las cuatro.", "ar": "عدس من فضلك. لأنني أعود إلى العمل في الساعة الرابعة." }
+      ],
+      "quiz": [
+        { "q": "Yo no ___ ir mañana.", "o": ["podo", "puedo", "pueden"], "a": 1, "why": "poder مع yo يتغير o إلى ue: puedo." },
+        { "q": "¿Cuánto ___ estos zapatos?", "o": ["cuestan", "cuesta", "costan"], "a": 0, "why": "estos zapatos جمع، لذلك cuestan." },
+        { "q": "Mi hijo ___ ocho horas cada noche.", "o": ["dorme", "dormimos", "duerme"], "a": 2, "why": "dormir مع él يتغير o إلى ue: duerme." },
+        { "q": "Nosotros ___ una pizza.", "o": ["pidimos", "pedimos", "piden"], "a": 1, "why": "مع nosotros لا يتغير الجذر: pedimos." },
+        { "q": "ما معنى: ¿Puede repetir, por favor؟", "o": ["هل يمكنك أن تكتب من فضلك؟", "هل يمكنك أن تنتظر من فضلك؟", "هل يمكنك أن تعيد من فضلك؟"], "a": 2, "why": "repetir = يعيد / يكرر، وpuede = يمكنك (بأدب)." }
+      ]
+    },
+    {
+      "id": "u05-l3",
+      "title_ar": "أفعال شاذة مع yo وفعل ir",
+      "title_es": "Verbos irregulares en yo y el verbo ir",
+      "emoji": "🚶",
+      "goal_ar": "ستتعلم في هذا الدرس أفعالًا شاذة في صيغة yo مثل hago وsalgo وtengo، وتصريف الفعل ir.",
+      "explain": [
+        {
+          "h": "شذوذ مع yo فقط",
+          "p": "بعض الأفعال شاذة مع yo فقط، والباقي عادي: hacer → hago، poner → pongo، salir → salgo، traer → traigo، conocer → conozco، saber → sé.",
+          "ex": [
+            ["Hago la comida por la noche.", "أحضّر الطعام في الليل."],
+            ["Salgo de casa a las siete.", "أخرج من البيت في الساعة السابعة."]
+          ]
+        },
+        {
+          "h": "tener وvenir وdecir",
+          "p": "هذه الأفعال شاذة مع yo وتغيّر جذرها أيضًا. tener: tengo، tienes، tiene، tenemos، tenéis، tienen. venir: vengo، vienes، viene... decir: digo، dices، dice...",
+          "ex": [
+            ["Tengo dos hijos.", "عندي ولدان."],
+            ["¿De dónde vienes?", "من أين أنت قادم؟"],
+            ["¿Qué dice el jefe?", "ماذا يقول المدير؟"]
+          ]
+        },
+        {
+          "h": "الفعل ir",
+          "p": "ir (يذهب) شاذ تمامًا: voy، vas، va، vamos، vais، van. بعده نستعمل a، وa + el تصبح al.",
+          "ex": [
+            ["Voy al mercado.", "أذهب إلى السوق."],
+            ["Mis hijos van a la escuela.", "أولادي يذهبون إلى المدرسة."]
+          ]
+        },
+        {
+          "h": "saber أم conocer؟",
+          "p": "saber لمعرفة معلومة أو مهارة: Sé conducir. conocer لمعرفة شخص أو مكان: Conozco Madrid. وقبل الشخص نضع a.",
+          "ex": [
+            ["Sé hablar árabe y francés.", "أعرف التحدث بالعربية والفرنسية."],
+            ["¿Conoces a mi vecino?", "هل تعرف جاري؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "hacer", "ar": "يفعل / يصنع", "e": "🛠️" },
+        { "es": "poner", "ar": "يضع", "e": "📥" },
+        { "es": "salir", "ar": "يخرج", "e": "🚪" },
+        { "es": "traer", "ar": "يُحضِر / يجلب", "e": "🛍️" },
+        { "es": "tener", "ar": "يملك / عنده", "e": "🤲" },
+        { "es": "venir", "ar": "يأتي", "e": "🏃" },
+        { "es": "decir", "ar": "يقول", "e": "🗣️" },
+        { "es": "ir", "ar": "يذهب", "e": "🚶" },
+        { "es": "saber", "ar": "يعرف (معلومة أو مهارة)", "e": "🧠" },
+        { "es": "conocer", "ar": "يعرف (شخصًا أو مكانًا)", "e": "🤝" },
+        { "es": "conducir", "ar": "يقود (سيارة)", "e": "🚗" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué haces los domingos?", "ar": "ماذا تفعل أيام الأحد؟" },
+        { "who": "B", "es": "Normalmente voy al mercado con mi mujer. ¿Y tú?", "ar": "عادةً أذهب إلى السوق مع زوجتي. وأنت؟" },
+        { "who": "A", "es": "Yo salgo con mis amigos. ¿Conoces el parque del río?", "ar": "أنا أخرج مع أصدقائي. هل تعرف حديقة النهر؟" },
+        { "who": "B", "es": "No, no conozco ese parque. ¿Está lejos?", "ar": "لا، لا أعرف تلك الحديقة. هل هي بعيدة؟" },
+        { "who": "A", "es": "No, está cerca. Si quieres, vienes con nosotros.", "ar": "لا، إنها قريبة. إذا أردت، تأتي معنا." },
+        { "who": "B", "es": "¡Vale! Yo traigo té y pastas.", "ar": "حسنًا! أنا أُحضِر الشاي والحلويات." }
+      ],
+      "quiz": [
+        { "q": "Yo ___ la cama todos los días.", "o": ["hago", "haco", "hace"], "a": 0, "why": "hacer شاذ مع yo: hago." },
+        { "q": "¿A qué hora ___ (tú) de casa?", "o": ["salgo", "sales", "salges"], "a": 1, "why": "salir شاذ مع yo فقط؛ مع tú عادي: sales." },
+        { "q": "Nosotros ___ al supermercado.", "o": ["imos", "van", "vamos"], "a": 2, "why": "ir مع nosotros: vamos." },
+        { "q": "Yo ___ conducir.", "o": ["conozco", "sé", "sabo"], "a": 1, "why": "القيادة مهارة، فنستعمل saber، وصيغة yo هي sé." },
+        { "q": "Yo ___ tres hermanos.", "o": ["tengo", "teno", "tieno"], "a": 0, "why": "tener مع yo: tengo." }
+      ]
+    },
+    {
+      "id": "u05-l4",
+      "title_ar": "الأفعال الانعكاسية",
+      "title_es": "Los verbos reflexivos",
+      "emoji": "🪞",
+      "goal_ar": "ستتعلم في هذا الدرس الأفعال الانعكاسية مثل levantarse وducharse، وكيف تستعمل الضمائر me وte وse.",
+      "explain": [
+        {
+          "h": "ما هو الفعل الانعكاسي؟",
+          "p": "هو فعل يعود أثره على الشخص نفسه. ينتهي مصدره بـ se: levantarse (ينهض)، ducharse (يستحم)، llamarse (يُسمّى).",
+          "ex": [
+            ["Me llamo Fátima.", "اسمي فاطمة."],
+            ["Me ducho por la mañana.", "أستحم في الصباح."]
+          ]
+        },
+        {
+          "h": "الضمائر الانعكاسية",
+          "p": "لكل شخص ضمير يأتي قبل الفعل المصرّف: yo me، tú te، él/ella/usted se، nosotros nos، vosotros os، ellos/ustedes se.",
+          "ex": [
+            ["Yo me levanto a las seis.", "أنا أنهض في الساعة السادسة."],
+            ["Nosotros nos levantamos tarde el domingo.", "نحن ننهض متأخرين يوم الأحد."]
+          ]
+        },
+        {
+          "h": "مع تغيير في الجذر",
+          "p": "بعض هذه الأفعال يتغير جذرها أيضًا: acostarse → me acuesto، despertarse → me despierto، vestirse → me visto.",
+          "ex": [
+            ["Me despierto a las cinco y media.", "أستيقظ في الساعة الخامسة والنصف."],
+            ["Los niños se acuestan a las nueve.", "الأطفال يذهبون إلى الفراش في الساعة التاسعة."]
+          ]
+        },
+        {
+          "h": "مع المصدر",
+          "p": "عندما يأتي الفعل الانعكاسي في صيغة المصدر بعد فعل آخر، يلتصق الضمير بآخر المصدر.",
+          "ex": [
+            ["Quiero ducharme ahora.", "أريد أن أستحم الآن."],
+            ["¿Puedes levantarte pronto mañana?", "هل تستطيع أن تنهض باكرًا غدًا؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "levantarse", "ar": "ينهض (من الفراش)", "e": "🧍" },
+        { "es": "despertarse", "ar": "يستيقظ", "e": "⏰" },
+        { "es": "ducharse", "ar": "يستحم", "e": "🚿" },
+        { "es": "lavarse", "ar": "يغتسل / يغسل (يديه، وجهه)", "e": "🧼" },
+        { "es": "lavarse los dientes", "ar": "ينظّف أسنانه", "e": "🪥" },
+        { "es": "peinarse", "ar": "يمشّط شعره", "e": "💇" },
+        { "es": "vestirse", "ar": "يرتدي ملابسه", "e": "👕" },
+        { "es": "afeitarse", "ar": "يحلق ذقنه", "e": "🪒" },
+        { "es": "acostarse", "ar": "يذهب إلى الفراش", "e": "🛌" },
+        { "es": "llamarse", "ar": "يُسمّى", "e": "🏷️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿A qué hora te levantas?", "ar": "في أي ساعة تنهض؟" },
+        { "who": "B", "es": "Me levanto a las cinco, porque empiezo a las seis en el almacén.", "ar": "أنهض في الساعة الخامسة، لأنني أبدأ في السادسة في المستودع." },
+        { "who": "A", "es": "¡Qué pronto! ¿Te duchas por la mañana?", "ar": "ما أبكر ذلك! هل تستحم في الصباح؟" },
+        { "who": "B", "es": "No, me ducho por la noche. Por la mañana solo me lavo la cara y me visto.", "ar": "لا، أستحم في الليل. في الصباح أغسل وجهي فقط وأرتدي ملابسي." },
+        { "who": "A", "es": "Yo me despierto a las siete, pero me levanto a las siete y cuarto.", "ar": "أنا أستيقظ في السابعة، لكنني أنهض في السابعة والربع." },
+        { "who": "B", "es": "¡Qué suerte!", "ar": "يا لك من محظوظ!" }
+      ],
+      "quiz": [
+        { "q": "Yo ___ levanto a las seis.", "o": ["te", "me", "se"], "a": 1, "why": "مع yo نستعمل الضمير me." },
+        { "q": "Mis hijos ___ duchan por la noche.", "o": ["se", "nos", "me"], "a": 0, "why": "مع ellos نستعمل الضمير se." },
+        { "q": "Nosotros ___ acostamos a las once.", "o": ["os", "se", "nos"], "a": 2, "why": "مع nosotros نستعمل الضمير nos." },
+        { "q": "Ella se ___ a las siete.", "o": ["desperta", "despierta", "despiertan"], "a": 1, "why": "despertarse يتغير e إلى ie، ومع ella: se despierta." },
+        { "q": "ما معنى: Me visto rápido؟", "o": ["أرتدي ملابسي بسرعة", "أستحم بسرعة", "أنهض بسرعة"], "a": 0, "why": "vestirse = يرتدي ملابسه، وme visto = أرتدي ملابسي." }
+      ]
+    },
+    {
+      "id": "u05-l5",
+      "title_ar": "روتيني اليومي",
+      "title_es": "Mi rutina diaria",
+      "emoji": "📅",
+      "goal_ar": "ستتعلم في هذا الدرس وصف يومك بالترتيب، باستعمال كلمات التكرار مثل siempre وnunca وكلمات الترتيب مثل primero وdespués.",
+      "explain": [
+        {
+          "h": "كلمات التكرار",
+          "p": "siempre (دائمًا)، normalmente (عادةً)، a menudo (كثيرًا)، a veces (أحيانًا)، nunca (أبدًا). تأتي غالبًا في أول الجملة أو قبل الفعل.",
+          "ex": [
+            ["Siempre desayuno en casa.", "أتناول الفطور دائمًا في البيت."],
+            ["A veces como en el trabajo.", "أحيانًا آكل في العمل."]
+          ]
+        },
+        {
+          "h": "nunca مع الفعل",
+          "p": "إذا جاءت nunca قبل الفعل لا نحتاج no. وإذا جاءت بعد الفعل نضع no قبل الفعل.",
+          "ex": [
+            ["Nunca bebo café.", "لا أشرب القهوة أبدًا."],
+            ["No bebo café nunca.", "لا أشرب القهوة أبدًا."]
+          ]
+        },
+        {
+          "h": "ترتيب الأحداث",
+          "p": "primero (أولًا)، luego أو después (بعد ذلك)، más tarde (لاحقًا)، por último (أخيرًا). ونقول antes de أو después de + مصدر.",
+          "ex": [
+            ["Primero me ducho y luego desayuno.", "أولًا أستحم ثم أتناول الفطور."],
+            ["Después de comer, descanso un poco.", "بعد الأكل أرتاح قليلًا."]
+          ]
+        },
+        {
+          "h": "أجزاء اليوم",
+          "p": "por la mañana (في الصباح)، por la tarde (بعد الظهر)، por la noche (في الليل). ومع الساعة نقول de: a las ocho de la mañana.",
+          "ex": [
+            ["Trabajo por la mañana y estudio por la tarde.", "أعمل في الصباح وأدرس بعد الظهر."],
+            ["Ceno a las nueve de la noche.", "أتعشى في الساعة التاسعة ليلًا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "siempre", "ar": "دائمًا", "e": "♾️" },
+        { "es": "normalmente", "ar": "عادةً", "e": "" },
+        { "es": "a veces", "ar": "أحيانًا", "e": "" },
+        { "es": "nunca", "ar": "أبدًا", "e": "🚫" },
+        { "es": "primero", "ar": "أولًا", "e": "1️⃣" },
+        { "es": "después", "ar": "بعد ذلك", "e": "⏭️" },
+        { "es": "desayunar", "ar": "يتناول الفطور", "e": "🥐" },
+        { "es": "comer", "ar": "يأكل / يتناول الغداء", "e": "🍽️" },
+        { "es": "cenar", "ar": "يتعشى", "e": "🌙" },
+        { "es": "descansar", "ar": "يرتاح", "e": "🛋️" },
+        { "es": "el fin de semana", "ar": "عطلة نهاية الأسبوع", "e": "🗓️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Cómo es un día normal para ti?", "ar": "كيف يكون يومك العادي؟" },
+        { "who": "B", "es": "Primero me levanto a las seis y me ducho. Luego desayuno pan con aceite y té.", "ar": "أولًا أنهض في السادسة وأستحم. ثم أتناول الفطور: خبز بالزيت وشاي." },
+        { "who": "A", "es": "¿Y después?", "ar": "وبعد ذلك؟" },
+        { "who": "B", "es": "Después voy al trabajo en bicicleta. Normalmente vuelvo a casa a las cuatro.", "ar": "بعد ذلك أذهب إلى العمل بالدراجة. عادةً أعود إلى البيت في الرابعة." },
+        { "who": "A", "es": "¿Y por la tarde?", "ar": "وبعد الظهر؟" },
+        { "who": "B", "es": "Por la tarde descanso un poco y a veces voy a clase de español. Nunca me acuesto tarde.", "ar": "بعد الظهر أرتاح قليلًا وأحيانًا أذهب إلى درس الإسبانية. لا أنام متأخرًا أبدًا." }
+      ],
+      "quiz": [
+        { "q": "ما معنى nunca؟", "o": ["دائمًا", "أبدًا", "أحيانًا"], "a": 1, "why": "nunca = أبدًا." },
+        { "q": "Primero me ducho y ___ desayuno.", "o": ["luego", "nunca", "antes"], "a": 0, "why": "luego = ثم / بعد ذلك، ويأتي بعد primero." },
+        { "q": "اختر الجملة الصحيحة:", "o": ["Nunca no como carne.", "No nunca como carne.", "Nunca como carne."], "a": 2, "why": "إذا جاءت nunca قبل الفعل لا نضيف no." },
+        { "q": "___ comer, me lavo los dientes.", "o": ["Antes", "Después de", "Nunca"], "a": 1, "why": "قبل المصدر نقول después de أو antes de." },
+        { "q": "كيف نقول: في الساعة الثامنة صباحًا؟", "o": ["en las ocho de la mañana", "a las ocho en la mañana", "a las ocho de la mañana"], "a": 2, "why": "مع الساعة نستعمل a las، ثم de la mañana." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "unit": 4,
+  "level": 1,
+  "title_ar": "العائلة والبيت والروتين والتسوق",
+  "title_es": "Familia, casa, rutina y compras",
+  "emoji": "🏠",
+  "lessons": [
+    {
+      "id": "u04-l1",
+      "title_ar": "العائلة",
+      "title_es": "La familia",
+      "emoji": "👨‍👩‍👧‍👦",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء أفراد العائلة وصفات الملكية mi و tu و su.",
+      "explain": [
+        {
+          "h": "أفراد العائلة",
+          "p": "أغلب الكلمات لها شكل مذكر وشكل مؤنث: padre/madre، hermano/hermana، hijo/hija. والجمع المذكر يشمل الذكور والإناث معًا: «los padres» = الأب والأم، «los hijos» = الأبناء والبنات.",
+          "ex": [
+            ["Tengo dos hermanos y una hermana.", "عندي أخوان وأخت واحدة."],
+            ["Mis padres viven en Málaga.", "والداي يسكنان في مالقة."]
+          ]
+        },
+        {
+          "h": "صفات الملكية",
+          "p": "mi = ـي، tu = ـكَ/ـكِ، su = ـه/ـها/ـك (رسمي)/ـهم. نضيف s في الجمع: mis, tus, sus. وتأتي قبل الاسم.",
+          "ex": [
+            ["Mi hija tiene ocho años.", "ابنتي عمرها ثماني سنوات."],
+            ["¿Cómo se llaman tus hijos?", "ما أسماء أولادك؟"]
+          ]
+        },
+        {
+          "h": "nuestro و vuestro",
+          "p": "nuestro = ـنا، vuestro = ـكم. هاتان الكلمتان تتغيران في الجنس والعدد: nuestro, nuestra, nuestros, nuestras.",
+          "ex": [
+            ["Nuestra casa es pequeña.", "بيتنا صغير."],
+            ["¿Vuestros hijos van al colegio?", "هل يذهب أولادكم إلى المدرسة؟"]
+          ]
+        },
+        {
+          "h": "الحالة العائلية",
+          "p": "نستعمل «estar» أو «ser» مع casado (متزوج)، و soltero (أعزب)، و divorciado (مطلق)، والأكثر شيوعًا «estar casado».",
+          "ex": [
+            ["Estoy casado y tengo tres hijos.", "أنا متزوج وعندي ثلاثة أولاد."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "la familia", "ar": "العائلة", "e": "👨‍👩‍👧‍👦" },
+        { "es": "el padre", "ar": "الأب", "e": "👨" },
+        { "es": "la madre", "ar": "الأم", "e": "👩" },
+        { "es": "el hijo / la hija", "ar": "الابن / البنت", "e": "👦" },
+        { "es": "el hermano / la hermana", "ar": "الأخ / الأخت", "e": "👫" },
+        { "es": "el marido", "ar": "الزوج", "e": "🤵" },
+        { "es": "la mujer / la esposa", "ar": "الزوجة", "e": "👰" },
+        { "es": "el abuelo / la abuela", "ar": "الجد / الجدة", "e": "👴" },
+        { "es": "el tío / la tía", "ar": "العم أو الخال / العمة أو الخالة", "e": "" },
+        { "es": "el primo / la prima", "ar": "ابن العم أو الخال / بنت العم أو الخال", "e": "" },
+        { "es": "casado / casada", "ar": "متزوج / متزوجة", "e": "💍" },
+        { "es": "soltero / soltera", "ar": "أعزب / عزباء", "e": "🧍" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Estás casado, Mustafa?", "ar": "هل أنت متزوج يا مصطفى؟" },
+        { "who": "B", "es": "Sí, mi mujer se llama Naima.", "ar": "نعم، زوجتي اسمها نعيمة." },
+        { "who": "A", "es": "¿Tenéis hijos?", "ar": "هل عندكما أولاد؟" },
+        { "who": "B", "es": "Sí, dos: un hijo y una hija. ¿Y tú?", "ar": "نعم، اثنان: ابن وبنت. وأنت؟" },
+        { "who": "A", "es": "Yo estoy soltero, pero vivo con mi hermano.", "ar": "أنا أعزب، لكنني أسكن مع أخي." },
+        { "who": "B", "es": "¿Y tus padres?", "ar": "ووالداك؟" },
+        { "who": "A", "es": "Mis padres viven en Granada.", "ar": "والداي يسكنان في غرناطة." }
+      ],
+      "quiz": [
+        {
+          "q": "ماذا تعني «los padres»؟",
+          "o": ["الآباء فقط", "الأب والأم", "الإخوة"],
+          "a": 1,
+          "why": "الجمع المذكر يشمل الذكر والأنثى: الأب والأم."
+        },
+        {
+          "q": "أكمل: «___ hijos van al colegio.» (أولادي)",
+          "o": ["Mi", "Mis", "Tu"],
+          "a": 1,
+          "why": "«hijos» جمع، فنستعمل «mis»."
+        },
+        {
+          "q": "ما معنى «la abuela»؟",
+          "o": ["الجدة", "العمة", "الأخت"],
+          "a": 0,
+          "why": "abuela = الجدة، و abuelo = الجد."
+        },
+        {
+          "q": "أكمل: «___ casa es grande.» (بيتنا)",
+          "o": ["Nuestro", "Nuestros", "Nuestra"],
+          "a": 2,
+          "why": "«casa» مؤنث مفرد، فنقول «nuestra»."
+        },
+        {
+          "q": "كيف تقول المرأة «أنا متزوجة»؟",
+          "o": ["Estoy casada.", "Estoy casado.", "Tengo casada."],
+          "a": 0,
+          "why": "المرأة تقول «casada» بحرف a."
+        }
+      ]
+    },
+    {
+      "id": "u04-l2",
+      "title_ar": "البيت",
+      "title_es": "La casa",
+      "emoji": "🏠",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء غرف البيت وأثاثه، وكيف تصف بيتك.",
+      "explain": [
+        {
+          "h": "غرف البيت",
+          "p": "في إسبانيا يسكن أغلب الناس في «piso» (شقة في عمارة). وفي الشقة عادة: la cocina (المطبخ)، el salón (الصالون)، el dormitorio أو la habitación (غرفة النوم)، el baño (الحمّام).",
+          "ex": [
+            ["Mi piso tiene dos dormitorios.", "شقتي فيها غرفتا نوم."]
+          ]
+        },
+        {
+          "h": "وصف البيت بـ hay",
+          "p": "نستعمل «hay» لنقول ما يوجد في البيت أو الغرفة، و«no hay» لما لا يوجد.",
+          "ex": [
+            ["En la cocina hay una nevera.", "في المطبخ توجد ثلاجة."],
+            ["No hay ascensor.", "لا يوجد مصعد."]
+          ]
+        },
+        {
+          "h": "أين الشيء؟",
+          "p": "مع estar نستعمل كلمات المكان: en (في)، encima de (فوق)، debajo de (تحت)، al lado de (بجانب).",
+          "ex": [
+            ["Las llaves están encima de la mesa.", "المفاتيح فوق الطاولة."],
+            ["El baño está al lado de la cocina.", "الحمّام بجانب المطبخ."]
+          ]
+        },
+        {
+          "h": "الطوابق",
+          "p": "نقول: la planta baja (الطابق الأرضي)، el primero (الأول)، el segundo (الثاني)، el tercero (الثالث). والعنوان يُكتب مثلًا «3.º B» أي الطابق الثالث، الباب B.",
+          "ex": [
+            ["Vivo en el tercero B.", "أسكن في الطابق الثالث، الباب B."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el piso", "ar": "الشقة", "e": "🏢" },
+        { "es": "la cocina", "ar": "المطبخ", "e": "🍳" },
+        { "es": "el salón", "ar": "الصالون", "e": "🛋️" },
+        { "es": "el dormitorio", "ar": "غرفة النوم", "e": "🛏️" },
+        { "es": "el baño", "ar": "الحمّام", "e": "🛁" },
+        { "es": "la ventana", "ar": "النافذة", "e": "🪟" },
+        { "es": "la puerta", "ar": "الباب", "e": "🚪" },
+        { "es": "la nevera", "ar": "الثلاجة", "e": "🧊" },
+        { "es": "la cama", "ar": "السرير", "e": "🛌" },
+        { "es": "la silla", "ar": "الكرسي", "e": "🪑" },
+        { "es": "el ascensor", "ar": "المصعد", "e": "🛗" },
+        { "es": "encima de / debajo de", "ar": "فوق / تحت", "e": "↕️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, llamo por el piso del anuncio.", "ar": "مرحبا، أتصل بخصوص الشقة في الإعلان." },
+        { "who": "B", "es": "Sí, dígame.", "ar": "نعم، تفضل." },
+        { "who": "A", "es": "¿Cuántos dormitorios tiene?", "ar": "كم غرفة نوم فيها؟" },
+        { "who": "B", "es": "Tiene dos dormitorios, un baño, cocina y salón.", "ar": "فيها غرفتا نوم، وحمّام، ومطبخ، وصالون." },
+        { "who": "A", "es": "¿En qué planta está? ¿Hay ascensor?", "ar": "في أي طابق هي؟ هل يوجد مصعد؟" },
+        { "who": "B", "es": "Está en el cuarto, y sí, hay ascensor.", "ar": "في الطابق الرابع، ونعم، يوجد مصعد." }
+      ],
+      "quiz": [
+        {
+          "q": "أين تطبخ؟",
+          "o": ["en el baño", "en la cocina", "en el dormitorio"],
+          "a": 1,
+          "why": "«la cocina» هي المطبخ."
+        },
+        {
+          "q": "أكمل: «En el salón ___ un sofá.»",
+          "o": ["hay", "está", "es"],
+          "a": 0,
+          "why": "نستعمل «hay» مع النكرة (un sofá)."
+        },
+        {
+          "q": "ما معنى «debajo de la cama»؟",
+          "o": ["فوق السرير", "بجانب السرير", "تحت السرير"],
+          "a": 2,
+          "why": "«debajo de» = تحت."
+        },
+        {
+          "q": "ماذا تعني «la planta baja»؟",
+          "o": ["الطابق الأرضي", "الطابق الأخير", "الحديقة"],
+          "a": 0,
+          "why": "«la planta baja» هي الطابق الأرضي."
+        },
+        {
+          "q": "أكمل: «El baño ___ al lado del dormitorio.»",
+          "o": ["hay", "es", "está"],
+          "a": 2,
+          "why": "لمكان شيء معرّف نستعمل «está»."
+        }
+      ]
+    },
+    {
+      "id": "u04-l3",
+      "title_ar": "الروتين اليومي: المضارع المنتظم",
+      "title_es": "Mi rutina: el presente regular",
+      "emoji": "⏰",
+      "goal_ar": "ستتعلم في هذا الدرس تصريف الأفعال المنتظمة في المضارع لتتحدث عن يومك.",
+      "explain": [
+        {
+          "h": "ثلاث مجموعات",
+          "p": "كل فعل في المصدر ينتهي بـ -ar أو -er أو -ir. نحذف هذه النهاية ونضيف نهاية تدل على الفاعل.",
+          "ex": [
+            ["trabajar → trabaj-", "يعمل ← الجذر trabaj"]
+          ]
+        },
+        {
+          "h": "أفعال -ar",
+          "p": "trabajar: trabajo، trabajas، trabaja، trabajamos، trabajáis، trabajan. ومثله: hablar (يتكلم)، llegar (يصل)، cenar (يتعشى)، estudiar (يدرس).",
+          "ex": [
+            ["Trabajo de lunes a viernes.", "أعمل من الاثنين إلى الجمعة."],
+            ["¿Hablas árabe?", "هل تتكلم العربية؟"]
+          ]
+        },
+        {
+          "h": "أفعال -er و -ir",
+          "p": "comer: como، comes، come، comemos، coméis، comen. vivir: vivo، vives، vive، vivimos، vivís، viven. الفرق بينهما فقط في nosotros و vosotros.",
+          "ex": [
+            ["Comemos a las dos.", "نتغدى في الساعة الثانية."],
+            ["Vivimos en un piso pequeño.", "نسكن في شقة صغيرة."]
+          ]
+        },
+        {
+          "h": "الحديث عن العادات",
+          "p": "نستعمل المضارع للعادات اليومية مع كلمات مثل: siempre (دائمًا)، normalmente (عادةً)، a veces (أحيانًا)، nunca (أبدًا)، todos los días (كل يوم).",
+          "ex": [
+            ["Normalmente desayuno en casa.", "عادةً أفطر في البيت."],
+            ["Nunca llego tarde.", "لا أتأخر أبدًا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "trabajar", "ar": "يعمل", "e": "👷" },
+        { "es": "hablar", "ar": "يتكلم", "e": "🗣️" },
+        { "es": "llegar", "ar": "يصل", "e": "🏁" },
+        { "es": "desayunar", "ar": "يفطر", "e": "🥐" },
+        { "es": "cenar", "ar": "يتعشى", "e": "🍽️" },
+        { "es": "comer", "ar": "يأكل / يتغدى", "e": "🍲" },
+        { "es": "beber", "ar": "يشرب", "e": "🥤" },
+        { "es": "leer", "ar": "يقرأ", "e": "📖" },
+        { "es": "vivir", "ar": "يسكن / يعيش", "e": "🏡" },
+        { "es": "escribir", "ar": "يكتب", "e": "✍️" },
+        { "es": "siempre / nunca", "ar": "دائمًا / أبدًا", "e": "🔁" },
+        { "es": "todos los días", "ar": "كل يوم", "e": "📆" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿A qué hora llegas al trabajo?", "ar": "في أي ساعة تصل إلى العمل؟" },
+        { "who": "B", "es": "Llego a las siete. Trabajo en un almacén.", "ar": "أصل في السابعة. أعمل في مستودع." },
+        { "who": "A", "es": "¿Y dónde comes?", "ar": "وأين تتغدى؟" },
+        { "who": "B", "es": "Normalmente como allí con mis compañeros.", "ar": "عادةً أتغدى هناك مع زملائي." },
+        { "who": "A", "es": "¿Y por la tarde?", "ar": "وبعد الظهر؟" },
+        { "who": "B", "es": "Estudio español y ceno con mi familia.", "ar": "أدرس الإسبانية وأتعشى مع عائلتي." }
+      ],
+      "quiz": [
+        {
+          "q": "أكمل: «Yo ___ en una fábrica.» (trabajar)",
+          "o": ["trabaja", "trabajo", "trabajas"],
+          "a": 1,
+          "why": "مع yo تنتهي أفعال -ar بـ o."
+        },
+        {
+          "q": "أكمل: «Nosotros ___ en Bilbao.» (vivir)",
+          "o": ["vivimos", "vivemos", "viven"],
+          "a": 0,
+          "why": "أفعال -ir مع nosotros تنتهي بـ -imos."
+        },
+        {
+          "q": "أكمل: «¿Tú ___ café?» (beber)",
+          "o": ["bebe", "bebo", "bebes"],
+          "a": 2,
+          "why": "مع tú تنتهي أفعال -er بـ es."
+        },
+        {
+          "q": "أكمل: «Ellos ___ a las nueve.» (cenar)",
+          "o": ["cenan", "cenamos", "cenen"],
+          "a": 0,
+          "why": "مع ellos تنتهي أفعال -ar بـ an."
+        },
+        {
+          "q": "ما معنى «a veces»؟",
+          "o": ["دائمًا", "أبدًا", "أحيانًا"],
+          "a": 2,
+          "why": "«a veces» = أحيانًا."
+        }
+      ]
+    },
+    {
+      "id": "u04-l4",
+      "title_ar": "الطعام والوجبات",
+      "title_es": "La comida",
+      "emoji": "🍽️",
+      "goal_ar": "ستتعلم في هذا الدرس أسماء الأطعمة والوجبات، وكيف تطلب في المقهى.",
+      "explain": [
+        {
+          "h": "الوجبات في إسبانيا",
+          "p": "el desayuno (الفطور) في الصباح، la comida (الغداء) حوالي الساعة الثانية أو الثالثة، la cena (العشاء) حوالي التاسعة ليلًا. وكلمة «comida» تعني أيضًا الطعام بشكل عام.",
+          "ex": [
+            ["En España la cena es tarde.", "في إسبانيا العشاء متأخر."]
+          ]
+        },
+        {
+          "h": "الطلب بأدب",
+          "p": "في المقهى أو المطعم نقول: «Quiero…» أو بأدب أكثر «Quería…» أو «¿Me pone…?». ثم «por favor».",
+          "ex": [
+            ["¿Me pone un café con leche, por favor?", "هل تعطيني قهوة بالحليب من فضلك؟"],
+            ["Quería un bocadillo de queso.", "أريد شطيرة جبن."]
+          ]
+        },
+        {
+          "h": "السؤال عن المكونات",
+          "p": "إذا كنت لا تأكل لحم الخنزير أو لا تشرب الكحول، اسأل: «¿Lleva cerdo?» (هل فيه لحم خنزير؟) أو «¿Tiene alcohol?». وقل: «Sin cerdo, por favor».",
+          "ex": [
+            ["—¿Lleva cerdo? —No, es de pollo.", "—هل فيه لحم خنزير؟ —لا، إنه بالدجاج."],
+            ["No como cerdo.", "لا آكل لحم الخنزير."]
+          ]
+        },
+        {
+          "h": "الحساب",
+          "p": "في النهاية نطلب الحساب: «La cuenta, por favor» أو «¿Cuánto es?».",
+          "ex": [
+            ["La cuenta, por favor.", "الحساب من فضلك."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el desayuno", "ar": "الفطور", "e": "🍳" },
+        { "es": "la comida", "ar": "الغداء / الطعام", "e": "🍲" },
+        { "es": "la cena", "ar": "العشاء", "e": "🌙" },
+        { "es": "el pan", "ar": "الخبز", "e": "🍞" },
+        { "es": "el agua", "ar": "الماء", "e": "💧" },
+        { "es": "la leche", "ar": "الحليب", "e": "🥛" },
+        { "es": "el pollo", "ar": "الدجاج", "e": "🍗" },
+        { "es": "el pescado", "ar": "السمك (طعامًا)", "e": "🐟" },
+        { "es": "el cerdo", "ar": "لحم الخنزير", "e": "🐖" },
+        { "es": "la fruta", "ar": "الفاكهة", "e": "🍎" },
+        { "es": "el bocadillo", "ar": "الشطيرة", "e": "🥖" },
+        { "es": "la cuenta", "ar": "الحساب / الفاتورة", "e": "🧾" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. ¿Qué le pongo?", "ar": "صباح الخير. ماذا أقدم لك؟" },
+        { "who": "B", "es": "Un té y un bocadillo, por favor.", "ar": "شاي وشطيرة من فضلك." },
+        { "who": "A", "es": "¿De jamón o de tortilla?", "ar": "باللحم المقدد أم بالتورتيا؟" },
+        { "who": "B", "es": "No como cerdo. De tortilla, por favor.", "ar": "لا آكل لحم الخنزير. بالتورتيا من فضلك." },
+        { "who": "A", "es": "Muy bien. ¿Algo más?", "ar": "حسنًا جدًا. شيء آخر؟" },
+        { "who": "B", "es": "No, gracias. Y la cuenta, por favor.", "ar": "لا، شكرًا. والحساب من فضلك." }
+      ],
+      "quiz": [
+        {
+          "q": "ما اسم وجبة الليل في إسبانيا؟",
+          "o": ["el desayuno", "la cena", "la comida"],
+          "a": 1,
+          "why": "«la cena» هي العشاء."
+        },
+        {
+          "q": "كيف تسأل إن كان الطعام فيه لحم خنزير؟",
+          "o": ["¿Lleva cerdo?", "¿Bebes cerdo?", "¿Dónde está el cerdo?"],
+          "a": 0,
+          "why": "«¿Lleva…?» تعني «هل فيه…؟»."
+        },
+        {
+          "q": "أي جملة مهذبة للطلب في المقهى؟",
+          "o": ["¡Un café!", "Dame café.", "¿Me pone un café, por favor?"],
+          "a": 2,
+          "why": "«¿Me pone…, por favor?» طريقة مهذبة وشائعة في إسبانيا."
+        },
+        {
+          "q": "ماذا تقول عندما تريد أن تدفع؟",
+          "o": ["La cuenta, por favor.", "La cena, por favor.", "La carta, gracias."],
+          "a": 0,
+          "why": "«la cuenta» = الحساب."
+        },
+        {
+          "q": "أكمل: «___ agua» (الماء)",
+          "o": ["la", "los", "el"],
+          "a": 2,
+          "why": "«agua» مؤنثة، لكنها تأخذ «el» في المفرد لأنها تبدأ بـ a منبورة."
+        }
+      ]
+    },
+    {
+      "id": "u04-l5",
+      "title_ar": "التسوق",
+      "title_es": "De compras",
+      "emoji": "🛒",
+      "goal_ar": "ستتعلم في هذا الدرس كيف تشتري في السوق والمتجر، وتسأل عن الأسعار والكميات.",
+      "explain": [
+        {
+          "h": "السؤال عن السعر",
+          "p": "«¿Cuánto cuesta?» لشيء واحد، و«¿Cuánto cuestan?» لعدة أشياء. و«¿Cuánto es?» للمجموع.",
+          "ex": [
+            ["—¿Cuánto cuesta el aceite? —Cuesta cinco euros.", "—كم ثمن الزيت؟ —ثمنه خمسة يوروهات."],
+            ["¿Cuánto cuestan los tomates?", "كم ثمن الطماطم؟"]
+          ]
+        },
+        {
+          "h": "الكميات",
+          "p": "نستعمل «de» بين الكمية والشيء: un kilo de، medio kilo de، una botella de، una barra de، una docena de.",
+          "ex": [
+            ["Un kilo de patatas, por favor.", "كيلو بطاطس من فضلك."],
+            ["Una docena de huevos.", "دزينة بيض (اثنتا عشرة بيضة)."]
+          ]
+        },
+        {
+          "h": "الأسعار باليورو",
+          "p": "نقول الأسعار هكذا: «dos euros con cincuenta» (2,50 €) أو «dos cincuenta». في إسبانيا نكتب الفاصلة للكسور: 2,50 €.",
+          "ex": [
+            ["Son tres euros con veinte.", "المبلغ ثلاثة يوروهات وعشرون سنتًا."]
+          ]
+        },
+        {
+          "h": "الدفع",
+          "p": "يسألك البائع: «¿En efectivo o con tarjeta?» أي نقدًا أم بالبطاقة. ويمكن أن تسأل: «¿Puedo pagar con tarjeta?».",
+          "ex": [
+            ["Con tarjeta, por favor.", "بالبطاقة من فضلك."],
+            ["¿Me da una bolsa?", "هل تعطيني كيسًا؟"]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "¿cuánto cuesta?", "ar": "كم ثمنه؟", "e": "🏷️" },
+        { "es": "el euro", "ar": "اليورو", "e": "💶" },
+        { "es": "el kilo", "ar": "الكيلو", "e": "⚖️" },
+        { "es": "la botella", "ar": "القارورة", "e": "🍾" },
+        { "es": "el aceite", "ar": "الزيت", "e": "🫒" },
+        { "es": "el tomate", "ar": "الطماطم", "e": "🍅" },
+        { "es": "la patata", "ar": "البطاطس", "e": "🥔" },
+        { "es": "el huevo", "ar": "البيضة", "e": "🥚" },
+        { "es": "el supermercado", "ar": "المتجر الكبير", "e": "🛒" },
+        { "es": "en efectivo", "ar": "نقدًا", "e": "💵" },
+        { "es": "con tarjeta", "ar": "بالبطاقة", "e": "💳" },
+        { "es": "barato / caro", "ar": "رخيص / غالٍ", "e": "💰" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, ¿quién es el último?", "ar": "مرحبا، من آخر واحد في الدور؟" },
+        { "who": "B", "es": "Yo. … Bueno, ahora usted. ¿Qué quería?", "ar": "أنا. … حسنًا، الآن دورك. ماذا تريد؟" },
+        { "who": "A", "es": "Un kilo de tomates y medio kilo de cebollas.", "ar": "كيلو طماطم ونصف كيلو بصل." },
+        { "who": "B", "es": "Aquí tiene. ¿Algo más?", "ar": "تفضل. شيء آخر؟" },
+        { "who": "A", "es": "No, nada más. ¿Cuánto es?", "ar": "لا، لا شيء آخر. كم المبلغ؟" },
+        { "who": "B", "es": "Son tres euros con diez. ¿En efectivo o con tarjeta?", "ar": "ثلاثة يوروهات وعشرة سنتات. نقدًا أم بالبطاقة؟" },
+        { "who": "A", "es": "En efectivo. Tome.", "ar": "نقدًا. تفضل." }
+      ],
+      "quiz": [
+        {
+          "q": "كيف تسأل عن ثمن عدة أشياء؟",
+          "o": ["¿Cuánto cuesta los huevos?", "¿Cuánto cuestan los huevos?", "¿Cuántos cuestan los huevos?"],
+          "a": 1,
+          "why": "مع الجمع نقول «cuestan»."
+        },
+        {
+          "q": "أكمل: «Una botella ___ agua.»",
+          "o": ["de", "en", "con"],
+          "a": 0,
+          "why": "بين الكمية والشيء نضع «de»."
+        },
+        {
+          "q": "ماذا تعني «en efectivo»؟",
+          "o": ["بالبطاقة", "مجانًا", "نقدًا"],
+          "a": 2,
+          "why": "«en efectivo» = بالنقود."
+        },
+        {
+          "q": "ما عكس «barato»؟",
+          "o": ["caro", "grande", "nuevo"],
+          "a": 0,
+          "why": "barato = رخيص، و caro = غالٍ."
+        },
+        {
+          "q": "ماذا تعني «Medio kilo de patatas»؟",
+          "o": ["كيلو بطاطس", "نصف كيلو بطاطس", "كيلو ونصف بطاطس"],
+          "a": 1,
+          "why": "«medio» تعني نصف."
+        }
+      ]
+    }
+  ]
+}

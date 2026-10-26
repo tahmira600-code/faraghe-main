@@ -1,0 +1,2007 @@
+{
+ "topic_id": "ccse",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🏛️",
+   "es": "el Congreso de los Diputados",
+   "ar": "مجلس النواب",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "🏛️",
+   "es": "el Senado",
+   "ar": "مجلس الشيوخ",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "el Presidente del Gobierno",
+   "ar": "رئيس الحكومة",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "💼",
+   "es": "el ministro",
+   "ar": "الوزير",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "🗳️",
+   "es": "las elecciones",
+   "ar": "الانتخابات",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "✉️",
+   "es": "el voto",
+   "ar": "التصويت (الصوت الانتخابي)",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "📜",
+   "es": "la ley",
+   "ar": "القانون",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔨",
+   "es": "el juez",
+   "ar": "القاضي",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "👤",
+   "es": "el alcalde",
+   "ar": "العمدة (رئيس البلدية)",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 1,
+   "emoji": "🕊️",
+   "es": "la libertad",
+   "ar": "الحرية",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🤝",
+   "es": "la igualdad",
+   "ar": "المساواة",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "la justicia",
+   "ar": "العدالة",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 1,
+   "emoji": "📚",
+   "es": "la educación",
+   "ar": "التعليم",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 1,
+   "emoji": "✊",
+   "es": "la huelga",
+   "ar": "الإضراب",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "los impuestos",
+   "ar": "الضرائب",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🗺️",
+   "es": "la provincia",
+   "ar": "الإقليم (المحافظة)",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🏘️",
+   "es": "el municipio",
+   "ar": "البلدية (الجماعة المحلية)",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🏝️",
+   "es": "la isla",
+   "ar": "الجزيرة",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🏞️",
+   "es": "el río",
+   "ar": "النهر",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🚧",
+   "es": "la frontera",
+   "ar": "الحدود",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🏙️",
+   "es": "la capital",
+   "ar": "العاصمة",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🏔️",
+   "es": "la montaña",
+   "ar": "الجبل",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 1,
+   "emoji": "🎉",
+   "es": "la fiesta",
+   "ar": "الاحتفال (العيد)",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🎨",
+   "es": "el pintor",
+   "ar": "الرسّام",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 1,
+   "emoji": "✍️",
+   "es": "el escritor",
+   "ar": "الكاتب",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🖼️",
+   "es": "el museo",
+   "ar": "المتحف",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 1,
+   "emoji": "⏳",
+   "es": "la historia",
+   "ar": "التاريخ",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 1,
+   "emoji": "💃",
+   "es": "el flamenco",
+   "ar": "الفلامنكو",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "el ayuntamiento",
+   "ar": "مقرّ البلدية (المجلس البلدي)",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "el empadronamiento",
+   "ar": "التسجيل في سجل السكان البلدي",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🗓️",
+   "es": "la cita previa",
+   "ar": "الموعد المسبق",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 1,
+   "emoji": "📄",
+   "es": "el formulario",
+   "ar": "الاستمارة",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🏛️",
+   "es": "Las Cortes Generales están formadas por el Congreso y el Senado.",
+   "ar": "يتكوّن البرلمان (الكورتيس العامة) من مجلس النواب ومجلس الشيوخ.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 2,
+   "emoji": "👑",
+   "es": "El Rey es el Jefe del Estado.",
+   "ar": "الملك هو رئيس الدولة.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 2,
+   "emoji": "🗳️",
+   "es": "Los españoles pueden votar a partir de los dieciocho años.",
+   "ar": "يمكن للإسبان التصويت ابتداءً من سن الثامنة عشرة.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 2,
+   "emoji": "📘",
+   "es": "La Constitución española se aprobó en 1978.",
+   "ar": "صودق على الدستور الإسباني سنة 1978.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 2,
+   "emoji": "👔",
+   "es": "El Gobierno dirige la política interior y exterior.",
+   "ar": "الحكومة تدير السياسة الداخلية والخارجية.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧩",
+   "es": "España tiene diecisiete comunidades autónomas.",
+   "ar": "في إسبانيا سبع عشرة جهة مستقلة ذاتيًا.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "Todos los españoles son iguales ante la ley.",
+   "ar": "جميع الإسبان متساوون أمام القانون.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Todos tenemos el deber de pagar impuestos.",
+   "ar": "علينا جميعًا واجب دفع الضرائب.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛠️",
+   "es": "Todos los españoles tienen el deber de trabajar y el derecho al trabajo.",
+   "ar": "لجميع الإسبان واجب العمل والحق في العمل.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎒",
+   "es": "La enseñanza básica es obligatoria y gratuita.",
+   "ar": "التعليم الأساسي إلزامي ومجاني.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🗣️",
+   "es": "Tengo derecho a expresar mis opiniones libremente.",
+   "ar": "لي الحق في التعبير عن آرائي بحرية.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏠",
+   "es": "El domicilio es inviolable.",
+   "ar": "حرمة المسكن مصونة (لا يجوز انتهاكها).",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏔️",
+   "es": "El Teide es el pico más alto de España.",
+   "ar": "جبل تيدي هو أعلى قمة في إسبانيا.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 2,
+   "emoji": "🏞️",
+   "es": "El Tajo es el río más largo de la península ibérica.",
+   "ar": "نهر تاخو هو أطول نهر في شبه الجزيرة الإيبيرية.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 2,
+   "emoji": "🏝️",
+   "es": "Ceuta y Melilla son ciudades autónomas.",
+   "ar": "سبتة ومليلية مدينتان مستقلتان ذاتيًا.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 2,
+   "emoji": "🗺️",
+   "es": "España tiene cincuenta provincias.",
+   "ar": "في إسبانيا خمسون إقليمًا (محافظة).",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 2,
+   "emoji": "🌊",
+   "es": "Las islas Baleares están en el mar Mediterráneo.",
+   "ar": "جزر البليار تقع في البحر الأبيض المتوسط.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 2,
+   "emoji": "🌋",
+   "es": "Las islas Canarias están en el océano Atlántico.",
+   "ar": "جزر الكناري تقع في المحيط الأطلسي.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 2,
+   "emoji": "📖",
+   "es": "Cervantes escribió Don Quijote de la Mancha.",
+   "ar": "كتب ثيربانتس رواية دون كيخوتي دي لا مانتشا.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🖼️",
+   "es": "El Museo del Prado está en Madrid.",
+   "ar": "متحف البرادو يوجد في مدريد.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🎆",
+   "es": "El 12 de octubre es la Fiesta Nacional de España.",
+   "ar": "يوم 12 أكتوبر هو العيد الوطني لإسبانيا.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🎨",
+   "es": "Picasso pintó el Guernica.",
+   "ar": "رسم بيكاسو لوحة غيرنيكا.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 2,
+   "emoji": "🍇",
+   "es": "En Nochevieja se comen doce uvas.",
+   "ar": "في ليلة رأس السنة تُؤكل اثنتا عشرة حبة عنب.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 2,
+   "emoji": "📝",
+   "es": "Tengo que empadronarme en el ayuntamiento.",
+   "ar": "يجب أن أسجّل نفسي في سجل السكان بالبلدية.",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚨",
+   "es": "En caso de emergencia, llame al 112.",
+   "ar": "في حالة الطوارئ، اتصل بالرقم 112.",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "Necesito la tarjeta sanitaria para ir al médico.",
+   "ar": "أحتاج إلى البطاقة الصحية للذهاب إلى الطبيب.",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 2,
+   "emoji": "♻️",
+   "es": "El vidrio se tira en el contenedor verde.",
+   "ar": "يُرمى الزجاج في الحاوية الخضراء.",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🪪",
+   "es": "El DNI es obligatorio a partir de los catorce años.",
+   "ar": "بطاقة الهوية الوطنية إلزامية ابتداءً من سن الرابعة عشرة.",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏛️",
+   "es": "La forma política del Estado español es la monarquía parlamentaria.",
+   "ar": "النظام السياسي للدولة الإسبانية هو الملكية البرلمانية.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "📜",
+   "es": "La soberanía nacional reside en el pueblo español.",
+   "ar": "السيادة الوطنية يملكها الشعب الإسباني.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "🛡️",
+   "es": "El Defensor del Pueblo defiende los derechos de los ciudadanos ante la Administración.",
+   "ar": "يدافع أمين المظالم (المدافع عن الشعب) عن حقوق المواطنين أمام الإدارة.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "⚖️",
+   "es": "El Tribunal Constitucional interpreta la Constitución.",
+   "ar": "المحكمة الدستورية تفسّر الدستور.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "🗳️",
+   "es": "El sufragio es universal, libre, igual, directo y secreto.",
+   "ar": "الاقتراع عام وحر ومتساوٍ ومباشر وسري.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "🖊️",
+   "es": "El Rey sanciona y promulga las leyes.",
+   "ar": "الملك يصادق على القوانين ويصدرها.",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "📑",
+   "es": "la iniciativa legislativa popular",
+   "ar": "المبادرة التشريعية الشعبية",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "🤝",
+   "es": "la moción de censura",
+   "ar": "ملتمس الرقابة (سحب الثقة من الحكومة)",
+   "section": "الدستور والدولة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚔",
+   "es": "La detención preventiva no podrá durar más de setenta y dos horas.",
+   "ar": "لا يجوز أن يتجاوز الاحتجاز الاحتياطي اثنتين وسبعين ساعة.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 3,
+   "emoji": "🕊️",
+   "es": "Ninguna confesión tendrá carácter estatal.",
+   "ar": "لا يكون لأي دين صفة الدين الرسمي للدولة.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 3,
+   "emoji": "👥",
+   "es": "Se reconoce el derecho de reunión pacífica y sin armas.",
+   "ar": "يُعترف بالحق في الاجتماع السلمي ومن دون سلاح.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 3,
+   "emoji": "📢",
+   "es": "Se prohíbe cualquier tipo de censura previa.",
+   "ar": "يُمنع أي نوع من الرقابة المسبقة.",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 3,
+   "emoji": "⚖️",
+   "es": "Toda persona tiene derecho a la presunción de inocencia.",
+   "ar": "لكل شخص الحق في قرينة البراءة (المتهم بريء حتى تثبت إدانته).",
+   "section": "الحقوق والواجبات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧩",
+   "es": "La norma básica de cada comunidad autónoma es su Estatuto de Autonomía.",
+   "ar": "القانون الأساسي لكل جهة مستقلة ذاتيًا هو نظامها الأساسي للحكم الذاتي.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 3,
+   "emoji": "🗺️",
+   "es": "El Estado se organiza en municipios, provincias y comunidades autónomas.",
+   "ar": "تنتظم الدولة ترابيًا في بلديات وأقاليم وجهات مستقلة ذاتيًا.",
+   "section": "الجغرافيا"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "La Constitución fue aprobada en referéndum el 6 de diciembre de 1978.",
+   "ar": "صودق على الدستور في استفتاء يوم 6 ديسمبر 1978.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏆",
+   "es": "El Premio Cervantes es el premio más importante de la literatura en español.",
+   "ar": "جائزة ثيربانتس هي أهم جائزة في الأدب المكتوب بالإسبانية.",
+   "section": "التاريخ والثقافة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "la declaración de la renta",
+   "ar": "التصريح الضريبي بالدخل",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "el certificado de empadronamiento",
+   "ar": "شهادة التسجيل في سجل السكان",
+   "section": "الحياة اليومية والإدارة"
+  },
+  {
+   "level": 3,
+   "emoji": "🗂️",
+   "es": "la asistencia jurídica gratuita",
+   "ar": "المساعدة القانونية المجانية",
+   "section": "الحياة اليومية والإدارة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Quién es el Jefe del Estado en España?",
+   "options": [
+    "El Rey",
+    "El Presidente del Gobierno",
+    "El presidente del Senado"
+   ],
+   "answer": 0,
+   "ar_q": "من هو رئيس الدولة في إسبانيا؟",
+   "ar_exp": "حسب الدستور، الملك هو رئيس الدولة، أما رئيس الحكومة فيقود السلطة التنفيذية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué dos cámaras forman las Cortes Generales?",
+   "options": [
+    "El Congreso de los Diputados y el Tribunal Supremo",
+    "El Congreso de los Diputados y el Senado",
+    "El Gobierno y el Senado"
+   ],
+   "answer": 1,
+   "ar_q": "ما هما المجلسان اللذان يكوّنان البرلمان (الكورتيس العامة)؟",
+   "ar_exp": "الكورتيس العامة تتكون من مجلس النواب ومجلس الشيوخ."
+  },
+  {
+   "level": 1,
+   "q": "¿A partir de qué edad se puede votar en las elecciones generales?",
+   "options": [
+    "A partir de los 21 años",
+    "A partir de los 18 años",
+    "A partir de los 16 años"
+   ],
+   "answer": 1,
+   "ar_q": "ابتداءً من أي سن يمكن التصويت في الانتخابات العامة؟",
+   "ar_exp": "يحق التصويت ابتداءً من سن 18، وهي سن الرشد في إسبانيا."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién dirige el Gobierno de España?",
+   "options": [
+    "El Defensor del Pueblo",
+    "El Presidente del Gobierno",
+    "El Rey"
+   ],
+   "answer": 1,
+   "ar_q": "من يقود حكومة إسبانيا؟",
+   "ar_exp": "رئيس الحكومة هو من يدير عمل الحكومة وينسّق بين الوزراء."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién preside el ayuntamiento de un municipio?",
+   "options": [
+    "El senador",
+    "El alcalde",
+    "El ministro"
+   ],
+   "answer": 1,
+   "ar_q": "من يرأس المجلس البلدي في البلدية؟",
+   "ar_exp": "العمدة (الألكالدي) هو رئيس المجلس البلدي."
+  },
+  {
+   "level": 1,
+   "q": "¿Para cuántos años se eligen los diputados del Congreso?",
+   "options": [
+    "Para siete años",
+    "Para dos años",
+    "Para cuatro años"
+   ],
+   "answer": 2,
+   "ar_q": "لكم سنة يُنتخب نواب مجلس النواب؟",
+   "ar_exp": "يُنتخب النواب لمدة أربع سنوات، وهي مدة الولاية التشريعية."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se llama el himno nacional de España?",
+   "options": [
+    "La Marsellesa",
+    "La Marcha Real",
+    "El Himno de Riego"
+   ],
+   "answer": 1,
+   "ar_q": "ما اسم النشيد الوطني الإسباني؟",
+   "ar_exp": "النشيد الوطني الإسباني هو «المسيرة الملكية» (La Marcha Real)."
+  },
+  {
+   "level": 1,
+   "q": "¿De qué colores es la bandera de España?",
+   "options": [
+    "Azul, blanca y roja",
+    "Verde, blanca y roja",
+    "Roja, amarilla y roja"
+   ],
+   "answer": 2,
+   "ar_q": "ما ألوان العلم الإسباني؟",
+   "ar_exp": "العلم الإسباني مكوّن من ثلاثة أشرطة: أحمر وأصفر وأحمر، والشريط الأصفر عرضه ضعف كل شريط أحمر."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué ciudad tienen su sede el Congreso y el Senado?",
+   "options": [
+    "En Madrid",
+    "En Barcelona",
+    "En Toledo"
+   ],
+   "answer": 0,
+   "ar_q": "في أي مدينة يوجد مقرّ مجلس النواب ومجلس الشيوخ؟",
+   "ar_exp": "مقرّ مجلس النواب ومجلس الشيوخ في العاصمة مدريد."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién elige a los concejales del ayuntamiento?",
+   "options": [
+    "El Gobierno de España",
+    "El Rey",
+    "Los vecinos, en las elecciones municipales"
+   ],
+   "answer": 2,
+   "ar_q": "من ينتخب أعضاء المجلس البلدي؟",
+   "ar_exp": "يُنتخب أعضاء المجلس البلدي من طرف سكان البلدية في الانتخابات البلدية."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué poder ejercen las Cortes Generales?",
+   "options": [
+    "El poder judicial",
+    "El poder legislativo",
+    "El poder ejecutivo"
+   ],
+   "answer": 1,
+   "ar_q": "ما السلطة التي يمارسها البرلمان (الكورتيس العامة)؟",
+   "ar_exp": "البرلمان يمارس السلطة التشريعية: يصوّت على القوانين ويراقب الحكومة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué poder ejerce el Gobierno?",
+   "options": [
+    "El poder legislativo",
+    "El poder judicial",
+    "El poder ejecutivo"
+   ],
+   "answer": 2,
+   "ar_q": "ما السلطة التي تمارسها الحكومة؟",
+   "ar_exp": "الحكومة تمارس السلطة التنفيذية: تدير السياسة والإدارة وتنفّذ القوانين."
+  },
+  {
+   "level": 2,
+   "q": "¿Quiénes ejercen el poder judicial?",
+   "options": [
+    "Los jueces y magistrados",
+    "Los ministros",
+    "Los diputados y senadores"
+   ],
+   "answer": 0,
+   "ar_q": "من يمارس السلطة القضائية؟",
+   "ar_exp": "السلطة القضائية يمارسها القضاة والمستشارون في المحاكم، وهم مستقلون."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué cámara vota la confianza al candidato a Presidente del Gobierno?",
+   "options": [
+    "El Congreso de los Diputados",
+    "El Senado",
+    "El Tribunal Constitucional"
+   ],
+   "answer": 0,
+   "ar_q": "أي مجلس يصوّت على منح الثقة للمرشح لرئاسة الحكومة؟",
+   "ar_exp": "مجلس النواب هو الذي يمنح الثقة للمرشح، ثم يعيّنه الملك رئيسًا للحكومة."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuántos diputados tiene el Congreso de los Diputados?",
+   "options": [
+    "500",
+    "200",
+    "350"
+   ],
+   "answer": 2,
+   "ar_q": "كم عدد نواب مجلس النواب؟",
+   "ar_exp": "يتكوّن مجلس النواب من 350 نائبًا."
+  },
+  {
+   "level": 2,
+   "q": "¿Quién tiene el mando supremo de las Fuerzas Armadas?",
+   "options": [
+    "El alcalde de Madrid",
+    "El Rey",
+    "El presidente del Congreso"
+   ],
+   "answer": 1,
+   "ar_q": "من له القيادة العليا للقوات المسلحة؟",
+   "ar_exp": "حسب الدستور، للملك القيادة العليا للقوات المسلحة."
+  },
+  {
+   "level": 2,
+   "q": "¿Cómo es el voto en las elecciones españolas?",
+   "options": [
+    "Solo para los mayores de 25 años",
+    "Universal, libre, igual, directo y secreto",
+    "Obligatorio y público"
+   ],
+   "answer": 1,
+   "ar_q": "كيف يكون التصويت في الانتخابات الإسبانية؟",
+   "ar_exp": "الاقتراع في إسبانيا عام وحر ومتساوٍ ومباشر وسري."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué institución defiende los derechos de los ciudadanos frente a la Administración?",
+   "options": [
+    "El Tribunal de Cuentas",
+    "El Senado",
+    "El Defensor del Pueblo"
+   ],
+   "answer": 2,
+   "ar_q": "أي مؤسسة تدافع عن حقوق المواطنين أمام الإدارة؟",
+   "ar_exp": "أمين المظالم (Defensor del Pueblo) يتلقى شكاوى المواطنين ضد الإدارة ويدافع عن حقوقهم."
+  },
+  {
+   "level": 2,
+   "q": "Según la Constitución, ¿en quién reside la soberanía nacional?",
+   "options": [
+    "En el Rey",
+    "En el Gobierno",
+    "En el pueblo español"
+   ],
+   "answer": 2,
+   "ar_q": "حسب الدستور، لمن تعود السيادة الوطنية؟",
+   "ar_exp": "تنص المادة الأولى من الدستور على أن السيادة الوطنية يملكها الشعب الإسباني، ومنه تنبثق سلطات الدولة."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuántas firmas se necesitan como mínimo para presentar una iniciativa legislativa popular?",
+   "options": [
+    "500.000",
+    "1.000.000",
+    "50.000"
+   ],
+   "answer": 0,
+   "ar_q": "ما الحد الأدنى من التوقيعات لتقديم مبادرة تشريعية شعبية؟",
+   "ar_exp": "يشترط الدستور 500.000 توقيع على الأقل لتقديم مقترح قانون من المواطنين."
+  },
+  {
+   "level": 3,
+   "q": "¿Quién sanciona y promulga las leyes?",
+   "options": [
+    "El presidente del Senado",
+    "El Rey",
+    "El Defensor del Pueblo"
+   ],
+   "answer": 1,
+   "ar_q": "من يصادق على القوانين ويصدرها؟",
+   "ar_exp": "بعد أن يقرّ البرلمان القانون، يصادق عليه الملك ويصدره."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuál es el órgano de gobierno del poder judicial?",
+   "options": [
+    "El Consejo de Ministros",
+    "El Tribunal de Cuentas",
+    "El Consejo General del Poder Judicial"
+   ],
+   "answer": 2,
+   "ar_q": "ما هو الجهاز المسيّر للسلطة القضائية؟",
+   "ar_exp": "المجلس العام للسلطة القضائية هو الجهاز الذي يسيّر السلطة القضائية."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué institución interpreta la Constitución y controla que las leyes la respeten?",
+   "options": [
+    "El Congreso de los Diputados",
+    "El Tribunal Supremo",
+    "El Tribunal Constitucional"
+   ],
+   "answer": 2,
+   "ar_q": "أي مؤسسة تفسّر الدستور وتراقب احترام القوانين له؟",
+   "ar_exp": "المحكمة الدستورية هي المفسّر الأعلى للدستور وتراقب دستورية القوانين."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué órgano fiscaliza las cuentas y la gestión económica del Estado?",
+   "options": [
+    "El Defensor del Pueblo",
+    "El Senado",
+    "El Tribunal de Cuentas"
+   ],
+   "answer": 2,
+   "ar_q": "أي جهاز يراقب حسابات الدولة وتدبيرها المالي؟",
+   "ar_exp": "محكمة الحسابات هي الجهاز الأعلى لمراقبة حسابات الدولة والقطاع العام."
+  },
+  {
+   "level": 3,
+   "q": "¿Con qué instrumento puede el Congreso exigir la responsabilidad política del Gobierno y sustituir a su Presidente?",
+   "options": [
+    "El recurso de amparo",
+    "La moción de censura",
+    "El referéndum"
+   ],
+   "answer": 1,
+   "ar_q": "بأي وسيلة يمكن لمجلس النواب مساءلة الحكومة سياسيًا وتغيير رئيسها؟",
+   "ar_exp": "ملتمس الرقابة (moción de censura) يسمح لمجلس النواب بإسقاط الحكومة واقتراح مرشح بديل."
+  },
+  {
+   "level": 3,
+   "q": "¿Quién designa al Defensor del Pueblo?",
+   "options": [
+    "Las Cortes Generales",
+    "El Gobierno",
+    "El Rey"
+   ],
+   "answer": 0,
+   "ar_q": "من يعيّن أمين المظالم (Defensor del Pueblo)؟",
+   "ar_exp": "أمين المظالم مفوَّض من البرلمان، ويعيّنه البرلمان (الكورتيس العامة)."
+  },
+  {
+   "level": 3,
+   "q": "Según la Constitución, ¿cuáles son los valores superiores del ordenamiento jurídico?",
+   "options": [
+    "La riqueza, el orden y la tradición",
+    "La familia, la propiedad y la obediencia",
+    "La libertad, la justicia, la igualdad y el pluralismo político"
+   ],
+   "answer": 2,
+   "ar_q": "حسب الدستور، ما هي القيم العليا للنظام القانوني؟",
+   "ar_exp": "تنص المادة الأولى على أن القيم العليا هي: الحرية والعدالة والمساواة والتعددية السياسية."
+  },
+  {
+   "level": 1,
+   "q": "¿A qué edad son mayores de edad los españoles?",
+   "options": [
+    "A los 16 años",
+    "A los 18 años",
+    "A los 21 años"
+   ],
+   "answer": 1,
+   "ar_q": "في أي سن يبلغ الإسبان سن الرشد؟",
+   "ar_exp": "حسب الدستور، سن الرشد في إسبانيا هو 18 سنة."
+  },
+  {
+   "level": 1,
+   "q": "¿Existe la pena de muerte en España?",
+   "options": [
+    "Sí, para los delitos graves",
+    "Sí, pero solo en algunas comunidades",
+    "No, está abolida"
+   ],
+   "answer": 2,
+   "ar_q": "هل توجد عقوبة الإعدام في إسبانيا؟",
+   "ar_exp": "عقوبة الإعدام ملغاة في إسبانيا، والدستور يحمي الحق في الحياة."
+  },
+  {
+   "level": 1,
+   "q": "¿Tienen los trabajadores derecho a la huelga?",
+   "options": [
+    "Solo con permiso del alcalde",
+    "Sí, la Constitución lo reconoce",
+    "No, está prohibida"
+   ],
+   "answer": 1,
+   "ar_q": "هل للعمال الحق في الإضراب؟",
+   "ar_exp": "الدستور يعترف بحق العمال في الإضراب للدفاع عن مصالحهم."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo es la enseñanza básica en España?",
+   "options": [
+    "Solo para los españoles",
+    "Obligatoria y gratuita",
+    "Voluntaria y de pago"
+   ],
+   "answer": 1,
+   "ar_q": "كيف هو التعليم الأساسي في إسبانيا؟",
+   "ar_exp": "التعليم الأساسي إلزامي ومجاني لجميع الأطفال."
+  },
+  {
+   "level": 1,
+   "q": "¿Con qué deber contribuyen todos al sostenimiento de los gastos públicos?",
+   "options": [
+    "Pagando impuestos",
+    "Votando en las elecciones",
+    "Haciendo el servicio militar"
+   ],
+   "answer": 0,
+   "ar_q": "بأي واجب يساهم الجميع في تغطية النفقات العامة؟",
+   "ar_exp": "يجب على الجميع المساهمة في النفقات العامة بدفع الضرائب حسب قدرتهم الاقتصادية."
+  },
+  {
+   "level": 1,
+   "q": "¿Son todos los españoles iguales ante la ley?",
+   "options": [
+    "No, depende de dónde hayan nacido",
+    "Sí, sin discriminación por nacimiento, raza, sexo, religión u opinión",
+    "Solo los mayores de 30 años"
+   ],
+   "answer": 1,
+   "ar_q": "هل جميع الإسبان متساوون أمام القانون؟",
+   "ar_exp": "تمنع المادة 14 من الدستور أي تمييز بسبب الولادة أو العرق أو الجنس أو الدين أو الرأي."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué lengua tienen todos los españoles el deber de conocer?",
+   "options": [
+    "El castellano",
+    "El catalán",
+    "El inglés"
+   ],
+   "answer": 0,
+   "ar_q": "ما اللغة التي يجب على جميع الإسبان معرفتها؟",
+   "ar_exp": "القشتالية هي اللغة الرسمية للدولة، ولكل الإسبان واجب معرفتها والحق في استعمالها."
+  },
+  {
+   "level": 1,
+   "q": "¿Tiene España una religión oficial del Estado?",
+   "options": [
+    "Sí, cada provincia elige una",
+    "Sí, una religión oficial para todo el país",
+    "No, ninguna confesión tiene carácter estatal"
+   ],
+   "answer": 2,
+   "ar_q": "هل لإسبانيا دين رسمي للدولة؟",
+   "ar_exp": "الدستور ينص على أنه لا يكون لأي دين صفة رسمية للدولة، ويضمن حرية الدين والمعتقد."
+  },
+  {
+   "level": 2,
+   "q": "¿Hace falta autorización previa para una reunión pacífica y sin armas?",
+   "options": [
+    "Sí, del Rey",
+    "Sí, del alcalde",
+    "No, no hace falta"
+   ],
+   "answer": 2,
+   "ar_q": "هل يحتاج الاجتماع السلمي ومن دون سلاح إلى ترخيص مسبق؟",
+   "ar_exp": "الحق في الاجتماع السلمي لا يحتاج إلى ترخيص مسبق، أما المظاهرات في الأماكن العامة فيجب إخطار السلطات بها مسبقًا."
+  },
+  {
+   "level": 2,
+   "q": "¿Puede la policía entrar en una casa sin permiso del dueño ni orden judicial?",
+   "options": [
+    "No, salvo en caso de flagrante delito",
+    "Sí, siempre que quiera",
+    "Sí, pero solo de noche"
+   ],
+   "answer": 0,
+   "ar_q": "هل يمكن للشرطة دخول منزل دون إذن صاحبه ودون أمر قضائي؟",
+   "ar_exp": "حرمة المسكن مصونة، ولا يجوز دخوله إلا بإذن صاحبه أو بقرار قضائي أو في حالة التلبس بجريمة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué derecho protege las cartas, las llamadas y los mensajes?",
+   "options": [
+    "El secreto de las comunicaciones",
+    "El derecho de huelga",
+    "El derecho a la propiedad"
+   ],
+   "answer": 0,
+   "ar_q": "ما الحق الذي يحمي الرسائل والمكالمات؟",
+   "ar_exp": "الدستور يضمن سرية المراسلات والاتصالات إلا بقرار قضائي."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué asociaciones están prohibidas?",
+   "options": [
+    "Las secretas y las de carácter paramilitar",
+    "Las deportivas",
+    "Las culturales"
+   ],
+   "answer": 0,
+   "ar_q": "ما الجمعيات الممنوعة؟",
+   "ar_exp": "الحق في تأسيس الجمعيات مضمون، لكن الجمعيات السرية وذات الطابع شبه العسكري ممنوعة."
+  },
+  {
+   "level": 2,
+   "q": "¿Cómo se llama el principio según el cual toda persona es inocente mientras no se demuestre lo contrario?",
+   "options": [
+    "El derecho de petición",
+    "La libertad de cátedra",
+    "La presunción de inocencia"
+   ],
+   "answer": 2,
+   "ar_q": "ما اسم المبدأ الذي يعتبر كل شخص بريئًا حتى تثبت إدانته؟",
+   "ar_exp": "قرينة البراءة: كل متهم يُعتبر بريئًا إلى أن تثبت إدانته."
+  },
+  {
+   "level": 2,
+   "q": "¿Pueden casarse en España dos personas del mismo sexo?",
+   "options": [
+    "Sí, es legal desde 2005",
+    "Solo en algunas comunidades autónomas",
+    "No, está prohibido"
+   ],
+   "answer": 0,
+   "ar_q": "هل يمكن لشخصين من الجنس نفسه الزواج في إسبانيا؟",
+   "ar_exp": "الزواج بين شخصين من الجنس نفسه قانوني في كل إسبانيا منذ سنة 2005."
+  },
+  {
+   "level": 2,
+   "q": "¿Puede un español de origen ser privado de su nacionalidad?",
+   "options": [
+    "Sí, si vive en el extranjero",
+    "No, la Constitución lo prohíbe",
+    "Sí, si no vota"
+   ],
+   "answer": 1,
+   "ar_q": "هل يمكن تجريد إسباني الأصل من جنسيته؟",
+   "ar_exp": "ينص الدستور على أنه لا يجوز تجريد أي إسباني الأصل من جنسيته."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuánto tiempo puede durar como máximo la detención preventiva antes de que el detenido sea puesto en libertad o a disposición judicial?",
+   "options": [
+    "72 horas",
+    "Una semana",
+    "24 días"
+   ],
+   "answer": 0,
+   "ar_q": "ما أقصى مدة للاحتجاز الاحتياطي قبل إطلاق سراح المحتجز أو تقديمه إلى القاضي؟",
+   "ar_exp": "حسب الدستور، لا يتجاوز الاحتجاز الاحتياطي 72 ساعة كحد أقصى."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué procedimiento permite que una persona detenida ilegalmente sea llevada de inmediato ante un juez?",
+   "options": [
+    "La iniciativa legislativa popular",
+    "El habeas corpus",
+    "La moción de censura"
+   ],
+   "answer": 1,
+   "ar_q": "ما الإجراء الذي يسمح بتقديم شخص محتجز بشكل غير قانوني فورًا أمام القاضي؟",
+   "ar_exp": "إجراء «هابياس كوربوس» يضمن تقديم المحتجز بطريقة غير قانونية فورًا أمام القاضي."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué recurso se puede presentar ante el Tribunal Constitucional por la violación de los derechos fundamentales?",
+   "options": [
+    "El recurso de amparo",
+    "La declaración de la renta",
+    "La moción de censura"
+   ],
+   "answer": 0,
+   "ar_q": "ما الطعن الذي يمكن تقديمه أمام المحكمة الدستورية عند انتهاك الحقوق الأساسية؟",
+   "ar_exp": "طعن الحماية (recurso de amparo) يُقدَّم أمام المحكمة الدستورية لحماية الحقوق والحريات الأساسية."
+  },
+  {
+   "level": 3,
+   "q": "¿Puede limitarse la libertad de expresión mediante censura previa?",
+   "options": [
+    "No, la Constitución prohíbe cualquier tipo de censura previa",
+    "Sí, durante las elecciones",
+    "Sí, si lo decide el Gobierno"
+   ],
+   "answer": 0,
+   "ar_q": "هل يمكن تقييد حرية التعبير بالرقابة المسبقة؟",
+   "ar_exp": "الدستور يمنع أي نوع من الرقابة المسبقة على حرية التعبير."
+  },
+  {
+   "level": 3,
+   "q": "¿A quién reconoce la Constitución el derecho a la justicia gratuita?",
+   "options": [
+    "A quienes acrediten insuficiencia de recursos para litigar",
+    "Solo a los funcionarios públicos",
+    "Solo a los mayores de 65 años"
+   ],
+   "answer": 0,
+   "ar_q": "لمن يعترف الدستور بالحق في العدالة المجانية؟",
+   "ar_exp": "المساعدة القانونية مجانية لمن يثبت أنه لا يملك موارد كافية لرفع دعوى أو الدفاع عن نفسه."
+  },
+  {
+   "level": 3,
+   "q": "Según el artículo 30 de la Constitución, ¿qué derecho y deber tienen los españoles?",
+   "options": [
+    "Votar en todas las elecciones",
+    "Defender España",
+    "Hablar una lengua extranjera"
+   ],
+   "answer": 1,
+   "ar_q": "حسب المادة 30 من الدستور، ما الحق والواجب الذي على الإسبان؟",
+   "ar_exp": "تنص المادة 30 على أن للإسبان الحق والواجب في الدفاع عن إسبانيا."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuáles son las dos ciudades autónomas de España?",
+   "options": [
+    "Cádiz y Málaga",
+    "Ceuta y Melilla",
+    "Toledo y Segovia"
+   ],
+   "answer": 1,
+   "ar_q": "ما هما المدينتان المستقلتان ذاتيًا في إسبانيا؟",
+   "ar_exp": "سبتة ومليلية مدينتان مستقلتان ذاتيًا، تقعان في شمال إفريقيا."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuántas provincias tiene España?",
+   "options": [
+    "52",
+    "17",
+    "50"
+   ],
+   "answer": 2,
+   "ar_q": "كم عدد الأقاليم (المحافظات) في إسبانيا؟",
+   "ar_exp": "في إسبانيا 50 إقليمًا، بالإضافة إلى مدينتي سبتة ومليلية."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la montaña más alta de España?",
+   "options": [
+    "El Mulhacén",
+    "El Teide",
+    "El Aneto"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو أعلى جبل في إسبانيا؟",
+   "ar_exp": "جبل تيدي في جزيرة تينيريفي هو أعلى قمة في إسبانيا."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué isla está el Teide?",
+   "options": [
+    "En Ibiza",
+    "En Tenerife",
+    "En Mallorca"
+   ],
+   "answer": 1,
+   "ar_q": "في أي جزيرة يوجد جبل تيدي؟",
+   "ar_exp": "جبل تيدي بركان يقع في جزيرة تينيريفي بجزر الكناري."
+  },
+  {
+   "level": 1,
+   "q": "¿Con qué país limita España por el oeste?",
+   "options": [
+    "Con Italia",
+    "Con Francia",
+    "Con Portugal"
+   ],
+   "answer": 2,
+   "ar_q": "مع أي بلد تحدّ إسبانيا من الغرب؟",
+   "ar_exp": "البرتغال تقع غرب إسبانيا، وتتقاسمان شبه الجزيرة الإيبيرية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué cordillera separa España de Francia?",
+   "options": [
+    "Los Pirineos",
+    "Sierra Nevada",
+    "Los Picos de Europa"
+   ],
+   "answer": 0,
+   "ar_q": "أي سلسلة جبلية تفصل إسبانيا عن فرنسا؟",
+   "ar_exp": "جبال البرانس (البيرينيه) تشكّل الحدود بين إسبانيا وفرنسا."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde están las islas Canarias?",
+   "options": [
+    "En el océano Atlántico",
+    "En el mar Mediterráneo",
+    "En el mar Cantábrico"
+   ],
+   "answer": 0,
+   "ar_q": "أين تقع جزر الكناري؟",
+   "ar_exp": "جزر الكناري تقع في المحيط الأطلسي قرب الساحل الإفريقي."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la capital de Andalucía?",
+   "options": [
+    "Málaga",
+    "Sevilla",
+    "Granada"
+   ],
+   "answer": 1,
+   "ar_q": "ما عاصمة الأندلس؟",
+   "ar_exp": "إشبيلية هي عاصمة جهة الأندلس."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la capital de Cataluña?",
+   "options": [
+    "Barcelona",
+    "Tarragona",
+    "Girona"
+   ],
+   "answer": 0,
+   "ar_q": "ما عاصمة كتالونيا؟",
+   "ar_exp": "برشلونة هي عاصمة جهة كتالونيا."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué mar están las islas Baleares?",
+   "options": [
+    "En el mar Mediterráneo",
+    "En el mar Cantábrico",
+    "En el océano Atlántico"
+   ],
+   "answer": 0,
+   "ar_q": "في أي بحر تقع جزر البليار؟",
+   "ar_exp": "جزر البليار (مايوركا ومينوركا وإيبيثا وفورمينتيرا) تقع في البحر الأبيض المتوسط."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué mar baña la costa norte de España?",
+   "options": [
+    "El mar Cantábrico",
+    "El mar Rojo",
+    "El mar Mediterráneo"
+   ],
+   "answer": 0,
+   "ar_q": "أي بحر يطلّ على الساحل الشمالي لإسبانيا؟",
+   "ar_exp": "البحر الكنتابري يطلّ على الساحل الشمالي لإسبانيا."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué río pasa por Zaragoza y desemboca en el mar Mediterráneo?",
+   "options": [
+    "El Ebro",
+    "El Tajo",
+    "El Guadalquivir"
+   ],
+   "answer": 0,
+   "ar_q": "أي نهر يمر بسرقسطة ويصب في البحر الأبيض المتوسط؟",
+   "ar_exp": "نهر إيبرو يمر بسرقسطة ويصب في البحر الأبيض المتوسط."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué río pasa por Sevilla?",
+   "options": [
+    "El Ebro",
+    "El Duero",
+    "El Guadalquivir"
+   ],
+   "answer": 2,
+   "ar_q": "أي نهر يمر بإشبيلية؟",
+   "ar_exp": "نهر الوادي الكبير (Guadalquivir) يمر بقرطبة وإشبيلية."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es el río más largo de la península ibérica?",
+   "options": [
+    "El Ebro",
+    "El Tajo",
+    "El Guadiana"
+   ],
+   "answer": 1,
+   "ar_q": "ما أطول نهر في شبه الجزيرة الإيبيرية؟",
+   "ar_exp": "نهر تاخو هو الأطول في شبه الجزيرة، ويمر بطليطلة ويصب في المحيط الأطلسي في لشبونة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué estrecho separa España de África?",
+   "options": [
+    "El estrecho de Ormuz",
+    "El estrecho del Bósforo",
+    "El estrecho de Gibraltar"
+   ],
+   "answer": 2,
+   "ar_q": "أي مضيق يفصل إسبانيا عن إفريقيا؟",
+   "ar_exp": "مضيق جبل طارق يفصل أوروبا عن إفريقيا ويربط المتوسط بالأطلسي."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la capital de Galicia?",
+   "options": [
+    "Santiago de Compostela",
+    "Vigo",
+    "A Coruña"
+   ],
+   "answer": 0,
+   "ar_q": "ما عاصمة غاليسيا؟",
+   "ar_exp": "سانتياغو دي كومبوستيلا هي عاصمة غاليسيا."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué comunidad autónoma es cooficial el gallego?",
+   "options": [
+    "En Asturias",
+    "En Galicia",
+    "En Cantabria"
+   ],
+   "answer": 1,
+   "ar_q": "في أي جهة مستقلة تكون اللغة الغاليسية رسمية إلى جانب القشتالية؟",
+   "ar_exp": "اللغة الغاليسية رسمية في غاليسيا إلى جانب القشتالية."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué comunidad autónoma es cooficial el euskera?",
+   "options": [
+    "En Cataluña",
+    "En el País Vasco",
+    "En Galicia"
+   ],
+   "answer": 1,
+   "ar_q": "في أي جهة مستقلة تكون لغة الباسك (الأوسكيرا) رسمية؟",
+   "ar_exp": "لغة الباسك رسمية في إقليم الباسك إلى جانب القشتالية (وكذلك في المناطق الناطقة بها في نافارا)."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué comunidad autónoma está Sierra Nevada?",
+   "options": [
+    "En Castilla y León",
+    "En Andalucía",
+    "En Aragón"
+   ],
+   "answer": 1,
+   "ar_q": "في أي جهة مستقلة توجد سييرا نيفادا؟",
+   "ar_exp": "سلسلة سييرا نيفادا توجد في الأندلس، في إقليمي غرناطة وألمرية."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es la capital del País Vasco?",
+   "options": [
+    "San Sebastián",
+    "Vitoria-Gasteiz",
+    "Bilbao"
+   ],
+   "answer": 1,
+   "ar_q": "ما عاصمة إقليم الباسك؟",
+   "ar_exp": "فيتوريا-غاستيث هي مقرّ مؤسسات إقليم الباسك وعاصمته."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuál es la norma institucional básica de cada comunidad autónoma?",
+   "options": [
+    "Las ordenanzas municipales",
+    "Su Estatuto de Autonomía",
+    "El Código Civil"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو القانون المؤسساتي الأساسي لكل جهة مستقلة ذاتيًا؟",
+   "ar_exp": "لكل جهة مستقلة نظام أساسي للحكم الذاتي (Estatuto de Autonomía) يحدد مؤسساتها واختصاصاتها."
+  },
+  {
+   "level": 3,
+   "q": "Según la Constitución, ¿cómo se organiza territorialmente el Estado?",
+   "options": [
+    "En municipios, provincias y comunidades autónomas",
+    "En estados federados",
+    "En regiones y departamentos"
+   ],
+   "answer": 0,
+   "ar_q": "حسب الدستور، كيف تنتظم الدولة ترابيًا؟",
+   "ar_exp": "تنص المادة 137 على أن الدولة تنتظم في بلديات وأقاليم وجهات مستقلة ذاتيًا."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuántas provincias tiene Andalucía?",
+   "options": [
+    "Seis",
+    "Cuatro",
+    "Ocho"
+   ],
+   "answer": 2,
+   "ar_q": "كم عدد أقاليم الأندلس؟",
+   "ar_exp": "تضم الأندلس ثمانية أقاليم: ألمرية وقادس وقرطبة وغرناطة وولبة وجيان ومالقة وإشبيلية."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuál es el pico más alto de la península ibérica?",
+   "options": [
+    "El Teide",
+    "El Aneto",
+    "El Mulhacén"
+   ],
+   "answer": 2,
+   "ar_q": "ما أعلى قمة في شبه الجزيرة الإيبيرية؟",
+   "ar_exp": "مولهاسين في سييرا نيفادا هو أعلى قمة في شبه الجزيرة، أما تيدي فهو في جزر الكناري."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuál de estas comunidades autónomas tiene una sola provincia?",
+   "options": [
+    "Andalucía",
+    "La Rioja",
+    "Galicia"
+   ],
+   "answer": 1,
+   "ar_q": "أي من هذه الجهات المستقلة تضم إقليمًا واحدًا فقط؟",
+   "ar_exp": "لاريوخا جهة ذات إقليم واحد، أما الأندلس فلها ثمانية أقاليم وغاليسيا أربعة."
+  },
+  {
+   "level": 3,
+   "q": "¿Cuál es la capital de Extremadura?",
+   "options": [
+    "Cáceres",
+    "Badajoz",
+    "Mérida"
+   ],
+   "answer": 2,
+   "ar_q": "ما عاصمة إكستريمادورا؟",
+   "ar_exp": "ميريدا هي عاصمة إكستريمادورا، وهي مدينة رومانية قديمة."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién escribió Don Quijote de la Mancha?",
+   "options": [
+    "Federico García Lorca",
+    "Miguel de Cervantes",
+    "Antonio Machado"
+   ],
+   "answer": 1,
+   "ar_q": "من كتب رواية دون كيخوتي دي لا مانتشا؟",
+   "ar_exp": "ميغيل دي ثيربانتس هو مؤلف دون كيخوتي، أشهر عمل في الأدب الإسباني."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién pintó Las Meninas?",
+   "options": [
+    "Diego Velázquez",
+    "Pablo Picasso",
+    "Salvador Dalí"
+   ],
+   "answer": 0,
+   "ar_q": "من رسم لوحة «لاس مينيناس» (الوصيفات)؟",
+   "ar_exp": "رسم دييغو فيلاثكيث لوحة «لاس مينيناس»، وهي معروضة في متحف البرادو."
+  },
+  {
+   "level": 1,
+   "q": "¿Quién pintó el Guernica?",
+   "options": [
+    "Diego Velázquez",
+    "Francisco de Goya",
+    "Pablo Picasso"
+   ],
+   "answer": 2,
+   "ar_q": "من رسم لوحة غيرنيكا؟",
+   "ar_exp": "رسم بابلو بيكاسو لوحة غيرنيكا سنة 1937 عن قصف مدينة غيرنيكا."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué se celebra el 12 de octubre?",
+   "options": [
+    "El Día del Trabajo",
+    "El Día de la Constitución",
+    "La Fiesta Nacional de España"
+   ],
+   "answer": 2,
+   "ar_q": "ماذا يُحتفل به يوم 12 أكتوبر؟",
+   "ar_exp": "12 أكتوبر هو العيد الوطني لإسبانيا، ويُعرف أيضًا بيوم الهيسبانيداد."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué se celebra el 6 de diciembre?",
+   "options": [
+    "El Día de la Constitución",
+    "La Fiesta Nacional de España",
+    "El Día de Reyes"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا يُحتفل به يوم 6 ديسمبر؟",
+   "ar_exp": "6 ديسمبر هو يوم الدستور، ذكرى استفتاء سنة 1978."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué ciudad está el Museo del Prado?",
+   "options": [
+    "En Sevilla",
+    "En Madrid",
+    "En Barcelona"
+   ],
+   "answer": 1,
+   "ar_q": "في أي مدينة يوجد متحف البرادو؟",
+   "ar_exp": "متحف البرادو في مدريد، وهو من أهم متاحف الفن في العالم."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué ciudad se celebran las Fallas?",
+   "options": [
+    "En Pamplona",
+    "En Valencia",
+    "En Sevilla"
+   ],
+   "answer": 1,
+   "ar_q": "في أي مدينة يُحتفل بمهرجان الفاياس؟",
+   "ar_exp": "مهرجان الفاياس يُقام في بلنسية (فالنسيا) في شهر مارس، وتُحرق فيه مجسمات كبيرة."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué ciudad se celebran los Sanfermines?",
+   "options": [
+    "En Cádiz",
+    "En Pamplona",
+    "En Valencia"
+   ],
+   "answer": 1,
+   "ar_q": "في أي مدينة تُقام احتفالات سان فيرمين؟",
+   "ar_exp": "احتفالات سان فيرمين تُقام في بامبلونا في شهر يوليو."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué se come tradicionalmente en Nochevieja con las campanadas?",
+   "options": [
+    "Doce churros",
+    "Una paella",
+    "Doce uvas"
+   ],
+   "answer": 2,
+   "ar_q": "ماذا يؤكل تقليديًا ليلة رأس السنة مع دقات الساعة؟",
+   "ar_exp": "تقليديًا تؤكل اثنتا عشرة حبة عنب، واحدة مع كل دقة من دقات منتصف الليل."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué arquitecto diseñó la Sagrada Familia de Barcelona?",
+   "options": [
+    "Antoni Gaudí",
+    "Joaquín Sorolla",
+    "Pablo Picasso"
+   ],
+   "answer": 0,
+   "ar_q": "أي مهندس معماري صمّم مبنى «ساغرادا فاميليا» في برشلونة؟",
+   "ar_exp": "أنطوني غاودي هو المهندس المعماري الذي صمّم ساغرادا فاميليا."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué ciudad está la Alhambra?",
+   "options": [
+    "En Granada",
+    "En Córdoba",
+    "En Toledo"
+   ],
+   "answer": 0,
+   "ar_q": "في أي مدينة يوجد قصر الحمراء؟",
+   "ar_exp": "قصر الحمراء يوجد في غرناطة، وهو من أشهر معالم إسبانيا."
+  },
+  {
+   "level": 2,
+   "q": "¿Quién escribió La casa de Bernarda Alba?",
+   "options": [
+    "Miguel de Cervantes",
+    "Antonio Machado",
+    "Federico García Lorca"
+   ],
+   "answer": 2,
+   "ar_q": "من كتب مسرحية «بيت برناردا ألبا»؟",
+   "ar_exp": "فيديريكو غارثيا لوركا كاتب وشاعر أندلسي، من أعماله «بيت برناردا ألبا» و«عرس الدم»."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué pintor pintó Los fusilamientos del 3 de mayo?",
+   "options": [
+    "El Greco",
+    "Francisco de Goya",
+    "Salvador Dalí"
+   ],
+   "answer": 1,
+   "ar_q": "أي رسام رسم لوحة «إعدامات الثالث من مايو»؟",
+   "ar_exp": "رسم فرانثيسكو دي غويا هذه اللوحة عن أحداث سنة 1808 في مدريد."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué año llegó Cristóbal Colón a América?",
+   "options": [
+    "En 1512",
+    "En 1388",
+    "En 1492"
+   ],
+   "answer": 2,
+   "ar_q": "في أي سنة وصل كريستوفر كولومبوس إلى أمريكا؟",
+   "ar_exp": "وصل كولومبوس إلى أمريكا سنة 1492، وهي السنة نفسها التي سقطت فيها غرناطة."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué ciudad se celebraron los Juegos Olímpicos de 1992?",
+   "options": [
+    "En Madrid",
+    "En Barcelona",
+    "En Sevilla"
+   ],
+   "answer": 1,
+   "ar_q": "في أي مدينة أقيمت الألعاب الأولمبية سنة 1992؟",
+   "ar_exp": "أقيمت الألعاب الأولمبية سنة 1992 في برشلونة."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué año entró España en la Comunidad Económica Europea, hoy Unión Europea?",
+   "options": [
+    "En 2002",
+    "En 1986",
+    "En 1975"
+   ],
+   "answer": 1,
+   "ar_q": "في أي سنة انضمت إسبانيا إلى المجموعة الاقتصادية الأوروبية (الاتحاد الأوروبي حاليًا)؟",
+   "ar_exp": "انضمت إسبانيا إلى المجموعة الأوروبية سنة 1986."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué día se celebra el Día del Libro?",
+   "options": [
+    "El 23 de abril",
+    "El 6 de diciembre",
+    "El 12 de octubre"
+   ],
+   "answer": 0,
+   "ar_q": "في أي يوم يُحتفل بيوم الكتاب؟",
+   "ar_exp": "يوم الكتاب هو 23 أبريل، في ذكرى وفاة ثيربانتس."
+  },
+  {
+   "level": 2,
+   "q": "¿Entre qué años tuvo lugar la Guerra Civil española?",
+   "options": [
+    "Entre 1808 y 1814",
+    "Entre 1914 y 1918",
+    "Entre 1936 y 1939"
+   ],
+   "answer": 2,
+   "ar_q": "بين أي سنتين وقعت الحرب الأهلية الإسبانية؟",
+   "ar_exp": "دارت الحرب الأهلية الإسبانية بين سنتي 1936 و1939."
+  },
+  {
+   "level": 2,
+   "q": "¿En qué ciudad está el famoso acueducto romano?",
+   "options": [
+    "En Segovia",
+    "En Almería",
+    "En Santander"
+   ],
+   "answer": 0,
+   "ar_q": "في أي مدينة توجد القناة المائية الرومانية الشهيرة؟",
+   "ar_exp": "قناة شقوبية (سيغوفيا) المائية من أهم الآثار الرومانية في إسبانيا."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué institución vela por la norma del idioma español?",
+   "options": [
+    "El Tribunal Supremo",
+    "El Instituto Cervantes",
+    "La Real Academia Española"
+   ],
+   "answer": 2,
+   "ar_q": "أي مؤسسة تسهر على قواعد اللغة الإسبانية؟",
+   "ar_exp": "الأكاديمية الملكية الإسبانية (RAE) تضع قواعد اللغة، أما معهد ثيربانتس فينشر تعليم الإسبانية في العالم."
+  },
+  {
+   "level": 3,
+   "q": "¿Cómo se conoce popularmente la Constitución de 1812, aprobada en Cádiz?",
+   "options": [
+    "La Chata",
+    "La Gloriosa",
+    "La Pepa"
+   ],
+   "answer": 2,
+   "ar_q": "بأي اسم يُعرف شعبيًا دستور سنة 1812 الذي أُقر في قادس؟",
+   "ar_exp": "يُعرف دستور قادس لسنة 1812 باسم «لا بيبا» لأنه أُقر يوم عيد القديس خوسيه (19 مارس)."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué ocurrió el 23 de febrero de 1981?",
+   "options": [
+    "Un intento de golpe de Estado",
+    "La entrada de España en la Unión Europea",
+    "La aprobación de la Constitución"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا حدث يوم 23 فبراير 1981؟",
+   "ar_exp": "في 23 فبراير 1981 وقعت محاولة انقلاب في مجلس النواب، وفشلت."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué científico español recibió el Premio Nobel de Medicina en 1906?",
+   "options": [
+    "Gregorio Marañón",
+    "Santiago Ramón y Cajal",
+    "Severo Ochoa"
+   ],
+   "answer": 1,
+   "ar_q": "أي عالم إسباني نال جائزة نوبل في الطب سنة 1906؟",
+   "ar_exp": "نال سانتياغو رامون إي كاخال جائزة نوبل في الطب سنة 1906 لأبحاثه حول الجهاز العصبي."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué pintor realizó El entierro del conde de Orgaz, que se encuentra en Toledo?",
+   "options": [
+    "Francisco de Goya",
+    "Joaquín Sorolla",
+    "El Greco"
+   ],
+   "answer": 2,
+   "ar_q": "أي رسام أنجز لوحة «دفن الكونت أورغاث» الموجودة في طليطلة؟",
+   "ar_exp": "إل غريكو رسام عاش في طليطلة، ومن أشهر لوحاته «دفن الكونت أورغاث»."
+  },
+  {
+   "level": 3,
+   "q": "¿En qué ciudad nació Miguel de Cervantes?",
+   "options": [
+    "En Madrid",
+    "En Toledo",
+    "En Alcalá de Henares"
+   ],
+   "answer": 2,
+   "ar_q": "في أي مدينة وُلد ميغيل دي ثيربانتس؟",
+   "ar_exp": "وُلد ثيربانتس في ألكالا دي إيناريس قرب مدريد."
+  },
+  {
+   "level": 3,
+   "q": "¿Cómo se llama el periodo que siguió a la muerte de Franco en 1975 y llevó a la democracia?",
+   "options": [
+    "La Ilustración",
+    "La Reconquista",
+    "La Transición"
+   ],
+   "answer": 2,
+   "ar_q": "ما اسم المرحلة التي تلت وفاة فرانكو سنة 1975 وأدت إلى الديمقراطية؟",
+   "ar_exp": "«الانتقال الديمقراطي» (La Transición) هي المرحلة التي انتقلت فيها إسبانيا من الدكتاتورية إلى الديمقراطية."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es la moneda de España?",
+   "options": [
+    "La peseta",
+    "El dólar",
+    "El euro"
+   ],
+   "answer": 2,
+   "ar_q": "ما هي عملة إسبانيا؟",
+   "ar_exp": "العملة في إسبانيا هي اليورو، وقد عوّضت البيسيتا."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es el teléfono de la Policía Nacional?",
+   "options": [
+    "062",
+    "016",
+    "091"
+   ],
+   "answer": 2,
+   "ar_q": "ما رقم هاتف الشرطة الوطنية؟",
+   "ar_exp": "رقم الشرطة الوطنية هو 091، ورقم الحرس المدني هو 062."
+  },
+  {
+   "level": 1,
+   "q": "¿Cuál es el teléfono de la Guardia Civil?",
+   "options": [
+    "062",
+    "010",
+    "091"
+   ],
+   "answer": 0,
+   "ar_q": "ما رقم هاتف الحرس المدني (Guardia Civil)؟",
+   "ar_exp": "رقم الحرس المدني هو 062."
+  },
+  {
+   "level": 1,
+   "q": "¿Dónde se empadrona una persona?",
+   "options": [
+    "En el ayuntamiento",
+    "En el hospital",
+    "En el banco"
+   ],
+   "answer": 0,
+   "ar_q": "أين يسجّل الشخص نفسه في سجل السكان (الإمبادرونامينتو)؟",
+   "ar_exp": "التسجيل في سجل السكان (el padrón) يتم في البلدية التي يسكن فيها الشخص."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué contenedor se tira el vidrio?",
+   "options": [
+    "En el azul",
+    "En el amarillo",
+    "En el verde"
+   ],
+   "answer": 2,
+   "ar_q": "في أي حاوية يُرمى الزجاج؟",
+   "ar_exp": "الزجاج يُرمى في الحاوية الخضراء."
+  },
+  {
+   "level": 1,
+   "q": "¿En qué contenedor se tiran los envases de plástico y las latas?",
+   "options": [
+    "En el amarillo",
+    "En el azul",
+    "En el verde"
+   ],
+   "answer": 0,
+   "ar_q": "في أي حاوية تُرمى العبوات البلاستيكية والعلب المعدنية؟",
+   "ar_exp": "العبوات البلاستيكية والعلب المعدنية تُرمى في الحاوية الصفراء، والورق والكرتون في الحاوية الزرقاء."
+  },
+  {
+   "level": 1,
+   "q": "¿A partir de qué edad es obligatorio tener el DNI?",
+   "options": [
+    "A partir de los 14 años",
+    "A partir de los 18 años",
+    "A partir de los 25 años"
+   ],
+   "answer": 0,
+   "ar_q": "ابتداءً من أي سن تصبح بطاقة الهوية الوطنية (DNI) إلزامية؟",
+   "ar_exp": "بطاقة الهوية الوطنية إلزامية للإسبان ابتداءً من سن 14."
+  },
+  {
+   "level": 1,
+   "q": "¿Por qué lado de la carretera se circula en España?",
+   "options": [
+    "Por la izquierda",
+    "Por el centro",
+    "Por la derecha"
+   ],
+   "answer": 2,
+   "ar_q": "في أي جانب من الطريق تكون السياقة في إسبانيا؟",
+   "ar_exp": "في إسبانيا تكون السياقة على الجانب الأيمن من الطريق."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué día se celebra la Fiesta del Trabajo?",
+   "options": [
+    "El 1 de mayo",
+    "El 1 de abril",
+    "El 1 de junio"
+   ],
+   "answer": 0,
+   "ar_q": "في أي يوم يُحتفل بعيد العمال؟",
+   "ar_exp": "عيد العمال يوم 1 مايو، وهو عطلة رسمية في كل إسبانيا."
+  },
+  {
+   "level": 2,
+   "q": "¿Entre qué edades es obligatoria la enseñanza en España?",
+   "options": [
+    "De los 8 a los 18 años",
+    "De los 6 a los 16 años",
+    "De los 3 a los 12 años"
+   ],
+   "answer": 1,
+   "ar_q": "بين أي سنين يكون التعليم إلزاميًا في إسبانيا؟",
+   "ar_exp": "التعليم إلزامي من 6 إلى 16 سنة: الابتدائي ثم التعليم الثانوي الإلزامي (ESO)."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es el NIE?",
+   "options": [
+    "El Número de Identidad de Extranjero",
+    "El número del permiso de conducir",
+    "El número de la tarjeta sanitaria"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو الـ NIE؟",
+   "ar_exp": "NIE هو رقم هوية الأجنبي، ويُستعمل في جميع المعاملات الإدارية."
+  },
+  {
+   "level": 2,
+   "q": "¿Cuál es el teléfono de atención a las víctimas de violencia de género?",
+   "options": [
+    "010",
+    "062",
+    "016"
+   ],
+   "answer": 2,
+   "ar_q": "ما رقم الهاتف المخصص لضحايا العنف ضد المرأة؟",
+   "ar_exp": "الرقم 016 مجاني ومخصص لمساعدة ضحايا العنف ضد المرأة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué deben tener los establecimientos para que los clientes puedan presentar una queja?",
+   "options": [
+    "Un certificado de empadronamiento",
+    "Un libro de familia",
+    "Hojas de reclamaciones"
+   ],
+   "answer": 2,
+   "ar_q": "ماذا يجب أن يتوفر في المحلات لكي يقدّم الزبائن شكوى؟",
+   "ar_exp": "يجب أن تتوفر المحلات على استمارات الشكاوى (hojas de reclamaciones) وأن تقدمها للزبون عند طلبها."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué organismo gestiona los impuestos del Estado?",
+   "options": [
+    "La Dirección General de Tráfico",
+    "La Agencia Tributaria",
+    "El Servicio Público de Empleo Estatal"
+   ],
+   "answer": 1,
+   "ar_q": "أي هيئة تدير ضرائب الدولة؟",
+   "ar_exp": "الوكالة الضريبية (Agencia Tributaria، وتُسمى شعبيًا Hacienda) تدير ضرائب الدولة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué organismo expide el permiso de conducir?",
+   "options": [
+    "La Agencia Tributaria",
+    "La Dirección General de Tráfico",
+    "El Registro Civil"
+   ],
+   "answer": 1,
+   "ar_q": "أي هيئة تصدر رخصة السياقة؟",
+   "ar_exp": "المديرية العامة للمرور (DGT) هي التي تصدر رخص السياقة."
+  },
+  {
+   "level": 2,
+   "q": "¿Dónde se inscriben los nacimientos, los matrimonios y las defunciones?",
+   "options": [
+    "En la Agencia Tributaria",
+    "En el Registro Civil",
+    "En el padrón municipal"
+   ],
+   "answer": 1,
+   "ar_q": "أين تُسجَّل الولادات والزيجات والوفيات؟",
+   "ar_exp": "السجل المدني يسجّل الولادات والزيجات والوفيات والجنسية."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué impuesto se paga al comprar productos y servicios?",
+   "options": [
+    "El IVA",
+    "El IRPF",
+    "El IBI"
+   ],
+   "answer": 0,
+   "ar_q": "ما الضريبة التي تُدفع عند شراء المنتجات والخدمات؟",
+   "ar_exp": "الضريبة على القيمة المضافة (IVA) تُدفع مع ثمن المنتجات والخدمات."
+  },
+  {
+   "level": 3,
+   "q": "¿Cómo se llama el impuesto que grava los ingresos de las personas?",
+   "options": [
+    "El Impuesto sobre la Renta de las Personas Físicas (IRPF)",
+    "El Impuesto sobre el Valor Añadido (IVA)",
+    "El Impuesto sobre Bienes Inmuebles (IBI)"
+   ],
+   "answer": 0,
+   "ar_q": "ما اسم الضريبة على دخل الأشخاص؟",
+   "ar_exp": "IRPF هي الضريبة على دخل الأشخاص الطبيعيين، ويُصرَّح بها في «الإقرار بالدخل» كل سنة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué organismo gestiona las prestaciones por desempleo?",
+   "options": [
+    "El Registro Civil",
+    "El Servicio Público de Empleo Estatal (SEPE)",
+    "La Dirección General de Tráfico (DGT)"
+   ],
+   "answer": 1,
+   "ar_q": "أي هيئة تدير تعويضات البطالة؟",
+   "ar_exp": "المصلحة العمومية للتشغيل (SEPE) تدير تعويضات البطالة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué documento acredita que una persona vive en un municipio?",
+   "options": [
+    "El certificado de empadronamiento",
+    "El libro de familia",
+    "El permiso de conducir"
+   ],
+   "answer": 0,
+   "ar_q": "أي وثيقة تثبت أن الشخص يسكن في بلدية معينة؟",
+   "ar_exp": "شهادة التسجيل في سجل السكان (certificado de empadronamiento) تُطلب من البلدية وتثبت مكان السكن."
+  }
+ ]
+}

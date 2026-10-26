@@ -1,0 +1,1217 @@
+{
+ "topic_id": "admin",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "la cita previa",
+   "ar": "الموعد المسبق",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "el turno",
+   "ar": "الدور",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "la ventanilla",
+   "ar": "الشبّاك",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🚶",
+   "es": "la cola",
+   "ar": "الطابور",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🪑",
+   "es": "la sala de espera",
+   "ar": "قاعة الانتظار",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el justificante",
+   "ar": "وثيقة الإثبات",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "la oficina",
+   "ar": "المكتب",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "el funcionario",
+   "ar": "الموظف الحكومي",
+   "section": "المواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🛂",
+   "es": "la oficina de extranjería",
+   "ar": "مكتب الأجانب",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "💳",
+   "es": "la TIE",
+   "ar": "بطاقة هوية الأجنبي",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "📄",
+   "es": "el permiso de trabajo",
+   "ar": "تصريح العمل",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "la autorización de residencia",
+   "ar": "تصريح الإقامة",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "🔄",
+   "es": "la renovación",
+   "ar": "التجديد",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "🌱",
+   "es": "el arraigo",
+   "ar": "الإقامة بسبب التجذّر",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "👆",
+   "es": "la huella",
+   "ar": "البصمة",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "📸",
+   "es": "la foto de carné",
+   "ar": "الصورة الشخصية",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "⏳",
+   "es": "la caducidad",
+   "ar": "انتهاء الصلاحية",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛫",
+   "es": "el visado",
+   "ar": "التأشيرة",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 1,
+   "emoji": "🏛️",
+   "es": "el ayuntamiento",
+   "ar": "البلدية",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📒",
+   "es": "el padrón",
+   "ar": "سجلّ السكان في البلدية",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "🏡",
+   "es": "el domicilio",
+   "ar": "محلّ السكن",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "el contrato de alquiler",
+   "ar": "عقد الإيجار",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📍",
+   "es": "la dirección",
+   "ar": "العنوان",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📮",
+   "es": "el código postal",
+   "ar": "الرمز البريدي",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "📃",
+   "es": "el volante de empadronamiento",
+   "ar": "ورقة التسجيل في البلدية",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "💡",
+   "es": "el recibo de la luz",
+   "ar": "فاتورة الكهرباء",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "el número de afiliación",
+   "ar": "رقم الانتساب إلى الضمان الاجتماعي",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "💳",
+   "es": "la tarjeta sanitaria",
+   "ar": "البطاقة الصحية",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "🟢",
+   "es": "el alta en la Seguridad Social",
+   "ar": "التسجيل في الضمان الاجتماعي",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "📊",
+   "es": "la vida laboral",
+   "ar": "تقرير المسار المهني",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "el SEPE",
+   "ar": "مصلحة التشغيل العمومية",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "la prestación",
+   "ar": "الإعانة",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "📉",
+   "es": "el desempleo",
+   "ar": "البطالة",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "👴",
+   "es": "la pensión",
+   "ar": "المعاش",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "🏥",
+   "es": "el centro de salud",
+   "ar": "المركز الصحي",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 1,
+   "emoji": "🏦",
+   "es": "el banco",
+   "ar": "البنك",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "💰",
+   "es": "la cuenta bancaria",
+   "ar": "الحساب البنكي",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "🔡",
+   "es": "el IBAN",
+   "ar": "رقم الحساب البنكي الدولي",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "💳",
+   "es": "la tarjeta de débito",
+   "ar": "بطاقة الخصم البنكية",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "🏧",
+   "es": "el cajero automático",
+   "ar": "الصرّاف الآلي",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "💸",
+   "es": "la transferencia",
+   "ar": "الحوالة البنكية",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el recibo",
+   "ar": "الإيصال",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "🪙",
+   "es": "la comisión",
+   "ar": "العمولة",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el saldo",
+   "ar": "الرصيد",
+   "section": "البنك"
+  },
+  {
+   "level": 1,
+   "emoji": "📜",
+   "es": "el certificado",
+   "ar": "الشهادة",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "📋",
+   "es": "el formulario",
+   "ar": "الاستمارة",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "la solicitud",
+   "ar": "الطلب",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "🖊️",
+   "es": "la firma",
+   "ar": "التوقيع",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "la tasa",
+   "ar": "الرسوم",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "⏰",
+   "es": "el plazo",
+   "ar": "المهلة",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "📁",
+   "es": "el expediente",
+   "ar": "الملف",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "el abogado",
+   "ar": "المحامي",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 2,
+   "emoji": "💻",
+   "es": "¿Dónde puedo pedir cita previa?",
+   "ar": "أين يمكنني طلب موعد مسبق؟",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "La cita previa se pide por internet o por teléfono.",
+   "ar": "يُطلب الموعد المسبق عبر الإنترنت أو بالهاتف.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "No hay citas disponibles.",
+   "ar": "لا توجد مواعيد متاحة.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🕙",
+   "es": "Tengo cita a las diez.",
+   "ar": "لديّ موعد على الساعة العاشرة.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🎫",
+   "es": "Coja número y espere, por favor.",
+   "ar": "خذ رقمًا وانتظر من فضلك.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "❌",
+   "es": "Tengo que cancelar mi cita.",
+   "ar": "يجب أن ألغي موعدي.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "😟",
+   "es": "He perdido mi cita.",
+   "ar": "فاتني موعدي.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "👥",
+   "es": "¿Puedo venir con un traductor?",
+   "ar": "هل يمكنني أن آتي مع مترجم؟",
+   "section": "المواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "📆",
+   "es": "Mi tarjeta caduca el mes que viene.",
+   "ar": "تنتهي صلاحية بطاقتي الشهر القادم.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "Vengo a recoger mi tarjeta.",
+   "ar": "جئت لاستلام بطاقتي.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "👆",
+   "es": "Tengo cita para la toma de huellas.",
+   "ar": "لديّ موعد لأخذ البصمات.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "📸",
+   "es": "Necesito dos fotos de carné.",
+   "ar": "أحتاج صورتين شخصيتين.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "⏳",
+   "es": "¿Cuándo sale la resolución?",
+   "ar": "متى يصدر القرار؟",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "✅",
+   "es": "Me han concedido la residencia.",
+   "ar": "مُنحت لي الإقامة.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "⛔",
+   "es": "Me han denegado la solicitud.",
+   "ar": "رُفض طلبي.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "🌱",
+   "es": "Quiero solicitar el arraigo social.",
+   "ar": "أريد طلب الإقامة بسبب التجذّر الاجتماعي.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "🆔",
+   "es": "Aquí tiene mi NIE.",
+   "ar": "تفضّل، هذا رقم هويتي كأجنبي (NIE).",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 2,
+   "emoji": "✍️",
+   "es": "Quiero empadronarme.",
+   "ar": "أريد التسجيل في سجلّ السكان بالبلدية.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "Necesito un certificado de empadronamiento.",
+   "ar": "أحتاج شهادة التسجيل في البلدية.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "📍",
+   "es": "Vivo en esta dirección.",
+   "ar": "أسكن في هذا العنوان.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🚚",
+   "es": "He cambiado de domicilio.",
+   "ar": "غيّرت محلّ سكني.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🔑",
+   "es": "El dueño del piso me autoriza a empadronarme.",
+   "ar": "صاحب الشقة يأذن لي بالتسجيل في البلدية.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "❓",
+   "es": "¿Qué necesito para empadronarme?",
+   "ar": "ماذا أحتاج للتسجيل في البلدية؟",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Vivo en una habitación alquilada.",
+   "ar": "أسكن في غرفة مستأجرة.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🧭",
+   "es": "¿Dónde está el ayuntamiento?",
+   "ar": "أين توجد البلدية؟",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "Necesito el número de la Seguridad Social.",
+   "ar": "أحتاج رقم الضمان الاجتماعي.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "✅",
+   "es": "¿Estoy dado de alta?",
+   "ar": "هل أنا مسجَّل في الضمان الاجتماعي؟",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "📊",
+   "es": "Quiero pedir mi vida laboral.",
+   "ar": "أريد طلب تقرير مساري المهني.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "📝",
+   "es": "Me he inscrito como demandante de empleo.",
+   "ar": "سجّلت نفسي كباحث عن عمل.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Quiero solicitar la prestación por desempleo.",
+   "ar": "أريد طلب إعانة البطالة.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "Necesito pedir la tarjeta sanitaria.",
+   "ar": "أحتاج إلى طلب البطاقة الصحية.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "¿Cuántos días he cotizado?",
+   "ar": "كم يومًا دفعتُ فيه اشتراكات الضمان الاجتماعي؟",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "🚨",
+   "es": "Mi empresa no me ha dado de alta.",
+   "ar": "شركتي لم تسجّلني في الضمان الاجتماعي.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 2,
+   "emoji": "🏦",
+   "es": "Quiero abrir una cuenta.",
+   "ar": "أريد فتح حساب.",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "¿Me da un certificado de titularidad de la cuenta?",
+   "ar": "هل تعطيني شهادة ملكية الحساب؟",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "🔡",
+   "es": "¿Cuál es el IBAN de su cuenta?",
+   "ar": "ما هو رقم IBAN لحسابك؟",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "💸",
+   "es": "Quiero hacer una transferencia.",
+   "ar": "أريد إجراء حوالة بنكية.",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "💰",
+   "es": "¿Cuánto cuesta mantener la cuenta?",
+   "ar": "كم تبلغ تكلفة الاحتفاظ بالحساب؟",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "😥",
+   "es": "He perdido mi tarjeta.",
+   "ar": "أضعتُ بطاقتي.",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "💼",
+   "es": "Quiero domiciliar mi nómina en esta cuenta.",
+   "ar": "أريد أن يُحوَّل راتبي إلى هذا الحساب.",
+   "section": "البنك"
+  },
+  {
+   "level": 2,
+   "emoji": "🖊️",
+   "es": "¿Dónde tengo que firmar?",
+   "ar": "أين يجب أن أوقّع؟",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 2,
+   "emoji": "📑",
+   "es": "Traiga el original y una copia.",
+   "ar": "أحضر الأصل ونسخة منه.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 2,
+   "emoji": "📂",
+   "es": "Falta un documento.",
+   "ar": "تنقص وثيقة واحدة.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Dónde se paga la tasa?",
+   "ar": "أين تُدفع الرسوم؟",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 2,
+   "emoji": "🔔",
+   "es": "He recibido una notificación.",
+   "ar": "تلقّيت إشعارًا.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "Quiero hablar con un abogado.",
+   "ar": "أريد التحدث مع محامٍ.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "Sin cita previa no se le puede atender.",
+   "ar": "لا يمكن استقبالك بدون موعد مسبق.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🆓",
+   "es": "La cita previa es gratuita; nadie debe cobrarle por ella.",
+   "ar": "الموعد المسبق مجاني، ولا يحقّ لأحد أن يأخذ منك مالًا مقابله.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "⏰",
+   "es": "Preséntese unos minutos antes con toda la documentación.",
+   "ar": "احضر قبل الموعد ببضع دقائق ومعك جميع الوثائق.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🙋",
+   "es": "Tiene que acudir personalmente a la cita.",
+   "ar": "يجب أن تحضر شخصيًا إلى الموعد.",
+   "section": "المواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🔄",
+   "es": "Le recomendamos solicitar la renovación antes de que caduque su tarjeta.",
+   "ar": "ننصحك بطلب التجديد قبل انتهاء صلاحية بطاقتك.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "👆",
+   "es": "Con la resolución favorable, debe pedir cita para la toma de huellas.",
+   "ar": "بعد صدور القرار بالموافقة، يجب أن تطلب موعدًا لأخذ البصمات.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "📜",
+   "es": "Aporte el certificado de antecedentes penales de su país.",
+   "ar": "قدّم شهادة السوابق العدلية من بلدك.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "🌐",
+   "es": "Los documentos extranjeros deben estar legalizados y traducidos.",
+   "ar": "يجب أن تكون الوثائق الأجنبية مصادَقًا عليها ومترجمة.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "📚",
+   "es": "El arraigo socioformativo exige estar matriculado en una formación.",
+   "ar": "يشترط التجذّر الاجتماعي التدريبي أن تكون مسجّلًا في دورة تدريبية.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "🤝",
+   "es": "Para el arraigo sociolaboral se necesita un contrato de trabajo.",
+   "ar": "للتجذّر الاجتماعي المهني تحتاج إلى عقد عمل.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "🧳",
+   "es": "Para el arraigo social hay que demostrar la permanencia continuada en España.",
+   "ar": "للتجذّر الاجتماعي يجب إثبات الإقامة المتواصلة في إسبانيا.",
+   "section": "الإقامة والأوراق"
+  },
+  {
+   "level": 3,
+   "emoji": "🏛️",
+   "es": "El certificado de empadronamiento histórico indica desde cuándo vive usted en el municipio.",
+   "ar": "تبيّن شهادة التسجيل التاريخية في البلدية منذ متى تسكن في هذه البلدة.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 3,
+   "emoji": "🗂️",
+   "es": "Normalmente le piden el pasaporte y el contrato de alquiler o una autorización del propietario.",
+   "ar": "عادةً يُطلب منك جواز السفر وعقد الإيجار أو إذن من صاحب السكن.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 3,
+   "emoji": "📢",
+   "es": "Comunique al ayuntamiento cualquier cambio de domicilio.",
+   "ar": "أبلِغ البلدية بأي تغيير في محلّ سكنك.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 3,
+   "emoji": "🔎",
+   "es": "Estar empadronado no es lo mismo que tener permiso de residencia.",
+   "ar": "التسجيل في البلدية ليس هو نفسه الحصول على تصريح الإقامة.",
+   "section": "البلدية والتسجيل"
+  },
+  {
+   "level": 3,
+   "emoji": "🏭",
+   "es": "La empresa está obligada a darle de alta antes de que empiece a trabajar.",
+   "ar": "الشركة ملزمة بتسجيلك في الضمان الاجتماعي قبل أن تبدأ العمل.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 3,
+   "emoji": "💻",
+   "es": "Puede consultar su vida laboral en la sede electrónica con Cl@ve.",
+   "ar": "يمكنك الاطلاع على تقرير مسارك المهني في الموقع الإلكتروني الرسمي باستخدام Cl@ve.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "Para cobrar el paro tiene que haber cotizado un mínimo de días.",
+   "ar": "للحصول على إعانة البطالة يجب أن تكون قد دفعت اشتراكات لعدد أدنى من الأيام.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "Tiene que renovar la demanda de empleo en la fecha indicada.",
+   "ar": "يجب أن تجدّد تسجيلك كباحث عن عمل في التاريخ المحدد.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 3,
+   "emoji": "🔢",
+   "es": "El número de afiliación es el mismo para toda la vida.",
+   "ar": "رقم الانتساب إلى الضمان الاجتماعي يبقى نفسه مدى الحياة.",
+   "section": "الضمان الاجتماعي"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "Para abrir la cuenta necesitamos un documento de identidad en vigor.",
+   "ar": "لفتح الحساب نحتاج إلى وثيقة هوية سارية المفعول.",
+   "section": "البنك"
+  },
+  {
+   "level": 3,
+   "emoji": "🔐",
+   "es": "No comparta nunca su clave ni su PIN con nadie.",
+   "ar": "لا تشارك أبدًا كلمة سرّك أو رمزك السري مع أي شخص.",
+   "section": "البنك"
+  },
+  {
+   "level": 3,
+   "emoji": "🪙",
+   "es": "Le cobraremos una comisión por esta operación.",
+   "ar": "سنقتطع منك عمولة على هذه العملية.",
+   "section": "البنك"
+  },
+  {
+   "level": 3,
+   "emoji": "🔠",
+   "es": "Rellene el formulario con letras mayúsculas.",
+   "ar": "املأ الاستمارة بالحروف الكبيرة.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "La tasa (modelo 790) se puede pagar en el banco o por internet.",
+   "ar": "يمكن دفع الرسوم (النموذج 790) في البنك أو عبر الإنترنت.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "📑",
+   "es": "Traiga una copia compulsada del documento.",
+   "ar": "أحضر نسخة مصدَّقة من الوثيقة.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "El funcionario cotejará la copia con el original.",
+   "ar": "سيقارن الموظف النسخة بالأصل.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "📂",
+   "es": "Su solicitud está incompleta; tiene que subsanar la documentación en el plazo indicado.",
+   "ar": "طلبك ناقص، ويجب أن تُكمل الوثائق الناقصة في المهلة المحددة.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "🔔",
+   "es": "Las notificaciones electrónicas se consultan con Cl@ve o con certificado digital.",
+   "ar": "يتم الاطلاع على الإشعارات الإلكترونية باستخدام Cl@ve أو الشهادة الرقمية.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "⚖️",
+   "es": "Contra esta resolución puede interponer un recurso.",
+   "ar": "يمكنك تقديم طعن ضد هذا القرار.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "📞",
+   "es": "Si no está de acuerdo con la resolución, consulte con un abogado de extranjería.",
+   "ar": "إذا لم تكن موافقًا على القرار، فاستشر محاميًا مختصًا في شؤون الأجانب.",
+   "section": "الكلمات الرسمية"
+  },
+  {
+   "level": 3,
+   "emoji": "📆",
+   "es": "Los plazos se cuentan en días hábiles.",
+   "ar": "تُحسب المهل بأيام العمل.",
+   "section": "الكلمات الرسمية"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el padrón»?",
+   "options": [
+    "سجلّ السكان في البلدية",
+    "جواز السفر",
+    "عقد العمل"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el padrón»؟",
+   "ar_exp": "«el padrón» هو سجلّ السكان في البلدية، والتسجيل فيه يسمّى empadronamiento."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la huella»?",
+   "options": [
+    "التوقيع",
+    "البصمة",
+    "الصورة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la huella»؟",
+   "ar_exp": "«la huella» هي البصمة، وتؤخذ عند طلب البطاقة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el ayuntamiento»?",
+   "options": [
+    "المستشفى",
+    "البنك",
+    "البلدية"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el ayuntamiento»؟",
+   "ar_exp": "«el ayuntamiento» هو البلدية، وفيه يتم التسجيل في سجلّ السكان."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la tasa»?",
+   "options": [
+    "الرسوم",
+    "الضريبة على الدخل",
+    "الراتب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la tasa»؟",
+   "ar_exp": "«la tasa» هي الرسوم التي تُدفع مقابل خدمة إدارية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el plazo»?",
+   "options": [
+    "الطابور",
+    "المهلة",
+    "الملف"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el plazo»؟",
+   "ar_exp": "«el plazo» هو المهلة أو المدة المحددة للقيام بشيء ما."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la renovación»?",
+   "options": [
+    "الإلغاء",
+    "الرفض",
+    "التجديد"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la renovación»؟",
+   "ar_exp": "«la renovación» هي التجديد، مثل تجديد بطاقة الإقامة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el cajero automático»?",
+   "options": [
+    "الصرّاف الآلي",
+    "موظف البنك",
+    "الحساب البنكي"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el cajero automático»؟",
+   "ar_exp": "«el cajero automático» هو الصرّاف الآلي لسحب المال."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la solicitud»?",
+   "options": [
+    "الشهادة",
+    "الطلب",
+    "الإشعار"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la solicitud»؟",
+   "ar_exp": "«la solicitud» هي الطلب الذي تقدّمه للإدارة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la ventanilla»?",
+   "options": [
+    "الباب",
+    "قاعة الانتظار",
+    "الشبّاك"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la ventanilla»؟",
+   "ar_exp": "«la ventanilla» هي الشبّاك الذي يخدمك فيه الموظف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la firma»?",
+   "options": [
+    "التوقيع",
+    "الختم",
+    "العنوان"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la firma»؟",
+   "ar_exp": "«la firma» هي التوقيع."
+  },
+  {
+   "level": 2,
+   "q": "Quieres registrarte en el ayuntamiento donde vives. ¿Qué dices?",
+   "options": [
+    "Quiero abrir una cuenta.",
+    "Quiero empadronarme.",
+    "Quiero renovar el visado."
+   ],
+   "answer": 1,
+   "ar_q": "تريد التسجيل في بلدية المكان الذي تسكن فيه. ماذا تقول؟",
+   "ar_exp": "«Quiero empadronarme» تعني: أريد التسجيل في سجلّ السكان بالبلدية."
+  },
+  {
+   "level": 2,
+   "q": "El funcionario dice: «Coja número y espere». ¿Qué tienes que hacer?",
+   "options": [
+    "Irme a casa.",
+    "Firmar un formulario.",
+    "Tomar un número y esperar tu turno."
+   ],
+   "answer": 2,
+   "ar_q": "يقول الموظف: «Coja número y espere». ماذا يجب أن تفعل؟",
+   "ar_exp": "يطلب منك أن تأخذ رقمًا وتنتظر دورك."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué quiere decir «Me han denegado la solicitud»?",
+   "options": [
+    "رُفض طلبي.",
+    "قُبل طلبي.",
+    "ضاع طلبي."
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تعني «Me han denegado la solicitud»؟",
+   "ar_exp": "«denegar» تعني الرفض، أي أن الطلب رُفض."
+  },
+  {
+   "level": 2,
+   "q": "Necesitas un papel del banco que diga que la cuenta es tuya. ¿Qué pides?",
+   "options": [
+    "Un recibo de la luz.",
+    "Un certificado de titularidad.",
+    "Una tarjeta sanitaria."
+   ],
+   "answer": 1,
+   "ar_q": "تحتاج ورقة من البنك تثبت أن الحساب باسمك. ماذا تطلب؟",
+   "ar_exp": "«el certificado de titularidad» هي شهادة ملكية الحساب."
+  },
+  {
+   "level": 2,
+   "q": "¿Para qué sirve el número IBAN?",
+   "options": [
+    "Para identificar una cuenta bancaria.",
+    "Para entrar en el país.",
+    "Para ir al médico."
+   ],
+   "answer": 0,
+   "ar_q": "لماذا يُستعمل رقم IBAN؟",
+   "ar_exp": "رقم IBAN يحدّد الحساب البنكي، ويُستعمل مثلًا لتلقّي الراتب والحوالات."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber si tu empresa te ha registrado en la Seguridad Social. ¿Qué preguntas?",
+   "options": [
+    "¿Dónde está el cajero?",
+    "¿Cuándo sale la resolución?",
+    "¿Estoy dado de alta?"
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تعرف هل سجّلتك شركتك في الضمان الاجتماعي. ماذا تسأل؟",
+   "ar_exp": "«¿Estoy dado de alta?» تعني: هل أنا مسجَّل في الضمان الاجتماعي؟"
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «la vida laboral»?",
+   "options": [
+    "عقد الإيجار",
+    "تقرير يبيّن الأيام التي عملت فيها وكنت مسجَّلًا",
+    "شهادة السوابق العدلية"
+   ],
+   "answer": 1,
+   "ar_q": "ما هي «la vida laboral»؟",
+   "ar_exp": "«la vida laboral» تقرير من الضمان الاجتماعي يبيّن فترات عملك وتسجيلك."
+  },
+  {
+   "level": 2,
+   "q": "El funcionario dice: «Traiga el original y una copia». ¿Qué tienes que llevar?",
+   "options": [
+    "الأصل ونسخة منه",
+    "نسختين فقط",
+    "صورتين شخصيتين"
+   ],
+   "answer": 0,
+   "ar_q": "يقول الموظف: «Traiga el original y una copia». ماذا يجب أن تحضر؟",
+   "ar_exp": "يجب أن تحضر الوثيقة الأصلية ونسخة منها."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es «la TIE»?",
+   "options": [
+    "تأشيرة سياحية",
+    "البطاقة الصحية",
+    "بطاقة هوية الأجنبي"
+   ],
+   "answer": 2,
+   "ar_q": "ما هي «la TIE»؟",
+   "ar_exp": "TIE هي Tarjeta de Identidad de Extranjero، أي بطاقة هوية الأجنبي."
+  },
+  {
+   "level": 3,
+   "q": "Alguien te pide dinero para conseguirte una cita previa en extranjería. ¿Qué es correcto?",
+   "options": [
+    "Es obligatorio pagarle.",
+    "La cita previa es gratuita.",
+    "Solo se paga en el banco."
+   ],
+   "answer": 1,
+   "ar_q": "شخص يطلب منك مالًا ليحصل لك على موعد مسبق في مكتب الأجانب. ما الصحيح؟",
+   "ar_exp": "الموعد المسبق مجاني، ولا يحقّ لأحد أن يأخذ مالًا مقابله."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «cotejar la copia con el original»?",
+   "options": [
+    "رمي النسخة",
+    "ترجمة الأصل",
+    "مقارنة النسخة بالأصل"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «cotejar la copia con el original»؟",
+   "ar_exp": "«cotejar» تعني المقارنة للتأكد من أن النسخة مطابقة للأصل."
+  },
+  {
+   "level": 3,
+   "q": "Te dicen: «Tiene que subsanar la documentación». ¿Qué significa?",
+   "options": [
+    "يجب أن تُكمل أو تصحّح الوثائق الناقصة.",
+    "يجب أن تدفع غرامة.",
+    "انتهى ملفك نهائيًا."
+   ],
+   "answer": 0,
+   "ar_q": "يقولون لك: «Tiene que subsanar la documentación». ماذا يعني ذلك؟",
+   "ar_exp": "«subsanar» تعني تصحيح النقص في الملف أو إكماله داخل المهلة."
+  },
+  {
+   "level": 3,
+   "q": "«Contra esta resolución puede interponer un recurso.» ¿Qué significa?",
+   "options": [
+    "يجب أن تغادر المكتب الآن.",
+    "يمكنك تقديم طعن ضد هذا القرار.",
+    "القرار نهائي ولا يمكن فعل شيء."
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تعني: «Contra esta resolución puede interponer un recurso»؟",
+   "ar_exp": "«recurso» هو الطعن، أي أنه يمكنك الاعتراض على القرار."
+  },
+  {
+   "level": 3,
+   "q": "¿Estar empadronado es lo mismo que tener permiso de residencia?",
+   "options": [
+    "Sí, es lo mismo.",
+    "Sí, si tienes pasaporte.",
+    "No, son cosas diferentes."
+   ],
+   "answer": 2,
+   "ar_q": "هل التسجيل في البلدية هو نفسه الحصول على تصريح الإقامة؟",
+   "ar_exp": "لا، التسجيل في البلدية ليس تصريح إقامة، بل هو تسجيل لمكان سكنك."
+  },
+  {
+   "level": 3,
+   "q": "¿Para qué sirve Cl@ve?",
+   "options": [
+    "Para identificarse en internet ante la Administración.",
+    "Para abrir la puerta de casa.",
+    "Para pagar en el supermercado."
+   ],
+   "answer": 0,
+   "ar_q": "لماذا يُستعمل نظام Cl@ve؟",
+   "ar_exp": "Cl@ve نظام للتعريف بهويتك عبر الإنترنت في المواقع الإدارية الرسمية."
+  }
+ ]
+}

@@ -1,0 +1,1357 @@
+{
+ "topic_id": "phrases",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🙂",
+   "es": "¿Cómo estás?",
+   "ar": "كيف حالك؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "👍",
+   "es": "Estoy bien.",
+   "ar": "أنا بخير.",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "🌍",
+   "es": "¿De dónde eres?",
+   "ar": "من أين أنت؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "🎂",
+   "es": "¿Cuántos años tienes?",
+   "ar": "كم عمرك؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "Tengo treinta años.",
+   "ar": "عمري ثلاثون سنة.",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "Vivo aquí.",
+   "ar": "أسكن هنا.",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "🆕",
+   "es": "Soy nuevo aquí.",
+   "ar": "أنا جديد هنا.",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "💼",
+   "es": "¿A qué te dedicas?",
+   "ar": "ما هو عملك؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "🌾",
+   "es": "Trabajo en el campo.",
+   "ar": "أعمل في الحقل.",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Llevo dos años en España.",
+   "ar": "أعيش في إسبانيا منذ سنتين.",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "💍",
+   "es": "Estoy casado y tengo tres hijos.",
+   "ar": "أنا متزوج ولديّ ثلاثة أبناء.",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "Te presento a mi amigo Karim.",
+   "ar": "أقدّم لك صديقي كريم.",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "📚",
+   "es": "Estoy aprendiendo español.",
+   "ar": "أنا أتعلّم الإسبانية.",
+   "section": "التعارف"
+  },
+  {
+   "level": 2,
+   "emoji": "💬",
+   "es": "¿Hablas árabe?",
+   "ar": "هل تتكلّم العربية؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 3,
+   "emoji": "✍️",
+   "es": "Perdone, ¿cómo se escribe su apellido?",
+   "ar": "عفواً، كيف يُكتب اسم عائلتك؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 3,
+   "emoji": "👔",
+   "es": "Le presento a mi jefe, el señor García.",
+   "ar": "أقدّم لك مديري، السيد غارسيا.",
+   "section": "التعارف"
+  },
+  {
+   "level": 3,
+   "emoji": "✈️",
+   "es": "Vine a España hace cinco años para trabajar.",
+   "ar": "جئت إلى إسبانيا قبل خمس سنوات للعمل.",
+   "section": "التعارف"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "¿Me puede decir su nombre completo, por favor?",
+   "ar": "هل يمكنك أن تقول لي اسمك الكامل من فضلك؟",
+   "section": "التعارف"
+  },
+  {
+   "level": 3,
+   "emoji": "😊",
+   "es": "Es un placer trabajar con ustedes.",
+   "ar": "يسعدني العمل معكم.",
+   "section": "التعارف"
+  },
+  {
+   "level": 1,
+   "emoji": "🍞",
+   "es": "¿Tiene pan?",
+   "ar": "هل عندك خبز؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "👉",
+   "es": "Quiero esto.",
+   "ar": "أريد هذا.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "💸",
+   "es": "Es muy caro.",
+   "ar": "إنه غالٍ جداً.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛍️",
+   "es": "¿Algo más?",
+   "ar": "هل تريد شيئاً آخر؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "🙂",
+   "es": "Nada más, gracias.",
+   "ar": "لا شيء آخر، شكراً.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "💳",
+   "es": "Con tarjeta.",
+   "ar": "بالبطاقة.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "En efectivo.",
+   "ar": "نقداً.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🥚",
+   "es": "¿Dónde están los huevos?",
+   "ar": "أين البيض؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🏧",
+   "es": "¿Puedo pagar con tarjeta?",
+   "ar": "هل يمكنني الدفع بالبطاقة؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🍊",
+   "es": "Póngame un kilo de naranjas.",
+   "ar": "أعطني كيلوغراماً من البرتقال.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "¿Me da una bolsa, por favor?",
+   "ar": "هل تعطيني كيساً من فضلك؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "¿A cuánto está el kilo?",
+   "ar": "بكم الكيلو؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "Estoy buscando una talla más grande.",
+   "ar": "أبحث عن مقاس أكبر.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "¿Tiene algo más barato?",
+   "ar": "هل عندك شيء أرخص؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Quería devolver esta camisa; aquí tiene el tique.",
+   "ar": "أريد إرجاع هذا القميص، تفضّل الإيصال.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 3,
+   "emoji": "👔",
+   "es": "¿Se puede cambiar si no me queda bien?",
+   "ar": "هل يمكن تبديله إذا لم يكن مناسباً لي؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 3,
+   "emoji": "💵",
+   "es": "Lo siento, solo aceptamos pago en efectivo.",
+   "ar": "آسف، نقبل الدفع نقداً فقط.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🤑",
+   "es": "¿Me hace un descuento si compro dos?",
+   "ar": "هل تعطيني تخفيضاً إذا اشتريت اثنين؟",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 3,
+   "emoji": "🪙",
+   "es": "Perdone, se ha equivocado con el cambio.",
+   "ar": "عفواً، لقد أخطأت في الباقي.",
+   "section": "في المتجر والسوق"
+  },
+  {
+   "level": 1,
+   "emoji": "☕",
+   "es": "Un café, por favor.",
+   "ar": "قهوة من فضلك.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "🍵",
+   "es": "Un té con menta.",
+   "ar": "شاي بالنعناع.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "La cuenta, por favor.",
+   "ar": "الحساب من فضلك.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "🥡",
+   "es": "Para llevar.",
+   "ar": "للأخذ معي (سَفَري).",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "Una mesa para dos.",
+   "ar": "طاولة لشخصين.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "😋",
+   "es": "¡Qué rico!",
+   "ar": "ما ألذّه!",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "Agua sin gas.",
+   "ar": "ماء غير غازي.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "🤔",
+   "es": "¿Qué me recomienda?",
+   "ar": "بماذا تنصحني؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "📋",
+   "es": "¿Tienen menú del día?",
+   "ar": "هل عندكم قائمة اليوم؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "Sin carne de cerdo, por favor.",
+   "ar": "بدون لحم خنزير من فضلك.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "🥤",
+   "es": "¿Me trae otra botella de agua?",
+   "ar": "هل تُحضر لي زجاجة ماء أخرى؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "🚻",
+   "es": "¿Dónde están los servicios?",
+   "ar": "أين دورات المياه؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "🥪",
+   "es": "Quiero un bocadillo de pollo.",
+   "ar": "أريد شطيرة دجاج.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 2,
+   "emoji": "🪑",
+   "es": "¿Está libre esta mesa?",
+   "ar": "هل هذه الطاولة شاغرة؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 3,
+   "emoji": "🥘",
+   "es": "¿Me podría decir qué ingredientes lleva este plato?",
+   "ar": "هل يمكنك أن تخبرني ما هي مكوّنات هذا الطبق؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 3,
+   "emoji": "🥜",
+   "es": "Soy alérgico a los frutos secos.",
+   "ar": "لديّ حساسية من المكسّرات.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 3,
+   "emoji": "🔥",
+   "es": "Perdone, este plato está frío; ¿me lo puede calentar?",
+   "ar": "عذراً، هذا الطبق بارد، هل يمكنك تسخينه لي؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "¿Se puede pagar por separado?",
+   "ar": "هل يمكن أن يدفع كل واحد حسابه على حدة؟",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "Quería reservar una mesa para cuatro personas el sábado por la noche.",
+   "ar": "أريد حجز طاولة لأربعة أشخاص مساء السبت.",
+   "section": "في المقهى والمطعم"
+  },
+  {
+   "level": 1,
+   "emoji": "➡️",
+   "es": "A la derecha.",
+   "ar": "إلى اليمين.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "⬅️",
+   "es": "A la izquierda.",
+   "ar": "إلى اليسار.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "⬆️",
+   "es": "Todo recto.",
+   "ar": "إلى الأمام مباشرة.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "📍",
+   "es": "Está cerca.",
+   "ar": "إنه قريب.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "🗺️",
+   "es": "Está lejos.",
+   "ar": "إنه بعيد.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "🎫",
+   "es": "Un billete, por favor.",
+   "ar": "تذكرة من فضلك.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "⏰",
+   "es": "¿A qué hora sale?",
+   "ar": "في أي ساعة ينطلق؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚌",
+   "es": "¿Este autobús va al centro?",
+   "ar": "هل تذهب هذه الحافلة إلى وسط المدينة؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚕",
+   "es": "¿Dónde puedo coger un taxi?",
+   "ar": "أين يمكنني أن أركب سيارة أجرة؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎟️",
+   "es": "¿Cuánto cuesta el billete a Madrid?",
+   "ar": "كم ثمن التذكرة إلى مدريد؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧭",
+   "es": "Me he perdido.",
+   "ar": "لقد ضللت الطريق.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚉",
+   "es": "¿Cómo llego a la estación de tren?",
+   "ar": "كيف أصل إلى محطة القطار؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚏",
+   "es": "Bájese en la segunda parada.",
+   "ar": "انزل في المحطة الثانية.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚦",
+   "es": "Gire a la derecha en el semáforo.",
+   "ar": "انعطف يميناً عند الإشارة الضوئية.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚆",
+   "es": "El tren con destino a Sevilla sale del andén tres.",
+   "ar": "القطار المتّجه إلى إشبيلية ينطلق من الرصيف رقم ثلاثة.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚇",
+   "es": "¿Hay que cambiar de línea para llegar al hospital?",
+   "ar": "هل يجب تغيير الخط للوصول إلى المستشفى؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚶",
+   "es": "Siga recto unos doscientos metros y lo verá a mano izquierda.",
+   "ar": "تابع إلى الأمام نحو مئتي متر وستجده على يسارك.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "⏳",
+   "es": "El autobús lleva veinte minutos de retraso.",
+   "ar": "الحافلة متأخرة عشرين دقيقة.",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔔",
+   "es": "¿Me avisa cuando lleguemos a mi parada, por favor?",
+   "ar": "هل تنبّهني عندما نصل إلى محطتي من فضلك؟",
+   "section": "المواصلات والاتجاهات"
+  },
+  {
+   "level": 1,
+   "emoji": "📞",
+   "es": "¿Dígame?",
+   "ar": "نعم، تفضّل؟ (عند الردّ على الهاتف)",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "☎️",
+   "es": "¿Quién es?",
+   "ar": "من المتكلّم؟",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "✋",
+   "es": "Un momento.",
+   "ar": "لحظة من فضلك.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "📱",
+   "es": "Te llamo luego.",
+   "ar": "سأتصل بك لاحقاً.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🕒",
+   "es": "¿A qué hora?",
+   "ar": "في أي ساعة؟",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "👌",
+   "es": "Vale.",
+   "ar": "حسناً.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🔇",
+   "es": "No te oigo bien.",
+   "ar": "لا أسمعك جيداً.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🙋",
+   "es": "¿Puedo hablar con el señor López?",
+   "ar": "هل يمكنني التحدّث مع السيد لوبيز؟",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "📵",
+   "es": "Se ha cortado la llamada.",
+   "ar": "انقطعت المكالمة.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "💬",
+   "es": "Te mando un mensaje.",
+   "ar": "سأرسل لك رسالة.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🕔",
+   "es": "¿Quedamos mañana a las cinco?",
+   "ar": "هل نلتقي غداً في الساعة الخامسة؟",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🏃",
+   "es": "Llego tarde, lo siento.",
+   "ar": "سأصل متأخراً، آسف.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Tengo que cambiar la cita.",
+   "ar": "يجب أن أغيّر الموعد.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "📲",
+   "es": "¿Me puedes dar tu número?",
+   "ar": "هل يمكنك أن تعطيني رقمك؟",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "✅",
+   "es": "Le llamo para confirmar la cita del jueves.",
+   "ar": "أتصل بك لتأكيد موعد يوم الخميس.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "📼",
+   "es": "Ahora mismo no puedo atenderle; deje su mensaje después de la señal.",
+   "ar": "لا يمكنني الردّ عليك الآن، اترك رسالتك بعد سماع الإشارة.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "1️⃣",
+   "es": "Para pedir cita previa, pulse uno.",
+   "ar": "لطلب موعد مسبق، اضغط على الرقم واحد.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🔋",
+   "es": "Me quedo sin batería; te llamo en cuanto pueda.",
+   "ar": "بطارية هاتفي توشك على النفاد، سأتصل بك حالما أستطيع.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "Lamentablemente tenemos que aplazar la reunión hasta la semana que viene.",
+   "ar": "للأسف علينا تأجيل الاجتماع إلى الأسبوع القادم.",
+   "section": "الهاتف والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "👋",
+   "es": "¡Buenos días, vecino!",
+   "ar": "صباح الخير يا جاري!",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "Se alquila piso.",
+   "ar": "شقة للإيجار.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "🛗",
+   "es": "¿Hay ascensor?",
+   "ar": "هل يوجد مصعد؟",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "No hay agua caliente.",
+   "ar": "لا يوجد ماء ساخن.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "🏠",
+   "es": "Mi casa es pequeña.",
+   "ar": "بيتي صغير.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "🗑️",
+   "es": "¿Dónde se tira la basura?",
+   "ar": "أين تُرمى القمامة؟",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "💡",
+   "es": "Se ha ido la luz.",
+   "ar": "انقطعت الكهرباء.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Cuánto es el alquiler al mes?",
+   "ar": "كم الإيجار في الشهر؟",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "¿Están incluidos los gastos?",
+   "ar": "هل المصاريف (الماء والكهرباء وغيرها) مشمولة؟",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "Hay una fuga de agua en el baño.",
+   "ar": "يوجد تسرّب ماء في الحمّام.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 2,
+   "emoji": "🔊",
+   "es": "¿Puede bajar la música, por favor?",
+   "ar": "هل يمكنك خفض صوت الموسيقى من فضلك؟",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 2,
+   "emoji": "🔑",
+   "es": "El portero tiene la llave.",
+   "ar": "البوّاب معه المفتاح.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 2,
+   "emoji": "🛏️",
+   "es": "Busco una habitación en un piso compartido.",
+   "ar": "أبحث عن غرفة في شقة مشتركة.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Para alquilar el piso hay que pagar una fianza de un mes.",
+   "ar": "لاستئجار الشقة يجب دفع مبلغ تأمين يساوي إيجار شهر واحد.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 3,
+   "emoji": "🏛️",
+   "es": "Necesito empadronarme en esta dirección.",
+   "ar": "أحتاج إلى التسجيل في سجل سكان البلدية بهذا العنوان.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 3,
+   "emoji": "🏘️",
+   "es": "La reunión de la comunidad de vecinos es el lunes.",
+   "ar": "اجتماع جمعية الجيران يوم الاثنين.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 3,
+   "emoji": "🔧",
+   "es": "El casero tiene que arreglar la caldera.",
+   "ar": "على صاحب البيت أن يصلح سخّان الماء.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 3,
+   "emoji": "🚮",
+   "es": "Le ruego que no deje las bolsas de basura en la escalera.",
+   "ar": "أرجو ألا تترك أكياس القمامة على الدرج.",
+   "section": "السكن والجيران"
+  },
+  {
+   "level": 1,
+   "emoji": "🥱",
+   "es": "Estoy cansado.",
+   "ar": "أنا متعب.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "Tengo hambre.",
+   "ar": "أنا جائع.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥤",
+   "es": "Tengo sed.",
+   "ar": "أنا عطشان.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "😊",
+   "es": "Estoy contento.",
+   "ar": "أنا سعيد.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥶",
+   "es": "Tengo frío.",
+   "ar": "أشعر بالبرد.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥵",
+   "es": "Tengo calor.",
+   "ar": "أشعر بالحرّ.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🤷",
+   "es": "No entiendo.",
+   "ar": "لا أفهم.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "😟",
+   "es": "Estoy un poco preocupado.",
+   "ar": "أنا قلق قليلاً.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "💭",
+   "es": "Echo de menos a mi familia.",
+   "ar": "أشتاق إلى عائلتي.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "¿Me puedes ayudar con esto?",
+   "ar": "هل يمكنك مساعدتي في هذا؟",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "✍️",
+   "es": "¿Puede escribirlo, por favor?",
+   "ar": "هل يمكنك كتابته من فضلك؟",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🤒",
+   "es": "Me encuentro mal.",
+   "ar": "أشعر بتوعّك.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚶",
+   "es": "¿Me deja pasar, por favor?",
+   "ar": "هل تسمح لي بالمرور من فضلك؟",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 2,
+   "emoji": "👎",
+   "es": "No me gusta nada.",
+   "ar": "لا يعجبني أبداً.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Le agradecería mucho que me explicara cómo rellenar este formulario.",
+   "ar": "سأكون ممتناً جداً لو شرحت لي كيف أملأ هذه الاستمارة.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 3,
+   "emoji": "📄",
+   "es": "¿Sería tan amable de traducirme este documento?",
+   "ar": "هل تتكرّم بترجمة هذه الوثيقة لي؟",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 3,
+   "emoji": "💐",
+   "es": "Estoy muy agradecido por todo lo que ha hecho por mí.",
+   "ar": "أنا ممتنّ جداً لكل ما فعلته من أجلي.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 3,
+   "emoji": "😔",
+   "es": "Me siento solo desde que llegué.",
+   "ar": "أشعر بالوحدة منذ وصولي.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 3,
+   "emoji": "❓",
+   "es": "Perdone la molestia, pero necesito hacerle una pregunta.",
+   "ar": "عذراً على الإزعاج، لكنني أحتاج أن أسألك سؤالاً.",
+   "section": "المشاعر والطلبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🆘",
+   "es": "¡Socorro!",
+   "ar": "النجدة!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "⚠️",
+   "es": "¡Cuidado!",
+   "ar": "انتبه!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "¡Fuego!",
+   "ar": "حريق!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🚑",
+   "es": "¡Llame a una ambulancia!",
+   "ar": "اتصل بالإسعاف!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🏃",
+   "es": "¡Al ladrón!",
+   "ar": "أمسكوا اللص!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🚓",
+   "es": "¡Policía!",
+   "ar": "الشرطة!",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🩹",
+   "es": "Estoy herido.",
+   "ar": "أنا مصاب.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Llame al 112.",
+   "ar": "اتصل بالرقم 112.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "👛",
+   "es": "Me han robado la cartera.",
+   "ar": "سُرقت محفظتي.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "He tenido un accidente.",
+   "ar": "تعرّضت لحادث.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🧒",
+   "es": "Mi hijo se ha perdido.",
+   "ar": "ضاع ابني.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🚨",
+   "es": "Es urgente.",
+   "ar": "الأمر عاجل.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🏥",
+   "es": "¿Dónde está el hospital más cercano?",
+   "ar": "أين أقرب مستشفى؟",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "👮",
+   "es": "Quiero poner una denuncia por robo.",
+   "ar": "أريد تقديم شكوى رسمية عن سرقة.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "🚑",
+   "es": "Mantenga la calma y no se mueva; la ambulancia está en camino.",
+   "ar": "حافظ على هدوئك ولا تتحرك، سيارة الإسعاف في الطريق.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "💊",
+   "es": "¿Es usted alérgico a algún medicamento?",
+   "ar": "هل لديك حساسية من أي دواء؟",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "☀️",
+   "es": "Mi compañero se ha desmayado por el calor.",
+   "ar": "أُغمي على زميلي بسبب الحرّ.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "💨",
+   "es": "Hay un escape de gas en el edificio.",
+   "ar": "يوجد تسرّب غاز في المبنى.",
+   "section": "الطوارئ"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "Alguien te pregunta «¿Cómo estás?». ¿Qué respondes?",
+   "options": [
+    "Tengo treinta años.",
+    "Estoy bien.",
+    "Vivo aquí."
+   ],
+   "answer": 1,
+   "ar_q": "شخص يسألك «كيف حالك؟». بماذا تجيب؟",
+   "ar_exp": "الجواب المناسب هو Estoy bien، أي أنا بخير."
+  },
+  {
+   "level": 1,
+   "q": "Terminas de comer en un restaurante. ¿Qué le dices al camarero?",
+   "options": [
+    "La cuenta, por favor.",
+    "Una mesa para dos.",
+    "¿Algo más?"
+   ],
+   "answer": 0,
+   "ar_q": "انتهيت من الأكل في مطعم. ماذا تقول للنادل؟",
+   "ar_exp": "لطلب الحساب نقول La cuenta, por favor."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «A la izquierda»?",
+   "options": [
+    "hacia la mano derecha",
+    "todo recto",
+    "hacia la mano izquierda"
+   ],
+   "answer": 2,
+   "ar_q": "ماذا تعني «A la izquierda»؟",
+   "ar_exp": "izquierda تعني اليسار، فالعبارة تعني إلى اليسار."
+  },
+  {
+   "level": 1,
+   "q": "Ves un incendio. ¿Qué gritas?",
+   "options": [
+    "¡Qué rico!",
+    "¡Fuego!",
+    "¡Buenos días!"
+   ],
+   "answer": 1,
+   "ar_q": "ترى حريقاً. بماذا تصرخ؟",
+   "ar_exp": "عند الحريق نصرخ ¡Fuego!، أي حريق!"
+  },
+  {
+   "level": 1,
+   "q": "En la tienda quieres pagar con billetes y monedas. ¿Qué dices?",
+   "options": [
+    "En efectivo.",
+    "Con tarjeta.",
+    "Para llevar."
+   ],
+   "answer": 0,
+   "ar_q": "في المتجر تريد الدفع بالأوراق النقدية والقطع المعدنية. ماذا تقول؟",
+   "ar_exp": "الدفع بالنقود يُقال en efectivo، أي نقداً."
+  },
+  {
+   "level": 1,
+   "q": "Quieres comer algo. ¿Cómo lo dices?",
+   "options": [
+    "Tengo frío.",
+    "Tengo sed.",
+    "Tengo hambre."
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تأكل شيئاً. كيف تقول ذلك؟",
+   "ar_exp": "Tengo hambre تعني أنا جائع."
+  },
+  {
+   "level": 1,
+   "q": "Contestas el teléfono en España. ¿Qué palabra se usa mucho?",
+   "options": [
+    "¿Dígame?",
+    "¡Socorro!",
+    "¡Cuidado!"
+   ],
+   "answer": 0,
+   "ar_q": "تردّ على الهاتف في إسبانيا. أي كلمة تُستعمل كثيراً؟",
+   "ar_exp": "عند الردّ على الهاتف يقول الإسبان كثيراً ¿Dígame? أو ¿Sí?"
+  },
+  {
+   "level": 1,
+   "q": "Una persona te habla y no comprendes. ¿Qué dices?",
+   "options": [
+    "Estoy contento.",
+    "No entiendo.",
+    "Vale."
+   ],
+   "answer": 1,
+   "ar_q": "شخص يكلّمك ولا تفهم. ماذا تقول؟",
+   "ar_exp": "No entiendo تعني لا أفهم."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «Está cerca»?",
+   "options": [
+    "que no está lejos",
+    "que está cerrado",
+    "que es muy caro"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تعني «Está cerca»؟",
+   "ar_exp": "cerca تعني قريب، وعكسها lejos أي بعيد."
+  },
+  {
+   "level": 1,
+   "q": "Quieres el café en un vaso para tomarlo en la calle. ¿Qué dices?",
+   "options": [
+    "Para llevar.",
+    "Agua sin gas.",
+    "Una mesa para dos."
+   ],
+   "answer": 0,
+   "ar_q": "تريد القهوة في كوب لتشربها في الشارع. ماذا تقول؟",
+   "ar_exp": "Para llevar تعني للأخذ معك خارج المقهى."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué número llamas en España en caso de emergencia?",
+   "options": [
+    "010",
+    "112",
+    "123"
+   ],
+   "answer": 1,
+   "ar_q": "بأي رقم تتصل في إسبانيا في حالة الطوارئ؟",
+   "ar_exp": "112 هو رقم الطوارئ العام في إسبانيا وفي كل الاتحاد الأوروبي، وهو مجاني."
+  },
+  {
+   "level": 2,
+   "q": "En la frutería, ¿cómo preguntas el precio del kilo?",
+   "options": [
+    "¿Dónde están los huevos?",
+    "¿Me da una bolsa?",
+    "¿A cuánto está el kilo?"
+   ],
+   "answer": 2,
+   "ar_q": "في محل الفواكه، كيف تسأل عن سعر الكيلو؟",
+   "ar_exp": "¿A cuánto está el kilo? تعني بكم الكيلو؟"
+  },
+  {
+   "level": 2,
+   "q": "Tu vecino pone la música muy alta por la noche. ¿Qué le dices?",
+   "options": [
+    "¿Puede bajar la música, por favor?",
+    "¿Hay ascensor?",
+    "Se alquila piso."
+   ],
+   "answer": 0,
+   "ar_q": "جارك يشغّل الموسيقى بصوت عالٍ ليلاً. ماذا تقول له؟",
+   "ar_exp": "نطلب منه بأدب خفض الصوت: ¿Puede bajar la música, por favor?"
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Me he perdido»?",
+   "options": [
+    "que no encuentro la cartera",
+    "que no sé dónde estoy",
+    "que el tren ya ha salido"
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تعني «Me he perdido»؟",
+   "ar_exp": "Me he perdido تعني ضللت الطريق ولا أعرف أين أنا."
+  },
+  {
+   "level": 2,
+   "q": "No vas a llegar a tiempo a una cita con un amigo. ¿Qué le escribes?",
+   "options": [
+    "Llego tarde, lo siento.",
+    "Se ha cortado la llamada.",
+    "¿Quién es?"
+   ],
+   "answer": 0,
+   "ar_q": "لن تصل في الوقت المحدد لموعد مع صديق. ماذا تكتب له؟",
+   "ar_exp": "Llego tarde, lo siento تعني سأصل متأخراً، آسف."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber si en el alquiler están el agua y la luz. ¿Qué preguntas?",
+   "options": [
+    "¿Hay ascensor?",
+    "¿Dónde se tira la basura?",
+    "¿Están incluidos los gastos?"
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تعرف هل الماء والكهرباء داخلان في الإيجار. ماذا تسأل؟",
+   "ar_exp": "los gastos هي المصاريف مثل الماء والكهرباء، فتسأل هل هي مشمولة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Echo de menos a mi familia»?",
+   "options": [
+    "que estás triste porque tu familia está lejos",
+    "que llamas a tu familia",
+    "que vives con tu familia"
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تعني «Echo de menos a mi familia»؟",
+   "ar_exp": "echar de menos تعني الاشتياق إلى شخص بعيد."
+  },
+  {
+   "level": 2,
+   "q": "En el restaurante necesitas el baño. ¿Qué preguntas?",
+   "options": [
+    "¿Qué me recomienda?",
+    "¿Dónde están los servicios?",
+    "¿Tienen menú del día?"
+   ],
+   "answer": 1,
+   "ar_q": "في المطعم تحتاج إلى الحمّام. ماذا تسأل؟",
+   "ar_exp": "los servicios هي دورات المياه في الأماكن العامة."
+  },
+  {
+   "level": 2,
+   "q": "Alguien te roba la cartera. ¿Qué dices a la policía?",
+   "options": [
+    "Me han robado la cartera.",
+    "He perdido el autobús.",
+    "Es muy caro."
+   ],
+   "answer": 0,
+   "ar_q": "شخص سرق محفظتك. ماذا تقول للشرطة؟",
+   "ar_exp": "Me han robado la cartera تعني سُرقت محفظتي."
+  },
+  {
+   "level": 3,
+   "q": "En la estación oyes: «El tren con destino a Sevilla sale del andén tres». ¿Qué es «el andén»?",
+   "options": [
+    "la ventanilla de billetes",
+    "el lugar donde se sube al tren",
+    "la sala de espera"
+   ],
+   "answer": 1,
+   "ar_q": "في المحطة تسمع: «القطار المتجه إلى إشبيلية ينطلق من الرصيف رقم ثلاثة». ما معنى «el andén»؟",
+   "ar_exp": "el andén هو الرصيف الذي تصعد منه إلى القطار."
+  },
+  {
+   "level": 3,
+   "q": "Quieres presentar una queja oficial en la comisaría por un robo. ¿Qué dices?",
+   "options": [
+    "Quiero poner una denuncia por robo.",
+    "Quería devolver esta camisa.",
+    "Tengo que cambiar la cita."
+   ],
+   "answer": 0,
+   "ar_q": "تريد تقديم شكوى رسمية في مركز الشرطة بسبب سرقة. ماذا تقول؟",
+   "ar_exp": "poner una denuncia تعني تقديم بلاغ أو شكوى رسمية لدى الشرطة."
+  },
+  {
+   "level": 3,
+   "q": "El casero dice: «Hay que pagar una fianza de un mes». ¿Qué es la fianza?",
+   "options": [
+    "el precio de la luz",
+    "una multa por llegar tarde",
+    "un dinero de garantía que se paga al alquilar"
+   ],
+   "answer": 2,
+   "ar_q": "يقول صاحب البيت: «يجب دفع fianza لشهر». ما هي la fianza؟",
+   "ar_exp": "la fianza مبلغ تأمين يُدفع عند الاستئجار ويُسترجع عادة عند ترك الشقة إذا لم تكن هناك أضرار أو ديون."
+  },
+  {
+   "level": 3,
+   "q": "En una llamada oyes: «Para pedir cita previa, pulse uno». ¿Qué tienes que hacer?",
+   "options": [
+    "colgar el teléfono",
+    "marcar el número uno",
+    "esperar a la señal y hablar"
+   ],
+   "answer": 1,
+   "ar_q": "في مكالمة تسمع: «لطلب موعد مسبق، اضغط على الرقم واحد». ماذا يجب أن تفعل؟",
+   "ar_exp": "pulse uno تعني اضغط على الرقم واحد."
+  },
+  {
+   "level": 3,
+   "q": "El médico pregunta: «¿Es usted alérgico a algún medicamento?». ¿Qué quiere saber?",
+   "options": [
+    "si un medicamento le sienta mal",
+    "si toma café",
+    "si trabaja de noche"
+   ],
+   "answer": 0,
+   "ar_q": "يسأل الطبيب: «هل لديك حساسية من أي دواء؟». ماذا يريد أن يعرف؟",
+   "ar_exp": "يريد أن يعرف هل يسبّب لك دواء ما رد فعل تحسّسي أو ضرراً."
+  },
+  {
+   "level": 3,
+   "q": "Tu jefe dice: «Tenemos que aplazar la reunión hasta la semana que viene». ¿Qué pasa con la reunión?",
+   "options": [
+    "Se hace hoy.",
+    "Se cancela para siempre.",
+    "Se cambia a la próxima semana."
+   ],
+   "answer": 2,
+   "ar_q": "يقول مديرك: «علينا تأجيل الاجتماع إلى الأسبوع القادم». ماذا يحدث للاجتماع؟",
+   "ar_exp": "aplazar تعني تأجيل، فالاجتماع ينتقل إلى الأسبوع القادم."
+  }
+ ]
+}

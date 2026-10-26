@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "id": "cleaning",
+  "kind": "job",
+  "name": "التنظيف",
+  "name_es": "Limpieza",
+  "emoji": "🧹",
+  "color": "c3",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "الكلام اليومي في العمل",
+  "sort": 23,
+  "published": true
+ },
+ "cards": [],
+ "questions": []
+}

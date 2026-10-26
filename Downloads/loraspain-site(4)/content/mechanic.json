@@ -1,0 +1,477 @@
+{
+ "topic_id": "mechanic",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🛞",
+   "es": "la rueda",
+   "ar": "العجلة",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔋",
+   "es": "la batería",
+   "ar": "البطارية",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛢️",
+   "es": "el aceite",
+   "ar": "الزيت",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "⚙️",
+   "es": "el motor",
+   "ar": "المحرّك",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛑",
+   "es": "los frenos",
+   "ar": "الفرامل",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "💡",
+   "es": "los faros",
+   "ar": "المصابيح الأمامية",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚗",
+   "es": "el capó",
+   "ar": "غطاء المحرّك",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪟",
+   "es": "el parabrisas",
+   "ar": "الزجاج الأمامي",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🫙",
+   "es": "el filtro de aceite",
+   "ar": "مصفاة الزيت",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔧",
+   "es": "la llave inglesa",
+   "ar": "المفتاح الإنجليزي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪛",
+   "es": "el destornillador",
+   "ar": "المفكّ",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔨",
+   "es": "el martillo",
+   "ar": "المطرقة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏗️",
+   "es": "el elevador",
+   "ar": "رافعة السيارات",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛠️",
+   "es": "el gato",
+   "ar": "الرافعة اليدوية",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧰",
+   "es": "la caja de herramientas",
+   "ar": "صندوق الأدوات",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔩",
+   "es": "el tornillo",
+   "ar": "البرغي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "💨",
+   "es": "el compresor",
+   "ar": "الضاغط الهوائي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔍",
+   "es": "la avería",
+   "ar": "العطل",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el presupuesto",
+   "ar": "عرض السعر",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🔑",
+   "es": "las llaves del coche",
+   "ar": "مفاتيح السيارة",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🛢️",
+   "es": "Hay que cambiar el aceite.",
+   "ar": "يجب تغيير الزيت.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "🛞",
+   "es": "La rueda está pinchada.",
+   "ar": "العجلة مثقوبة.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "🔋",
+   "es": "La batería está descargada.",
+   "ar": "البطارية فارغة.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "🛑",
+   "es": "Los frenos hacen ruido.",
+   "ar": "الفرامل تُصدر صوتاً.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "💡",
+   "es": "No funciona el faro izquierdo.",
+   "ar": "المصباح الأمامي الأيسر لا يعمل.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "🌡️",
+   "es": "El motor se calienta mucho.",
+   "ar": "المحرّك يسخن كثيراً.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "⭕",
+   "es": "Hay que cambiar las pastillas de freno.",
+   "ar": "يجب تغيير وسادات الفرامل.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 2,
+   "emoji": "🔧",
+   "es": "Pásame la llave del diez.",
+   "ar": "ناولني المفتاح رقم عشرة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏗️",
+   "es": "Sube el coche al elevador.",
+   "ar": "ارفع السيارة على الرافعة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔩",
+   "es": "Aprieta bien los tornillos de la rueda.",
+   "ar": "شدّ براغي العجلة جيداً.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧽",
+   "es": "Limpia las herramientas y guárdalas.",
+   "ar": "نظّف الأدوات واحفظها.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Usa guantes cuando cambies el aceite.",
+   "ar": "استعمل القفازات عند تغيير الزيت.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "💨",
+   "es": "Comprueba la presión de los neumáticos.",
+   "ar": "تحقّق من ضغط الإطارات.",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "¿Qué le pasa al coche?",
+   "ar": "ما مشكلة السيارة؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "Estará listo mañana por la tarde.",
+   "ar": "ستكون جاهزة غداً بعد الظهر.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Le preparo un presupuesto.",
+   "ar": "سأحضّر لك عرض سعر.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Le llamamos cuando esté terminado.",
+   "ar": "سنتصل بك عندما ينتهي الإصلاح.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🔑",
+   "es": "Déjenos las llaves en recepción.",
+   "ar": "اترك لنا المفاتيح في الاستقبال.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "El testigo del motor está encendido en el salpicadero.",
+   "ar": "ضوء تحذير المحرّك مُضاء في لوحة القيادة.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 3,
+   "emoji": "💻",
+   "es": "Hay que conectar la máquina de diagnosis.",
+   "ar": "يجب توصيل جهاز التشخيص.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "Le toca la revisión de los treinta mil kilómetros.",
+   "ar": "حان موعد المراجعة الدورية عند ثلاثين ألف كيلومتر.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "El coche tiene que pasar la ITV antes de que caduque.",
+   "ar": "يجب أن تجتاز السيارة الفحص التقني (ITV) قبل انتهاء صلاحيته.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "⚙️",
+   "es": "La correa de distribución se cambia según indique el fabricante.",
+   "ar": "يُغيَّر حزام التوقيت حسب ما يحدّده المصنّع.",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 3,
+   "emoji": "♻️",
+   "es": "El aceite usado es un residuo peligroso y no se tira por el desagüe.",
+   "ar": "الزيت المستعمل نفاية خطرة ولا يُرمى في المجاري.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚧",
+   "es": "Asegúrate de que el coche está bien calzado antes de meterte debajo.",
+   "ar": "تأكّد من تثبيت السيارة جيداً قبل أن تدخل تحتها.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "El presupuesto incluye la mano de obra y las piezas.",
+   "ar": "عرض السعر يشمل اليد العاملة وقطع الغيار.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🔩",
+   "es": "Esta pieza no es original, es compatible.",
+   "ar": "هذه القطعة ليست أصلية، بل متوافقة.",
+   "section": "أجزاء السيارة"
+  },
+  {
+   "level": 3,
+   "emoji": "❄️",
+   "es": "El aire acondicionado necesita una recarga de gas.",
+   "ar": "المكيّف يحتاج إلى إعادة شحن الغاز.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 3,
+   "emoji": "🦶",
+   "es": "El embrague patina y hay que sustituirlo.",
+   "ar": "القابض (الدبرياج) ينزلق ويجب استبداله.",
+   "section": "الأعطال والإصلاح"
+  },
+  {
+   "level": 3,
+   "emoji": "🖊️",
+   "es": "Firme la orden de reparación, por favor.",
+   "ar": "وقّع أمر الإصلاح من فضلك.",
+   "section": "مع الزبون"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «los frenos»?",
+   "options": [
+    "الفرامل",
+    "المصابيح",
+    "العجلات"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «los frenos»؟",
+   "ar_exp": "«los frenos» هي الفرامل التي توقف السيارة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la avería»?",
+   "options": [
+    "المفتاح",
+    "العطل",
+    "الزيت"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la avería»؟",
+   "ar_exp": "«la avería» هي العطل في السيارة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el destornillador»?",
+   "options": [
+    "المطرقة",
+    "البرغي",
+    "المفكّ"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el destornillador»؟",
+   "ar_exp": "«el destornillador» هو المفكّ."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el presupuesto»?",
+   "options": [
+    "عرض السعر قبل الإصلاح",
+    "الفاتورة بعد الدفع",
+    "موعد الإصلاح"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el presupuesto»؟",
+   "ar_exp": "«el presupuesto» هو تقدير تكلفة الإصلاح قبل البدء."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «La rueda está pinchada»?",
+   "options": [
+    "العجلة جديدة",
+    "العجلة مثقوبة",
+    "العجلة نظيفة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «La rueda está pinchada»؟",
+   "ar_exp": "«pinchada» تعني مثقوبة وفيها تسرّب للهواء."
+  },
+  {
+   "level": 2,
+   "q": "El coche no arranca y las luces no se encienden. ¿Qué pasa probablemente?",
+   "options": [
+    "La batería está descargada.",
+    "Hay que cambiar el aceite.",
+    "Los frenos hacen ruido."
+   ],
+   "answer": 0,
+   "ar_q": "السيارة لا تشتغل والأضواء لا تضيء. ما المشكلة على الأرجح؟",
+   "ar_exp": "عندما لا تشتغل السيارة ولا تضيء الأضواء فالبطارية غالباً فارغة."
+  },
+  {
+   "level": 2,
+   "q": "Tu jefe dice: «Sube el coche al elevador». ¿Qué haces?",
+   "options": [
+    "أغسل السيارة.",
+    "أشغّل المحرّك.",
+    "أرفع السيارة على الرافعة."
+   ],
+   "answer": 2,
+   "ar_q": "يقول لك رئيسك: «Sube el coche al elevador». ماذا تفعل؟",
+   "ar_exp": "«el elevador» هو الرافعة التي ترفع السيارة في الورشة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es la ITV?",
+   "options": [
+    "الفحص التقني الدوري للسيارات",
+    "تأمين السيارة",
+    "رخصة السياقة"
+   ],
+   "answer": 0,
+   "ar_q": "ما هو «la ITV»؟",
+   "ar_exp": "«la ITV» هي الفحص التقني الدوري الإلزامي للسيارات في إسبانيا."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué haces con el aceite usado?",
+   "options": [
+    "أرميه في المجاري.",
+    "أجمعه كنفاية خطرة.",
+    "أخلطه مع الماء."
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تفعل بالزيت المستعمل؟",
+   "ar_exp": "الزيت المستعمل نفاية خطرة تُجمع في مكان خاص ولا تُرمى في المجاري."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «El testigo del motor está encendido»?",
+   "options": [
+    "المحرّك مطفأ",
+    "المحرّك جديد",
+    "ضوء تحذير المحرّك مُضاء في لوحة القيادة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «El testigo del motor está encendido»؟",
+   "ar_exp": "«el testigo» هو ضوء تحذير في لوحة القيادة يدلّ على مشكلة."
+  }
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "topic_id": "hairdresser",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "✂️",
+   "es": "las tijeras",
+   "ar": "المقصّ",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪮",
+   "es": "el peine",
+   "ar": "المشط",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌬️",
+   "es": "el secador",
+   "ar": "مجفّف الشعر",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪒",
+   "es": "la navaja",
+   "ar": "الموسى",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔌",
+   "es": "la maquinilla",
+   "ar": "ماكينة الحلاقة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪞",
+   "es": "el espejo",
+   "ar": "المرآة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "💺",
+   "es": "el sillón",
+   "ar": "الكرسي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧴",
+   "es": "el champú",
+   "ar": "الشامبو",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "💇",
+   "es": "el corte de pelo",
+   "ar": "قصّة الشعر",
+   "section": "الخدمات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧔",
+   "es": "la barba",
+   "ar": "اللحية",
+   "section": "الخدمات"
+  },
+  {
+   "level": 1,
+   "emoji": "👨",
+   "es": "el bigote",
+   "ar": "الشارب",
+   "section": "الخدمات"
+  },
+  {
+   "level": 1,
+   "emoji": "🎨",
+   "es": "el tinte",
+   "ar": "صبغة الشعر",
+   "section": "الخدمات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "el lavado",
+   "ar": "غسل الشعر",
+   "section": "الخدمات"
+  },
+  {
+   "level": 1,
+   "emoji": "💅",
+   "es": "la manicura",
+   "ar": "تجميل الأظافر",
+   "section": "الخدمات"
+  },
+  {
+   "level": 1,
+   "emoji": "💈",
+   "es": "la barbería",
+   "ar": "محلّ الحلاقة",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🙋",
+   "es": "el cliente",
+   "ar": "الزبون",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el precio",
+   "ar": "السعر",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "📅",
+   "es": "la cita",
+   "ar": "الموعد",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "la escoba",
+   "ar": "المكنسة",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧺",
+   "es": "las toallas",
+   "ar": "المناشف",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "💇",
+   "es": "¿Cómo se lo corto?",
+   "ar": "كيف أقصّه لك؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "✂️",
+   "es": "Solo las puntas, por favor.",
+   "ar": "الأطراف فقط من فضلك.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "💈",
+   "es": "Corto por los lados y largo por arriba.",
+   "ar": "قصير على الجانبين وطويل في الأعلى.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "¿Con qué número de máquina?",
+   "ar": "بأي رقم للماكينة؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🪞",
+   "es": "¿Le gusta así?",
+   "ar": "هل يعجبك هكذا؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Son quince euros.",
+   "ar": "المبلغ خمسة عشر يورو.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🧔",
+   "es": "¿Le arreglo la barba?",
+   "ar": "هل أهذّب لك اللحية؟",
+   "section": "الخدمات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚿",
+   "es": "Primero le lavo el pelo.",
+   "ar": "أولاً أغسل لك الشعر.",
+   "section": "الخدمات"
+  },
+  {
+   "level": 2,
+   "emoji": "🌡️",
+   "es": "¿Está bien la temperatura del agua?",
+   "ar": "هل حرارة الماء مناسبة؟",
+   "section": "الخدمات"
+  },
+  {
+   "level": 2,
+   "emoji": "🌬️",
+   "es": "Ahora le seco el pelo.",
+   "ar": "الآن أجفّف لك الشعر.",
+   "section": "الخدمات"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "¿Tiene cita?",
+   "ar": "هل لديك موعد؟",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "Tiene que esperar diez minutos.",
+   "ar": "يجب أن تنتظر عشر دقائق.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Quiero pedir cita para el sábado.",
+   "ar": "أريد حجز موعد ليوم السبت.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Barre el pelo del suelo.",
+   "ar": "اكنس الشعر من الأرض.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧺",
+   "es": "Pon las toallas a lavar.",
+   "ar": "ضع المناشف في الغسيل.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧴",
+   "es": "Echa un poco de champú.",
+   "ar": "ضع قليلاً من الشامبو.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔋",
+   "es": "Carga la maquinilla.",
+   "ar": "اشحن ماكينة الحلاقة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🪮",
+   "es": "Pásame el peine fino.",
+   "ar": "ناولني المشط الرفيع.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧼",
+   "es": "Desinfecta las tijeras y las navajas después de cada cliente.",
+   "ar": "عقّم المقصّات والأمواس بعد كل زبون.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🪒",
+   "es": "Usa una cuchilla nueva para cada afeitado.",
+   "ar": "استعمل شفرة جديدة لكل حلاقة.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Antes de aplicar el tinte, hay que hacer una prueba de alergia.",
+   "ar": "قبل وضع الصبغة يجب إجراء اختبار الحساسية.",
+   "section": "الخدمات"
+  },
+  {
+   "level": 3,
+   "emoji": "⏳",
+   "es": "Deja actuar el tinte el tiempo que indica el fabricante.",
+   "ar": "اترك الصبغة تعمل المدّة التي يحدّدها المصنّع.",
+   "section": "الخدمات"
+  },
+  {
+   "level": 3,
+   "emoji": "💆",
+   "es": "¿Quiere que le ponga una mascarilla hidratante?",
+   "ar": "هل تريد أن أضع لك قناعاً مرطّباً للشعر؟",
+   "section": "الخدمات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧔",
+   "es": "¿Le perfilo la barba con navaja?",
+   "ar": "هل أحدّد لك اللحية بالموسى؟",
+   "section": "الخدمات"
+  },
+  {
+   "level": 3,
+   "emoji": "✨",
+   "es": "Le recomiendo un corte degradado para su tipo de pelo.",
+   "ar": "أنصحك بقصّة متدرّجة تناسب نوع شعرك.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "Aceptamos pago con tarjeta y con el móvil.",
+   "ar": "نقبل الدفع بالبطاقة وبالهاتف.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🧤",
+   "es": "Ponte guantes para aplicar el tinte.",
+   "ar": "البس القفازات لوضع الصبغة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔥",
+   "es": "Ten cuidado con la plancha, está muy caliente.",
+   "ar": "احذر من مكواة الشعر، إنها ساخنة جداً.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "📆",
+   "es": "Si no puede venir, avísenos con antelación para anular la cita.",
+   "ar": "إذا لم تستطع الحضور، أخبرنا مسبقاً لإلغاء الموعد.",
+   "section": "النظافة والمواعيد"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "Los sábados trabajamos solo con cita previa.",
+   "ar": "أيام السبت نعمل بموعد مسبق فقط.",
+   "section": "النظافة والمواعيد"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el secador»?",
+   "options": [
+    "المشط",
+    "مجفّف الشعر",
+    "المرآة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el secador»؟",
+   "ar_exp": "«el secador» هو مجفّف الشعر."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la barba»?",
+   "options": [
+    "اللحية",
+    "الشارب",
+    "الحاجب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la barba»؟",
+   "ar_exp": "«la barba» هي اللحية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la cita»?",
+   "options": [
+    "السعر",
+    "الزبون",
+    "الموعد"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la cita»؟",
+   "ar_exp": "«la cita» هي الموعد المحجوز مسبقاً."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el tinte»?",
+   "options": [
+    "صبغة الشعر",
+    "الشامبو",
+    "المنشفة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el tinte»؟",
+   "ar_exp": "«el tinte» هو صبغة الشعر."
+  },
+  {
+   "level": 2,
+   "q": "Un cliente dice: «Solo las puntas». ¿Qué quiere?",
+   "options": [
+    "Que le cortes mucho pelo.",
+    "Que le cortes solo un poco al final del pelo.",
+    "Que le laves el pelo."
+   ],
+   "answer": 1,
+   "ar_q": "يقول زبون: «Solo las puntas». ماذا يريد؟",
+   "ar_exp": "«las puntas» هي أطراف الشعر، أي يريد قصّاً خفيفاً."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «¿Le arreglo la barba?»?",
+   "options": [
+    "هل أحلق لك الرأس؟",
+    "هل أغسل لك الشعر؟",
+    "هل أهذّب لك اللحية؟"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «¿Le arreglo la barba?»؟",
+   "ar_exp": "«arreglar la barba» يعني تهذيب اللحية وترتيبها."
+  },
+  {
+   "level": 2,
+   "q": "Un cliente entra sin avisar. ¿Qué le preguntas?",
+   "options": [
+    "¿Tiene cita?",
+    "¿Le gusta así?",
+    "¿Está bien el agua?"
+   ],
+   "answer": 0,
+   "ar_q": "يدخل زبون دون حجز. ماذا تسأله؟",
+   "ar_exp": "تسأله أولاً إن كان لديه موعد «cita»."
+  },
+  {
+   "level": 3,
+   "q": "¿Por qué se hace una prueba de alergia antes del tinte?",
+   "options": [
+    "لمعرفة لون الشعر",
+    "لأن بعض الناس يتحسّسون من مواد الصبغة",
+    "لتوفير الصبغة"
+   ],
+   "answer": 1,
+   "ar_q": "لماذا يُجرى اختبار الحساسية قبل الصبغة؟",
+   "ar_exp": "بعض الأشخاص لديهم حساسية من مواد الصبغة، والاختبار يحميهم."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué haces con las tijeras después de cada cliente?",
+   "options": [
+    "Las desinfecto.",
+    "Las guardo sin limpiar.",
+    "Las lavo con champú."
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تفعل بالمقصّ بعد كل زبون؟",
+   "ar_exp": "يجب تعقيم الأدوات بعد كل زبون لمنع نقل العدوى."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «cita previa»?",
+   "options": [
+    "سعر مخفّض",
+    "دفع بالبطاقة",
+    "موعد محجوز مسبقاً"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «cita previa»؟",
+   "ar_exp": "«cita previa» تعني موعداً يجب حجزه قبل الحضور."
+  }
+ ]
+}

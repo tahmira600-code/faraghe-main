@@ -1,0 +1,477 @@
+{
+ "topic_id": "delivery",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🛵",
+   "es": "la moto",
+   "ar": "الدراجة النارية",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚲",
+   "es": "la bicicleta",
+   "ar": "الدراجة الهوائية",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚐",
+   "es": "la furgoneta",
+   "ar": "الشاحنة الصغيرة",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "⛑️",
+   "es": "el casco",
+   "ar": "الخوذة",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🗺️",
+   "es": "el mapa",
+   "ar": "الخريطة",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "la calle",
+   "ar": "الشارع",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚦",
+   "es": "el semáforo",
+   "ar": "إشارة المرور",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 1,
+   "emoji": "📍",
+   "es": "la dirección",
+   "ar": "العنوان",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "el paquete",
+   "ar": "الطرد",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛍️",
+   "es": "el pedido",
+   "ar": "الطلبية",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "🎒",
+   "es": "la mochila térmica",
+   "ar": "الحقيبة الحرارية",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "✍️",
+   "es": "la firma",
+   "ar": "التوقيع",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🔔",
+   "es": "el timbre",
+   "ar": "الجرس",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🏢",
+   "es": "el portal",
+   "ar": "مدخل العمارة",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "📫",
+   "es": "el buzón",
+   "ar": "صندوق البريد",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "la propina",
+   "ar": "الإكرامية (البقشيش)",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "📱",
+   "es": "la aplicación",
+   "ar": "التطبيق",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 1,
+   "emoji": "📲",
+   "es": "el móvil",
+   "ar": "الهاتف المحمول",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 1,
+   "emoji": "⏱️",
+   "es": "el retraso",
+   "ar": "التأخير",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 1,
+   "emoji": "🕐",
+   "es": "el horario",
+   "ar": "مواعيد العمل",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 2,
+   "emoji": "📍",
+   "es": "¿Es aquí la calle Mayor, número diez?",
+   "ar": "هل هذا شارع مايور رقم عشرة؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "📦",
+   "es": "Traigo un pedido para usted.",
+   "ar": "أحمل طلبية لك.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🏢",
+   "es": "¿En qué piso vive?",
+   "ar": "في أي طابق تسكن؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "✍️",
+   "es": "Firme aquí, por favor.",
+   "ar": "وقّع هنا من فضلك.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🔔",
+   "es": "Llamo al timbre y no contesta nadie.",
+   "ar": "أرنّ الجرس ولا يجيب أحد.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "¿Puede abrirme el portal?",
+   "ar": "هل يمكنك أن تفتح لي باب العمارة؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🏬",
+   "es": "Recoge los paquetes en el almacén.",
+   "ar": "استلم الطرود من المستودع.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎒",
+   "es": "Mete la comida en la mochila térmica.",
+   "ar": "ضع الطعام في الحقيبة الحرارية.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "⚠️",
+   "es": "Este paquete es frágil.",
+   "ar": "هذا الطرد قابل للكسر.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🗺️",
+   "es": "Hoy tienes cuarenta entregas.",
+   "ar": "لديك اليوم أربعون عملية توصيل.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "📱",
+   "es": "Acepta el pedido en la aplicación.",
+   "ar": "اقبل الطلبية في التطبيق.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 2,
+   "emoji": "🔋",
+   "es": "Carga el móvil antes de salir.",
+   "ar": "اشحن الهاتف قبل الخروج.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 2,
+   "emoji": "⏱️",
+   "es": "Voy con diez minutos de retraso.",
+   "ar": "أنا متأخر عشر دقائق.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Llama al cliente si no encuentras la dirección.",
+   "ar": "اتصل بالزبون إذا لم تجد العنوان.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 2,
+   "emoji": "⛑️",
+   "es": "Ponte siempre el casco.",
+   "ar": "البس الخوذة دائماً.",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚦",
+   "es": "Respeta los semáforos.",
+   "ar": "احترم إشارات المرور.",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌧️",
+   "es": "Con lluvia, conduce más despacio.",
+   "ar": "في المطر، قُد ببطء أكثر.",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🅿️",
+   "es": "No aparques en la acera.",
+   "ar": "لا تركن المركبة على الرصيف.",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 3,
+   "emoji": "📫",
+   "es": "Como no había nadie, le hemos dejado un aviso en el buzón.",
+   "ar": "بما أنه لم يكن أحد في البيت، تركنا لك إشعاراً في صندوق البريد.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "Para entregarle el paquete necesito ver su DNI o su NIE.",
+   "ar": "لتسليمك الطرد أحتاج إلى رؤية بطاقة هويتك أو رقم هوية الأجنبي.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "El pedido ya está pagado; no tiene que pagar nada.",
+   "ar": "الطلبية مدفوعة مسبقاً؛ لا يجب أن تدفع شيئاً.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "Si no está en casa, el paquete se lleva al punto de recogida.",
+   "ar": "إذا لم تكن في البيت، يُنقل الطرد إلى نقطة الاستلام.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "Este pedido es contra reembolso: cobra al entregar.",
+   "ar": "هذه الطلبية بالدفع عند الاستلام: اقبض المبلغ عند التسليم.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "🍔",
+   "es": "Comprueba que el pedido está completo antes de salir del restaurante.",
+   "ar": "تحقّق أن الطلبية كاملة قبل الخروج من المطعم.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "📸",
+   "es": "Haz una foto del paquete al dejarlo en la puerta.",
+   "ar": "التقط صورة للطرد عند تركه أمام الباب.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 3,
+   "emoji": "🧭",
+   "es": "La aplicación te marca la ruta más rápida.",
+   "ar": "التطبيق يحدّد لك أسرع طريق.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 3,
+   "emoji": "⭐",
+   "es": "Tu valoración depende de la puntualidad y del trato al cliente.",
+   "ar": "تقييمك يعتمد على الالتزام بالوقت ومعاملة الزبون.",
+   "section": "التطبيق والعمل"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Si tienes un accidente, rellena el parte amistoso y avisa a la empresa.",
+   "ar": "إذا تعرّضت لحادث، املأ محضر الحادث الودّي وأخبر الشركة.",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚲",
+   "es": "Normalmente está prohibido circular en bicicleta por la acera.",
+   "ar": "عادةً يُمنع السير بالدراجة على الرصيف.",
+   "section": "الطريق والمركبة"
+  },
+  {
+   "level": 3,
+   "emoji": "📵",
+   "es": "Está prohibido usar el móvil mientras conduces.",
+   "ar": "يُمنع استعمال الهاتف أثناء القيادة.",
+   "section": "الطريق والمركبة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el paquete»?",
+   "options": [
+    "الخوذة",
+    "الطرد",
+    "الجرس"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el paquete»؟",
+   "ar_exp": "«el paquete» هو الطرد الذي توصله إلى الزبون."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la propina»?",
+   "options": [
+    "الإكرامية (البقشيش)",
+    "التوقيع",
+    "التأخير"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la propina»؟",
+   "ar_exp": "«la propina» هي المال الإضافي الذي يعطيه الزبون شكراً على الخدمة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el timbre»?",
+   "options": [
+    "صندوق البريد",
+    "مدخل العمارة",
+    "الجرس"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el timbre»؟",
+   "ar_exp": "«el timbre» هو جرس الباب."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el casco»?",
+   "options": [
+    "الخوذة",
+    "الحقيبة",
+    "الخريطة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el casco»؟",
+   "ar_exp": "«el casco» هي الخوذة التي تحمي رأسك."
+  },
+  {
+   "level": 2,
+   "q": "No encuentras la dirección. ¿Qué haces?",
+   "options": [
+    "Me voy a casa.",
+    "Llamo al cliente.",
+    "Dejo el paquete en la calle."
+   ],
+   "answer": 1,
+   "ar_q": "لا تجد العنوان. ماذا تفعل؟",
+   "ar_exp": "الأفضل أن تتصل بالزبون ليشرح لك الطريق."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Este paquete es frágil»?",
+   "options": [
+    "هذا الطرد ثقيل",
+    "هذا الطرد مدفوع",
+    "هذا الطرد قابل للكسر"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «Este paquete es frágil»؟",
+   "ar_exp": "«frágil» يعني قابلاً للكسر، فيجب حمله بحذر."
+  },
+  {
+   "level": 2,
+   "q": "Llegas al edificio y la puerta está cerrada. ¿Qué dices por el telefonillo?",
+   "options": [
+    "Traigo un pedido para usted.",
+    "Respeta los semáforos.",
+    "Carga el móvil."
+   ],
+   "answer": 0,
+   "ar_q": "تصل إلى العمارة والباب مغلق. ماذا تقول عبر جهاز الاتصال الداخلي؟",
+   "ar_exp": "تقول إنك تحمل طلبية للزبون ليفتح لك."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «contra reembolso»?",
+   "options": [
+    "الطلبية مجانية",
+    "الدفع عند الاستلام",
+    "إرجاع الطلبية"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «contra reembolso»؟",
+   "ar_exp": "«contra reembolso» يعني أن الزبون يدفع عند استلام الطلبية."
+  },
+  {
+   "level": 3,
+   "q": "¿Se puede usar el móvil mientras conduces la moto?",
+   "options": [
+    "Sí, siempre.",
+    "Sí, si vas despacio.",
+    "No, está prohibido."
+   ],
+   "answer": 2,
+   "ar_q": "هل يمكن استعمال الهاتف أثناء قيادة الدراجة النارية؟",
+   "ar_exp": "استعمال الهاتف أثناء القيادة ممنوع وخطير."
+  },
+  {
+   "level": 3,
+   "q": "El cliente no está en casa. ¿Adónde va el paquete normalmente?",
+   "options": [
+    "Al punto de recogida.",
+    "A la basura.",
+    "A casa del repartidor."
+   ],
+   "answer": 0,
+   "ar_q": "الزبون ليس في البيت. إلى أين يذهب الطرد عادةً؟",
+   "ar_exp": "يُنقل الطرد عادةً إلى نقطة الاستلام ليأخذه الزبون لاحقاً."
+  }
+ ]
+}

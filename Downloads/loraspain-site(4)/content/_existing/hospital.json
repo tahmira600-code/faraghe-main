@@ -1,0 +1,128 @@
+{
+ "topic": {
+  "id": "hospital",
+  "kind": "topic",
+  "name": "المستشفى والصحة",
+  "name_es": "Hospital y salud",
+  "emoji": "🏥",
+  "color": "c4",
+  "tier": "account",
+  "price_cents": 0,
+  "blurb": "كيف تشرح ما يؤلمك للطبيب",
+  "sort": 3,
+  "published": true
+ },
+ "cards": [
+  {
+   "topic_id": "hospital",
+   "level": 1,
+   "emoji": "🤕",
+   "es": "Me duele la cabeza.",
+   "tr": {
+    "ar": "رأسي يؤلمني."
+   },
+   "section": "",
+   "sort": 0
+  },
+  {
+   "topic_id": "hospital",
+   "level": 1,
+   "emoji": "🌡️",
+   "es": "Tengo fiebre.",
+   "tr": {
+    "ar": "عندي حمّى."
+   },
+   "section": "",
+   "sort": 1
+  },
+  {
+   "topic_id": "hospital",
+   "level": 1,
+   "emoji": "👩‍⚕️",
+   "es": "Necesito un médico.",
+   "tr": {
+    "ar": "أحتاج إلى طبيب."
+   },
+   "section": "",
+   "sort": 2
+  },
+  {
+   "topic_id": "hospital",
+   "level": 1,
+   "emoji": "👉",
+   "es": "Me duele aquí.",
+   "tr": {
+    "ar": "يؤلمني هنا."
+   },
+   "section": "",
+   "sort": 3
+  },
+  {
+   "topic_id": "hospital",
+   "level": 2,
+   "emoji": "🚑",
+   "es": "Urgencias",
+   "tr": {
+    "ar": "قسم الطوارئ"
+   },
+   "section": "",
+   "sort": 4
+  },
+  {
+   "topic_id": "hospital",
+   "level": 2,
+   "emoji": "💊",
+   "es": "¿Dónde está la farmacia?",
+   "tr": {
+    "ar": "أين الصيدلية؟"
+   },
+   "section": "",
+   "sort": 5
+  },
+  {
+   "topic_id": "hospital",
+   "level": 2,
+   "emoji": "🪪",
+   "es": "la tarjeta sanitaria",
+   "tr": {
+    "ar": "البطاقة الصحية"
+   },
+   "section": "",
+   "sort": 6
+  },
+  {
+   "topic_id": "hospital",
+   "level": 2,
+   "emoji": "📃",
+   "es": "la receta",
+   "tr": {
+    "ar": "الوصفة الطبية"
+   },
+   "section": "",
+   "sort": 7
+  },
+  {
+   "topic_id": "hospital",
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Soy alérgico a la penicilina.",
+   "tr": {
+    "ar": "لديّ حساسية من البنسلين."
+   },
+   "section": "",
+   "sort": 8
+  },
+  {
+   "topic_id": "hospital",
+   "level": 3,
+   "emoji": "🩺",
+   "es": "Quiero pedir cita con mi médico de cabecera.",
+   "tr": {
+    "ar": "أريد موعدا مع طبيب الأسرة."
+   },
+   "section": "",
+   "sort": 9
+  }
+ ],
+ "questions": []
+}

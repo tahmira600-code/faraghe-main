@@ -1,0 +1,641 @@
+{
+ "topic_id": "warehouse",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🏗️",
+   "es": "la carretilla elevadora",
+   "ar": "الرافعة الشوكية",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏗️",
+   "es": "el toro",
+   "ar": "الرافعة الشوكية (بالعامية)",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛒",
+   "es": "el transpalé",
+   "ar": "رافعة المنصات اليدوية",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪵",
+   "es": "el palé",
+   "ar": "المنصة الخشبية (البالِت)",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "🗄️",
+   "es": "la estantería",
+   "ar": "الرفوف",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "📟",
+   "es": "el escáner",
+   "ar": "الماسح الضوئي",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏷️",
+   "es": "la etiqueta",
+   "ar": "الملصق",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "la caja",
+   "ar": "الصندوق",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "✂️",
+   "es": "el cúter",
+   "ar": "السكين القاطع (الكاتر)",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "la báscula",
+   "ar": "الميزان",
+   "section": "المعدات"
+  },
+  {
+   "level": 1,
+   "emoji": "📋",
+   "es": "el pedido",
+   "ar": "الطلبية",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧾",
+   "es": "el albarán",
+   "ar": "وصل التسليم",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛒",
+   "es": "el picking",
+   "ar": "تجهيز الطلبيات",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "la referencia",
+   "ar": "رقم المنتج",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "📊",
+   "es": "el stock",
+   "ar": "المخزون",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "📝",
+   "es": "el inventario",
+   "ar": "الجرد",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "📟",
+   "es": "el código de barras",
+   "ar": "الرمز الشريطي",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 1,
+   "emoji": "⬆️",
+   "es": "la carga",
+   "ar": "التحميل",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 1,
+   "emoji": "⬇️",
+   "es": "la descarga",
+   "ar": "التفريغ",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "el muelle",
+   "ar": "رصيف التحميل",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 1,
+   "emoji": "🚚",
+   "es": "el camión",
+   "ar": "الشاحنة",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "la mercancía",
+   "ar": "البضاعة",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el EPI",
+   "ar": "معدات الحماية الفردية",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el chaleco reflectante",
+   "ar": "السترة العاكسة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "⛑️",
+   "es": "el casco",
+   "ar": "الخوذة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥾",
+   "es": "las botas de seguridad",
+   "ar": "أحذية السلامة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌃",
+   "es": "el turno de noche",
+   "ar": "الوردية الليلية",
+   "section": "الورديات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌅",
+   "es": "el turno de mañana",
+   "ar": "الوردية الصباحية",
+   "section": "الورديات"
+  },
+  {
+   "level": 2,
+   "emoji": "🪵",
+   "es": "Lleva este palé a la zona de expedición.",
+   "ar": "خذ هذه المنصة إلى منطقة الإرسال.",
+   "section": "المعدات"
+  },
+  {
+   "level": 2,
+   "emoji": "🗄️",
+   "es": "Coloca las cajas en la estantería B.",
+   "ar": "ضع الصناديق على الرفوف B.",
+   "section": "المعدات"
+  },
+  {
+   "level": 2,
+   "emoji": "📟",
+   "es": "El escáner no funciona, necesito otro.",
+   "ar": "الماسح الضوئي لا يعمل، أحتاج إلى آخر.",
+   "section": "المعدات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏗️",
+   "es": "¿Tienes el carné de carretillero?",
+   "ar": "هل لديك شهادة سائق الرافعة الشوكية؟",
+   "section": "المعدات"
+  },
+  {
+   "level": 2,
+   "emoji": "📋",
+   "es": "Hay que preparar estos pedidos antes de las doce.",
+   "ar": "يجب تجهيز هذه الطلبيات قبل الساعة الثانية عشرة.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Escanea la etiqueta de cada caja.",
+   "ar": "امسح ملصق كل صندوق بالماسح.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "❗",
+   "es": "Falta una caja en este pedido.",
+   "ar": "ينقص صندوق في هذه الطلبية.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧾",
+   "es": "Comprueba el albarán con la mercancía.",
+   "ar": "طابِق وصل التسليم مع البضاعة.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "Esta referencia está agotada.",
+   "ar": "هذا المنتج نفد من المخزون.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Pon la etiqueta en un lado visible de la caja.",
+   "ar": "ضع الملصق على جانب ظاهر من الصندوق.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚚",
+   "es": "Ha llegado el camión, vamos a descargar.",
+   "ar": "وصلت الشاحنة، هيا نفرّغ.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "Hay que cargar el camión en el muelle tres.",
+   "ar": "يجب تحميل الشاحنة عند الرصيف رقم ثلاثة.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 2,
+   "emoji": "🎞️",
+   "es": "Retractila el palé antes de cargarlo.",
+   "ar": "لُفّ المنصة بالبلاستيك قبل تحميلها.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 2,
+   "emoji": "🍷",
+   "es": "Esta mercancía es frágil.",
+   "ar": "هذه البضاعة قابلة للكسر.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 2,
+   "emoji": "🪵",
+   "es": "Los palés vacíos van allí.",
+   "ar": "المنصات الفارغة توضع هناك.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 2,
+   "emoji": "🦺",
+   "es": "Ponte el chaleco reflectante.",
+   "ar": "البس السترة العاكسة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "No pases por debajo de la carga.",
+   "ar": "لا تمرّ تحت الحمولة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "📯",
+   "es": "Toca el claxon en los cruces.",
+   "ar": "استعمل المنبّه عند التقاطعات.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚶",
+   "es": "Camina por el pasillo peatonal.",
+   "ar": "امشِ في ممر المشاة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌃",
+   "es": "Esta semana tengo turno de noche.",
+   "ar": "هذا الأسبوع عندي الوردية الليلية.",
+   "section": "الورديات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔄",
+   "es": "¿A qué hora es el cambio de turno?",
+   "ar": "في أي ساعة يتم تبديل الوردية؟",
+   "section": "الورديات"
+  },
+  {
+   "level": 2,
+   "emoji": "☕",
+   "es": "Tenemos un descanso de veinte minutos.",
+   "ar": "لدينا استراحة مدتها عشرون دقيقة.",
+   "section": "الورديات"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "Mañana entro a las seis.",
+   "ar": "غداً أبدأ العمل في الساعة السادسة.",
+   "section": "الورديات"
+  },
+  {
+   "level": 2,
+   "emoji": "🤝",
+   "es": "¿Puedes cambiarme el turno?",
+   "ar": "هل يمكنك أن تبدّل معي الوردية؟",
+   "section": "الورديات"
+  },
+  {
+   "level": 2,
+   "emoji": "⏱️",
+   "es": "Hoy hay que hacer horas extra.",
+   "ar": "اليوم يجب العمل ساعات إضافية.",
+   "section": "الورديات"
+  },
+  {
+   "level": 3,
+   "emoji": "🎓",
+   "es": "Para conducir la carretilla elevadora necesitas formación específica y autorización de la empresa.",
+   "ar": "لقيادة الرافعة الشوكية تحتاج إلى تكوين خاص وإذن من الشركة.",
+   "section": "المعدات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔧",
+   "es": "Antes de empezar, revisa la carretilla: frenos, horquillas, luces y nivel de batería.",
+   "ar": "قبل البدء، افحص الرافعة: المكابح والشوكتين والأضواء ومستوى البطارية.",
+   "section": "المعدات"
+  },
+  {
+   "level": 3,
+   "emoji": "⚖️",
+   "es": "No sobrecargues el transpalé; respeta la carga máxima indicada.",
+   "ar": "لا تُحمِّل رافعة المنصات أكثر من طاقتها؛ احترم الحمولة القصوى المكتوبة.",
+   "section": "المعدات"
+  },
+  {
+   "level": 3,
+   "emoji": "📍",
+   "es": "El sistema te indica la ubicación de cada producto: pasillo, estantería y altura.",
+   "ar": "النظام يحدد لك مكان كل منتج: الممر والرف والارتفاع.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "✍️",
+   "es": "Si encuentras una incidencia en el pedido, anótala en el albarán antes de firmar.",
+   "ar": "إذا وجدت مشكلة في الطلبية، سجّلها في وصل التسليم قبل التوقيع.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "Los productos que caducan antes salen primero.",
+   "ar": "المنتجات التي تنتهي صلاحيتها أولاً تخرج أولاً.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Al final del mes haremos inventario de todo el almacén.",
+   "ar": "في نهاية الشهر سنقوم بجرد المخزن كله.",
+   "section": "الطلبيات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "Revisa que la mercancía no esté dañada antes de firmar el albarán de entrega.",
+   "ar": "تأكد من أن البضاعة غير تالفة قبل توقيع وصل التسليم.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 3,
+   "emoji": "📦",
+   "es": "Reparte bien el peso: las cajas pesadas abajo y las ligeras arriba.",
+   "ar": "وزّع الوزن جيداً: الصناديق الثقيلة في الأسفل والخفيفة في الأعلى.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 3,
+   "emoji": "🚛",
+   "es": "El transportista tiene que esperar en la zona de espera hasta que le asignen un muelle.",
+   "ar": "على الناقل أن ينتظر في منطقة الانتظار حتى يُخصَّص له رصيف.",
+   "section": "الشحن والتفريغ"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "Nunca lleves a otra persona en la carretilla elevadora.",
+   "ar": "لا تحمل أبداً شخصاً آخر على الرافعة الشوكية.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "↩️",
+   "es": "Circula con la carga baja y, si la carga no te deja ver, conduce marcha atrás.",
+   "ar": "سِر والحمولة منخفضة، وإذا كانت الحمولة تحجب رؤيتك فقُد إلى الخلف.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏋️",
+   "es": "Para levantar peso, dobla las rodillas y mantén la espalda recta.",
+   "ar": "لرفع الأشياء الثقيلة، اثنِ ركبتيك وأبقِ ظهرك مستقيماً.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🥾",
+   "es": "Es obligatorio llevar el calzado de seguridad en todo el almacén.",
+   "ar": "ارتداء حذاء السلامة إلزامي في كل أنحاء المخزن.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "💶",
+   "es": "El plus de nocturnidad depende de tu convenio.",
+   "ar": "علاوة العمل الليلي تحددها الاتفاقية الجماعية الخاصة بك.",
+   "section": "الورديات"
+  },
+  {
+   "level": 3,
+   "emoji": "🕒",
+   "es": "Tienes que fichar al empezar y al terminar el turno.",
+   "ar": "يجب أن تسجّل وقت بداية الوردية ونهايتها.",
+   "section": "الورديات"
+  },
+  {
+   "level": 3,
+   "emoji": "🗓️",
+   "es": "La empresa publica el cuadrante de turnos cada semana.",
+   "ar": "تنشر الشركة جدول الورديات كل أسبوع.",
+   "section": "الورديات"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el palé»?",
+   "options": [
+    "المنصة الخشبية",
+    "الرفوف",
+    "الشاحنة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el palé»؟",
+   "ar_exp": "«el palé» هي المنصة الخشبية التي توضع عليها البضاعة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué es «el toro» en un almacén?",
+   "options": [
+    "Un animal.",
+    "La carretilla elevadora.",
+    "Una caja grande."
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «el toro» في المخزن؟",
+   "ar_exp": "في المخازن، «el toro» اسم شائع للرافعة الشوكية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el albarán»?",
+   "options": [
+    "الملصق",
+    "الجرد",
+    "وصل التسليم"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el albarán»؟",
+   "ar_exp": "«el albarán» هو الوثيقة التي ترافق البضاعة عند التسليم."
+  },
+  {
+   "level": 1,
+   "q": "¿Con qué lees el código de barras?",
+   "options": [
+    "Con el cúter.",
+    "Con el escáner.",
+    "Con la báscula."
+   ],
+   "answer": 1,
+   "ar_q": "بماذا تقرأ الرمز الشريطي؟",
+   "ar_exp": "نقرأ الرمز الشريطي بالماسح الضوئي «el escáner»."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el turno de noche»?",
+   "options": [
+    "الوردية الليلية",
+    "الاستراحة",
+    "الوردية الصباحية"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el turno de noche»؟",
+   "ar_exp": "«el turno de noche» تعني العمل في الليل."
+  },
+  {
+   "level": 2,
+   "q": "Tu encargado dice: «Falta una caja en este pedido». ¿Qué pasa?",
+   "options": [
+    "El pedido tiene una caja de más.",
+    "En el pedido no están todas las cajas.",
+    "El pedido está listo."
+   ],
+   "answer": 1,
+   "ar_q": "يقول مسؤولك: «Falta una caja en este pedido». ماذا يحدث؟",
+   "ar_exp": "«falta» تعني ينقص: هناك صندوق غير موجود في الطلبية."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué haces en el picking?",
+   "options": [
+    "Preparo los pedidos con los productos de las estanterías.",
+    "Limpio el almacén.",
+    "Conduzco el camión."
+   ],
+   "answer": 0,
+   "ar_q": "ماذا تفعل في «el picking»؟",
+   "ar_exp": "«el picking» هو جمع المنتجات من الرفوف لتجهيز الطلبيات."
+  },
+  {
+   "level": 2,
+   "q": "Ha llegado un camión al muelle. ¿Qué vamos a hacer?",
+   "options": [
+    "Hacer inventario.",
+    "Cambiar de turno.",
+    "Descargar la mercancía."
+   ],
+   "answer": 2,
+   "ar_q": "وصلت شاحنة إلى الرصيف. ماذا سنفعل؟",
+   "ar_exp": "عندما تصل الشاحنة إلى الرصيف نفرّغ البضاعة."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Esta referencia está agotada»?",
+   "options": [
+    "El producto está roto.",
+    "No queda stock de ese producto.",
+    "El producto es nuevo."
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «Esta referencia está agotada»؟",
+   "ar_exp": "«agotada» تعني أن المنتج نفد ولم يبقَ منه شيء في المخزون."
+  },
+  {
+   "level": 3,
+   "q": "La carga es muy alta y no ves bien delante. ¿Qué haces con la carretilla?",
+   "options": [
+    "Conduzco marcha atrás.",
+    "Levanto más la carga.",
+    "Voy más rápido."
+   ],
+   "answer": 0,
+   "ar_q": "الحمولة عالية جداً ولا ترى جيداً أمامك. ماذا تفعل بالرافعة؟",
+   "ar_exp": "إذا كانت الحمولة تحجب الرؤية، نقود إلى الخلف ببطء."
+  },
+  {
+   "level": 3,
+   "q": "¿Puede subir un compañero en la carretilla elevadora contigo?",
+   "options": [
+    "Sí, si va agarrado.",
+    "Sí, en distancias cortas.",
+    "No, nunca."
+   ],
+   "answer": 2,
+   "ar_q": "هل يمكن لزميل أن يركب معك على الرافعة الشوكية؟",
+   "ar_exp": "يُمنع حمل أي شخص آخر على الرافعة الشوكية."
+  },
+  {
+   "level": 3,
+   "q": "La mercancía llega dañada. ¿Qué haces antes de firmar el albarán?",
+   "options": [
+    "Firmo sin decir nada.",
+    "Anoto la incidencia en el albarán.",
+    "Tiro la mercancía."
+   ],
+   "answer": 1,
+   "ar_q": "وصلت البضاعة تالفة. ماذا تفعل قبل توقيع وصل التسليم؟",
+   "ar_exp": "يجب تسجيل المشكلة في وصل التسليم قبل التوقيع."
+  }
+ ]
+}

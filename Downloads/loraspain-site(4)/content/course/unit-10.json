@@ -1,0 +1,349 @@
+{
+  "unit": 10,
+  "level": 3,
+  "title_ar": "المستقبل والشرط",
+  "title_es": "El futuro y el condicional",
+  "emoji": "🔮",
+  "lessons": [
+    {
+      "id": "u10-l1",
+      "title_ar": "المستقبل البسيط: الأفعال المنتظمة",
+      "title_es": "El futuro simple: verbos regulares",
+      "emoji": "🔮",
+      "goal_ar": "ستتعلم في هذا الدرس الحديث عن خططك ووعودك في المستقبل باستخدام المستقبل البسيط (futuro simple).",
+      "explain": [
+        {
+          "h": "متى نستعمل المستقبل البسيط؟",
+          "p": "نستعمل futuro simple للحديث عن المستقبل: الخطط والتوقعات والوعود. أنت تعرف من قبل ir a + infinitivo (voy a trabajar)، وهو شائع جدًا للخطط القريبة. أما المستقبل البسيط فنستعمله كثيرًا للمستقبل الأبعد وللوعود.",
+          "ex": [
+            ["Mañana trabajaré por la tarde.", "غدًا سأعمل في المساء."],
+            ["El año que viene viviremos en Sevilla.", "في السنة القادمة سنعيش في إشبيلية."]
+          ]
+        },
+        {
+          "h": "التكوين",
+          "p": "نأخذ المصدر كاملًا (hablar، comer، vivir) ونضيف: -é، -ás، -á، -emos، -éis، -án. النهايات نفسها لكل الأفعال: -ar و-er و-ir.",
+          "ex": [
+            ["Hablaré con el casero.", "سأتكلم مع المؤجِّر."],
+            ["¿Comerás con nosotros?", "هل ستأكل معنا؟"],
+            ["Ellos vivirán cerca del trabajo.", "هم سيعيشون قرب العمل."]
+          ]
+        },
+        {
+          "h": "كلمات المستقبل",
+          "p": "كلمات مفيدة مع المستقبل: mañana (غدًا)، pasado mañana (بعد غد)، la semana que viene (الأسبوع القادم)، el próximo mes (الشهر القادم)، dentro de dos años (بعد سنتين).",
+          "ex": [
+            ["Dentro de dos años hablaré español muy bien.", "بعد سنتين سأتكلم الإسبانية جيدًا جدًا."],
+            ["La semana que viene empezaré un curso.", "الأسبوع القادم سأبدأ دورة."]
+          ]
+        },
+        {
+          "h": "الوعد",
+          "p": "نستعمل المستقبل البسيط كثيرًا لنعد شخصًا بشيء.",
+          "ex": [
+            ["Te llamaré esta noche.", "سأتصل بك هذه الليلة."],
+            ["No te preocupes, te ayudaré.", "لا تقلق، سأساعدك."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "mañana", "ar": "غدًا", "e": "🌅" },
+        { "es": "pasado mañana", "ar": "بعد غد", "e": "📆" },
+        { "es": "la semana que viene", "ar": "الأسبوع القادم", "e": "🗓️" },
+        { "es": "el próximo mes", "ar": "الشهر القادم", "e": "📅" },
+        { "es": "dentro de dos años", "ar": "بعد سنتين", "e": "⏳" },
+        { "es": "el futuro", "ar": "المستقبل", "e": "🔮" },
+        { "es": "el plan", "ar": "الخطة", "e": "📝" },
+        { "es": "la promesa", "ar": "الوعد", "e": "🤞" },
+        { "es": "trabajaré", "ar": "سأعمل", "e": "👷" },
+        { "es": "viviré", "ar": "سأعيش", "e": "🏠" },
+        { "es": "estudiaré", "ar": "سأدرس", "e": "📚" },
+        { "es": "ahorrar", "ar": "يدّخر (المال)", "e": "💰" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué planes tienes para el verano?", "ar": "ما خططك للصيف؟" },
+        { "who": "B", "es": "En julio trabajaré en la recogida de fruta en Lleida.", "ar": "في يوليو سأعمل في جني الفاكهة في لاردة." },
+        { "who": "A", "es": "¿Y después?", "ar": "وبعد ذلك؟" },
+        { "who": "B", "es": "En agosto descansaré y visitaré a mi familia.", "ar": "في أغسطس سأرتاح وسأزور عائلتي." },
+        { "who": "A", "es": "Yo me quedaré aquí. Estudiaré para el examen del carné de conducir.", "ar": "أنا سأبقى هنا. سأدرس لامتحان رخصة السياقة." },
+        { "who": "B", "es": "¡Seguro que aprobarás!", "ar": "بالتأكيد ستنجح!" }
+      ],
+      "quiz": [
+        { "q": "Mañana yo ___ con el jefe.", "o": ["hablaba", "hablaré", "hablará"], "a": 1, "why": "مع mañana نستعمل المستقبل، وصيغة yo تنتهي بـ -é: hablaré." },
+        { "q": "El año que viene ellos ___ cerca del trabajo.", "o": ["vivieron", "vivían", "vivirán"], "a": 2, "why": "el año que viene تدل على المستقبل، ومع ellos نضيف -án: vivirán." },
+        { "q": "ما نهاية الفعل في المستقبل البسيط مع nosotros؟", "o": ["-emos", "-amos", "-imos"], "a": 0, "why": "مع nosotros نضيف -emos إلى المصدر لكل الأفعال: hablaremos، comeremos، viviremos." },
+        { "q": "ما معنى «la semana que viene»؟", "o": ["الأسبوع الماضي", "الأسبوع القادم", "هذا الأسبوع"], "a": 1, "why": "que viene تعني «القادم»." },
+        { "q": "No te preocupes, te ___ con la mudanza.", "o": ["ayudaba", "ayudé", "ayudaré"], "a": 2, "why": "هذا وعد للمستقبل، فنستعمل ayudaré." }
+      ]
+    },
+    {
+      "id": "u10-l2",
+      "title_ar": "المستقبل البسيط: الأفعال الشاذة",
+      "title_es": "El futuro simple: verbos irregulares",
+      "emoji": "🧩",
+      "goal_ar": "ستتعلم في هذا الدرس الأفعال الشاذة في المستقبل مثل tendré وpodré وharé، واستعمال المستقبل للتعبير عن الاحتمال.",
+      "explain": [
+        {
+          "h": "أفعال تحذف حرفًا",
+          "p": "بعض الأفعال تحذف حرف e من المصدر: poder ← podr-، saber ← sabr-، querer ← querr-، haber ← habr-. ثم نضيف النهايات العادية: -é، -ás، -á، -emos، -éis، -án.",
+          "ex": [
+            ["No podré ir mañana.", "لن أستطيع الذهاب غدًا."],
+            ["Habrá mucha gente.", "سيكون هناك ناس كثيرون."]
+          ]
+        },
+        {
+          "h": "أفعال تأخذ d",
+          "p": "أفعال أخرى تأخذ d: tener ← tendr-، poner ← pondr-، salir ← saldr-، venir ← vendr-.",
+          "ex": [
+            ["Tendré tiempo el sábado.", "سيكون عندي وقت يوم السبت."],
+            ["¿Vendrás a la fiesta?", "هل ستأتي إلى الحفلة؟"],
+            ["Saldremos a las ocho.", "سنخرج في الساعة الثامنة."]
+          ]
+        },
+        {
+          "h": "hacer وdecir",
+          "p": "hacer ← har- (haré، harás، hará...) وdecir ← dir- (diré، dirás، dirá...).",
+          "ex": [
+            ["Lo haré mañana.", "سأفعله غدًا."],
+            ["Te lo diré luego.", "سأقوله لك لاحقًا."]
+          ]
+        },
+        {
+          "h": "المستقبل للاحتمال",
+          "p": "في الإسبانية نستعمل المستقبل أيضًا لنخمّن شيئًا في الحاضر، بمعنى «ربما» أو «على الأرجح».",
+          "ex": [
+            ["¿Dónde está Ahmed? —Estará en el baño.", "أين أحمد؟ —ربما هو في الحمام."],
+            ["Serán las diez.", "الساعة على الأرجح العاشرة."],
+            ["Tendrá unos treinta años.", "عمره تقريبًا ثلاثون سنة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "tendré", "ar": "سيكون عندي", "e": "🤲" },
+        { "es": "podré", "ar": "سأستطيع", "e": "💪" },
+        { "es": "haré", "ar": "سأفعل", "e": "🛠️" },
+        { "es": "diré", "ar": "سأقول", "e": "🗣️" },
+        { "es": "saldré", "ar": "سأخرج", "e": "🚪" },
+        { "es": "vendré", "ar": "سآتي", "e": "🏃" },
+        { "es": "pondré", "ar": "سأضع", "e": "📥" },
+        { "es": "sabré", "ar": "سأعرف", "e": "💡" },
+        { "es": "habrá", "ar": "سيكون هناك", "e": "👥" },
+        { "es": "estará", "ar": "ربما يكون / سيكون", "e": "🤔" },
+        { "es": "seguramente", "ar": "على الأرجح", "e": "👍" },
+        { "es": "la mudanza", "ar": "نقل الأثاث (الانتقال)", "e": "📦" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Podrás ayudarme con la mudanza el sábado?", "ar": "هل ستستطيع مساعدتي في نقل الأثاث يوم السبت؟" },
+        { "who": "B", "es": "Sí, pero tendré que trabajar por la mañana. Saldré a las dos.", "ar": "نعم، لكن سيكون عليّ أن أعمل في الصباح. سأخرج في الساعة الثانية." },
+        { "who": "A", "es": "Perfecto. Vendrá también mi primo con su furgoneta.", "ar": "ممتاز. سيأتي أيضًا ابن عمي بشاحنته الصغيرة." },
+        { "who": "B", "es": "¿Habrá muchas cajas?", "ar": "هل ستكون هناك صناديق كثيرة؟" },
+        { "who": "A", "es": "Unas veinte. Yo pondré las cosas pequeñas en el coche.", "ar": "حوالي عشرين. أنا سأضع الأشياء الصغيرة في السيارة." },
+        { "who": "B", "es": "Vale. Te llamaré a las dos y cuarto.", "ar": "حسنًا. سأتصل بك في الساعة الثانية والربع." }
+      ],
+      "quiz": [
+        { "q": "Mañana no ___ ir a clase.", "o": ["poderé", "podré", "pudré"], "a": 1, "why": "poder يحذف e في المستقبل: podré." },
+        { "q": "صيغة yo من الفعل tener في المستقبل:", "o": ["tendré", "teneré", "tenré"], "a": 0, "why": "tener يأخذ d في المستقبل: tendré." },
+        { "q": "¿Dónde está Laila? —No sé, ___ en casa.", "o": ["estuvo", "estaba", "estará"], "a": 2, "why": "نستعمل المستقبل للتخمين في الحاضر: estará = ربما هي في البيت." },
+        { "q": "Te lo ___ luego. (decir)", "o": ["diré", "deciré", "dirá"], "a": 0, "why": "decir ← dir- في المستقبل، ومع yo نقول diré." },
+        { "q": "ما معنى «Habrá mucha gente»؟", "o": ["كان هناك ناس كثيرون.", "سيكون هناك ناس كثيرون.", "هناك ناس كثيرون."], "a": 1, "why": "habrá هي المستقبل من hay." }
+      ]
+    },
+    {
+      "id": "u10-l3",
+      "title_ar": "الشرطي للأدب والرغبات",
+      "title_es": "El condicional: cortesía y deseos",
+      "emoji": "🙏",
+      "goal_ar": "ستتعلم في هذا الدرس تكوين صيغة الشرط (condicional) واستعمالها لتطلب الأشياء بأدب وتعبّر عن رغباتك.",
+      "explain": [
+        {
+          "h": "التكوين",
+          "p": "نأخذ المصدر ونضيف: -ía، -ías، -ía، -íamos، -íais، -ían. الأفعال الشاذة لها الجذور نفسها التي في المستقبل: podría، tendría، haría، diría، querría، saldría، vendría، pondría، sabría، habría.",
+          "ex": [
+            ["Me gustaría trabajar aquí.", "أودّ أن أعمل هنا."],
+            ["Yo hablaría con él.", "أنا كنتُ سأتكلم معه."]
+          ]
+        },
+        {
+          "h": "الطلب بأدب",
+          "p": "مع الموظفين والأشخاص الذين لا نعرفهم نستعمل الشرطي ليكون الطلب ألطف: ¿Podría...؟ (هل يمكنك...؟)، ¿Le importaría...؟ (هل تمانع...؟)، Me gustaría... (أودّ...).",
+          "ex": [
+            ["¿Podría hablar más despacio, por favor?", "هل يمكنك أن تتكلم ببطء أكثر من فضلك؟"],
+            ["Me gustaría pedir una cita.", "أودّ أن أطلب موعدًا."],
+            ["¿Le importaría repetirlo?", "هل تمانع أن تكرره؟"]
+          ]
+        },
+        {
+          "h": "الرغبات والتفضيل",
+          "p": "نستعمل أيضًا Me encantaría (يسعدني كثيرًا) وPreferiría (أفضّل) للتعبير عن رغبة بطريقة لطيفة.",
+          "ex": [
+            ["Preferiría trabajar por la mañana.", "أفضّل أن أعمل في الصباح."],
+            ["Me encantaría aprender a conducir.", "يسعدني كثيرًا أن أتعلم السياقة."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "me gustaría", "ar": "أودّ", "e": "😊" },
+        { "es": "¿podría...?", "ar": "هل يمكنك...؟ (بأدب)", "e": "🙋" },
+        { "es": "¿le importaría...?", "ar": "هل تمانع...؟", "e": "🤔" },
+        { "es": "preferiría", "ar": "أفضّل", "e": "⚖️" },
+        { "es": "me encantaría", "ar": "يسعدني كثيرًا", "e": "😍" },
+        { "es": "querría", "ar": "أريد (بأدب)", "e": "💭" },
+        { "es": "¿sería posible...?", "ar": "هل من الممكن...؟", "e": "✅" },
+        { "es": "¿tendría...?", "ar": "هل عندك...؟ (بأدب)", "e": "🤲" },
+        { "es": "más despacio", "ar": "ببطء أكثر", "e": "🐢" },
+        { "es": "muy amable", "ar": "لطيف جدًا", "e": "🌷" },
+        { "es": "la ventanilla", "ar": "الشبّاك (في إدارة)", "e": "🪟" },
+        { "es": "el certificado", "ar": "الشهادة (الوثيقة)", "e": "📄" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Buenos días. ¿En qué puedo ayudarle?", "ar": "صباح الخير. كيف يمكنني مساعدتك؟" },
+        { "who": "B", "es": "Buenos días. Me gustaría pedir el certificado de empadronamiento.", "ar": "صباح الخير. أودّ أن أطلب شهادة التسجيل في السجل البلدي." },
+        { "who": "A", "es": "Muy bien. ¿Tendría su NIE, por favor?", "ar": "جيد جدًا. هل عندك رقم هوية الأجنبي (NIE) من فضلك؟" },
+        { "who": "B", "es": "Sí, aquí lo tiene. ¿Podría decirme cuánto tarda?", "ar": "نعم، تفضّل. هل يمكنك أن تقول لي كم يستغرق؟" },
+        { "who": "A", "es": "Es rápido. Se lo imprimo ahora mismo.", "ar": "إنه سريع. سأطبعه لك الآن." },
+        { "who": "B", "es": "¿Le importaría hablar un poco más despacio? Todavía estoy aprendiendo español.", "ar": "هل تمانع أن تتكلم ببطء أكثر قليلًا؟ ما زلتُ أتعلم الإسبانية." },
+        { "who": "A", "es": "Claro, sin problema. Aquí tiene su certificado.", "ar": "طبعًا، لا مشكلة. تفضّل شهادتك." },
+        { "who": "B", "es": "Muchas gracias, es usted muy amable.", "ar": "شكرًا جزيلًا، أنت لطيف جدًا." }
+      ],
+      "quiz": [
+        { "q": "___ pedir una cita, por favor.", "o": ["Me gustó", "Me gustaría", "Me gustaré"], "a": 1, "why": "لطلب شيء بأدب نقول Me gustaría + مصدر." },
+        { "q": "¿___ hablar más despacio, por favor?", "o": ["Podría", "Podré", "Pude"], "a": 0, "why": "Podría هي صيغة الشرط من poder، وهي مهذبة جدًا في الطلب." },
+        { "q": "صيغة yo من الفعل tener في الشرطي:", "o": ["tenería", "tuvo", "tendría"], "a": 2, "why": "tener يأخذ الجذر tendr- كما في المستقبل، ثم -ía: tendría." },
+        { "q": "أي جملة هي الأكثر أدبًا؟", "o": ["¿Me podría dar un poco de agua?", "Quiero agua.", "Agua, ya."], "a": 0, "why": "¿Me podría...? طريقة مهذبة جدًا لطلب شيء." },
+        { "q": "ما معنى «Preferiría trabajar por la mañana»؟", "o": ["فضّلتُ العمل في الصباح.", "أفضّل أن أعمل في الصباح (لو أمكن).", "سأعمل في الصباح."], "a": 1, "why": "preferiría هي صيغة الشرط من preferir، وتعبّر عن تفضيل بطريقة لطيفة." }
+      ]
+    },
+    {
+      "id": "u10-l4",
+      "title_ar": "الشرط الممكن: si + المضارع",
+      "title_es": "Condiciones reales: si + presente",
+      "emoji": "🔀",
+      "goal_ar": "ستتعلم في هذا الدرس الحديث عن شروط ممكنة ونتائجها في المستقبل باستخدام si + المضارع + المستقبل.",
+      "explain": [
+        {
+          "h": "si + مضارع، مستقبل",
+          "p": "للحديث عن شرط ممكن ونتيجته في المستقبل: si + فعل في المضارع، ثم فعل في المستقبل. يمكن أن نبدأ بالنتيجة أيضًا.",
+          "ex": [
+            ["Si llueve, no iremos a la playa.", "إذا أمطرت، لن نذهب إلى الشاطئ."],
+            ["Te llamaré si termino pronto.", "سأتصل بك إذا أنهيتُ مبكرًا."]
+          ]
+        },
+        {
+          "h": "لا مستقبل بعد si",
+          "p": "خطأ شائع: بعد si لا نستعمل المستقبل أبدًا. نقول Si tengo tiempo وليس Si tendré tiempo.",
+          "ex": [
+            ["Si tengo tiempo, te ayudaré.", "إذا كان عندي وقت، سأساعدك."],
+            ["Si encuentro piso, me mudaré en mayo.", "إذا وجدتُ شقة، سأنتقل في مايو."]
+          ]
+        },
+        {
+          "h": "si + مضارع، مضارع",
+          "p": "للأشياء التي تحدث دائمًا أو عادةً، نستعمل المضارع في الجزأين.",
+          "ex": [
+            ["Si no hay trabajo, me quedo en casa.", "إذا لم يكن هناك عمل، أبقى في البيت."],
+            ["Si llego tarde, el encargado se enfada.", "إذا وصلتُ متأخرًا، يغضب المسؤول."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "si", "ar": "إذا", "e": "❓" },
+        { "es": "llover", "ar": "تمطر", "e": "🌧️" },
+        { "es": "tener tiempo", "ar": "يكون عنده وقت", "e": "⏰" },
+        { "es": "encontrar piso", "ar": "يجد شقة", "e": "🔑" },
+        { "es": "aprobar", "ar": "ينجح (في امتحان)", "e": "✅" },
+        { "es": "suspender", "ar": "يرسب", "e": "❌" },
+        { "es": "el examen", "ar": "الامتحان", "e": "📝" },
+        { "es": "el carné de conducir", "ar": "رخصة السياقة", "e": "🚗" },
+        { "es": "intentar", "ar": "يحاول", "e": "🔁" },
+        { "es": "ganar más", "ar": "يكسب أكثر", "e": "📈" },
+        { "es": "quedarse en casa", "ar": "يبقى في البيت", "e": "🏠" },
+        { "es": "cambiar de trabajo", "ar": "يغيّر العمل", "e": "🔄" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Cuándo es tu examen de conducir?", "ar": "متى امتحان السياقة الخاص بك؟" },
+        { "who": "B", "es": "El jueves. Si apruebo, me compraré un coche de segunda mano.", "ar": "يوم الخميس. إذا نجحتُ، سأشتري سيارة مستعملة." },
+        { "who": "A", "es": "¿Y si suspendes?", "ar": "وإذا رسبتَ؟" },
+        { "who": "B", "es": "Si suspendo, lo intentaré otra vez el mes que viene.", "ar": "إذا رسبتُ، سأحاول مرة أخرى في الشهر القادم." },
+        { "who": "A", "es": "Si quieres, el miércoles practicamos juntos con mi coche.", "ar": "إذا أردتَ، يوم الأربعاء نتدرب معًا بسيارتي." },
+        { "who": "B", "es": "¡Genial! Si me ayudas, seguro que aprobaré.", "ar": "رائع! إذا ساعدتني، بالتأكيد سأنجح." }
+      ],
+      "quiz": [
+        { "q": "Si ___ tiempo, te ayudaré.", "o": ["tendré", "tengo", "tenía"], "a": 1, "why": "بعد si نستعمل المضارع وليس المستقبل: Si tengo tiempo." },
+        { "q": "Si llueve, no ___ a la playa.", "o": ["iremos", "fuimos", "íbamos"], "a": 0, "why": "النتيجة في المستقبل: iremos." },
+        { "q": "أي جملة صحيحة؟", "o": ["Si tendré dinero, compraré un coche.", "Si tenga dinero, compraré un coche.", "Si tengo dinero, compraré un coche."], "a": 2, "why": "si + مضارع (tengo)، ثم المستقبل (compraré)." },
+        { "q": "ما معنى «Si suspendo, lo intentaré otra vez»؟", "o": ["إذا رسبتُ، سأحاول مرة أخرى.", "إذا نجحتُ، سأحاول مرة أخرى.", "رسبتُ وحاولتُ مرة أخرى."], "a": 0, "why": "suspender = يرسب، وintentaré = سأحاول." },
+        { "q": "Si encuentras un piso barato, ¿te ___?", "o": ["mudaste", "mudarás", "mudabas"], "a": 1, "why": "النتيجة في المستقبل: ¿te mudarás?" }
+      ]
+    },
+    {
+      "id": "u10-l5",
+      "title_ar": "إعطاء النصائح",
+      "title_es": "Dar consejos",
+      "emoji": "💡",
+      "goal_ar": "ستتعلم في هذا الدرس إعطاء النصائح وطلبها باستخدام deberías وyo que tú وsería mejor.",
+      "explain": [
+        {
+          "h": "deberías + مصدر",
+          "p": "deberías هي صيغة الشرط من deber، ومعناها «ينبغي عليك». هي طريقة لطيفة لإعطاء نصيحة.",
+          "ex": [
+            ["Deberías descansar más.", "ينبغي عليك أن ترتاح أكثر."],
+            ["No deberías trabajar tantas horas.", "لا ينبغي عليك أن تعمل كل هذه الساعات."]
+          ]
+        },
+        {
+          "h": "yo que tú / yo en tu lugar",
+          "p": "نقول Yo que tú أو Yo en tu lugar (لو كنتُ مكانك) ثم فعلًا في الشرطي.",
+          "ex": [
+            ["Yo que tú, hablaría con el jefe.", "لو كنتُ مكانك، لتكلمتُ مع المدير."],
+            ["Yo en tu lugar, pediría un contrato por escrito.", "لو كنتُ مكانك، لطلبتُ عقدًا مكتوبًا."]
+          ]
+        },
+        {
+          "h": "sería mejor وpodrías",
+          "p": "Sería mejor + مصدر (سيكون من الأفضل)، وPodrías + مصدر (يمكنك أن...) لاقتراح حل.",
+          "ex": [
+            ["Sería mejor ir temprano.", "سيكون من الأفضل أن تذهب مبكرًا."],
+            ["Podrías preguntar en la oficina de empleo.", "يمكنك أن تسأل في مكتب التشغيل."]
+          ]
+        },
+        {
+          "h": "طلب النصيحة",
+          "p": "لطلب نصيحة نسأل: ¿Qué harías tú? (ماذا كنتَ ستفعل أنت؟) أو ¿Qué me aconsejas? (بماذا تنصحني؟).",
+          "ex": [
+            ["¿Qué harías tú en mi lugar?", "ماذا كنتَ ستفعل لو كنتَ مكاني؟"],
+            ["Yo buscaría otro trabajo.", "أنا كنتُ سأبحث عن عمل آخر."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "el consejo", "ar": "النصيحة", "e": "💡" },
+        { "es": "aconsejar", "ar": "ينصح", "e": "🗨️" },
+        { "es": "deberías", "ar": "ينبغي عليك", "e": "☝️" },
+        { "es": "yo que tú", "ar": "لو كنتُ مكانك", "e": "🫵" },
+        { "es": "sería mejor", "ar": "سيكون من الأفضل", "e": "👍" },
+        { "es": "¿qué harías?", "ar": "ماذا كنتَ ستفعل؟", "e": "🤔" },
+        { "es": "el contrato por escrito", "ar": "العقد المكتوب", "e": "📄" },
+        { "es": "las horas extra", "ar": "الساعات الإضافية", "e": "⏰" },
+        { "es": "el sindicato", "ar": "النقابة", "e": "✊" },
+        { "es": "la prueba", "ar": "الدليل", "e": "🔍" },
+        { "es": "descansar", "ar": "يرتاح", "e": "😴" },
+        { "es": "preocupado", "ar": "قلق", "e": "😟" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Estoy preocupado. Llevo tres meses trabajando sin contrato.", "ar": "أنا قلق. منذ ثلاثة أشهر وأنا أعمل بدون عقد." },
+        { "who": "B", "es": "Eso no está bien. Yo que tú, hablaría con el encargado.", "ar": "هذا ليس جيدًا. لو كنتُ مكانك، لتكلمتُ مع المسؤول." },
+        { "who": "A", "es": "Ya lo hice, pero no me hizo caso.", "ar": "فعلتُ ذلك، لكنه لم يهتم بكلامي." },
+        { "who": "B", "es": "Entonces deberías ir al sindicato. Allí te pueden ayudar.", "ar": "إذن ينبغي عليك أن تذهب إلى النقابة. هناك يمكنهم مساعدتك." },
+        { "who": "A", "es": "¿Y qué harías tú con las horas extra que no me pagan?", "ar": "وماذا كنتَ ستفعل أنت بالساعات الإضافية التي لا يدفعونها لي؟" },
+        { "who": "B", "es": "Yo en tu lugar, apuntaría todas las horas en una libreta. Sería mejor tener pruebas.", "ar": "لو كنتُ مكانك، لسجّلتُ كل الساعات في دفتر. سيكون من الأفضل أن يكون عندك دليل." }
+      ],
+      "quiz": [
+        { "q": "Estás muy cansado. ___ descansar más.", "o": ["Debiste", "Deberías", "Deberás"], "a": 1, "why": "للنصيحة نستعمل الشرطي: Deberías." },
+        { "q": "Yo que tú, ___ con el jefe.", "o": ["hablaba", "hablé", "hablaría"], "a": 2, "why": "بعد Yo que tú نستعمل الشرطي: hablaría." },
+        { "q": "ما معنى «Yo en tu lugar, pediría un contrato por escrito»؟", "o": ["لو كنتُ مكانك، لطلبتُ عقدًا مكتوبًا.", "أنا طلبتُ عقدًا مكتوبًا مكانك.", "سأطلب عقدًا مكتوبًا غدًا."], "a": 0, "why": "Yo en tu lugar = لو كنتُ مكانك، وpediría = لطلبتُ." },
+        { "q": "¿Qué ___ tú en mi situación?", "o": ["hacerías", "harías", "hacías"], "a": 1, "why": "hacer شاذ في الشرطي: haría، harías..." },
+        { "q": "أي جملة تُستعمل لإعطاء نصيحة؟", "o": ["Ayer trabajé mucho.", "Voy al trabajo en metro.", "Sería mejor ir temprano."], "a": 2, "why": "Sería mejor + مصدر طريقة لإعطاء نصيحة." }
+      ]
+    }
+  ]
+}

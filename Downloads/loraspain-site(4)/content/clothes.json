@@ -1,0 +1,477 @@
+{
+ "topic_id": "clothes",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "👕",
+   "es": "la camiseta",
+   "ar": "التيشيرت",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👖",
+   "es": "los pantalones",
+   "ar": "السروال",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👗",
+   "es": "el vestido",
+   "ar": "الفستان",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🧥",
+   "es": "el abrigo",
+   "ar": "المعطف",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🧦",
+   "es": "los calcetines",
+   "ar": "الجوارب",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "la camisa",
+   "ar": "القميص",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🩳",
+   "es": "los pantalones cortos",
+   "ar": "السروال القصير",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🩲",
+   "es": "la ropa interior",
+   "ar": "الملابس الداخلية",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🩱",
+   "es": "el bañador",
+   "ar": "لباس السباحة",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🦺",
+   "es": "el chaleco reflectante",
+   "ar": "السترة العاكسة",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧥",
+   "es": "la chaqueta",
+   "ar": "السترة",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🥼",
+   "es": "la bata",
+   "ar": "المئزر",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧶",
+   "es": "el jersey",
+   "ar": "الكنزة الصوفية",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧥",
+   "es": "Hace frío, ponte el abrigo.",
+   "ar": "الجو بارد، البس المعطف.",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "Esta camiseta está sucia.",
+   "ar": "هذا التيشيرت متسخ.",
+   "section": "الملابس"
+  },
+  {
+   "level": 2,
+   "emoji": "🧣",
+   "es": "Llevo una bufanda de lana.",
+   "ar": "ألبس وشاحا من الصوف.",
+   "section": "الملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🦺",
+   "es": "En esta obra es obligatorio llevar chaleco reflectante.",
+   "ar": "في ورشة البناء هذه ارتداء السترة العاكسة إلزامي.",
+   "section": "الملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "👖",
+   "es": "Estos pantalones me quedan largos; hay que cogerles el bajo.",
+   "ar": "هذا السروال طويل علي؛ يجب تقصيره.",
+   "section": "الملابس"
+  },
+  {
+   "level": 3,
+   "emoji": "🧤",
+   "es": "Para trabajar en el campo en invierno necesitas guantes y gorro.",
+   "ar": "للعمل في الحقل في الشتاء تحتاج إلى قفازات وقبعة صوفية.",
+   "section": "الملابس"
+  },
+  {
+   "level": 1,
+   "emoji": "👟",
+   "es": "las zapatillas",
+   "ar": "الحذاء الرياضي",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 1,
+   "emoji": "👞",
+   "es": "los zapatos",
+   "ar": "الحذاء",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 1,
+   "emoji": "👢",
+   "es": "las botas",
+   "ar": "الجزمة",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧢",
+   "es": "la gorra",
+   "ar": "القبعة",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 1,
+   "emoji": "👜",
+   "es": "el bolso",
+   "ar": "حقيبة اليد",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🕶️",
+   "es": "las gafas de sol",
+   "ar": "النظارات الشمسية",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 2,
+   "emoji": "⌚",
+   "es": "el reloj",
+   "ar": "ساعة اليد",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎒",
+   "es": "la mochila",
+   "ar": "حقيبة الظهر",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 2,
+   "emoji": "💍",
+   "es": "el anillo",
+   "ar": "الخاتم",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🥾",
+   "es": "las botas de seguridad",
+   "ar": "أحذية السلامة",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🌂",
+   "es": "el paraguas",
+   "ar": "المظلة",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 2,
+   "emoji": "🩴",
+   "es": "Las chanclas son para la playa.",
+   "ar": "النعال للشاطئ.",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 3,
+   "emoji": "👟",
+   "es": "Necesito unas zapatillas cómodas para trabajar de pie todo el día.",
+   "ar": "أحتاج حذاء رياضيا مريحا للعمل واقفا طوال اليوم.",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 3,
+   "emoji": "🕶️",
+   "es": "En verano, usa gorra y gafas de sol para protegerte del sol.",
+   "ar": "في الصيف، استعمل القبعة والنظارات الشمسية لتحمي نفسك من الشمس.",
+   "section": "الأحذية والإكسسوارات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏷️",
+   "es": "la talla",
+   "ar": "المقاس",
+   "section": "في المتجر"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el precio",
+   "ar": "السعر",
+   "section": "في المتجر"
+  },
+  {
+   "level": 1,
+   "emoji": "🪞",
+   "es": "el probador",
+   "ar": "غرفة القياس",
+   "section": "في المتجر"
+  },
+  {
+   "level": 1,
+   "emoji": "🔴",
+   "es": "rojo",
+   "ar": "أحمر",
+   "section": "في المتجر"
+  },
+  {
+   "level": 1,
+   "emoji": "🔵",
+   "es": "azul",
+   "ar": "أزرق",
+   "section": "في المتجر"
+  },
+  {
+   "level": 1,
+   "emoji": "⚫",
+   "es": "negro",
+   "ar": "أسود",
+   "section": "في المتجر"
+  },
+  {
+   "level": 1,
+   "emoji": "⚪",
+   "es": "blanco",
+   "ar": "أبيض",
+   "section": "في المتجر"
+  },
+  {
+   "level": 2,
+   "emoji": "👕",
+   "es": "¿Tiene una talla más grande?",
+   "ar": "هل لديك مقاس أكبر؟",
+   "section": "في المتجر"
+  },
+  {
+   "level": 2,
+   "emoji": "👗",
+   "es": "¿Puedo probármelo?",
+   "ar": "هل يمكنني تجربته؟",
+   "section": "في المتجر"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "las rebajas",
+   "ar": "التخفيضات",
+   "section": "في المتجر"
+  },
+  {
+   "level": 2,
+   "emoji": "👖",
+   "es": "Me queda pequeño.",
+   "ar": "إنه صغير علي.",
+   "section": "في المتجر"
+  },
+  {
+   "level": 2,
+   "emoji": "🟢",
+   "es": "¿Lo tiene en verde?",
+   "ar": "هل لديك هذا باللون الأخضر؟",
+   "section": "في المتجر"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Si quiere devolverlo, tiene que traer el ticket.",
+   "ar": "إذا أردت إرجاعه، يجب أن تحضر الوصل.",
+   "section": "في المتجر"
+  },
+  {
+   "level": 3,
+   "emoji": "👞",
+   "es": "¿Qué número calza?",
+   "ar": "ما مقاس حذائك؟",
+   "section": "في المتجر"
+  },
+  {
+   "level": 3,
+   "emoji": "🔄",
+   "es": "¿Se puede cambiar por otra talla?",
+   "ar": "هل يمكن تبديله بمقاس آخر؟",
+   "section": "في المتجر"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Todo está con un cincuenta por ciento de descuento.",
+   "ar": "كل شيء بتخفيض خمسين في المئة.",
+   "section": "في المتجر"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"los zapatos\"?",
+   "options": [
+    "الحذاء",
+    "الجوارب",
+    "القفازات"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"los zapatos\"؟",
+   "ar_exp": "\"los zapatos\" هي الحذاء."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el abrigo\"?",
+   "options": [
+    "القميص",
+    "المعطف",
+    "الفستان"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"el abrigo\"؟",
+   "ar_exp": "\"el abrigo\" هو المعطف الذي نلبسه في البرد."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"أسود\" en español?",
+   "options": [
+    "blanco",
+    "rojo",
+    "negro"
+   ],
+   "answer": 2,
+   "ar_q": "كيف نقول \"أسود\" بالإسبانية؟",
+   "ar_exp": "\"negro\" تعني أسود، و\"blanco\" تعني أبيض."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la talla\"?",
+   "options": [
+    "السعر",
+    "اللون",
+    "المقاس"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"la talla\"؟",
+   "ar_exp": "\"la talla\" هي مقاس الملابس مثل S أو M أو L."
+  },
+  {
+   "level": 2,
+   "q": "La camiseta te queda pequeña. ¿Qué preguntas?",
+   "options": [
+    "¿Tiene una talla más grande?",
+    "¿Cuánto cuesta?",
+    "¿Dónde está la salida?"
+   ],
+   "answer": 0,
+   "ar_q": "التيشيرت صغير عليك. ماذا تسأل؟",
+   "ar_exp": "\"¿Tiene una talla más grande?\" تعني \"هل لديك مقاس أكبر؟\"."
+  },
+  {
+   "level": 2,
+   "q": "¿Para qué sirve \"el probador\"?",
+   "options": [
+    "للدفع",
+    "لتجربة الملابس",
+    "لإرجاع الملابس"
+   ],
+   "answer": 1,
+   "ar_q": "ما فائدة \"el probador\"؟",
+   "ar_exp": "\"el probador\" غرفة صغيرة في المتجر تجرب فيها الملابس."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué son \"las rebajas\"?",
+   "options": [
+    "فترة التخفيضات في الأسعار",
+    "الملابس الجديدة",
+    "الملابس المستعملة"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي \"las rebajas\"؟",
+   "ar_exp": "\"las rebajas\" فترة تنخفض فيها أسعار الملابس في المتاجر."
+  },
+  {
+   "level": 2,
+   "q": "\"Me queda pequeño.\" ¿Qué significa?",
+   "options": [
+    "إنه كبير علي",
+    "إنه غال",
+    "إنه صغير علي"
+   ],
+   "answer": 2,
+   "ar_q": "\"Me queda pequeño.\" ما معناها؟",
+   "ar_exp": "\"me queda pequeño\" تعني أن مقاسه أصغر من مقاسي."
+  },
+  {
+   "level": 3,
+   "q": "\"Si quiere devolverlo, tiene que traer el ticket.\" ¿Qué necesitas para devolver la ropa?",
+   "options": [
+    "بطاقة الإقامة",
+    "وصل الشراء",
+    "الكيس"
+   ],
+   "answer": 1,
+   "ar_q": "\"Si quiere devolverlo, tiene que traer el ticket.\" ماذا تحتاج لإرجاع الملابس؟",
+   "ar_exp": "\"el ticket\" هو وصل الشراء، ويُطلب عادة لإرجاع المنتج."
+  },
+  {
+   "level": 3,
+   "q": "En la zapatería te preguntan: \"¿Qué número calza?\" ¿Qué quieren saber?",
+   "options": [
+    "مقاس حذائك",
+    "رقم هاتفك",
+    "عدد الأحذية التي تريدها"
+   ],
+   "answer": 0,
+   "ar_q": "في محل الأحذية يسألونك: \"¿Qué número calza?\" ماذا يريدون أن يعرفوا؟",
+   "ar_exp": "\"calzar\" تعني لبس الحذاء، و\"número\" هنا مقاس الحذاء."
+  }
+ ]
+}

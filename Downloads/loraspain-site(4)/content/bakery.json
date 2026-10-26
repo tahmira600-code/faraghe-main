@@ -1,0 +1,477 @@
+{
+ "topic_id": "bakery",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🥖",
+   "es": "la barra de pan",
+   "ar": "رغيف الخبز الطويل",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍞",
+   "es": "el pan de molde",
+   "ar": "خبز القالب (التوست)",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥐",
+   "es": "el cruasán",
+   "ar": "الكرواسون",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍩",
+   "es": "la rosquilla",
+   "ar": "الكعكة الحلقية",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🎂",
+   "es": "la tarta",
+   "ar": "الكعكة (التورتة)",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍪",
+   "es": "la galleta",
+   "ar": "البسكويت",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧁",
+   "es": "la magdalena",
+   "ar": "الكعكة الصغيرة (المادلين)",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌾",
+   "es": "la harina",
+   "ar": "الدقيق",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🧂",
+   "es": "la sal",
+   "ar": "الملح",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🫙",
+   "es": "la levadura",
+   "ar": "الخميرة",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🥚",
+   "es": "el huevo",
+   "ar": "البيضة",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🧈",
+   "es": "la mantequilla",
+   "ar": "الزبدة",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🍬",
+   "es": "el azúcar",
+   "ar": "السكر",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "el horno",
+   "ar": "الفرن",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "⚙️",
+   "es": "la amasadora",
+   "ar": "آلة العجن",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🥣",
+   "es": "la masa",
+   "ar": "العجين",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🍽️",
+   "es": "la bandeja",
+   "ar": "الصينية",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 1,
+   "emoji": "🪙",
+   "es": "el cambio",
+   "ar": "الباقي (الصرف)",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🛍️",
+   "es": "la bolsa",
+   "ar": "الكيس",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "🌙",
+   "es": "el turno de madrugada",
+   "ar": "نوبة الفجر",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 2,
+   "emoji": "🥖",
+   "es": "¿Me da una barra, por favor?",
+   "ar": "هل تعطيني رغيفاً من فضلك؟",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🥖",
+   "es": "¿La quiere muy hecha o poco hecha?",
+   "ar": "هل تريده محمّصاً جيداً أم قليل التحميص؟",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🔪",
+   "es": "¿Se lo corto en rebanadas?",
+   "ar": "هل أقطعه لك شرائح؟",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Aquí tiene su cambio.",
+   "ar": "تفضّل الباقي.",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🙋",
+   "es": "¿Quién es el siguiente?",
+   "ar": "من التالي؟",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Coloca los precios en el escaparate.",
+   "ar": "ضع الأسعار في الواجهة.",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🥐",
+   "es": "Quedan pocos cruasanes.",
+   "ar": "بقي القليل من الكرواسون.",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 2,
+   "emoji": "🎂",
+   "es": "Este pastel lleva nata.",
+   "ar": "هذه الحلوى فيها قشدة.",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 2,
+   "emoji": "🥜",
+   "es": "¿Este bollo lleva frutos secos?",
+   "ar": "هل تحتوي هذه الكعكة على مكسّرات؟",
+   "section": "الخبز والحلويات"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "Pesa la harina con cuidado.",
+   "ar": "زِن الدقيق بعناية.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 2,
+   "emoji": "🥣",
+   "es": "Deja reposar la masa una hora.",
+   "ar": "اترك العجين يرتاح ساعة.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 2,
+   "emoji": "🔥",
+   "es": "Enciende el horno a las cinco.",
+   "ar": "أشعل الفرن على الساعة الخامسة.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 2,
+   "emoji": "🌡️",
+   "es": "El horno ya está caliente.",
+   "ar": "الفرن ساخن الآن.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 2,
+   "emoji": "🍞",
+   "es": "Saca el pan del horno.",
+   "ar": "أخرج الخبز من الفرن.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Usa las manoplas para no quemarte.",
+   "ar": "استعمل قفازات الفرن حتى لا تحترق.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Barre el obrador al terminar.",
+   "ar": "اكنس مكان التحضير عند الانتهاء.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 2,
+   "emoji": "🧽",
+   "es": "Lava las bandejas.",
+   "ar": "اغسل الصواني.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 2,
+   "emoji": "🧢",
+   "es": "Ponte el gorro.",
+   "ar": "البس القبعة.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "Informa al cliente de los alérgenos de cada producto.",
+   "ar": "أخبر الزبون بمسبّبات الحساسية في كل منتج.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 3,
+   "emoji": "🌾",
+   "es": "El gluten está en la harina de trigo.",
+   "ar": "الغلوتين موجود في دقيق القمح.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 3,
+   "emoji": "⏳",
+   "es": "Hay que dejar fermentar la masa antes de formar las barras.",
+   "ar": "يجب ترك العجين يتخمّر قبل تشكيل الأرغفة.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 3,
+   "emoji": "❄️",
+   "es": "La masa congelada se guarda en el arcón congelador.",
+   "ar": "يُحفظ العجين المجمّد في صندوق التجميد.",
+   "section": "الفرن والعجن"
+  },
+  {
+   "level": 3,
+   "emoji": "🍞",
+   "es": "El pan del día anterior se vende más barato.",
+   "ar": "يُباع خبز اليوم السابق بسعر أرخص.",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "📅",
+   "es": "¿Para cuándo quiere el encargo de la tarta?",
+   "ar": "متى تريد طلبية الكعكة؟",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "💳",
+   "es": "¿Va a pagar con tarjeta o en efectivo?",
+   "ar": "هل ستدفع بالبطاقة أم نقداً؟",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Este producto no contiene gluten ni lactosa.",
+   "ar": "هذا المنتج لا يحتوي على الغلوتين ولا على اللاكتوز.",
+   "section": "البيع للزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🛡️",
+   "es": "Mantén separados los productos sin gluten para evitar la contaminación.",
+   "ar": "احفظ المنتجات الخالية من الغلوتين منفصلة لتجنّب التلوّث.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 3,
+   "emoji": "⏰",
+   "es": "Entramos a las cuatro de la madrugada para tener el pan listo a las siete.",
+   "ar": "ندخل على الساعة الرابعة فجراً ليكون الخبز جاهزاً على السابعة.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 3,
+   "emoji": "🧼",
+   "es": "Limpia y desinfecta las superficies de trabajo cada día.",
+   "ar": "نظّف وعقّم أسطح العمل كل يوم.",
+   "section": "النظافة والتنظيم"
+  },
+  {
+   "level": 3,
+   "emoji": "🚪",
+   "es": "Ten cuidado con la puerta del horno, que quema mucho.",
+   "ar": "احذر من باب الفرن فهو يحرق كثيراً.",
+   "section": "الفرن والعجن"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la harina»?",
+   "options": [
+    "السكر",
+    "الدقيق",
+    "الملح"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la harina»؟",
+   "ar_exp": "«la harina» هي الدقيق الذي يُصنع منه الخبز."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el horno»?",
+   "options": [
+    "الفرن",
+    "الصينية",
+    "آلة العجن"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el horno»؟",
+   "ar_exp": "«el horno» هو الفرن الذي يُخبز فيه الخبز."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la levadura»?",
+   "options": [
+    "الزبدة",
+    "البيضة",
+    "الخميرة"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la levadura»؟",
+   "ar_exp": "«la levadura» هي الخميرة التي تجعل العجين ينتفخ."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la masa»?",
+   "options": [
+    "العجين",
+    "الكيس",
+    "الكعكة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la masa»؟",
+   "ar_exp": "«la masa» هي العجين قبل الخَبز."
+  },
+  {
+   "level": 2,
+   "q": "Un cliente quiere pan para hacer tostadas en casa. ¿Qué le ofreces?",
+   "options": [
+    "Una tarta.",
+    "Pan de molde.",
+    "Una galleta."
+   ],
+   "answer": 1,
+   "ar_q": "زبون يريد خبزاً لتحميصه في البيت. ماذا تقترح عليه؟",
+   "ar_exp": "«el pan de molde» هو خبز التوست المناسب للتحميص."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Deja reposar la masa»?",
+   "options": [
+    "اخبز العجين فوراً",
+    "أضف الماء إلى العجين",
+    "اترك العجين يرتاح"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «Deja reposar la masa»؟",
+   "ar_exp": "«reposar» يعني أن تترك العجين يرتاح دون أن تلمسه."
+  },
+  {
+   "level": 2,
+   "q": "Das el dinero que sobra al cliente. ¿Qué dices?",
+   "options": [
+    "Aquí tiene su cambio.",
+    "¿Quién es el siguiente?",
+    "Ponte el gorro."
+   ],
+   "answer": 0,
+   "ar_q": "تعطي الزبون المال الزائد. ماذا تقول؟",
+   "ar_exp": "«Aquí tiene su cambio» تعني: تفضّل الباقي."
+  },
+  {
+   "level": 3,
+   "q": "Un cliente pregunta si un bollo tiene frutos secos. ¿Por qué es importante responder bien?",
+   "options": [
+    "لأن السعر يتغيّر",
+    "لأن بعض الناس عندهم حساسية من المكسّرات",
+    "لأن الكعكة تصبح باردة"
+   ],
+   "answer": 1,
+   "ar_q": "زبون يسأل هل في الكعكة مكسّرات. لماذا يجب الإجابة بدقة؟",
+   "ar_exp": "المكسّرات من مسبّبات الحساسية، والخطأ قد يضرّ بصحة الزبون."
+  },
+  {
+   "level": 3,
+   "q": "¿Dónde está el gluten?",
+   "options": [
+    "En el azúcar.",
+    "En la sal.",
+    "En la harina de trigo."
+   ],
+   "answer": 2,
+   "ar_q": "أين يوجد الغلوتين؟",
+   "ar_exp": "الغلوتين موجود في دقيق القمح."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «el encargo de la tarta»?",
+   "options": [
+    "طلبية الكعكة المحجوزة مسبقاً",
+    "وصفة الكعكة",
+    "ثمن الكعكة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el encargo de la tarta»؟",
+   "ar_exp": "«el encargo» هو طلبية يحجزها الزبون مسبقاً ليأخذها لاحقاً."
+  }
+ ]
+}

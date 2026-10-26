@@ -1,0 +1,477 @@
+{
+ "topic_id": "factory",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🏭",
+   "es": "la fábrica",
+   "ar": "المصنع",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 1,
+   "emoji": "📦",
+   "es": "la caja",
+   "ar": "الصندوق",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 1,
+   "emoji": "🏷️",
+   "es": "la etiqueta",
+   "ar": "الملصق",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 1,
+   "emoji": "🧩",
+   "es": "la pieza",
+   "ar": "القطعة",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 1,
+   "emoji": "⏩",
+   "es": "la línea de producción",
+   "ar": "خط الإنتاج",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 1,
+   "emoji": "⚙️",
+   "es": "la máquina",
+   "ar": "الآلة",
+   "section": "الآلات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛤️",
+   "es": "la cinta transportadora",
+   "ar": "الحزام الناقل",
+   "section": "الآلات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔘",
+   "es": "el botón",
+   "ar": "الزرّ",
+   "section": "الآلات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔧",
+   "es": "la herramienta",
+   "ar": "الأداة",
+   "section": "الآلات"
+  },
+  {
+   "level": 1,
+   "emoji": "✅",
+   "es": "el control de calidad",
+   "ar": "مراقبة الجودة",
+   "section": "الجودة"
+  },
+  {
+   "level": 1,
+   "emoji": "❌",
+   "es": "el defecto",
+   "ar": "العيب",
+   "section": "الجودة"
+  },
+  {
+   "level": 1,
+   "emoji": "🦺",
+   "es": "el chaleco reflectante",
+   "ar": "السترة العاكسة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥽",
+   "es": "las gafas de protección",
+   "ar": "نظارات الحماية",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🎧",
+   "es": "los tapones para los oídos",
+   "ar": "سدادات الأذنين",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥾",
+   "es": "las botas de seguridad",
+   "ar": "أحذية السلامة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "⛑️",
+   "es": "el casco",
+   "ar": "الخوذة",
+   "section": "السلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🕐",
+   "es": "el turno",
+   "ar": "النوبة",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 1,
+   "emoji": "⏰",
+   "es": "el fichaje",
+   "ar": "تسجيل الحضور",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 1,
+   "emoji": "👷",
+   "es": "el operario",
+   "ar": "العامل",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 1,
+   "emoji": "➕",
+   "es": "las horas extra",
+   "ar": "الساعات الإضافية",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🟢",
+   "es": "Enciende la máquina.",
+   "ar": "شغّل الآلة.",
+   "section": "الآلات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛑",
+   "es": "Para la máquina.",
+   "ar": "أوقف الآلة.",
+   "section": "الآلات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔊",
+   "es": "La máquina hace un ruido raro.",
+   "ar": "الآلة تُصدر صوتاً غريباً.",
+   "section": "الآلات"
+  },
+  {
+   "level": 2,
+   "emoji": "📦",
+   "es": "Mete diez piezas en cada caja.",
+   "ar": "ضع عشر قطع في كل صندوق.",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 2,
+   "emoji": "🏷️",
+   "es": "Pega la etiqueta en la caja.",
+   "ar": "الصق الملصق على الصندوق.",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 2,
+   "emoji": "⏩",
+   "es": "La línea va muy rápida.",
+   "ar": "الخطّ يسير بسرعة كبيرة.",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 2,
+   "emoji": "🔢",
+   "es": "Cuenta las piezas.",
+   "ar": "عُدّ القطع.",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 2,
+   "emoji": "❌",
+   "es": "Esta pieza tiene un defecto.",
+   "ar": "هذه القطعة فيها عيب.",
+   "section": "الجودة"
+  },
+  {
+   "level": 2,
+   "emoji": "🗑️",
+   "es": "Aparta las piezas defectuosas.",
+   "ar": "ضع القطع المعيبة جانباً.",
+   "section": "الجودة"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Mide la pieza con el calibre.",
+   "ar": "قِس القطعة بالقدم القنوية.",
+   "section": "الجودة"
+  },
+  {
+   "level": 2,
+   "emoji": "🥽",
+   "es": "Ponte las gafas de protección.",
+   "ar": "البس نظارات الحماية.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🎧",
+   "es": "Aquí hay mucho ruido, ponte los tapones.",
+   "ar": "هنا ضجيج كثير، البس سدادات الأذنين.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚧",
+   "es": "No pases por la zona de las carretillas.",
+   "ar": "لا تمرّ من منطقة الرافعات الشوكية.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧹",
+   "es": "Limpia tu puesto de trabajo.",
+   "ar": "نظّف مكان عملك.",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🌅",
+   "es": "Esta semana tengo turno de mañana.",
+   "ar": "هذا الأسبوع عندي نوبة الصباح.",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "No te olvides de fichar.",
+   "ar": "لا تنسَ تسجيل الحضور.",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 2,
+   "emoji": "☕",
+   "es": "El descanso es de quince minutos.",
+   "ar": "الاستراحة خمس عشرة دقيقة.",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 2,
+   "emoji": "👷",
+   "es": "Pregunta al jefe de línea.",
+   "ar": "اسأل رئيس الخط.",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 3,
+   "emoji": "🔒",
+   "es": "Antes de reparar la máquina, desconéctala y bloquéala.",
+   "ar": "قبل إصلاح الآلة، افصلها عن الطاقة وأقفلها.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🛑",
+   "es": "En caso de peligro, pulsa la seta de emergencia.",
+   "ar": "في حالة الخطر، اضغط زرّ التوقف الطارئ.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "✋",
+   "es": "Nunca metas la mano en una máquina en marcha.",
+   "ar": "لا تُدخل يدك أبداً في آلة وهي تعمل.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🛡️",
+   "es": "No quites las protecciones de la máquina.",
+   "ar": "لا تنزع الحواجز الواقية للآلة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧯",
+   "es": "Los productos químicos se guardan en el armario de seguridad.",
+   "ar": "تُحفظ المواد الكيميائية في خزانة السلامة.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "📋",
+   "es": "Anota las incidencias en la hoja de producción.",
+   "ar": "سجّل المشاكل في ورقة الإنتاج.",
+   "section": "الجودة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "Calidad ha bloqueado el lote por un fallo en el envasado.",
+   "ar": "قسم الجودة أوقف الدفعة بسبب خلل في التعبئة.",
+   "section": "الجودة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧾",
+   "es": "Cada lote lleva un número para poder rastrearlo.",
+   "ar": "كل دفعة تحمل رقماً لتتبّعها.",
+   "section": "الجودة"
+  },
+  {
+   "level": 3,
+   "emoji": "📈",
+   "es": "Hoy tenemos que llegar a dos mil unidades.",
+   "ar": "اليوم يجب أن نصل إلى ألفي وحدة.",
+   "section": "خط الإنتاج"
+  },
+  {
+   "level": 3,
+   "emoji": "🔄",
+   "es": "Trabajamos a turnos rotativos: mañana, tarde y noche.",
+   "ar": "نعمل بنوبات متناوبة: صباحاً ومساءً وليلاً.",
+   "section": "التنظيم والنوبات"
+  },
+  {
+   "level": 3,
+   "emoji": "📞",
+   "es": "Si la línea se atasca, avisa a mantenimiento.",
+   "ar": "إذا انسدّ الخطّ وتوقّف، أبلغ قسم الصيانة.",
+   "section": "الآلات"
+  },
+  {
+   "level": 3,
+   "emoji": "🛠️",
+   "es": "El técnico de mantenimiento revisa las máquinas cada semana.",
+   "ar": "تقني الصيانة يفحص الآلات كل أسبوع.",
+   "section": "الآلات"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la pieza»?",
+   "options": [
+    "الآلة",
+    "القطعة",
+    "الصندوق"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la pieza»؟",
+   "ar_exp": "«la pieza» هي القطعة التي تُصنع أو تُركّب في المصنع."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el turno»?",
+   "options": [
+    "النوبة",
+    "الاستراحة",
+    "الراتب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el turno»؟",
+   "ar_exp": "«el turno» هي النوبة أي فترة العمل (صباح، مساء، ليل)."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el defecto»?",
+   "options": [
+    "الملصق",
+    "الزرّ",
+    "العيب"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el defecto»؟",
+   "ar_exp": "«el defecto» هو العيب أو الخلل في القطعة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la cinta transportadora»?",
+   "options": [
+    "الحزام الناقل",
+    "السترة العاكسة",
+    "الشريط اللاصق"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la cinta transportadora»؟",
+   "ar_exp": "«la cinta transportadora» هو الحزام الذي ينقل المنتجات على خطّ الإنتاج."
+  },
+  {
+   "level": 2,
+   "q": "Tu jefe dice: «No te olvides de fichar». ¿Qué haces?",
+   "options": [
+    "أنظّف الآلة.",
+    "أسجّل حضوري أو خروجي.",
+    "أعدّ القطع."
+   ],
+   "answer": 1,
+   "ar_q": "يقول لك رئيسك: «No te olvides de fichar». ماذا تفعل؟",
+   "ar_exp": "«fichar» يعني تسجيل ساعة الدخول أو الخروج."
+  },
+  {
+   "level": 2,
+   "q": "Encuentras una pieza rota. ¿Qué haces?",
+   "options": [
+    "La meto en la caja.",
+    "La escondo.",
+    "La aparto como defectuosa."
+   ],
+   "answer": 2,
+   "ar_q": "تجد قطعة مكسورة. ماذا تفعل؟",
+   "ar_exp": "القطع المعيبة توضع جانباً ولا تُعبّأ مع القطع الجيدة."
+  },
+  {
+   "level": 2,
+   "q": "Hay mucho ruido en la nave. ¿Qué te pones?",
+   "options": [
+    "Los tapones para los oídos.",
+    "El chaleco reflectante.",
+    "Las botas de seguridad."
+   ],
+   "answer": 0,
+   "ar_q": "يوجد ضجيج كثير في القاعة. ماذا تلبس؟",
+   "ar_exp": "سدادات الأذنين تحمي سمعك من الضجيج."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué haces antes de reparar una máquina?",
+   "options": [
+    "أتركها تعمل ببطء.",
+    "أفصلها عن الطاقة وأقفلها.",
+    "أنزع الحواجز الواقية."
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تفعل قبل إصلاح آلة؟",
+   "ar_exp": "يجب فصل الآلة عن الطاقة وإقفالها حتى لا يشغّلها أحد أثناء الإصلاح."
+  },
+  {
+   "level": 3,
+   "q": "¿Para qué sirve la seta de emergencia?",
+   "options": [
+    "لتشغيل الآلة",
+    "لتسجيل الحضور",
+    "لإيقاف الآلة فوراً عند الخطر"
+   ],
+   "answer": 2,
+   "ar_q": "ما فائدة «la seta de emergencia»؟",
+   "ar_exp": "«la seta de emergencia» زرّ أحمر كبير يوقف الآلة فوراً عند الخطر."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «turnos rotativos»?",
+   "options": [
+    "نوبات تتغيّر بالتناوب",
+    "عمل في عطلة نهاية الأسبوع فقط",
+    "عمل بدون استراحة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «turnos rotativos»؟",
+   "ar_exp": "«turnos rotativos» تعني أن النوبة تتغيّر بالتناوب: صباحاً ثم مساءً ثم ليلاً."
+  }
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "topic_id": "electric",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "⚡",
+   "es": "la electricidad",
+   "ar": "الكهرباء",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 1,
+   "emoji": "🔌",
+   "es": "el enchufe",
+   "ar": "المقبس",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 1,
+   "emoji": "💡",
+   "es": "la bombilla",
+   "ar": "المصباح الكهربائي",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 1,
+   "emoji": "🎚️",
+   "es": "el interruptor",
+   "ar": "مفتاح الكهرباء",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 1,
+   "emoji": "➰",
+   "es": "el cable",
+   "ar": "السلك",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 1,
+   "emoji": "🗄️",
+   "es": "el cuadro eléctrico",
+   "ar": "لوحة الكهرباء",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 1,
+   "emoji": "🚰",
+   "es": "el grifo",
+   "ar": "الصنبور",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "la ducha",
+   "ar": "الدوش",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚽",
+   "es": "el inodoro",
+   "ar": "المرحاض",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🛁",
+   "es": "la bañera",
+   "ar": "حوض الاستحمام",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪠",
+   "es": "el desatascador",
+   "ar": "أداة تسليك المجاري",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔩",
+   "es": "la tubería",
+   "ar": "الأنبوب",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "la fuga",
+   "ar": "التسرّب",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "el calentador",
+   "ar": "سخّان الماء",
+   "section": "السباكة"
+  },
+  {
+   "level": 1,
+   "emoji": "🪜",
+   "es": "la escalera",
+   "ar": "السلّم",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪛",
+   "es": "el destornillador",
+   "ar": "المفكّ",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🔧",
+   "es": "la llave inglesa",
+   "ar": "المفتاح الإنجليزي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🗜️",
+   "es": "los alicates",
+   "ar": "الكمّاشة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "📏",
+   "es": "el metro",
+   "ar": "المتر",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes aislantes",
+   "ar": "القفازات العازلة",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌑",
+   "es": "Se ha ido la luz en toda la casa.",
+   "ar": "انقطعت الكهرباء في كل البيت.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 2,
+   "emoji": "💡",
+   "es": "Cambia la bombilla del pasillo.",
+   "ar": "غيّر مصباح الممر.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 2,
+   "emoji": "🔌",
+   "es": "Este enchufe no funciona.",
+   "ar": "هذا المقبس لا يعمل.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 2,
+   "emoji": "➰",
+   "es": "Pasa el cable por el tubo.",
+   "ar": "مرّر السلك عبر الأنبوب.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 2,
+   "emoji": "🎚️",
+   "es": "Instala un interruptor nuevo.",
+   "ar": "ركّب مفتاح كهرباء جديداً.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 2,
+   "emoji": "🚰",
+   "es": "El grifo gotea.",
+   "ar": "الصنبور يقطر.",
+   "section": "السباكة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚽",
+   "es": "El váter está atascado.",
+   "ar": "المرحاض مسدود.",
+   "section": "السباكة"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "Hay una fuga debajo del fregadero.",
+   "ar": "يوجد تسرّب تحت مغسلة المطبخ.",
+   "section": "السباكة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔒",
+   "es": "Cierra la llave de paso del agua.",
+   "ar": "أغلق صمّام الماء الرئيسي.",
+   "section": "السباكة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚿",
+   "es": "No sale agua caliente.",
+   "ar": "لا يخرج الماء الساخن.",
+   "section": "السباكة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔩",
+   "es": "Aprieta la tuerca.",
+   "ar": "شدّ الصامولة.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🪛",
+   "es": "Pásame el destornillador de estrella.",
+   "ar": "ناولني المفكّ المصلّب.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "📏",
+   "es": "Mide la pared.",
+   "ar": "قِس الجدار.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🔦",
+   "es": "Trae la linterna, no se ve nada.",
+   "ar": "أحضر المصباح اليدوي، لا يُرى شيء.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🪜",
+   "es": "Sujeta la escalera, por favor.",
+   "ar": "أمسك السلّم من فضلك.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "⚠️",
+   "es": "No toques los cables con las manos mojadas.",
+   "ar": "لا تلمس الأسلاك بيدين مبلّلتين.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Ponte los guantes antes de empezar.",
+   "ar": "البس القفازات قبل أن تبدأ.",
+   "section": "السلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔌",
+   "es": "Desenchufa la máquina antes de limpiarla.",
+   "ar": "افصل الآلة عن الكهرباء قبل تنظيفها.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "⚡",
+   "es": "Ha saltado el diferencial; puede haber una derivación.",
+   "ar": "فصل القاطع التفاضلي؛ قد يكون هناك تسرّب كهربائي.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 3,
+   "emoji": "🗄️",
+   "es": "Baja el interruptor general antes de trabajar en el cuadro.",
+   "ar": "أنزل القاطع الرئيسي قبل العمل في لوحة الكهرباء.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔍",
+   "es": "Comprueba con el comprobador de tensión que no hay corriente.",
+   "ar": "تحقّق بجهاز كشف الجهد من عدم وجود تيار.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🟢",
+   "es": "El cable de tierra es de color amarillo y verde.",
+   "ar": "سلك التأريض لونه أصفر وأخضر.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 3,
+   "emoji": "🔵",
+   "es": "El cable neutro es de color azul.",
+   "ar": "السلك المحايد لونه أزرق.",
+   "section": "الكهرباء"
+  },
+  {
+   "level": 3,
+   "emoji": "📜",
+   "es": "La instalación debe cumplir el Reglamento Electrotécnico de Baja Tensión.",
+   "ar": "يجب أن يحترم التركيب اللائحة الكهروتقنية للجهد المنخفض.",
+   "section": "السلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔨",
+   "es": "Hay que picar la pared para cambiar la tubería.",
+   "ar": "يجب تكسير الجدار لتغيير الأنبوب.",
+   "section": "السباكة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏢",
+   "es": "La humedad del techo viene de una fuga del piso de arriba.",
+   "ar": "الرطوبة في السقف سببها تسرّب من الشقة العلوية.",
+   "section": "السباكة"
+  },
+  {
+   "level": 3,
+   "emoji": "⬇️",
+   "es": "La bajante del edificio está obstruida.",
+   "ar": "أنبوب الصرف العمودي للعمارة مسدود.",
+   "section": "السباكة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔧",
+   "es": "Sella la rosca con teflón para que no gotee.",
+   "ar": "أحكم اللولب بشريط التفلون حتى لا يقطر.",
+   "section": "السباكة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔥",
+   "es": "El calentador de gas necesita una revisión periódica.",
+   "ar": "يحتاج سخّان الغاز إلى فحص دوري.",
+   "section": "السباكة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚫",
+   "es": "No sobrecargues el enchufe con demasiados aparatos.",
+   "ar": "لا تحمّل المقبس فوق طاقته بأجهزة كثيرة.",
+   "section": "السلامة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el enchufe»?",
+   "options": [
+    "المصباح",
+    "المقبس",
+    "السلك"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el enchufe»؟",
+   "ar_exp": "«el enchufe» هو المقبس الذي نوصل فيه الأجهزة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el grifo»?",
+   "options": [
+    "الصنبور",
+    "الدوش",
+    "الأنبوب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el grifo»؟",
+   "ar_exp": "«el grifo» هو الصنبور الذي يخرج منه الماء."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la fuga»?",
+   "options": [
+    "الأنبوب",
+    "السخّان",
+    "التسرّب"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la fuga»؟",
+   "ar_exp": "«la fuga» هي تسرّب الماء أو الغاز."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la bombilla»?",
+   "options": [
+    "المصباح الكهربائي",
+    "مفتاح الكهرباء",
+    "الكمّاشة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la bombilla»؟",
+   "ar_exp": "«la bombilla» هي المصباح الكهربائي."
+  },
+  {
+   "level": 2,
+   "q": "Hay agua por todo el suelo de la cocina. ¿Qué haces primero?",
+   "options": [
+    "Cambio la bombilla.",
+    "Cierro la llave de paso del agua.",
+    "Abro el grifo."
+   ],
+   "answer": 1,
+   "ar_q": "يوجد ماء على كل أرضية المطبخ. ماذا تفعل أولاً؟",
+   "ar_exp": "أولاً تغلق صمّام الماء الرئيسي «la llave de paso» لإيقاف التسرّب."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «El váter está atascado»?",
+   "options": [
+    "المرحاض مكسور",
+    "المرحاض نظيف",
+    "المرحاض مسدود"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «El váter está atascado»؟",
+   "ar_exp": "«atascado» يعني مسدوداً لا يمرّ فيه الماء."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Desenchufa la máquina»?",
+   "options": [
+    "افصل الآلة عن الكهرباء",
+    "شغّل الآلة",
+    "نظّف الآلة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Desenchufa la máquina»؟",
+   "ar_exp": "«desenchufar» يعني نزع القابس من المقبس وفصل الكهرباء."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué haces antes de trabajar en el cuadro eléctrico?",
+   "options": [
+    "أشغّل كل الأضواء.",
+    "أنزل القاطع الرئيسي وأتحقّق من عدم وجود تيار.",
+    "أبلّل يدي."
+   ],
+   "answer": 1,
+   "ar_q": "ماذا تفعل قبل العمل في لوحة الكهرباء؟",
+   "ar_exp": "يجب قطع الكهرباء بالقاطع الرئيسي والتأكّد من غياب التيار قبل العمل."
+  },
+  {
+   "level": 3,
+   "q": "¿De qué color es el cable de tierra?",
+   "options": [
+    "Azul.",
+    "Marrón.",
+    "Amarillo y verde."
+   ],
+   "answer": 2,
+   "ar_q": "ما لون سلك التأريض؟",
+   "ar_exp": "سلك التأريض لونه أصفر وأخضر."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «Ha saltado el diferencial»?",
+   "options": [
+    "فصل القاطع التفاضلي وانقطع التيار",
+    "انفجر سخّان الماء",
+    "تسرّب الماء من الأنبوب"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Ha saltado el diferencial»؟",
+   "ar_exp": "«el diferencial» قاطع يفصل التيار تلقائياً عند وجود تسرّب كهربائي لحماية الناس."
+  }
+ ]
+}

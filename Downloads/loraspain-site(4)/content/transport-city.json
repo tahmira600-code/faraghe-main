@@ -1,0 +1,571 @@
+{
+ "topic_id": "transport-city",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🚌",
+   "es": "el autobús",
+   "ar": "الحافلة",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚆",
+   "es": "el tren",
+   "ar": "القطار",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚇",
+   "es": "el metro",
+   "ar": "المترو",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "✈️",
+   "es": "el avión",
+   "ar": "الطائرة",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚢",
+   "es": "el barco",
+   "ar": "السفينة",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚲",
+   "es": "la bici",
+   "ar": "الدراجة الهوائية",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚕",
+   "es": "el taxi",
+   "ar": "سيارة الأجرة",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🏍️",
+   "es": "la moto",
+   "ar": "الدراجة النارية",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚚",
+   "es": "el camión",
+   "ar": "الشاحنة",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚐",
+   "es": "la furgoneta",
+   "ar": "الشاحنة الصغيرة",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚊",
+   "es": "el tranvía",
+   "ar": "الترامواي",
+   "section": "المركبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🛴",
+   "es": "el patinete eléctrico",
+   "ar": "السكوتر الكهربائي",
+   "section": "المركبات"
+  },
+  {
+   "level": 2,
+   "emoji": "⛴️",
+   "es": "el ferri",
+   "ar": "العبّارة",
+   "section": "المركبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "Voy al trabajo en coche.",
+   "ar": "أذهب إلى العمل بالسيارة.",
+   "section": "المركبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚶",
+   "es": "Voy andando.",
+   "ar": "أذهب مشيا.",
+   "section": "المركبات"
+  },
+  {
+   "level": 2,
+   "emoji": "🚑",
+   "es": "la ambulancia",
+   "ar": "سيارة الإسعاف",
+   "section": "المركبات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚌",
+   "es": "El autobús interurbano une el pueblo con la ciudad.",
+   "ar": "الحافلة بين المدن تربط القرية بالمدينة.",
+   "section": "المركبات"
+  },
+  {
+   "level": 3,
+   "emoji": "🚆",
+   "es": "El tren de cercanías conecta la ciudad con los pueblos de alrededor.",
+   "ar": "قطار الضواحي يربط المدينة بالقرى المحيطة بها.",
+   "section": "المركبات"
+  },
+  {
+   "level": 1,
+   "emoji": "🎫",
+   "es": "el billete",
+   "ar": "التذكرة",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🚉",
+   "es": "la estación",
+   "ar": "المحطة",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🛤️",
+   "es": "el andén",
+   "ar": "رصيف المحطة",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🚏",
+   "es": "la parada",
+   "ar": "موقف الحافلة",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🕒",
+   "es": "el horario",
+   "ar": "جدول المواعيد",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🛫",
+   "es": "el aeropuerto",
+   "ar": "المطار",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🧳",
+   "es": "la maleta",
+   "ar": "الحقيبة",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 2,
+   "emoji": "🎟️",
+   "es": "el billete de ida y vuelta",
+   "ar": "تذكرة ذهاب وعودة",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 2,
+   "emoji": "🎫",
+   "es": "el billete de ida",
+   "ar": "تذكرة ذهاب فقط",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 2,
+   "emoji": "💳",
+   "es": "el abono de transporte",
+   "ar": "اشتراك النقل",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 2,
+   "emoji": "💺",
+   "es": "el asiento",
+   "ar": "المقعد",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 2,
+   "emoji": "🎫",
+   "es": "la taquilla",
+   "ar": "شباك التذاكر",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 2,
+   "emoji": "🚪",
+   "es": "la salida",
+   "ar": "المخرج",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 3,
+   "emoji": "🚆",
+   "es": "El tren con destino a Madrid sale del andén tres.",
+   "ar": "القطار المتجه إلى مدريد ينطلق من الرصيف رقم ثلاثة.",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 3,
+   "emoji": "⏰",
+   "es": "El tren lleva veinte minutos de retraso.",
+   "ar": "القطار متأخر عشرين دقيقة.",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 3,
+   "emoji": "🎫",
+   "es": "Tiene que validar el billete antes de subir.",
+   "ar": "يجب عليك تفعيل التذكرة قبل الصعود.",
+   "section": "المحطات والتذاكر"
+  },
+  {
+   "level": 1,
+   "emoji": "🚦",
+   "es": "el semáforo",
+   "ar": "إشارة المرور",
+   "section": "في الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🛣️",
+   "es": "la autopista",
+   "ar": "الطريق السريع",
+   "section": "في الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "⛽",
+   "es": "la gasolinera",
+   "ar": "محطة الوقود",
+   "section": "في الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🅿️",
+   "es": "el aparcamiento",
+   "ar": "موقف السيارات",
+   "section": "في الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚸",
+   "es": "el paso de peatones",
+   "ar": "ممر الراجلين",
+   "section": "في الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🗺️",
+   "es": "el mapa",
+   "ar": "الخريطة",
+   "section": "في الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚧",
+   "es": "las obras",
+   "ar": "أشغال الطريق",
+   "section": "في الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🚗",
+   "es": "el atasco",
+   "ar": "الازدحام المروري",
+   "section": "في الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🪪",
+   "es": "el carné de conducir",
+   "ar": "رخصة السياقة",
+   "section": "في الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🔄",
+   "es": "la rotonda",
+   "ar": "الدوّار",
+   "section": "في الطريق"
+  },
+  {
+   "level": 2,
+   "emoji": "🛑",
+   "es": "la señal de stop",
+   "ar": "إشارة قف",
+   "section": "في الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "🚦",
+   "es": "Cuando el semáforo de peatones está en rojo, no se puede cruzar.",
+   "ar": "عندما تكون إشارة الراجلين حمراء، لا يجوز العبور.",
+   "section": "في الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "🏍️",
+   "es": "Es obligatorio llevar casco en la moto.",
+   "ar": "ارتداء الخوذة على الدراجة النارية إلزامي.",
+   "section": "في الطريق"
+  },
+  {
+   "level": 3,
+   "emoji": "💺",
+   "es": "Es obligatorio ponerse el cinturón de seguridad.",
+   "ar": "ربط حزام الأمان إلزامي.",
+   "section": "في الطريق"
+  },
+  {
+   "level": 1,
+   "emoji": "🚪",
+   "es": "Me bajo aquí.",
+   "ar": "أنزل هنا.",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚏",
+   "es": "¿Dónde para el autobús 5?",
+   "ar": "أين تتوقف الحافلة رقم 5؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🎫",
+   "es": "Un billete para Sevilla, por favor.",
+   "ar": "تذكرة إلى إشبيلية من فضلك.",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "¿Cuánto cuesta el billete?",
+   "ar": "كم ثمن التذكرة؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕒",
+   "es": "¿A qué hora sale el tren?",
+   "ar": "في أي ساعة ينطلق القطار؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚕",
+   "es": "Lléveme a esta dirección, por favor.",
+   "ar": "خذني إلى هذا العنوان من فضلك.",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚌",
+   "es": "¿Este autobús va al centro?",
+   "ar": "هل هذه الحافلة تذهب إلى وسط المدينة؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔔",
+   "es": "¿Me avisa cuando lleguemos?",
+   "ar": "هل تنبهني عندما نصل؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔁",
+   "es": "¿Tengo que hacer transbordo para llegar al aeropuerto?",
+   "ar": "هل يجب أن أغيّر الخط للوصول إلى المطار؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚆",
+   "es": "Disculpe, ¿de qué andén sale el tren para Málaga?",
+   "ar": "عذرا، من أي رصيف ينطلق القطار المتجه إلى مالقة؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚌",
+   "es": "Perdone, ¿cuántas paradas faltan para el hospital?",
+   "ar": "عفوا، كم محطة بقيت حتى المستشفى؟",
+   "section": "جمل مفيدة"
+  },
+  {
+   "level": 3,
+   "emoji": "🧳",
+   "es": "He perdido mi maleta, ¿dónde está la oficina de objetos perdidos?",
+   "ar": "أضعت حقيبتي، أين مكتب المفقودات؟",
+   "section": "جمل مفيدة"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el billete\"?",
+   "options": [
+    "التذكرة",
+    "المحطة",
+    "المقعد"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el billete\"؟",
+   "ar_exp": "\"el billete\" هي التذكرة التي تشتريها لتركب القطار أو الحافلة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la parada\"?",
+   "options": [
+    "المطار",
+    "موقف الحافلة",
+    "الشاحنة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la parada\"؟",
+   "ar_exp": "\"la parada\" هي المكان الذي تتوقف فيه الحافلة."
+  },
+  {
+   "level": 1,
+   "q": "¿Cómo se dice \"القطار\" en español?",
+   "options": [
+    "el avión",
+    "el barco",
+    "el tren"
+   ],
+   "answer": 2,
+   "ar_q": "كيف نقول \"القطار\" بالإسبانية؟",
+   "ar_exp": "\"el tren\" هو القطار."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"el andén\"?",
+   "options": [
+    "رصيف المحطة",
+    "الطريق السريع",
+    "الشباك"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى \"el andén\"؟",
+   "ar_exp": "\"el andén\" هو الرصيف في محطة القطار حيث تنتظر القطار."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa \"la bici\"?",
+   "options": [
+    "الدراجة النارية",
+    "الدراجة الهوائية",
+    "السيارة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى \"la bici\"؟",
+   "ar_exp": "\"la bici\" اختصار لـ \"la bicicleta\" وهي الدراجة الهوائية."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber dónde se para el autobús número 5. ¿Qué preguntas?",
+   "options": [
+    "¿Cuánto cuesta el autobús 5?",
+    "¿A qué hora es el autobús 5?",
+    "¿Dónde para el autobús 5?"
+   ],
+   "answer": 2,
+   "ar_q": "تريد أن تعرف أين تتوقف الحافلة رقم 5. ماذا تسأل؟",
+   "ar_exp": "\"¿Dónde para...?\" تعني \"أين يتوقف...؟\"."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué es \"un billete de ida y vuelta\"?",
+   "options": [
+    "تذكرة ذهاب وعودة",
+    "تذكرة ذهاب فقط",
+    "تذكرة مجانية"
+   ],
+   "answer": 0,
+   "ar_q": "ما هي \"un billete de ida y vuelta\"؟",
+   "ar_exp": "\"ida\" تعني الذهاب و\"vuelta\" تعني العودة."
+  },
+  {
+   "level": 2,
+   "q": "Quieres saber la hora de salida del tren. ¿Qué dices?",
+   "options": [
+    "¿Dónde está el tren?",
+    "¿A qué hora sale el tren?",
+    "¿Cuánto cuesta el tren?"
+   ],
+   "answer": 1,
+   "ar_q": "تريد أن تعرف وقت انطلاق القطار. ماذا تقول؟",
+   "ar_exp": "\"¿A qué hora sale...?\" تعني \"في أي ساعة ينطلق...؟\"."
+  },
+  {
+   "level": 2,
+   "q": "En el taxi quieres bajar ya. ¿Qué dices?",
+   "options": [
+    "Me bajo aquí.",
+    "Voy andando.",
+    "Un billete, por favor."
+   ],
+   "answer": 0,
+   "ar_q": "في سيارة الأجرة تريد النزول الآن. ماذا تقول؟",
+   "ar_exp": "\"Me bajo aquí\" تعني \"أنزل هنا\"."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa \"el atasco\"?",
+   "options": [
+    "الحادث",
+    "موقف السيارات",
+    "الازدحام المروري"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى \"el atasco\"؟",
+   "ar_exp": "\"el atasco\" هو الازدحام عندما تتوقف السيارات في الطريق."
+  },
+  {
+   "level": 3,
+   "q": "\"El tren lleva veinte minutos de retraso.\" ¿Qué pasa con el tren?",
+   "options": [
+    "وصل قبل عشرين دقيقة",
+    "متأخر عشرين دقيقة",
+    "ينطلق بعد عشرين دقيقة من الآن دائما"
+   ],
+   "answer": 1,
+   "ar_q": "\"El tren lleva veinte minutos de retraso.\" ماذا حدث للقطار؟",
+   "ar_exp": "\"retraso\" تعني التأخير، فالقطار متأخر عشرين دقيقة."
+  },
+  {
+   "level": 3,
+   "q": "\"¿Tengo que hacer transbordo?\" ¿Qué preguntas?",
+   "options": [
+    "هل يجب أن أدفع أكثر؟",
+    "هل يجب أن أنتظر طويلا؟",
+    "هل يجب أن أغيّر القطار أو الخط؟"
+   ],
+   "answer": 2,
+   "ar_q": "\"¿Tengo que hacer transbordo?\" ماذا تسأل؟",
+   "ar_exp": "\"hacer transbordo\" تعني تغيير القطار أو الحافلة أو خط المترو للوصول."
+  }
+ ]
+}

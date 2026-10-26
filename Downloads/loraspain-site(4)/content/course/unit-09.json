@@ -1,0 +1,343 @@
+{
+  "unit": 9,
+  "level": 3,
+  "title_ar": "الحديث عن الماضي",
+  "title_es": "Hablar del pasado",
+  "emoji": "📜",
+  "lessons": [
+    {
+      "id": "u09-l1",
+      "title_ar": "الماضي البسيط: الأفعال المنتظمة",
+      "title_es": "El pretérito indefinido: verbos regulares",
+      "emoji": "⏮️",
+      "goal_ar": "ستتعلم في هذا الدرس الحديث عن أفعال بدأت وانتهت في الماضي باستخدام الماضي البسيط (pretérito indefinido) للأفعال المنتظمة.",
+      "explain": [
+        {
+          "h": "متى نستعمل الماضي البسيط؟",
+          "p": "نستعمل pretérito indefinido للحديث عن فعل بدأ وانتهى في وقت محدد من الماضي. يأتي غالبًا مع كلمات مثل ayer (أمس) وel lunes pasado (الاثنين الماضي) وen 2020. تذكّر: مع hoy وesta semana نستعمل في إسبانيا غالبًا الماضي القريب (he trabajado).",
+          "ex": [
+            ["Ayer trabajé ocho horas.", "أمس عملتُ ثماني ساعات."],
+            ["El año pasado viví en Valencia.", "في السنة الماضية عشتُ في فالنسيا."]
+          ]
+        },
+        {
+          "h": "أفعال -ar",
+          "p": "نحذف -ar ونضيف: -é، -aste، -ó، -amos، -asteis، -aron. انتبه إلى العلامة فوق é وó لأنها تغيّر المعنى: hablo (أتكلم الآن) وhabló (هو تكلم).",
+          "ex": [
+            ["Yo hablé con el jefe.", "أنا تكلمتُ مع المدير."],
+            ["Ella llegó tarde.", "هي وصلت متأخرة."],
+            ["Nosotros compramos pan.", "نحن اشترينا خبزًا."]
+          ]
+        },
+        {
+          "h": "أفعال -er و-ir",
+          "p": "نحذف -er أو -ir ونضيف النهايات نفسها للنوعين: -í، -iste، -ió، -imos، -isteis، -ieron.",
+          "ex": [
+            ["Comí en casa de un amigo.", "أكلتُ في بيت صديق."],
+            ["¿Escribiste el correo?", "هل كتبتَ البريد الإلكتروني؟"],
+            ["Ellos vivieron aquí dos años.", "هم عاشوا هنا سنتين."]
+          ]
+        },
+        {
+          "h": "تغييرات في الكتابة",
+          "p": "في صيغة yo تتغير بعض الحروف للمحافظة على النطق: llegar ← llegué، buscar ← busqué، empezar ← empecé. وفي الفعل leer نقول leyó وleyeron.",
+          "ex": [
+            ["Llegué a las nueve.", "وصلتُ في الساعة التاسعة."],
+            ["Busqué trabajo en una fábrica.", "بحثتُ عن عمل في مصنع."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "ayer", "ar": "أمس", "e": "⏮️" },
+        { "es": "anoche", "ar": "ليلة أمس", "e": "🌙" },
+        { "es": "anteayer", "ar": "أول أمس", "e": "📆" },
+        { "es": "la semana pasada", "ar": "الأسبوع الماضي", "e": "🗓️" },
+        { "es": "el año pasado", "ar": "السنة الماضية", "e": "📅" },
+        { "es": "trabajé", "ar": "عملتُ", "e": "👷" },
+        { "es": "llegué", "ar": "وصلتُ", "e": "🚉" },
+        { "es": "compré", "ar": "اشتريتُ", "e": "🛒" },
+        { "es": "comí", "ar": "أكلتُ", "e": "🍽️" },
+        { "es": "salí", "ar": "خرجتُ", "e": "🚪" },
+        { "es": "escribí", "ar": "كتبتُ", "e": "✍️" },
+        { "es": "visité", "ar": "زرتُ", "e": "🏘️" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Hola, Samir. ¿Qué tal el fin de semana?", "ar": "مرحبا يا سمير. كيف كانت عطلة نهاية الأسبوع؟" },
+        { "who": "B", "es": "Muy bien. El sábado trabajé por la mañana y por la tarde descansé.", "ar": "جيدة جدًا. يوم السبت عملتُ في الصباح وارتحتُ في المساء." },
+        { "who": "A", "es": "¿Y el domingo?", "ar": "ويوم الأحد؟" },
+        { "who": "B", "es": "El domingo visité a mi primo en Murcia. Comimos juntos en un restaurante.", "ar": "يوم الأحد زرتُ ابن عمي في مورسيا. أكلنا معًا في مطعم." },
+        { "who": "A", "es": "¡Qué bien! Yo no salí de casa. Limpié el piso y llamé a mi familia.", "ar": "رائع! أنا لم أخرج من البيت. نظّفتُ الشقة واتصلتُ بعائلتي." },
+        { "who": "B", "es": "Bueno, también es importante descansar.", "ar": "حسنًا، الراحة مهمة أيضًا." }
+      ],
+      "quiz": [
+        { "q": "Ayer yo ___ ocho horas.", "o": ["trabajo", "trabajé", "trabajó"], "a": 1, "why": "مع ayer نستعمل الماضي البسيط، وصيغة yo لأفعال -ar تنتهي بـ -é." },
+        { "q": "ما معنى «Ella llegó tarde»؟", "o": ["هي وصلت متأخرة.", "أنا وصلتُ متأخرًا.", "هي تصل متأخرة."], "a": 0, "why": "llegó مع العلامة فوق ó هي صيغة él/ella في الماضي البسيط." },
+        { "q": "Ellos ___ en Madrid tres años.", "o": ["vivimos", "vivió", "vivieron"], "a": 2, "why": "صيغة ellos لأفعال -ir في الماضي البسيط تنتهي بـ -ieron." },
+        { "q": "صيغة yo من الفعل buscar في الماضي البسيط هي:", "o": ["busqué", "buscé", "busquí"], "a": 0, "why": "نكتب qu بدل c أمام é للمحافظة على صوت الكاف: busqué." },
+        { "q": "¿___ tú el correo ayer?", "o": ["Escribí", "Escribió", "Escribiste"], "a": 2, "why": "صيغة tú لأفعال -ir في الماضي البسيط تنتهي بـ -iste." }
+      ]
+    },
+    {
+      "id": "u09-l2",
+      "title_ar": "الماضي البسيط: الأفعال الشاذة",
+      "title_es": "El pretérito indefinido: verbos irregulares",
+      "emoji": "🔀",
+      "goal_ar": "ستتعلم في هذا الدرس أهم الأفعال الشاذة في الماضي البسيط مثل fui وtuve وhice وdije لتحكي ما حدث معك.",
+      "explain": [
+        {
+          "h": "ser وir: الشكل نفسه",
+          "p": "الفعلان ser (يكون) وir (يذهب) لهما الشكل نفسه في الماضي البسيط: fui، fuiste، fue، fuimos، fuisteis، fueron. نفهم المعنى من السياق.",
+          "ex": [
+            ["Ayer fui al médico.", "أمس ذهبتُ إلى الطبيب."],
+            ["Fue un día muy largo.", "كان يومًا طويلًا جدًا."]
+          ]
+        },
+        {
+          "h": "جذور شاذة",
+          "p": "بعض الأفعال تغيّر جذرها: tener ← tuv-، estar ← estuv-، poder ← pud-، poner ← pus-، venir ← vin-، hacer ← hic-، querer ← quis-، saber ← sup-. ونضيف: -e، -iste، -o، -imos، -isteis، -ieron بدون علامة. انتبه: hacer مع él تصبح hizo.",
+          "ex": [
+            ["Tuve un problema con el coche.", "كانت عندي مشكلة مع السيارة."],
+            ["Estuvimos en la playa.", "كنّا في الشاطئ."],
+            ["¿Qué hiciste el sábado?", "ماذا فعلتَ يوم السبت؟"]
+          ]
+        },
+        {
+          "h": "decir وtraer وdar وver",
+          "p": "decir ← dije، dijiste، dijo، dijimos، dijisteis، dijeron. وtraer ← traje... trajeron. لاحظ أن صيغة ellos تنتهي بـ -eron وليس -ieron. أما dar وver فلا علامة عليهما: di، dio، vi، vio.",
+          "ex": [
+            ["El encargado me dijo la hora.", "المسؤول قال لي الساعة."],
+            ["Mi hermano trajo la comida.", "أخي أحضر الطعام."],
+            ["Vi a Laila en el mercado.", "رأيتُ ليلى في السوق."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "fui", "ar": "ذهبتُ / كنتُ", "e": "🚶" },
+        { "es": "tuve", "ar": "كان عندي", "e": "🤲" },
+        { "es": "estuve", "ar": "كنتُ (في مكان أو حالة)", "e": "📍" },
+        { "es": "hice", "ar": "فعلتُ / عملتُ", "e": "🛠️" },
+        { "es": "pude", "ar": "استطعتُ", "e": "💪" },
+        { "es": "puse", "ar": "وضعتُ", "e": "📥" },
+        { "es": "vine", "ar": "جئتُ", "e": "🏃" },
+        { "es": "dije", "ar": "قلتُ", "e": "🗣️" },
+        { "es": "quise", "ar": "أردتُ", "e": "💭" },
+        { "es": "supe", "ar": "عرفتُ (علمتُ بالخبر)", "e": "💡" },
+        { "es": "traje", "ar": "أحضرتُ", "e": "🎁" },
+        { "es": "vi", "ar": "رأيتُ", "e": "👀" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "Ayer no viniste al trabajo. ¿Qué pasó?", "ar": "أمس لم تأتِ إلى العمل. ماذا حدث؟" },
+        { "who": "B", "es": "Tuve fiebre y fui al centro de salud.", "ar": "كانت عندي حمّى وذهبتُ إلى المركز الصحي." },
+        { "who": "A", "es": "¿Y qué te dijo la médica?", "ar": "وماذا قالت لك الطبيبة؟" },
+        { "who": "B", "es": "Me dijo que tengo gripe. Estuve todo el día en la cama.", "ar": "قالت لي إن عندي زكامًا (إنفلونزا). بقيتُ طوال اليوم في السرير." },
+        { "who": "A", "es": "¿Pudiste avisar al encargado?", "ar": "هل استطعتَ أن تُخبر المسؤول؟" },
+        { "who": "B", "es": "Sí, le puse un mensaje por la mañana.", "ar": "نعم، أرسلتُ له رسالة في الصباح." },
+        { "who": "A", "es": "Bueno, lo importante es que ya estás mejor.", "ar": "حسنًا، المهم أنك الآن أفضل." }
+      ],
+      "quiz": [
+        { "q": "Ayer yo ___ al médico.", "o": ["fue", "fui", "era"], "a": 1, "why": "صيغة yo من ir في الماضي البسيط هي fui." },
+        { "q": "¿Qué ___ tú el sábado?", "o": ["haciste", "hizo", "hiciste"], "a": 2, "why": "جذر hacer في الماضي البسيط هو hic-، ومع tú نقول hiciste." },
+        { "q": "صيغة él من الفعل tener في الماضي البسيط:", "o": ["tuvo", "tenió", "tuvó"], "a": 0, "why": "tener ← tuv-، ومع él نضيف -o بدون علامة: tuvo." },
+        { "q": "Ellos me ___ la verdad.", "o": ["dijieron", "dijeron", "dicieron"], "a": 1, "why": "مع decir تنتهي صيغة ellos بـ -eron: dijeron." },
+        { "q": "ما معنى «Fue un día muy largo»؟", "o": ["ذهب يومًا طويلًا جدًا.", "سيكون يومًا طويلًا جدًا.", "كان يومًا طويلًا جدًا."], "a": 2, "why": "هنا fue من الفعل ser، أي «كان»." }
+      ]
+    },
+    {
+      "id": "u09-l3",
+      "title_ar": "الماضي الناقص: العادات والوصف",
+      "title_es": "El pretérito imperfecto: costumbres y descripciones",
+      "emoji": "🖼️",
+      "goal_ar": "ستتعلم في هذا الدرس استعمال الماضي الناقص (pretérito imperfecto) للحديث عن عاداتك في الماضي ووصف الأشخاص والأماكن.",
+      "explain": [
+        {
+          "h": "متى نستعمل الماضي الناقص؟",
+          "p": "نستعمل imperfecto للعادات المتكررة في الماضي، أي ما «كنتُ أفعله». يأتي غالبًا مع كلمات مثل antes (من قبل) وsiempre (دائمًا) وtodos los días (كل يوم) وde niño (في الصغر).",
+          "ex": [
+            ["Antes trabajaba en el campo.", "من قبل كنتُ أعمل في الحقول."],
+            ["De niño jugaba al fútbol todos los días.", "في صغري كنتُ ألعب كرة القدم كل يوم."]
+          ]
+        },
+        {
+          "h": "التكوين",
+          "p": "أفعال -ar: -aba، -abas، -aba، -ábamos، -abais، -aban. أفعال -er و-ir: -ía، -ías، -ía، -íamos، -íais، -ían. صيغة yo وصيغة él متشابهتان.",
+          "ex": [
+            ["Yo vivía con mis padres.", "كنتُ أعيش مع والديّ."],
+            ["Nosotros comíamos juntos los domingos.", "كنا نأكل معًا أيام الأحد."]
+          ]
+        },
+        {
+          "h": "ثلاثة أفعال شاذة فقط",
+          "p": "في الماضي الناقص توجد ثلاثة أفعال شاذة فقط: ser ← era، eras، era، éramos، erais، eran. ir ← iba، ibas، iba، íbamos، ibais، iban. ver ← veía، veías، veía...",
+          "ex": [
+            ["Mi casa era pequeña.", "كان بيتي صغيرًا."],
+            ["Iba al trabajo en autobús.", "كنتُ أذهب إلى العمل بالحافلة."]
+          ]
+        },
+        {
+          "h": "الوصف في الماضي",
+          "p": "نستعمل imperfecto أيضًا لوصف الطقس والعمر والحالة والمكان: hacía frío (كان الجو باردًا)، tenía 20 años (كان عمري 20 سنة)، había (كان هناك).",
+          "ex": [
+            ["Hacía mucho calor y había mucha gente.", "كان الجو حارًا جدًا وكان هناك ناس كثيرون."],
+            ["Mi abuelo tenía un huerto.", "كان لجدي بستان صغير."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "antes", "ar": "من قبل / سابقًا", "e": "⏪" },
+        { "es": "de niño", "ar": "في الصغر", "e": "🧒" },
+        { "es": "todos los días", "ar": "كل يوم", "e": "🔁" },
+        { "es": "a menudo", "ar": "غالبًا / كثيرًا", "e": "🔄" },
+        { "es": "era", "ar": "كان (للوصف)", "e": "🖼️" },
+        { "es": "iba", "ar": "كنتُ أذهب", "e": "🚌" },
+        { "es": "tenía", "ar": "كان عندي / كان عمري", "e": "🎂" },
+        { "es": "había", "ar": "كان هناك", "e": "👥" },
+        { "es": "hacía frío", "ar": "كان الجو باردًا", "e": "🥶" },
+        { "es": "vivía", "ar": "كنتُ أعيش", "e": "🏡" },
+        { "es": "jugaba", "ar": "كنتُ ألعب", "e": "⚽" },
+        { "es": "ganaba", "ar": "كنتُ أكسب (مالًا)", "e": "💶" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué hacías antes de venir a España?", "ar": "ماذا كنتَ تفعل قبل أن تأتي إلى إسبانيا؟" },
+        { "who": "B", "es": "Trabajaba en un taller. Arreglaba coches y motos.", "ar": "كنتُ أعمل في ورشة. كنتُ أصلح السيارات والدراجات النارية." },
+        { "who": "A", "es": "¿Y te gustaba?", "ar": "وهل كان يعجبك ذلك؟" },
+        { "who": "B", "es": "Sí, mucho, pero ganaba poco dinero y trabajaba muchas horas.", "ar": "نعم، كثيرًا، لكني كنتُ أكسب مالًا قليلًا وأعمل ساعات كثيرة." },
+        { "who": "A", "es": "Yo antes estudiaba en la universidad. Vivía con mis padres y no trabajaba.", "ar": "أنا من قبل كنتُ أدرس في الجامعة. كنتُ أعيش مع والديّ ولم أكن أعمل." },
+        { "who": "B", "es": "¡Qué diferente era todo antes!", "ar": "كم كان كل شيء مختلفًا من قبل!" }
+      ],
+      "quiz": [
+        { "q": "Antes yo ___ en el campo.", "o": ["trabajaba", "trabajé", "trabajo"], "a": 0, "why": "antes تدل على عادة في الماضي، لذلك نستعمل الماضي الناقص: trabajaba." },
+        { "q": "صيغة nosotros من الفعل vivir في الماضي الناقص:", "o": ["vivimos", "vivábamos", "vivíamos"], "a": 2, "why": "أفعال -ir تأخذ -íamos مع nosotros في الماضي الناقص." },
+        { "q": "De niño, mi hermano ___ muy alto.", "o": ["fue", "era", "iba"], "a": 1, "why": "هذا وصف في الماضي، فنستعمل era من الفعل ser." },
+        { "q": "ما الأفعال الشاذة الوحيدة في الماضي الناقص؟", "o": ["tener، hacer، poder", "ser، ir، ver", "estar، decir، venir"], "a": 1, "why": "في الماضي الناقص ثلاثة أفعال شاذة فقط: ser وir وver." },
+        { "q": "ما معنى «Había mucha gente en la calle»؟", "o": ["سيكون هناك ناس كثيرون في الشارع.", "هناك ناس كثيرون في الشارع.", "كان هناك ناس كثيرون في الشارع."], "a": 2, "why": "había هي الماضي الناقص من hay، ومعناها «كان هناك»." }
+      ]
+    },
+    {
+      "id": "u09-l4",
+      "title_ar": "الماضي البسيط أم الماضي الناقص؟",
+      "title_es": "¿Indefinido o imperfecto?",
+      "emoji": "⚖️",
+      "goal_ar": "ستتعلم في هذا الدرس متى تستعمل الماضي البسيط ومتى تستعمل الماضي الناقص عندما تحكي ما حدث.",
+      "explain": [
+        {
+          "h": "الخلفية والحدث",
+          "p": "عندما نحكي قصة، نستعمل imperfecto لوصف الخلفية (الطقس، المكان، ما كان يحدث)، ونستعمل indefinido للحدث الذي وقع وانتهى.",
+          "ex": [
+            ["Llovía cuando salí de casa.", "كانت تمطر عندما خرجتُ من البيت."],
+            ["Estaba en el metro y me llamó el jefe.", "كنتُ في المترو واتصل بي المدير."]
+          ]
+        },
+        {
+          "h": "عادة أم مرة واحدة؟",
+          "p": "العادة المتكررة تأخذ imperfecto، والمرة الواحدة المحددة تأخذ indefinido.",
+          "ex": [
+            ["Todos los días iba en autobús, pero ayer fui en taxi.", "كل يوم كنتُ أذهب بالحافلة، لكن أمس ذهبتُ بسيارة أجرة."],
+            ["Normalmente comía en casa, pero ese día comí en el bar.", "عادة كنتُ آكل في البيت، لكن في ذلك اليوم أكلتُ في المقهى."]
+          ]
+        },
+        {
+          "h": "mientras وcuando",
+          "p": "بعد mientras (بينما) نستعمل غالبًا imperfecto لفعل كان مستمرًا. وبعد cuando نستعمل غالبًا indefinido لفعل قطع ما كان يحدث.",
+          "ex": [
+            ["Mientras cocinaba, sonó el teléfono.", "بينما كنتُ أطبخ، رنّ الهاتف."],
+            ["Cuando llegó el encargado, todos trabajaban.", "عندما وصل المسؤول، كان الجميع يعملون."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "mientras", "ar": "بينما", "e": "⏱️" },
+        { "es": "de repente", "ar": "فجأة", "e": "⚡" },
+        { "es": "cuando", "ar": "عندما", "e": "🕐" },
+        { "es": "en ese momento", "ar": "في تلك اللحظة", "e": "📍" },
+        { "es": "un día", "ar": "ذات يوم", "e": "☀️" },
+        { "es": "normalmente", "ar": "عادةً", "e": "🔁" },
+        { "es": "esa vez", "ar": "تلك المرة", "e": "1️⃣" },
+        { "es": "llovía", "ar": "كانت تمطر", "e": "🌧️" },
+        { "es": "sonó el teléfono", "ar": "رنّ الهاتف", "e": "📞" },
+        { "es": "me corté", "ar": "جرحتُ نفسي", "e": "🩹" },
+        { "es": "estaba cansado", "ar": "كنتُ متعبًا", "e": "😴" },
+        { "es": "pasó", "ar": "حدث", "e": "❗" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Qué te pasó en la mano?", "ar": "ماذا حدث ليدك؟" },
+        { "who": "B", "es": "Me corté ayer en el almacén.", "ar": "جرحتُ نفسي أمس في المستودع." },
+        { "who": "A", "es": "¿Cómo fue?", "ar": "كيف حدث ذلك؟" },
+        { "who": "B", "es": "Mientras abría una caja con el cúter, un compañero me habló. Lo miré y me corté.", "ar": "بينما كنتُ أفتح صندوقًا بالقاطع، كلّمني زميل. نظرتُ إليه فجرحتُ نفسي." },
+        { "who": "A", "es": "¿No llevabas guantes?", "ar": "ألم تكن تلبس قفازات؟" },
+        { "who": "B", "es": "No, porque hacía mucho calor y me los quité. ¡Fue un error!", "ar": "لا، لأن الجو كان حارًا جدًا فخلعتُها. كان ذلك خطأ!" },
+        { "who": "A", "es": "Bueno, la próxima vez hay que llevar guantes.", "ar": "حسنًا، في المرة القادمة يجب لبس القفازات." }
+      ],
+      "quiz": [
+        { "q": "Cuando ___ de casa, llovía mucho.", "o": ["salía", "salí", "salgo"], "a": 1, "why": "الخروج حدث مرة واحدة وانتهى، أما المطر فهو الخلفية. لذلك نقول salí." },
+        { "q": "Mientras yo ___, sonó el teléfono.", "o": ["cocinaba", "cociné", "cocino"], "a": 0, "why": "بعد mientras نستعمل imperfecto لفعل كان مستمرًا: cocinaba." },
+        { "q": "Todos los días ___ en autobús, pero ayer fui en taxi.", "o": ["voy", "fui", "iba"], "a": 2, "why": "todos los días تدل على عادة في الماضي، فنستعمل iba." },
+        { "q": "أي زمن نستعمل لوصف الخلفية (الطقس، المكان، الحالة) في قصة؟", "o": ["الماضي الناقص (imperfecto)", "الماضي البسيط (indefinido)", "المضارع"], "a": 0, "why": "الوصف والخلفية في الماضي يكونان بالماضي الناقص." },
+        { "q": "ما معنى «Estaba en el metro y me llamó el jefe»؟", "o": ["أنا في المترو ويتصل بي المدير.", "كنتُ أركب المترو كل يوم وكان المدير يتصل بي.", "كنتُ في المترو واتصل بي المدير."], "a": 2, "why": "estaba تصف الحالة (كنتُ)، وllamó حدث مرة واحدة (اتصل)." }
+      ]
+    },
+    {
+      "id": "u09-l5",
+      "title_ar": "أحكي قصتي",
+      "title_es": "Contar mi historia",
+      "emoji": "🧳",
+      "goal_ar": "ستتعلم في هذا الدرس أن تحكي قصة وصولك وحياتك في إسبانيا بترتيب واضح باستخدام الماضي البسيط والماضي الناقص.",
+      "explain": [
+        {
+          "h": "ترتيب الأحداث",
+          "p": "لترتيب القصة نستعمل: primero (أولًا)، después (بعد ذلك)، luego (ثم)، más tarde (لاحقًا)، al final (في النهاية).",
+          "ex": [
+            ["Primero busqué piso y después busqué trabajo.", "أولًا بحثتُ عن شقة وبعد ذلك بحثتُ عن عمل."],
+            ["Al final encontré trabajo en un almacén.", "في النهاية وجدتُ عملًا في مستودع."]
+          ]
+        },
+        {
+          "h": "hace وdesde hace",
+          "p": "hace + مدة + الماضي البسيط = «قبل»: Llegué hace cinco años (وصلتُ قبل خمس سنوات). أما المضارع + desde hace + مدة = «منذ» لشيء ما زال مستمرًا.",
+          "ex": [
+            ["Llegué a España hace cinco años.", "وصلتُ إلى إسبانيا قبل خمس سنوات."],
+            ["Vivo aquí desde hace tres años.", "أعيش هنا منذ ثلاث سنوات."]
+          ]
+        },
+        {
+          "h": "cuando + الماضي",
+          "p": "نجمع الزمنين في جملة واحدة: الحدث بالماضي البسيط، والوصف (العمر، الحالة) بالماضي الناقص.",
+          "ex": [
+            ["Cuando llegué, no hablaba español.", "عندما وصلتُ، لم أكن أتكلم الإسبانية."],
+            ["Cuando tenía 25 años, vine a España.", "عندما كان عمري 25 سنة، جئتُ إلى إسبانيا."]
+          ]
+        }
+      ],
+      "words": [
+        { "es": "primero", "ar": "أولًا", "e": "1️⃣" },
+        { "es": "después", "ar": "بعد ذلك", "e": "➡️" },
+        { "es": "luego", "ar": "ثم", "e": "🔜" },
+        { "es": "al final", "ar": "في النهاية", "e": "🏁" },
+        { "es": "hace cinco años", "ar": "قبل خمس سنوات", "e": "⏳" },
+        { "es": "desde hace", "ar": "منذ (وما زال مستمرًا)", "e": "📌" },
+        { "es": "la llegada", "ar": "الوصول", "e": "🛬" },
+        { "es": "el primer día", "ar": "اليوم الأول", "e": "🌅" },
+        { "es": "encontré trabajo", "ar": "وجدتُ عملًا", "e": "💼" },
+        { "es": "conocí a", "ar": "تعرّفتُ على", "e": "🤝" },
+        { "es": "me mudé", "ar": "انتقلتُ (للسكن)", "e": "📦" },
+        { "es": "aprendí", "ar": "تعلّمتُ", "e": "📚" }
+      ],
+      "dialog": [
+        { "who": "A", "es": "¿Cuándo llegaste a España?", "ar": "متى وصلتَ إلى إسبانيا؟" },
+        { "who": "B", "es": "Llegué hace seis años. Al principio vivía en Almería con unos amigos.", "ar": "وصلتُ قبل ست سنوات. في البداية كنتُ أعيش في ألميريا مع بعض الأصدقاء." },
+        { "who": "A", "es": "¿Y qué hacías allí?", "ar": "وماذا كنتَ تفعل هناك؟" },
+        { "who": "B", "es": "Trabajaba en los invernaderos. Era duro, pero aprendí mucho.", "ar": "كنتُ أعمل في البيوت البلاستيكية. كان العمل صعبًا، لكني تعلمتُ كثيرًا." },
+        { "who": "A", "es": "¿Y cuándo te mudaste a Zaragoza?", "ar": "ومتى انتقلتَ إلى سرقسطة؟" },
+        { "who": "B", "es": "Hace dos años. Un amigo me dijo que había trabajo en una fábrica y vine.", "ar": "قبل سنتين. قال لي صديق إن هناك عملًا في مصنع، فجئتُ." },
+        { "who": "A", "es": "¿Y hablabas español cuando llegaste?", "ar": "وهل كنتَ تتكلم الإسبانية عندما وصلتَ؟" },
+        { "who": "B", "es": "No, nada. Primero aprendí con mis compañeros y luego fui a clases.", "ar": "لا، أبدًا. أولًا تعلمتُ مع زملائي ثم ذهبتُ إلى الدروس." }
+      ],
+      "quiz": [
+        { "q": "Llegué a España ___ cinco años.", "o": ["desde", "hace", "hacía"], "a": 1, "why": "hace + مدة مع الماضي البسيط تعني «قبل»." },
+        { "q": "Vivo en Bilbao ___ tres años.", "o": ["hacía", "hace", "desde hace"], "a": 2, "why": "الفعل في المضارع والحالة مستمرة، فنستعمل desde hace بمعنى «منذ»." },
+        { "q": "Cuando ___ a España, no hablaba español.", "o": ["llegué", "llegaba", "llego"], "a": 0, "why": "الوصول حدث مرة واحدة، فنستعمل الماضي البسيط: llegué." },
+        { "q": "أي كلمة تعني «في النهاية»؟", "o": ["luego", "al final", "primero"], "a": 1, "why": "al final تعني «في النهاية»، وluego تعني «ثم»، وprimero تعني «أولًا»." },
+        { "q": "Primero busqué piso y ___ busqué trabajo.", "o": ["antes", "al final de", "después"], "a": 2, "why": "بعد primero نستعمل después لنقول «بعد ذلك»." }
+      ]
+    }
+  ]
+}

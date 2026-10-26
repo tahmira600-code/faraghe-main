@@ -1,0 +1,477 @@
+{
+ "topic_id": "gardening",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🌳",
+   "es": "el árbol",
+   "ar": "الشجرة",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌱",
+   "es": "la planta",
+   "ar": "النبتة",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌸",
+   "es": "la flor",
+   "ar": "الزهرة",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌿",
+   "es": "el césped",
+   "ar": "العشب (المرجة)",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌲",
+   "es": "el seto",
+   "ar": "السياج النباتي",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🍂",
+   "es": "las hojas secas",
+   "ar": "الأوراق اليابسة",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌰",
+   "es": "la semilla",
+   "ar": "البذرة",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🌹",
+   "es": "el rosal",
+   "ar": "شجيرة الورد",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪴",
+   "es": "la maceta",
+   "ar": "أصيص الزرع",
+   "section": "النباتات"
+  },
+  {
+   "level": 1,
+   "emoji": "✂️",
+   "es": "las tijeras de podar",
+   "ar": "مقصّ التقليم",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧹",
+   "es": "el rastrillo",
+   "ar": "المشط (أداة جمع الأوراق)",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "⛏️",
+   "es": "la azada",
+   "ar": "المعزقة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪏",
+   "es": "la pala",
+   "ar": "المجرفة",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🛒",
+   "es": "la carretilla",
+   "ar": "عربة اليد",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🚜",
+   "es": "el cortacésped",
+   "ar": "جزّازة العشب",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪚",
+   "es": "la motosierra",
+   "ar": "المنشار الآلي",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "💧",
+   "es": "la manguera",
+   "ar": "خرطوم الماء",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 1,
+   "emoji": "🚿",
+   "es": "el aspersor",
+   "ar": "المرشّ",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 1,
+   "emoji": "🧪",
+   "es": "el abono",
+   "ar": "السماد",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 2,
+   "emoji": "🌿",
+   "es": "Corta el césped hoy.",
+   "ar": "اجزز العشب اليوم.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "🍂",
+   "es": "Recoge las hojas con el rastrillo.",
+   "ar": "اجمع الأوراق بالمشط.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "✂️",
+   "es": "Poda el rosal.",
+   "ar": "قلّم شجيرة الورد.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌲",
+   "es": "Recorta el seto.",
+   "ar": "شذّب السياج النباتي.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌱",
+   "es": "Planta estas flores en la entrada.",
+   "ar": "ازرع هذه الأزهار عند المدخل.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "🕳️",
+   "es": "Haz un hoyo para el árbol.",
+   "ar": "احفر حفرة للشجرة.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "🌾",
+   "es": "Quita las malas hierbas.",
+   "ar": "انزع الأعشاب الضارّة.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "☀️",
+   "es": "Hoy hace mucho calor, bebe agua.",
+   "ar": "الجو حارّ جداً اليوم، اشرب الماء.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "Lleva la tierra en la carretilla.",
+   "ar": "انقل التربة في عربة اليد.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "⛽",
+   "es": "Llena el depósito del cortacésped.",
+   "ar": "املأ خزّان جزّازة العشب.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧽",
+   "es": "Limpia las herramientas al terminar.",
+   "ar": "نظّف الأدوات عند الانتهاء.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "💧",
+   "es": "Riega las plantas por la tarde.",
+   "ar": "اسقِ النباتات بعد الظهر.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 2,
+   "emoji": "🚿",
+   "es": "Enciende los aspersores.",
+   "ar": "شغّل المرشّات.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 2,
+   "emoji": "🧪",
+   "es": "Echa abono a los árboles frutales.",
+   "ar": "ضع السماد للأشجار المثمرة.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 2,
+   "emoji": "💦",
+   "es": "No riegues demasiado.",
+   "ar": "لا تُكثر من السقي.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 2,
+   "emoji": "🪴",
+   "es": "Cambia la planta a una maceta más grande.",
+   "ar": "انقل النبتة إلى أصيص أكبر.",
+   "section": "النباتات"
+  },
+  {
+   "level": 2,
+   "emoji": "🌻",
+   "es": "Estas flores necesitan sol.",
+   "ar": "هذه الأزهار تحتاج إلى الشمس.",
+   "section": "النباتات"
+  },
+  {
+   "level": 2,
+   "emoji": "🍃",
+   "es": "Esta planta tiene las hojas amarillas.",
+   "ar": "أوراق هذه النبتة صفراء.",
+   "section": "النباتات"
+  },
+  {
+   "level": 3,
+   "emoji": "⏱️",
+   "es": "El riego por goteo ahorra mucha agua.",
+   "ar": "الري بالتنقيط يوفّر الكثير من الماء.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 3,
+   "emoji": "🌅",
+   "es": "En verano se riega a primera hora de la mañana o al anochecer.",
+   "ar": "في الصيف يكون السقي في الصباح الباكر أو عند حلول المساء.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 3,
+   "emoji": "🍁",
+   "es": "La poda se hace normalmente en invierno, cuando la planta descansa.",
+   "ar": "يكون التقليم عادةً في الشتاء عندما تكون النبتة في فترة راحة.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 3,
+   "emoji": "🥽",
+   "es": "Para usar la desbrozadora ponte gafas y protectores auditivos.",
+   "ar": "لاستعمال آلة قصّ الأعشاب البس النظارات وواقيات الأذنين.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "😷",
+   "es": "Los productos fitosanitarios se aplican con guantes y mascarilla.",
+   "ar": "تُرشّ المبيدات الزراعية مع لبس القفازات والكمامة.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 3,
+   "emoji": "🌬️",
+   "es": "No apliques el producto si hace viento.",
+   "ar": "لا ترشّ المنتج إذا كانت هناك رياح.",
+   "section": "السقي والتسميد"
+  },
+  {
+   "level": 3,
+   "emoji": "🌿",
+   "es": "Hay que airear el césped para que crezca mejor.",
+   "ar": "يجب تهوية العشب لينمو بشكل أفضل.",
+   "section": "النباتات"
+  },
+  {
+   "level": 3,
+   "emoji": "🐛",
+   "es": "Esta planta tiene una plaga de pulgón.",
+   "ar": "هذه النبتة مصابة بآفة المنّ.",
+   "section": "النباتات"
+  },
+  {
+   "level": 3,
+   "emoji": "🪓",
+   "es": "Vamos a talar el árbol seco antes de que se caiga.",
+   "ar": "سنقطع الشجرة اليابسة قبل أن تسقط.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 3,
+   "emoji": "♻️",
+   "es": "Los restos de poda se llevan al contenedor de residuos vegetales.",
+   "ar": "تُنقل بقايا التقليم إلى حاوية النفايات النباتية.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏡",
+   "es": "El mantenimiento del jardín de la comunidad es dos veces por semana.",
+   "ar": "صيانة حديقة العمارة مرّتين في الأسبوع.",
+   "section": "أعمال الحديقة"
+  },
+  {
+   "level": 3,
+   "emoji": "❄️",
+   "es": "Protege las plantas delicadas de las heladas.",
+   "ar": "احمِ النباتات الحسّاسة من الصقيع.",
+   "section": "النباتات"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la manguera»?",
+   "options": [
+    "المرشّ",
+    "خرطوم الماء",
+    "المجرفة"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la manguera»؟",
+   "ar_exp": "«la manguera» هي خرطوم الماء الذي نسقي به."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el césped»?",
+   "options": [
+    "العشب (المرجة)",
+    "الشجرة",
+    "البذرة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el césped»؟",
+   "ar_exp": "«el césped» هو العشب القصير في الحديقة."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la carretilla»?",
+   "options": [
+    "المعزقة",
+    "السماد",
+    "عربة اليد"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la carretilla»؟",
+   "ar_exp": "«la carretilla» هي عربة اليد لنقل التراب والأشياء."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «las tijeras de podar»?",
+   "options": [
+    "مقصّ التقليم",
+    "المنشار الآلي",
+    "المشط"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «las tijeras de podar»؟",
+   "ar_exp": "«las tijeras de podar» هو المقصّ المستعمل لتقليم النباتات."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Quita las malas hierbas»?",
+   "options": [
+    "اسقِ العشب",
+    "انزع الأعشاب الضارّة",
+    "ازرع البذور"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «Quita las malas hierbas»؟",
+   "ar_exp": "«las malas hierbas» هي الأعشاب الضارّة التي تنمو دون أن نريدها."
+  },
+  {
+   "level": 2,
+   "q": "Tu jefe dice: «Recoge las hojas». ¿Qué herramienta usas?",
+   "options": [
+    "La motosierra.",
+    "El aspersor.",
+    "El rastrillo."
+   ],
+   "answer": 2,
+   "ar_q": "يقول لك رئيسك: «Recoge las hojas». أي أداة تستعمل؟",
+   "ar_exp": "«el rastrillo» هو الأداة المناسبة لجمع الأوراق."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Poda el rosal»?",
+   "options": [
+    "قلّم شجيرة الورد",
+    "اسقِ شجيرة الورد",
+    "اقطف الورد"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Poda el rosal»؟",
+   "ar_exp": "«podar» يعني تقليم الأغصان."
+  },
+  {
+   "level": 3,
+   "q": "En verano, ¿cuándo es mejor regar?",
+   "options": [
+    "A mediodía.",
+    "A primera hora de la mañana o al anochecer.",
+    "Nunca."
+   ],
+   "answer": 1,
+   "ar_q": "في الصيف، متى يكون السقي أفضل؟",
+   "ar_exp": "في الصباح الباكر أو المساء يتبخّر الماء أقلّ."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué ventaja tiene el riego por goteo?",
+   "options": [
+    "يوفّر الكثير من الماء",
+    "يقتل الحشرات",
+    "يقصّ العشب"
+   ],
+   "answer": 0,
+   "ar_q": "ما فائدة الري بالتنقيط؟",
+   "ar_exp": "الري بالتنقيط يوصل الماء إلى الجذور مباشرة فيوفّر الكثير منه."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué debes ponerte para usar la desbrozadora?",
+   "options": [
+    "Sandalias y gorra.",
+    "Solo los guantes de cocina.",
+    "Gafas y protectores auditivos."
+   ],
+   "answer": 2,
+   "ar_q": "ماذا يجب أن تلبس لاستعمال آلة قصّ الأعشاب؟",
+   "ar_exp": "آلة قصّ الأعشاب ترمي الحجارة وتُحدث ضجيجاً، فيجب حماية العينين والأذنين."
+  }
+ ]
+}

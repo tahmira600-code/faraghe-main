@@ -1,0 +1,477 @@
+{
+ "topic_id": "security",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "💂",
+   "es": "el vigilante",
+   "ar": "الحارس",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "👔",
+   "es": "el uniforme",
+   "ar": "الزيّ الرسمي",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "📹",
+   "es": "la cámara de vigilancia",
+   "ar": "كاميرا المراقبة",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🖥️",
+   "es": "el monitor",
+   "ar": "الشاشة",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔦",
+   "es": "la linterna",
+   "ar": "المصباح اليدوي",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🚶",
+   "es": "la ronda",
+   "ar": "الجولة التفقّدية",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🌙",
+   "es": "el turno de noche",
+   "ar": "نوبة الليل",
+   "section": "المراقبة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔑",
+   "es": "la llave",
+   "ar": "المفتاح",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 1,
+   "emoji": "🚧",
+   "es": "la barrera",
+   "ar": "الحاجز",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 1,
+   "emoji": "🪪",
+   "es": "la acreditación",
+   "ar": "بطاقة الاعتماد",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 1,
+   "emoji": "📋",
+   "es": "el registro de entradas",
+   "ar": "سجلّ الدخول",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 1,
+   "emoji": "🚨",
+   "es": "la alarma",
+   "ar": "جهاز الإنذار",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🧯",
+   "es": "el extintor",
+   "ar": "طفّاية الحريق",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🔥",
+   "es": "el incendio",
+   "ar": "الحريق",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🚑",
+   "es": "la ambulancia",
+   "ar": "سيارة الإسعاف",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🆘",
+   "es": "la emergencia",
+   "ar": "حالة الطوارئ",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🏃",
+   "es": "la salida de emergencia",
+   "ar": "مخرج الطوارئ",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 1,
+   "emoji": "🚓",
+   "es": "la policía",
+   "ar": "الشرطة",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 1,
+   "emoji": "📻",
+   "es": "el walkie-talkie",
+   "ar": "جهاز اللاسلكي",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 1,
+   "emoji": "⚠️",
+   "es": "la incidencia",
+   "ar": "الحادث الطارئ",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 2,
+   "emoji": "🪪",
+   "es": "¿Me enseña su identificación, por favor?",
+   "ar": "هل تريني هويّتك من فضلك؟",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 2,
+   "emoji": "🖊️",
+   "es": "Firme aquí, por favor.",
+   "ar": "وقّع هنا من فضلك.",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 2,
+   "emoji": "🏢",
+   "es": "¿A quién viene a visitar?",
+   "ar": "من جئت لزيارته؟",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 2,
+   "emoji": "🚫",
+   "es": "No se puede pasar sin autorización.",
+   "ar": "لا يمكن المرور بدون إذن.",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 2,
+   "emoji": "🎫",
+   "es": "Lleve la tarjeta de visitante a la vista.",
+   "ar": "ضع بطاقة الزائر في مكان ظاهر.",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 2,
+   "emoji": "⏰",
+   "es": "Haz una ronda cada dos horas.",
+   "ar": "قم بجولة كل ساعتين.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔒",
+   "es": "Comprueba que todas las puertas estén cerradas.",
+   "ar": "تأكّد أن جميع الأبواب مغلقة.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 2,
+   "emoji": "📹",
+   "es": "Vigila las cámaras del aparcamiento.",
+   "ar": "راقب كاميرات موقف السيارات.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 2,
+   "emoji": "👀",
+   "es": "Hay una persona sospechosa en la entrada.",
+   "ar": "يوجد شخص مشبوه عند المدخل.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🔦",
+   "es": "Se ha ido la luz en el sótano.",
+   "ar": "انقطع الضوء في الطابق السفلي.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 2,
+   "emoji": "🚨",
+   "es": "Ha saltado la alarma.",
+   "ar": "انطلق الإنذار.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "📞",
+   "es": "Llama al 112.",
+   "ar": "اتصل بالرقم 112.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "🏃",
+   "es": "Salgan por la salida de emergencia.",
+   "ar": "اخرجوا من مخرج الطوارئ.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "💨",
+   "es": "Hay humo en la segunda planta.",
+   "ar": "يوجد دخان في الطابق الثاني.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 2,
+   "emoji": "📻",
+   "es": "Te recibo, cambio.",
+   "ar": "أسمعك، حوِّل.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 2,
+   "emoji": "🗣️",
+   "es": "Repite, no te oigo bien.",
+   "ar": "أعد، لا أسمعك جيداً.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 2,
+   "emoji": "📝",
+   "es": "Anota la hora en el libro.",
+   "ar": "سجّل الساعة في الدفتر.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 2,
+   "emoji": "🔑",
+   "es": "Entrega las llaves al compañero del turno siguiente.",
+   "ar": "سلّم المفاتيح لزميل النوبة التالية.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 3,
+   "emoji": "📝",
+   "es": "Redacta el parte de incidencias al finalizar el servicio.",
+   "ar": "اكتب تقرير الحوادث عند نهاية الخدمة.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 3,
+   "emoji": "🪪",
+   "es": "El vigilante debe llevar siempre consigo la tarjeta de identidad profesional.",
+   "ar": "يجب على الحارس أن يحمل دائماً بطاقة الهوية المهنية.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 3,
+   "emoji": "🚓",
+   "es": "Ante un delito, avise inmediatamente a las Fuerzas y Cuerpos de Seguridad.",
+   "ar": "عند وقوع جريمة، أبلغ فوراً قوات وأجهزة الأمن.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 3,
+   "emoji": "🧳",
+   "es": "Por motivos de seguridad, debe pasar sus pertenencias por el escáner.",
+   "ar": "لأسباب أمنية، يجب تمرير أغراضك عبر جهاز الفحص.",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 3,
+   "emoji": "🚗",
+   "es": "Compruebe la matrícula del vehículo antes de levantar la barrera.",
+   "ar": "تحقّق من لوحة ترقيم السيارة قبل رفع الحاجز.",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 3,
+   "emoji": "🚷",
+   "es": "El acceso a esta zona está restringido al personal autorizado.",
+   "ar": "الدخول إلى هذه المنطقة مقتصر على العاملين المأذون لهم.",
+   "section": "الدخول والخروج"
+  },
+  {
+   "level": 3,
+   "emoji": "🧯",
+   "es": "Mantenga despejadas las vías de evacuación.",
+   "ar": "حافظ على ممرّات الإخلاء خالية.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "📢",
+   "es": "Se ruega a todo el personal que abandone el edificio con calma.",
+   "ar": "يُرجى من جميع العاملين مغادرة المبنى بهدوء.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "📍",
+   "es": "Diríjanse al punto de encuentro.",
+   "ar": "توجّهوا إلى نقطة التجمّع.",
+   "section": "الطوارئ"
+  },
+  {
+   "level": 3,
+   "emoji": "🧘",
+   "es": "Mantenga la calma y no responda a las provocaciones.",
+   "ar": "حافظ على هدوئك ولا تردّ على الاستفزازات.",
+   "section": "المراقبة"
+  },
+  {
+   "level": 3,
+   "emoji": "🔐",
+   "es": "Las imágenes de las cámaras son confidenciales.",
+   "ar": "صور الكاميرات سرّية.",
+   "section": "التقارير والتواصل"
+  },
+  {
+   "level": 3,
+   "emoji": "📞",
+   "es": "Informe al jefe de equipo de cualquier anomalía.",
+   "ar": "أبلغ رئيس الفريق بأي خلل.",
+   "section": "التقارير والتواصل"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «la linterna»?",
+   "options": [
+    "المفتاح",
+    "المصباح اليدوي",
+    "الحاجز"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la linterna»؟",
+   "ar_exp": "«la linterna» هي المصباح اليدوي الذي يُستعمل في الجولات الليلية."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el extintor»?",
+   "options": [
+    "طفّاية الحريق",
+    "جهاز الإنذار",
+    "سيارة الإسعاف"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «el extintor»؟",
+   "ar_exp": "«el extintor» هو طفّاية الحريق."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la ronda»?",
+   "options": [
+    "نوبة الليل",
+    "الزيّ الرسمي",
+    "الجولة التفقّدية"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «la ronda»؟",
+   "ar_exp": "«la ronda» هي الجولة التي يقوم بها الحارس لتفقّد المكان."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la salida de emergencia»?",
+   "options": [
+    "المدخل الرئيسي",
+    "مخرج الطوارئ",
+    "موقف السيارات"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «la salida de emergencia»؟",
+   "ar_exp": "«la salida de emergencia» هو مخرج الطوارئ."
+  },
+  {
+   "level": 2,
+   "q": "Llega un visitante. ¿Qué le dices primero?",
+   "options": [
+    "¿Me enseña su identificación, por favor?",
+    "Ha saltado la alarma.",
+    "Te recibo, cambio."
+   ],
+   "answer": 0,
+   "ar_q": "يصل زائر. ماذا تقول له أولاً؟",
+   "ar_exp": "تطلب منه أولاً أن يريك هويّته."
+  },
+  {
+   "level": 2,
+   "q": "Hay una emergencia médica. ¿A qué número llamas en España?",
+   "options": [
+    "Al 091.",
+    "Al 010.",
+    "Al 112."
+   ],
+   "answer": 2,
+   "ar_q": "توجد حالة طوارئ طبية. بأي رقم تتصل في إسبانيا؟",
+   "ar_exp": "112 هو رقم الطوارئ العام في إسبانيا وفي الاتحاد الأوروبي."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «Ha saltado la alarma»?",
+   "options": [
+    "انطلق الإنذار",
+    "تعطّل الإنذار",
+    "أُطفئ الإنذار"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «Ha saltado la alarma»؟",
+   "ar_exp": "«saltar la alarma» يعني أن الإنذار انطلق ورنّ."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué es «el parte de incidencias»?",
+   "options": [
+    "جدول النوبات",
+    "تقرير مكتوب بما حدث خلال الخدمة",
+    "بطاقة الزائر"
+   ],
+   "answer": 1,
+   "ar_q": "ما هو «el parte de incidencias»؟",
+   "ar_exp": "«el parte de incidencias» تقرير يكتبه الحارس بما وقع أثناء خدمته."
+  },
+  {
+   "level": 3,
+   "q": "Hay un incendio. ¿Qué deben hacer las personas?",
+   "options": [
+    "Subir a la azotea con el ascensor.",
+    "Quedarse en su puesto.",
+    "Salir con calma e ir al punto de encuentro."
+   ],
+   "answer": 2,
+   "ar_q": "يوجد حريق. ماذا يجب على الناس أن يفعلوا؟",
+   "ar_exp": "في الحريق يغادر الجميع بهدوء ويتوجّهون إلى نقطة التجمّع."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «acceso restringido al personal autorizado»?",
+   "options": [
+    "الدخول مسموح فقط للعاملين المأذون لهم",
+    "الدخول مجاني للجميع",
+    "الدخول مغلق يوم الأحد"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «acceso restringido al personal autorizado»؟",
+   "ar_exp": "يعني أن الدخول مقتصر على العاملين الذين لديهم إذن."
+  }
+ ]
+}

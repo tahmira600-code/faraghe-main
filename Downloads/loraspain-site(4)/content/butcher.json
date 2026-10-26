@@ -1,0 +1,477 @@
+{
+ "topic_id": "butcher",
+ "cards": [
+  {
+   "level": 1,
+   "emoji": "🔪",
+   "es": "el cuchillo",
+   "ar": "السكين",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪚",
+   "es": "la sierra",
+   "ar": "المنشار",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🪵",
+   "es": "la tabla de cortar",
+   "ar": "لوح التقطيع",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "⚖️",
+   "es": "la báscula",
+   "ar": "الميزان",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🧊",
+   "es": "la cámara frigorífica",
+   "ar": "غرفة التبريد",
+   "section": "الأدوات"
+  },
+  {
+   "level": 1,
+   "emoji": "🥩",
+   "es": "la carne",
+   "ar": "اللحم",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🐄",
+   "es": "la ternera",
+   "ar": "لحم العجل",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🐑",
+   "es": "el cordero",
+   "ar": "لحم الخروف",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🐔",
+   "es": "el pollo",
+   "ar": "الدجاج",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🍗",
+   "es": "el muslo",
+   "ar": "الفخذ",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🌭",
+   "es": "la salchicha",
+   "ar": "النقانق",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🍖",
+   "es": "la chuleta",
+   "ar": "شريحة اللحم بالعظم",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🦴",
+   "es": "el hueso",
+   "ar": "العظم",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🍔",
+   "es": "la hamburguesa",
+   "ar": "البرغر (قرص اللحم المفروم)",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🐖",
+   "es": "el cerdo",
+   "ar": "لحم الخنزير",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 1,
+   "emoji": "🧤",
+   "es": "los guantes",
+   "ar": "القفازات",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🥼",
+   "es": "la bata",
+   "ar": "المعطف الأبيض للعمل",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🧼",
+   "es": "el jabón",
+   "ar": "الصابون",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 1,
+   "emoji": "🔢",
+   "es": "el turno",
+   "ar": "الدور",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 1,
+   "emoji": "💶",
+   "es": "el precio",
+   "ar": "السعر",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🙋",
+   "es": "¿Qué le pongo?",
+   "ar": "ماذا أقدّم لك؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "⚖️",
+   "es": "¿Cuánto quiere?",
+   "ar": "كم تريد؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🥩",
+   "es": "Medio kilo de carne picada, por favor.",
+   "ar": "نصف كيلو من اللحم المفروم من فضلك.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🔪",
+   "es": "¿Se lo corto en filetes?",
+   "ar": "هل أقطعه لك شرائح؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🛒",
+   "es": "¿Algo más?",
+   "ar": "هل تريد شيئاً آخر؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "💶",
+   "es": "Son doce euros con cincuenta.",
+   "ar": "المبلغ اثنا عشر يورو وخمسون سنتاً.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "📄",
+   "es": "Envuelve la carne en papel.",
+   "ar": "لفّ اللحم في الورق.",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 2,
+   "emoji": "🔪",
+   "es": "Hay que afilar los cuchillos.",
+   "ar": "يجب سنّ السكاكين.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧽",
+   "es": "Limpia la máquina picadora.",
+   "ar": "نظّف آلة فرم اللحم.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🧊",
+   "es": "Pon la carne en la cámara.",
+   "ar": "ضع اللحم في غرفة التبريد.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 2,
+   "emoji": "🥩",
+   "es": "Quita la grasa del filete.",
+   "ar": "أزل الدهن من الشريحة.",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 2,
+   "emoji": "🍗",
+   "es": "Deshuesa el muslo de pollo.",
+   "ar": "انزع العظم من فخذ الدجاج.",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 2,
+   "emoji": "🐑",
+   "es": "Esta carne es de cordero lechal.",
+   "ar": "هذا لحم خروف رضيع.",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 2,
+   "emoji": "🐔",
+   "es": "Corta el pollo en cuartos.",
+   "ar": "قطّع الدجاج إلى أرباع.",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 2,
+   "emoji": "🧼",
+   "es": "Lávate las manos antes de empezar.",
+   "ar": "اغسل يديك قبل أن تبدأ.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🧤",
+   "es": "Ponte los guantes de malla.",
+   "ar": "البس قفازات الشبك المعدني.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "📅",
+   "es": "La carne picada se vende en el día.",
+   "ar": "اللحم المفروم يُباع في اليوم نفسه.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 2,
+   "emoji": "🍞",
+   "es": "¿Quiere los filetes finos para empanar?",
+   "ar": "هل تريد الشرائح رقيقة لتغليفها بالخبز المطحون؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "❄️",
+   "es": "Mantén la cadena de frío en todo momento.",
+   "ar": "حافظ على سلسلة التبريد في كل وقت.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🌡️",
+   "es": "Anota la temperatura de la cámara cada mañana.",
+   "ar": "سجّل درجة حرارة غرفة التبريد كل صباح.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "📜",
+   "es": "La empresa te dará la formación de manipulador de alimentos.",
+   "ar": "ستقدّم لك الشركة تكوين متداول الأغذية.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Etiqueta cada bandeja con la fecha de envasado.",
+   "ar": "ضع على كل صينية ملصقاً بتاريخ التعبئة.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "⚠️",
+   "es": "No mezcles la carne cruda con los productos cocinados.",
+   "ar": "لا تخلط اللحم النيء مع المنتجات المطبوخة.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🪵",
+   "es": "Usa una tabla distinta para el pollo y otra para la carne roja.",
+   "ar": "استعمل لوحاً مختلفاً للدجاج وآخر للحم الأحمر.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🧽",
+   "es": "Desinfecta la picadora al terminar la jornada.",
+   "ar": "عقّم آلة الفرم عند نهاية يوم العمل.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🗑️",
+   "es": "Retira del mostrador cualquier producto caducado.",
+   "ar": "أزل من الواجهة أي منتج منتهي الصلاحية.",
+   "section": "النظافة والسلامة"
+  },
+  {
+   "level": 3,
+   "emoji": "🍳",
+   "es": "¿Se lo preparo para guisar o para la plancha?",
+   "ar": "هل أحضّره لك للطبخ أم للشواء على الصفيحة؟",
+   "section": "مع الزبون"
+  },
+  {
+   "level": 3,
+   "emoji": "🍲",
+   "es": "Le aconsejo la falda de ternera para el estofado.",
+   "ar": "أنصحك بلحم بطن العجل لليخنة.",
+   "section": "أنواع اللحوم"
+  },
+  {
+   "level": 3,
+   "emoji": "🔪",
+   "es": "Las piezas grandes se despiezan en la sala de despiece.",
+   "ar": "تُقطَّع القطع الكبيرة في قاعة التقطيع.",
+   "section": "الأدوات"
+  },
+  {
+   "level": 3,
+   "emoji": "🏷️",
+   "es": "Hoy tenemos el solomillo de ternera en oferta.",
+   "ar": "لدينا اليوم فيليه العجل بسعر مخفّض.",
+   "section": "مع الزبون"
+  }
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "q": "¿Qué significa «el cordero»?",
+   "options": [
+    "الدجاج",
+    "لحم الخروف",
+    "لحم العجل"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «el cordero»؟",
+   "ar_exp": "«el cordero» هو لحم الخروف."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la báscula»?",
+   "options": [
+    "الميزان",
+    "السكين",
+    "المنشار"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la báscula»؟",
+   "ar_exp": "«la báscula» هي الميزان الذي نزن به اللحم."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «el hueso»?",
+   "options": [
+    "الدهن",
+    "الجلد",
+    "العظم"
+   ],
+   "answer": 2,
+   "ar_q": "ما معنى «el hueso»؟",
+   "ar_exp": "«el hueso» هو العظم."
+  },
+  {
+   "level": 1,
+   "q": "¿Qué significa «la cámara frigorífica»?",
+   "options": [
+    "غرفة التبريد",
+    "آلة الفرم",
+    "الواجهة"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «la cámara frigorífica»؟",
+   "ar_exp": "«la cámara frigorífica» هي غرفة التبريد التي يُحفظ فيها اللحم."
+  },
+  {
+   "level": 2,
+   "q": "Un cliente quiere carne para hamburguesas. ¿Qué pide?",
+   "options": [
+    "Carne picada.",
+    "Un hueso.",
+    "Una salchicha."
+   ],
+   "answer": 0,
+   "ar_q": "زبون يريد لحماً لصنع البرغر. ماذا يطلب؟",
+   "ar_exp": "البرغر يُصنع من اللحم المفروم «carne picada»."
+  },
+  {
+   "level": 2,
+   "q": "¿Qué significa «¿Qué le pongo?»?",
+   "options": [
+    "كم الثمن؟",
+    "ماذا أقدّم لك؟",
+    "هل تريد كيساً؟"
+   ],
+   "answer": 1,
+   "ar_q": "ما معنى «¿Qué le pongo?»؟",
+   "ar_exp": "يقول الجزار «¿Qué le pongo?» ليسأل الزبون ماذا يريد."
+  },
+  {
+   "level": 2,
+   "q": "Tu jefe dice: «Deshuesa el muslo». ¿Qué haces?",
+   "options": [
+    "أغسل الفخذ.",
+    "أزن الفخذ.",
+    "أنزع العظم من الفخذ."
+   ],
+   "answer": 2,
+   "ar_q": "يقول لك رئيسك: «Deshuesa el muslo». ماذا تفعل؟",
+   "ar_exp": "«deshuesar» يعني نزع العظم."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué significa «mantener la cadena de frío»?",
+   "options": [
+    "إبقاء المنتج مبرّداً دائماً دون انقطاع",
+    "تشغيل الفرن",
+    "إطفاء غرفة التبريد في الليل"
+   ],
+   "answer": 0,
+   "ar_q": "ما معنى «mantener la cadena de frío»؟",
+   "ar_exp": "سلسلة التبريد تعني أن يبقى اللحم بارداً في كل المراحل دون انقطاع."
+  },
+  {
+   "level": 3,
+   "q": "¿Por qué se usa una tabla distinta para el pollo?",
+   "options": [
+    "لأنها أرخص",
+    "لتجنّب انتقال الجراثيم إلى أطعمة أخرى",
+    "لأن الدجاج أثقل"
+   ],
+   "answer": 1,
+   "ar_q": "لماذا نستعمل لوحاً مختلفاً للدجاج؟",
+   "ar_exp": "استعمال ألواح منفصلة يمنع انتقال الجراثيم بين الأطعمة."
+  },
+  {
+   "level": 3,
+   "q": "¿Qué haces con un producto caducado en el mostrador?",
+   "options": [
+    "أبيعه بسعر أقل.",
+    "أتركه في مكانه.",
+    "أزيله من الواجهة."
+   ],
+   "answer": 2,
+   "ar_q": "ماذا تفعل بمنتج منتهي الصلاحية في الواجهة؟",
+   "ar_exp": "المنتج منتهي الصلاحية لا يُباع ويجب إزالته."
+  }
+ ]
+}
